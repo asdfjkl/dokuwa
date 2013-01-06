@@ -1,11 +1,9 @@
-(aktives) Wahlrecht{n}/選挙権[せんきょけん]/
-(etwa) Abiturient{m}/バカロレア[ばかろれあ]/
-(gerichtliche) Vorladung{f}/出頭命令[しゅっとうめいれい]/
-(künstliche) Besamung{f}/媒精[ばいせい]/
-(mit den Augen) blinzeln{vi}/ぱちくりする[ぱちくりする]/
-(politischer) Flüchtling{m}/亡命者[ぼうめいしゃ]/
-(spinale) Kinderlähmung{f}/脊髄灰白質炎[せきずいかいはくしつえん]/
-?/クエスチョンマーク[くえすちょんまーく]/
+Abiturient{m}/大学入学資格受験者[だいがくにゅうがくしかくじゅけんしゃ]/
+Vorladung{f}/{jur.} 出頭命令[しゅっとうめいれい]/
+Besamung{f}/künstliche ~ 人工授精[じんこうじゅせい]/
+blinzeln{vi}/瞬きする[まばたきする]/
+Flüchtling{m}/難民[なんみん]/
+Kinderlähmung{f}/{med.} 小児麻痺[しょうにまひ]/
 a posteriori{adv}/後天的[こうてんてき]/
 Aalfang{m}/うなぎ取り[うなぎとり]/
 aalglatt{adj}/つるつるした[つるつるした]/
@@ -14,16 +12,16 @@ Aar{m}/鷲[わし]/
 Aas{n}/死肉[しにく]/
 Aasfliege{f}/ニクバエ[にくばえ]/
 Aasfresser{m}/腐肉を食べる動物[ふにくをたべるどうぶつ]/
-ab{prp; +Dativ}{adv}/…から離れて[…からはなれて]/
-ab und zu/時には[ときには]/時として[ときとして]/往々[おうおう]/ちょこちょこ[ちょこちょこ]/ちょいちょい[ちょいちょい]/ちょくちょく[ちょくちょく]/
+ab{prp; +Dativ}{adv}/(zeitlich) ab heute 今日から/(räumlich) ab Tokyo 東京から/
+ab und zu/時々[ときどき]/
 Abacá{f}/アバカ[あばか]/
 Abakus{m}/算盤[そろばん]/
 Abart{f}/異種[いしゅ]/
 Abartigkeit{f}/狂乱[きょうらん]/
 abbalgen{vt}/剥がす[はがす]/
-Abbau{m}/整理[せいり]/撤収[てっしゅう]/解体[かいたい]/撤去[てっきょ]/
+Abbau{m}/(Demontierung) 解体[かいたい]/(Bergbau: Förderung) 採掘[さいくつ]/
 Abbaubarkeit{f}/分解性[ぶんかいせい]/
-abbauen{vt}/整理する[せいりする]/
+abbauen{vt}/(Bergbau: Förderung) 採掘する[さいくつする]/(köperlich ~) 体力が衰える[たいりょくがおとろえる]/(demontieren) 解体する[かいたいする]/
 Abbauprodukt{n}/分解産物[ぶんかいさんぶつ]/
 abbeißen{vt}/食いちぎる[くいちぎる]/
 abberufen{vt}/召還する[しょうかんする]/
@@ -33,10 +31,10 @@ Abbiegespur{f}/屈折車線[くっせつしゃせん]/
 Abbild{n}/似顔絵[にがおえ]/
 abbilden{vt}/像を結ぶ[ぞうをむすぶ]/
 Abbildtheorie{f}/模写説[もしゃせつ]/
-Abbildung{f}/絵[え]/図解[ずかい]/像[ぞう]/イラスト[いらすと]/挿絵[さしえ]/
+Abbildung{f}/図[ず]/
 Abbindebeschleuniger{m}/凝結促進剤[ぎょうけつそくしんざい]/
 Abbindeverzögerer{m}/遅延剤[ちえんざい]/
-Abbitte{f}/申し訳[もうしわけ]/詫び[わび]/言い訳[いいわけ]/謝罪[しゃざい]/お詫び[おわび]/
+Abbitte{f}/謝罪[しゃざい]/
 abblenden{vt}/溶暗になる[ようあんになる]/
 Abblendlicht{n}/パッシング[ぱっしんぐ]/
 abblitzen{vi}/けんつくを食う[けんつくをくう]/
@@ -45,11 +43,11 @@ Abblättern{n}/剥離[はくり]/
 Abblätterung{f}/スケーリング[すけーりんぐ]/
 Abbrand{m}/鋳減り[いべり]/
 Abbrechen{n}/尻切れ[しりきれ]/
-abbrechen{vt}/切る[きる]/抜ける[ぬける]/斬る[きる]/切れる[きれる]/キレる[きれる]/崩す[くずす]/欠ける[かける]/折る[おる]/欠く[かく]/
+abbrechen{vt}/折る[おる]/(Umgang mit jn ~) 絶交する[ぜっこうする]/
 abbremsen{vt}/スピードダウンする[すぴーどだうんする]/
 Abbrennen{n}/焼失[しょうしつ]/
 abbringen{vt}/停める[とめる]/
-Abbruch{m}/中断[ちゅうだん]/撤去[てっきょ]/打ち切り[うちきり]/
+Abbruch{m}/(Gebäude) 取り壊し[とりこわし]/(Aufhören) [中止]ちゅうし/
 abbürsten{vt}/打ち払う[うちはらう]/
 Abc-Schütze{m}/初学者[しょがくしゃ]/
 ABC-Waffen{pl}/CBR兵器[しーびーあーるへいき]/
@@ -64,10 +62,10 @@ Abdrift{m}/移動率[いどうりつ]/
 abdrücken{vt}/発射する[はっしゃする]/
 Abduktion{f}/アブダクション[あぶだくしょん]/
 abebben{vi}/干上がる[ひあがる]/
-Abend{m}/夜[よる]/夕刻[ゆうこく]/宵[よい]/夕暮れ[ゆうぐれ]/晩[ばん]/夕景[ゆうけい]/夕べ[ゆうべ]/夕[ゆう]/夕日[ゆうひ]/夕陽[ゆうひ]/夕方[ゆうがた]/
+Abend{m}/夜[よる]/
 Abendanzug{m}/礼服[れいふく]/
-Abenddämmerung{f}/夕暮れ[ゆうぐれ]/黄昏[こうこん]/夕景[ゆうけい]/暮れ[くれ]/
-Abendessen{n}/夕食[ゆうしょく]/夜食[やしょく]/晩飯[ばんめし]/夕飯[ゆうめし]/晩ご飯[ばんごはん]/晩御飯[ばんごはん]/夕ご飯[ゆうごはん]/
+Abenddämmerung{f}/夕暮れ[ゆうぐれ]/
+Abendessen{n}/夕食[ゆうしょく]/
 Abendgebet{n}/夕べの祈り[ゆうべのいのり]/
 Abendgesellschaft{f}/晩餐会[ばんさんかい]/
 Abendglocke{f}/晩鐘[ばんしょう]/
@@ -92,7 +90,7 @@ Abendzeit{f}/暮れ時[くれじ]/
 Abendzeitung{f}/夕刊[ゆうかん]/
 Abenteuer{n}/冒険[ぼうけん]/戯れ[たわむれ]/アドベンチャー[あどべんちゃー]/
 Abenteuergeschichte{f}/冒険談[ぼうけんだん]/
-abenteuerlich{adv}{adj}/さっき[さっき]/危うい[あやうい]/危ない[あぶない]/
+abenteuerlich{adv}{adj}/冒険的な[ぼうけんてきな]/
 Abenteuerlichkeit{f}/伝奇[でんき]/
 Abenteuerlust{f}/冒険主義[ぼうけんしゅぎ]/
 Abenteuerroman{m}/冒険小説[ぼうけんしょうせつ]/
@@ -105,14 +103,14 @@ abergläubisch{adj}{adv}/迷信的な[めいしんてきな]/
 Aberkennung{f}/剥奪[はくだつ]/
 aberwitzig{adj}/差し出がましい[さしでがましい]/
 abessinisch{adj}/アビシニアの[あびしにあの]/
-abfahren{vi}{vt}/行く[いく]/いく[いく]/立つ[たつ]/出かける[でかける]/出掛ける[でかける]/
+abfahren{vi}{vt}/出発する[しゅっぱつする]/
 Abfahrt{f}/出発[しゅっぱつ]/発進[はっしん]/発車[はっしゃ]/
 Abfahrtsbahnhof{m}/始発駅[しはつえき]/
 Abfahrtsgleis{n}/発車ホーム[はっしゃほーむ]/
 Abfahrtslauf{m}/滑降競技[かっこうきょうぎ]/
 Abfahrtsort{m}/始発[しはつ]/
 Abfahrtszeit{f}/出発時間[しゅっぱつじかん]/
-Abfall{m}/ゴミ[ごみ]/ウエスト[うえすと]/脱退[だったい]/廃棄物[はいきぶつ]/塵[ごみ]/落ち込み[おちこみ]/脱落[だつらく]/
+Abfall{m}/ゴミ[ごみ]/
 Abfallbehälter{m}/屑入れ[くずいれ]/
 Abfallbeseitigung{f}/ゴミの処理[ごみのしょり]/
 Abfalleimer{m}/ごみ箱[ごみばこ]/
@@ -138,7 +136,7 @@ abflauen{vi}/冷める[さめる]/
 Abflauen{n}/沈静化[ちんせいか]/
 abfliegen{vi}/飛び出す[とびだす]/飛び立つ[とびたつ]/
 abfließen{vi}/流出する[りゅうしゅつする]/
-Abflug{m}/出発[しゅっぱつ]/発進[はっしん]/離陸[りりく]/出航[しゅっこう]/
+Abflug{m}/出発[しゅっぱつ]/
 Abflughalle{f}/搭乗待合室[とうじょうまちあいしつ]/
 Abfluss{m}/放水[ほうすい]/
 Abflussgraben{m}/溝[みぞ]/
@@ -148,24 +146,24 @@ Abflussloch{n}/水抜き[みずぬき]/
 Abflussrinne{f}/ガッター[がったー]/
 Abflussrohr{m}/暗渠[あんきょ]/
 Abfolge{f}/献立[こんだて]/一連[いちれん]/
-Abfrage{f}/問い合わせ[といあわせ]/問合せ[といあわせ]/
+abfragen{vt}/(jn etwas ~) 試問する/
 abführen{vt}/引っ張る[ひっぱる]/
 Abführmittel{n}/下剤[げざい]/
 Abführung{f}/連行[れんこう]/
-Abgabe{f}/料金[りょうきん]/課税[かぜい]/放出[ほうしゅつ]/割愛[かつあい]/
+Abgabe{f}/租税[そぜい]/
 Abgaben{pl}/貢物[みつぎもの]/
 Abgabenordnung{f}/国税通則法[こくぜいつうそくほう]/
 Abgang{m}/卒業[そつぎょう]/退場[たいじょう]/
 Abgangszeugnis{n}/卒業証書[そつぎょうしょうしょ]/
 Abgas{n}/排気[はいき]/
 Abgasrückführung{f}/EGR[いーじーあーる]/
-abgeben{vt}/出す[だす]/渡す[わたす]/発する[はっする]/届ける[とどける]/
+abgeben{vt}/出す[だす]/(jn von etwas ~) 分け与える[わけあたえる]/
 abgehalten werden/催される[もよおされる]/
 abgehetzt{adj}/へとへとな[へとへとな]/
 Abgelegenheit{f}/遠隔[えんかく]/
 abgeleitet{adv}{adj}/二次的[にじてき]/
 abgenutzt{adj}/古い[ふるい]/
-Abgeordnete{m}{f}/女性代議士[じょせいだいぎし]/
+Abgeordnete{m}{f}/代議士[だいぎし]/
 Abgeordnetenhaus{n}/議院[ぎいん]/
 Abgeordnetenkammer{f}/下院[かいん]/
 abgerissen{adj}/しどけない[しどけない]/
@@ -190,21 +188,22 @@ Abgrund{m}/崖[がけ]/断崖[だんがい]/淵[ふち]/
 Abguss{m}/模型[もけい]/
 Abgötterei{f}/偶像崇拝[ぐうぞうすうはい]/
 abgöttisch{adj}{adv}/偶像教徒的[ぐうぞうきょうとてき]/
-abhalten{vt}/行う[おこなう]/止める[とめる]/行なう[おこなう]/開く[ひらく]/防ぐ[ふせぐ]/
+abhalten{vt}/(eine Veranstaltung ~)行う[おこなう]/(jm von etwas ~) 妨げる[さまたげる]/
 Abhaltung{f}/牽制[けんせい]/
 abhanden kommen{vi}/失う[うしなう]/無くなる[なくなる]/
-Abhandlung{f}/文章[ぶんしょう]/論[ろん]/論文[ろんぶん]/ペーパー[ぺーぱー]/
-Abhang{m}/坂[さか]/傾斜[けいしゃ]/斜面[しゃめん]/崖[がけ]/勾配[こうばい]/下り[くだり]/
-abhauen{vi}/行く[いく]/いく[いく]/
+Abhandlung{f}/文章[ぶんしょう]/
+Abhang{m}/斜面[しゃめん]/
+abhauen{vi}/{ugs.} 姿を消す[すがたをけす]/
+abhauen{vt}/(etwas ~) 切り落とす[きりおとす]/
 Abheben{n}/離陸[りりく]/
-abheben{vi}{vt}/取り付ける[とりつける]/飛び立つ[とびたつ]/下ろす[おろす]/
-Abhebung{f}/取り付け[とりつけ]/取付[とりつけ]/
-abholen{vt}/迎える[むかえる]/迎えに行く[むかえにいく]/
-Abholen{n}/迎え[むかえ]/出迎え[でむかえ]/
+abheben{vt}/(Geld ~) 引き出す[ひきだす]取り付ける[とりつける]/
+abheben{vi}/(Flugzeug) 上昇する[じょうしょうする]/
+Abhebung{f}/{fin.} 引き出し[引き出し]/
+abholen{vt}/(jn ~) 迎えに行く[むかえにいく]/
 Abholtag{m}/引取り日[ひきとりび]/
 Abhorchen{n}/聴診[ちょうしん]/
 abhängig{adj}{adv}/依存した[いそんした]/
-Abhängigkeit{f}/依頼[いらい]/依存[いぞん]/頼り[たより]/
+Abhängigkeit{f}/依存[いぞん]/
 abhören{vt}/傍受する[ぼうじゅする]/
 Abhören{n}/盗聴[とうちょう]/
 Abhörgerät{n}/盗聴器[とうちょうき]/
@@ -221,14 +220,15 @@ abklingen{vi}/治まる[おさまる]/
 abklopfen{vt}/打診する[だしんする]/
 abknicken{vt}/手折る[たおる]/
 abkommen{vi}/離れる[はなれる]/
-Abkommen{n}/規約[きやく]/協定[きょうてい]/条約[じょうやく]/契約[けいやく]/
+Abkommen{n}/協定[きょうてい]/
 abkratzen{vt}/剥がす[はがす]/
-Abkömmling{m}/子供[こども]/子ども[こども]/流れ[ながれ]/
+Abkömmling{m}/子孫[しそん]/
 Abkömmlinge{pl}/子孫[しそん]/
-abkühlen{vi}/冷やす[ひやす]/温める[ぬるめる]/冷める[さめる]/冷める[さめる]/
+abkühlen{vi}/冷える[ひえる]/
+abkühlen{vt}/(etwas ~) 冷やす[ひやす]/
 Abkühlung{f}/冷却[れいきゃく]/
 abkürzen{vt}/減らす[へらす]/
-Abkürzung{f}/略[りゃく]/王道[おうどう]/近道[ちかみち]/近道[ちかみち]/省略[しょうりゃく]/略称[りゃくしょう]/
+Abkürzung{f}/(kürzerer Weg) 近道[ちかみち]/(Akronym) 略称[りゃくしょう]/
 Abkürzungszeichen{n}/略記法[りゃっきほう]/
 Ablage{f}/ファイル[ふぁいる]/
 Ablagerung{f}/沈着[ちんちゃく]/
@@ -236,11 +236,11 @@ Ablass{m}/免罪[めんざい]/
 Ablassbrief{m}/免罪符[めんざいふ]/
 ablassen{vt}/置く[おく]/
 Ablativ{m}/奪格[だっかく]/
-Ablauf{m}/流れ[ながれ]/明け[あけ]/手続き[てつづき]/手続[てつづき]/経過[けいか]/経路[けいろ]/
+Ablauf{m}/(Planung) 経過[けいか]/(Wasser~) 流出[りゅうしゅつ]/
 Ablaufberg{m}/ハンプ[はんぷ]/
 Ablaufdiagramm{n}/フローチャート[ふろーちゃーと]/
 Ablaufen{n}/満了[まんりょう]/
-ablaufen{vi}/切れる[きれる]/キレる[きれる]/
+ablaufen{vi}/(Frist) 期限切れる[きげんがきれる]/(Wasser) 流れ出る[ながれでる]/
 Ablaufplan{m}/メニュー[めにゅー]/
 Ablaut{m}/母音交替[ぼいんこうたい]/
 Ableben{n}/死去[しきょ]/逝去[せいきょ]/
@@ -248,16 +248,16 @@ ablegen{vi}/綴る[つづる]/脱ぐ[ぬぐ]/
 Ableger{m}/分かれ[わかれ]/
 ablehnen{vt}/断る[ことわる]/謝る[あやまる]/
 ablehnend{adj}/否定的[ひていてき]/
-Ablehnung{f}/否定[ひてい]/辞退[じたい]/御免[ごめん]/没[ぼつ]/一蹴[いっしゅう]/お断り[おことわり]/拒絶[きょぜつ]/却下[きゃっか]/否や[いなや]/不服[ふふく]/断り[ことわり]/拒否[きょひ]/否決[ひけつ]/
+Ablehnung{f}/断り[ことわり]/
 ableiten{vt}/推す[おす]/
-Ableitung{f}/誘導[ゆうどう]/推理[すいり]/派生[はせい]/派生[はせい]/
+Ableitung{f}/(Differential) 微分[びぶん]/(Schlussfolgerung) 推論[すいろん]/
 ablenken{vt}/慰める[なぐさめる]/
 Ablenkung{f}/転換[てんかん]/牽制[けんせい]/
 Ablenkungsmanöver{n}/陽動作戦[ようどうさくせん]/
 ablösen{vt}/入れ替わる[いれかわる]/
-Ablösung{f}/交代[こうたい]/入れ替わり[いれかわり]/交替[こうたい]/回し[まわし]/
+Ablösung{f}/交替[こうたい]/
 abmachen{vt}/外す[はずす]/
-Abmachung{f}/約束[やくそく]/協定[きょうてい]/条約[じょうやく]/契約[けいやく]/
+Abmachung{f}/約束[やくそく]/
 abmagern{vi}/痩せる[やせる]/
 Abmarsch{m}/出発[しゅっぱつ]/
 abmarschieren{vi}/出動する[しゅつどうする]/
@@ -265,21 +265,20 @@ Abmeldung{f}/欠席届け[けっせきとどけ]/
 abmessen{vt}/測る[はかる]/
 Abmessung{f}/寸法[すんぽう]/
 abmontieren{vt}/取り外す[とりはずす]/
-Abnahme{f}/減少[げんしょう]/減退[げんたい]/減り[へり]/
+Abnahme{f}/(Prüfung) 検査[けんさ]/(Rückgang) 減退[げんたい]/
 Abnahmeprüfung{f}/受入れ検査[うけいれけんさ]/
 abnehmbar/リムーバブル[りむーばぶる]/
 abnehmen{vi}/減る[へる]/外す[はずす]/取り込む[とりこむ]/
 Abnehmen{n}/減少[げんしょう]/取り外し[とりはずし]/
 abnehmend{adj}/逓減的[ていげんてき]/
 Abnehmer{m}/顧客[こきゃく]/
-Abneigung{f}/嫌い[きらい]/反感[はんかん]/嫌気[いやき]/嫌悪[けんお]/不本意[ふほんい]/機嫌[きげん]/嫌悪感[けんおかん]/
+Abneigung{f}/反感[はんかん]/
 abnorm{adv}/病的[びょうてき]/
-Abnormität{f}/異常[いじょう]/変態[へんたい]/変則[へんそく]/
+Abnormität{f}/異常性[いじょうせい]/
 abnutzen{vt}/使い古す[つかいふるす]/
 Abnutzung{f}/減り[へり]/消耗[しょうこう]/
 abnähen{vt}/縫い込む[ぬいこむ]/
-Abnäher{m}/上げ[あげ]/ダーツ[だーつ]/タック[たっく]/揚げ[あげ]/
-Abonnement{n}/予約[よやく]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/定期購読[ていきこうどく]/購読[こうどく]/
+Abonnement{n}/(Zeitschrift) 定期購読[ていきこうどく]/
 Abonnementspreis{m}/購読料[こうどくりょう]/
 Abonnent{m}/購読者[こうどくしゃ]/
 Abordnung{f}/出向[しゅっこう]/
@@ -293,7 +292,7 @@ Abraten{n}/諫言[かんげん]/
 abraten{vi}/いさめて思い止まらせる[いさめておもいとまらせる]/
 Abreaktion{f}/浄化作用[じょうかさよう]/
 abrechnen{vt}/仕切る[しきる]/
-Abrechnung{f}/解決[かいけつ]/会計[かいけい]/勘定[かんじょう]/清算[せいさん]/控除[こうじょ]/仕切り[しきり]/決済[けっさい]/精算[せいさん]/
+Abrechnung{f}/決算 [けっさん]/
 Abrechnungsperiode{f}/決算期[けっさんき]/
 Abrechnungstag{m}/決算日[けっさんび]/
 Abrechnungsverfahren{n}/手形交換[てがたこうかん]/
@@ -301,15 +300,16 @@ Abreiben{n}/消磨[しょうま]/
 abreiben{vt}/拭う[ぬぐう]/
 Abreibung{f}/フロッタージュ[ふろったーじゅ]/
 Abreicherung{f}/劣化[れっか]/
-Abreise{f}/出発[しゅっぱつ]/発足[ほっそく]/旅立ち[たびだち]/
+Abreise{f}/出発[しゅっぱつ]/旅立ち[たびだち]/
 Abreisetag{m}/出発日[しゅっぱつび]/
-abreißen{vi}/切れる[きれる]/キレる[きれる]/離す[はなす]/壊す[こわす]/
+abreißen{vt}/剥ぎ取る[はぎとる]/
+abreißen{vi}/(zerreißen) 千切れる[ちぎれる]/
 Abreißkalender{m}/日めくり[ひめくり]/
 abrichten{vt}/鍛える[きたえる]/
 Abrichter{m}/ドレッサー[どれっさー]/
 Abrichtung{f}/躾[しつけ]/
 Abrieb{m}/磨耗[まもう]/
-Abriss{m}/概要[がいよう]/要領[ようりょう]/輪郭[りんかく]/枠組み[わくぐみ]/
+Abriss{m}/(Gebäude)取り壊[しとりこわし]/(Übersicht) 概論[がいろん]/
 abrunden{vt}/切り捨てる[きりすてる]/
 abrutschen{vi}/滑り落ちる[すべりおちる]/
 Abräumen{n}/下げ[さげ]/
@@ -317,10 +317,10 @@ Abrüstung{f}/軍縮[ぐんしゅく]/
 Abrüstungskonferenz{f}/軍縮会議[ぐんしゅくかいぎ]/
 Absacken{n}/沈下[ちんか]/
 absacken{vi}/陥入する[かんにゅうする]/
-Absage{f}/拒否[きょひ]/辞退[じたい]/御免[ごめん]/一蹴[いっしゅう]/お断り[おことわり]/拒絶[きょぜつ]/断り[ことわり]/
+Absage{f}/断り[ことわり]/
 absagen{vt}/断る[ことわる]/
 absahnen/甘い汁を吸う[あまいしるをすう]/
-Absatz{m}/足[あし]/段落[だんらく]/販売[はんばい]/一節[いっせつ]/ヒール[ひーる]/項目[こうもく]/売却[ばいきゃく]/売れ行き[うれゆき]/
+Absatz{m}/(Ferse) 踵[かかと]/段落[だんらく]/
 Absatzfähigkeit{f}/販売能力[はんばいのうりょく]/
 Absatzförderung{f}/販売促進[はんばいそくしん]/
 Absatzgebiet{n}/販路[はんろ]/
@@ -331,7 +331,7 @@ Absatzweg{m}/販売ルート[はんばいるーと]/
 absatzweise{adv}/断続的な[だんぞくてきな]/
 Absaugung{f}/吸引ろ過[きゅういんろか]/
 abschaffen{vt}/無くす[なくす]/
-Abschaffung{f}/廃止[はいし]/廃棄[はいき]/撤廃[てっぱい]/
+Abschaffung{f}/廃止[はいし]/
 abschalten{vt}/消す[けす]/
 Abschaltrelais{n}/カットオフ継電器[かっとおふけいでんき]/
 Abschaltung{f}/停止[ていし]/遮断[しゃだん]/
@@ -341,39 +341,39 @@ Abschaum{m}/垢[あか]/
 abscheiden{vt}/遊離させる[ゆうりさせる]/
 Abscheider{m}/分離機[ぶんりき]/
 Abscheidung{f}/遊離[ゆうり]/
-Abscheu{m}{f}/嫌い[きらい]/嫌気[いやき]/嫌悪[けんお]/憎しみ[にくしみ]/憎悪[ぞうお]/
+Abscheu{f}/忌み嫌うこと[いみきらうこと]/
 abscheulich{adj}{adv}/忌まわしい[いまわしい]/
 Abscheulichkeit{f}/凶悪[きょうあく]/
 abschieben{vt}/送還する[そうかんする]/
 Abschiebung{f}/送還[そうかん]/
-Abschied{m}/暇[いとま]/送別[そうべつ]/お別れ[おわかれ]/お暇[おいとま]/名残り[なごり]/名残[なごり]/退任[たいにん]/別れ[わかれ]/決別[けつべつ]/辞職[じしょく]/
+Abschied{m}/別れ[わかれ]/
 Abschiedsbesuch{m}/暇乞い[いとまごい]/
 Abschiedsbrief{m}/お別れのあいさつの手紙[おわかれのあいさつのてがみ]/
 Abschiedsfeier{f}/送別会[そうべつかい]/壮行会[そうこうかい]/
 Abschiedsgeschenk{n}/餞別[せんべつ]/
 Abschiedsgruß{m}/別辞[べつじ]/
 Abschiedsrede{f}/告別の辞[こくべつのじ]/
-Abschiedsschmerz{m}/名残[なごり]/名残り[なごり]/
+Abschiedsschmerz{m}/名残り[なごり]/
 Abschiedstrunk{m}/別杯[べっぱい]/
 Abschiedsworte{pl}/送辞[そうじ]/
 abschirmen{vt}/覆う[おおう]/
-Abschirmung{f}/隔離[かくり]/シールド[しーるど]/
+Abschirmung{f}/隔離[かくり]/
 Abschlachten{n}/屠殺[とさつ]/
 Abschlag{m}/値引き[ねびき]/減額[げんがく]/
 abschlagen{vt}/弾く[はじく]/断る[ことわる]/
 Abschleifen{n}/消磨[しょうま]/
 Abschleppwagen{m}/レッカー車[れっかーしゃ]/
-abschließen{vt}/閉じる[とじる]/整える[ととのえる]/掛かる[かかる]/片付ける[かたづける]/終える[おえる]/
+abschließen{vt}/(vollenden) 終える[おえる]/(eine Tür ~) 鍵をかける[かぎをかかる]/
 abschließend{adv}/仕舞いの[しまいの]/
-Abschluss{m}/終了[しゅうりょう]/修了[しゅうりょう]/終[おわり]/段落[だんらく]/決着[けっちゃく]/完了[かんりょう]/末[すえ]/清算[せいさん]/決まり[きまり]/終結[しゅうけつ]/完[かん]/切り上げ[きりあげ]/成立[せいりつ]/詰め[つめ]/終わり[おわり]/終り[おわり]/仕舞い[しまい]/完結[かんけつ]/完成[かんせい]/終い[しまい]/
+Abschluss{m}/終了[しゅうりょう]/
 Abschlussarbeit{f}/卒業論文[そつぎょうろんぶん]/
 Abschlussfeier{f}/打ち上げ[うちあげ]/卒業式[そつぎょうしき]/
 Abschlussprüfung{f}/卒業試験[そつぎょうしけん]/
-Abschlusstermin{m}/締め切り[しめきり]/締切[しめきり]/〆切[しめきり]/
+Abschlusstermin{m}/(Frist) 締め切り[しめきり]/
 abschlämmen{vt}/水簸する[すいひする]/
-Abschneiden{n}/切断[せつだん]/切り取り[きりとり]/
-abschneiden/切る[きる]/斬る[きる]/離す[はなす]/切り取る[きりとる]/下ろす[おろす]/
-Abschnitt{m}/部分[ぶぶん]/章[しょう]/条[くだり]/段落[だんらく]/項[こう]/クーポン[くーぽん]/一節[いっせつ]/幕[まく]/件[くだり]/項目[こうもく]/時限[じげん]/区切り[くぎり]/
+Abschneiden{n}/切り取り[きりとり]/
+abschneiden{vt}/(etwas ~) 切り取る[きりとる]/(bei;in etwas gut;schlecht ~) 成功する[せいこうする];失敗する[しっぱいする]/
+Abschnitt{m}/(Buch) 段落[だんらく]/(zeitlich) 時限[じげん]/
 abschrauben{vt}/捩じ切る[ねじきる]/
 abschrecken{vt}/急冷する[きゅうれいする]/
 abschreckend{adj}{adv}/威嚇的[いかくてき]/
@@ -32461,7 +32461,7 @@ Wahllosigkeit{f}/無差別[むさべつ]/
 Wahlmann{m}/大統領選挙人[だいとうりょうせんきょにん]/
 Wahlmöglichkeit{f}/チョイス[ちょいす]/選択肢[せんたくし]/
 Wahlniederlage{f}/落選[らくせん]/
-Wahlrecht{n}/参政権[さんせいけん]/
+Wahlrecht{n}/aktives ~ 選挙権[せんきょけん]/passives ~ 被選挙権[ひせんきょけん]/{jur.}  選挙法[せんきょほう]/
 Wahlrede{f}/街頭演説[がいとうえんぜつ]/
 Wahlschalter{m}/セレクター[せれくたー]/
 Wahlspruch{m}/座右の銘[ざゆうのめい]/銘[めい]/
