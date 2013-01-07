@@ -569,17 +569,17 @@ Abzeichen{n}/記[しるし]/章[しょう]/エンブレム[えんぶれむ]/
 Abziehbild{n}/転写画[てんしゃかく]/
 Abziehen{n}/焼き付け[やきつけ]/
 abziehen{vt}/引く[ひく]/落とす[おとす]/
-Abzug{m}/(Kopie) 焼き増し[やきまし]/(Rückzug) 撤退[てったい]/(finanziell) 控除[こうじょ]/
-Abzugskanal{m}/溝渠[こうきょ]/
-Abzugsschach{n}/明き王手[あきおうて]/
+{m}/(Kopie) 焼き増し[やきまし]/(Rückzug) 撤退[てったい]/(finanziell) 控除[こうじょ]/
+skanal{m}/溝渠[こうきょ]/
+sschach{n}/明き王手[あきおうて]/
 Abzweig{m}/小道[こみち]/小径[こみち]/
 abzweigen/分かれる[わかれる]/
-Abzweigung{f}/横丁[よこちょう]/流用[りゅうよう]/分岐点[ぶんきてん]/分かれ[わかれ]/岐路[きろ]/分岐[ぶんき]/
+Abzweigung{f}/分岐点[ぶんきてん]/
 abändern{vt}/改正する[かいせいする]/
 Abänderung{f}/変更[へんこう]/
 Abänderungsantrag{m}/修正案[しゅうせいあん]/
 Acajoubaum{m}/カシュー[かしゅー]/
-Accessoire{n}/アクセサリー[あくせさりー]/アクセサリ[あくせさり]/
+Accessoire{n}/アクセサリー[あくせさりー]/
 Account{m}/アカウント[あかうんと]/
 Acerolakirsche{f}/アセローラ[あせろーら]/
 Acetylgruppe{f}/アセチル基[あせちるき]/
@@ -602,7 +602,7 @@ achteckig{adj}/八角の[はっかくの]/
 Achtel{n}/八分目[はちぶんめ]/
 Achtelmeile{f}/ファーロング[ふぁーろんぐ]/
 Achtelnote{f}/八分目[はちぶんめ]/
-Achterbahn{f}/コースター[こーすたー]/ジェットコースター[じぇっとこーすたー]/
+Achterbahn{f}/ジェットコースター[じぇっとこーすたー]/
 Achterdeck{m}/後甲板[こうかんぱん]/
 Achterpiek{f}/船尾倉[せんびぐら]/
 Achterschiff{n}/クォーター[くぉーたー]/
@@ -614,7 +614,7 @@ Achtlosigkeit{f}/不注意[ふちゅうい]/
 achtsam{adv}/大切に[たいせつに]/気をつけて[きをつけて]/
 Achtsamkeit{f}/目[め]/眼[め]/
 achttausend{num}/八千[はっせん]/
-Achtung{f}/注意[ちゅうい]/警戒[けいかい]/敬意[けいい]/尊敬[そんけい]/尊重[そんちょう]/
+Achtung{f}/注意[ちゅうい]/
 Achtung!/気をつけて[きをつけて]/
 achtzehn{num}/十八[じゅうはち]/
 achtzig{num}/八十[やそじ]/
@@ -633,20 +633,20 @@ Adamsapfel{m}/喉仏[のどぼとけ]/
 Adaptation{f}/適応[てきおう]/
 Adapter{m}/アダプター[あだぷたー]/
 adaptieren{vt}/貰う[もらう]/
-addieren{vt}/合わせる[あわせる]/加える[くわえる]/寄せる[よせる]/足す[たす]/
+addieren{vt}/加える[くわえる]/(eins und eins ~) 足す[たす]/
 Addierer{m}/加算器[かさんき]/
 Addition{f}/加算[かさん]/
 Addukt{n}/アダクト[あだくと]/
-Adel{m}/貴族[きぞく]/気品[きひん]/高貴[こうき]/
+Adel{m}/高貴[こうき]/
 Adelsstand{m}/貴族[きぞく]/
 Adelstitel{m}/爵位[しゃくい]/
 Adenitis{f}/せん炎[せんえん]/
 Adenokarzinom{n}/せんがん[せんがん]/
 Adenom{n}/せんしゅ[せんしゅ]/
 Adenosintriphosphat{n}/ATP[えーてぃーぴー]/
-Ader{f}{m}/血管[けっかん]/木目[きめ]/脈[みゃく]/脈絡[みゃくらく]/
+Ader{f}{m}/血管[けっかん]/
 Aderlass{m}/瀉血[しゃけつ]/
-Adhäsion{f}/癒着[ゆちゃく]/粘着[ねんちゃく]/接着[せっちゃく]/
+Adhäsion{f}/付着[ふちゃく]/;
 Adipinsäure{f}/アジピン酸[あじぴんさん]/
 Adjektiv{n}/形容詞[けいようし]/
 adjektivisch{adj}{adv}/形容詞的な[けいようしてきな]/
@@ -669,7 +669,7 @@ Adoptivfamilie{f}/養家[ようか]/
 Adoptivkind{n}/養子[ようし]/子分[こぶん]/
 Adressbuch{n}/アドレス帳[あどれすちょう]/
 Adressbus{m}/アドレスバス[あどれすばす]/
-Adresse{f}/住まい[すまい]/宛名[あてな]/アドレス[あどれす]/アドレス[あどれす]/アド[あど]/宛[あて]/住居[すまい]/居場所[いばしょ]/住所[じゅうしょ]/当て[あて]/宛て[あて]/
+Adresse{f}/住所[じゅうしょ]/
 Adressenänderung{f}/転居[てんきょ]/
 adressierbar{adj}/アドレッサブル[あどれっさぶる]/
 adressieren{vt}/宛てる[あてる]/
@@ -689,18 +689,18 @@ Aerobic{f}/エアロビクス[えあろびくす]/
 Aerodynamik{f}/空気力学[くうきりきがく]/
 Aerolith{m}/隕石[いんせき]/
 Aerosol{n}/エアロゾル[えあろぞる]/
-Affe{m}/猿[ましら]/モンキー[もんきー]/申[さる]/申[さる]/
+Affe{m}/申[さる]/
 Affekt{m}/激情[げきじょう]/
 affektiert{adv}{adj}/芝居がかった[しばいがかった]/
 affektiert sprechen{vi}/きざな物言いをする[きざなものいいをする]/
-Affektiertheit{f}/伊達[だて]/臭み[くさみ]/嫌味[いやみ]/気取り[きどり]/
+Affektiertheit{f}/気取り[きどり]/
 Affenbrotbaum{m}/バオバブ[ばおばぶ]/
 Affenliebe{f}/親ばか[おやばか]/
 Affenmensch{m}/猿人[えんじん]/
 Affentheater{n}/猿芝居[さるしばい]/
 affig{adv}/猿のような[さるのような]/
 Affordanz{f}/アフォーダンス[あふぉーだんす]/
-Affäre{f}/事[こと]/事件[じけん]/事柄[ことがら]/儀[ぎ]/
+Affäre{f}/{pol.} 事件[じけん]/(eine aussereheliche ~) 情事[じょうじ]/
 Afghane{m}/アフガン･ハウンド[あふがんはうんど]/
 afghanisch{adj}/アフガニスタン人の[あふがにすたんじんの]/
 Afrika{n}/アフリカ[あふりか]/
@@ -711,14 +711,13 @@ After{m}/肛門[こうもん]/
 Agalmatolith{m}/蝋石[ろうせき]/
 Agave{f}/リュウゼツラン[りゅうぜつらん]/
 Agens{n}/動作主[どうさしゅ]/
-Agent{m}/スパイ[すぱい]/手先[てさき]/代理人[だいりにん]/代理[だいり]/エージェント[えーじぇんと]/代理店[だいりてん]/
-Agentur{f}/代理店[だいりてん]/代理[だいり]/
+Agent{m}/(Geheim~) スパイ[すぱい]/(Repräsentant) 代理人[だいりにん]/
+Agentur{f}/代理店[だいりてん]/
 Agglomeration{f}/集積[しゅうせき]/
 Aggregat{n}/骨材[こつざい]/
 Aggression{f}/挑戦[ちょうせん]/攻撃[こうげき]/
-aggressiv{adj}{adv}/攻撃的[こうげきてき]/アグレッシブ[あぐれっしぶ]/
-aggressiv sein/ずばずば[ずばずば]/
-Aggressivität{f}/押し[おし]/強気[つよき]/
+aggressiv{adj}{adv}/攻撃的[こうげきてき]/
+Aggressivität{f}/(-> Agression)/
 agieren{vi}/行動をとる[こうどうをとる]/
 Agio{m}/打ち歩[うちぶ]/
 Agitation{f}/煽動[せんどう]/
@@ -743,16 +742,16 @@ Ahndung{f}/寇[あだ]/
 Ahnenforschung{f}/系図学[けいずがく]/
 Ahnenkult{m}/祖先崇拝[そせんすうはい]/
 Ahnentafel{f}/系譜[けいふ]/系図[けいず]/
-Ahnung{f}/記[しるし]/心当たり[こころあたり]/予感[よかん]/伏線[ふくせん]/期待[きたい]/気配[けはい]/感知[かんち]/虫[むし]/
+Ahnung{f}/予感[よかん]/(keine ~ haben) ぜんぜん知らない[ぜんぜんしらない]/
 Ahnungslosigkeit{f}/おぼこ[おぼこ]/
-Ahorn{m}/紅葉[もみじ]/黄葉[もみじ]/楓[かえで]/メープル[めーぷる]/
+Ahorn{m}/楓[かえで]/
 Ahornsirup{m}/メープル･シロップ[めーぷるしろっぷ]/
 Aids{n}/後天性免疫不全症候群[こうてんせいめんえきふぜんしょうこうぐん]/
 Airbag{m}/エアバッグ[えあばっぐ]/
 Airbus{m}/エアバス[えあばす]/
-Akademie{f}/学校[がっこう]/学会[がっかい]/大学[だいがく]/学院[がくいん]/アカデミー[あかでみー]/
+Akademie{f}/(Hochschule) 学院[がくいん]/アカデミー[あかでみー]/
 Akademiker{m}/学士[がくし]/
-akademisch{adj}{adv}/テクニカル[てくにかる]/アカデミック[あかでみっく]/
+akademisch{adj}{adv}/大学の[だいがくの]/(weltfremd)　世事にうとい[せじにうとい]/
 Akazie{f}/アカシア[あかしあ]/
 Akelei{f}/オダマキ[おだまき]/
 Akklimatisierung{f}/馴化[じゅんか]/
@@ -802,14 +801,14 @@ Aktionsgruppe{f}/行動隊[こうどうたい]/
 Aktionsprogramm{n}/アクションプログラム[あくしょんぷろぐらむ]/
 Aktionsradius{m}/行動半径[こうどうはんけい]/
 Aktionär{m}/株主[かぶぬし]/
-aktiv{adv}/積極的[せっきょくてき]/活動的[かつどうてき]/活動的[かつどうてき]/アクティブ[あくてぃぶ]/盛ん[さかん]/
+aktiv{adv}/活発 [かっぱつ]/
 Aktiv{n}/能動態[のうどうたい]/
 aktiv werden{vi}/盛んになる[さかんになる]/
 Aktiva{pl}/資産[しさん]/
 Aktivierung{f}/活性化[かっせいか]/
 Aktivismus{m}/実践主義[じっせんしゅぎ]/
 Aktivist{m}/活動家[かつどうか]/
-Aktivität{f}/活動[かつどう]/活発[かっぱつ]/行動[こうどう]/活性[かっせい]/運動[うんどう]/動き[うごき]/
+Aktivität{f}/(Lebenskraft) 活力[かつりょく]/(Handlung) 行動[こうどう]/
 Aktivkohle{f}/活性炭[かっせいたん]/
 Aktualität{f}/現在[げんざい]/現実[げんじつ]/
 aktuell{adj}/現在[げんざい]/現[げん]/
@@ -821,7 +820,7 @@ akustisch{adj}{adv}/アコースティック[あこーすてぃっく]/
 akustisches Signal/号音[ごうおん]/
 akut{adj}{adv}/深刻に[しんこくに]/
 Akut{n}/アクサンテギュ[あくさんてぎゅ]/
-Akzent{m}/強調[きょうちょう]/強弱[きょうじゃく]/アクセント[あくせんと]/アクセント[あくせんと]/
+Akzent{m}/アクセント[あくせんと]/
 Akzept{n}/引受手形[ひきうけてがた]/
 Akzeptbank{f}/引受銀行[ひきうけぎんこう]/
 Akzeptmarkt{m}/引受手形市場[ひきうけてがたしじょう]/
@@ -839,8 +838,8 @@ Alaun{m}/ミョウバン[みょうばん]/
 Albaner{m}/アルバニア人[あるばにあじん]/
 albanisch{adj}/アルバニアの[あるばにあの]/
 Albatros{m}/アルバトロス[あるばとろす]/
-albern{adv}{vi}/無茶[むちゃ]/下らない[くだらない]/
-Albernheit{f}/バカ[ばか]/馬鹿[ばか]/浅はか[あさはか]/
+albern{adv}{vi}/愚かな[おろかな]/
+Albernheit{f}/愚かさ[おろかなこと]/
 Albinismus{m}/白肌[しらはだ]/
 Albino{m}/白子[しろこ]/
 Albit{n}/曹長石[そうちょうせき]/
@@ -876,12 +875,12 @@ Alkoven{m}/アルコーブ[あるこーぶ]/
 Alkydharz{n}/アルキド樹脂[あるきどじゅし]/
 allabendlich{adv}/毎晩[まいばん]/
 Alle Rechte vorbehalten!/禁転載[きんてんさい]/
-alle zusammen/一斉に[いっせいに]/一丸となって[いちがんとなって]/総出[そうで]/
+alle zusammen/一緒に[いっしょに]/
 alle zwei Jahre/2年に1回[にねんにいっかい]/
 Allee{f}/並木道[なみきみち]/
 Allegorie{f}/例え[たとえ]/比喩[ひゆ]/
 Allegro{n}/アレグロ[あれぐろ]/
-allein{adj}/だけど[だけど]/しか[しか]/単身[たんしん]/だけども[だけども]/だが[だが]/オンリー[おんりー]/寂しい[さみしい]/淋しい[さみしい]/但[ただし]/一人で[ひとりで]/だけれども[だけれども]/それなのに[それなのに]/但し[ただし]/
+allein{adj}/一人で[ひとりで]/
 Alleinbesitz{m}/専有[せんゆう]/
 Alleinflug{m}/単独飛行[たんどくひこう]/
 Alleingang{m}/独断専行[どくだんせんこう]/
@@ -896,12 +895,12 @@ Alleinvertretung{f}/総代理店[そうだいりてん]/
 Alleinvertrieb{m}/専売[せんばい]/
 Allel{n}/対立遺伝子[たいりついでんし]/
 allerbest/上乗[じょうじょう]/
-allerdings{adv}/けれど[けれど]/けれども[けれども]/但[ただし]/但し[ただし]/
+allerdings{adv}/但し[ただし]/
 Allergie{f}/アレルギー[あれるぎー]/
-allerhand{adv}/所有[あらゆる]/凡[あらゆる]/雑多[ざった]/
+allerhand{adv}/(verschieden) 様々な [さまざまな]/(Das ist ~)　それは酷い[それはひどい]/
 Allerheiligen{n}/万聖節[ばんせいせつ]/
 Allerlei{n}/漫筆[まんぴつ]/
-alles{pron}/全て[すべて]/万事[ばんじ]/何から何まで[なにからなにまで]/皆[みんな]/そっくり[そっくり]/丈[たけ]/全部[ぜんぶ]/ごっそり[ごっそり]/すっかり[すっかり]/各々[おのおの]/各[おのおの]/万端[ばんたん]/何もかも[なにもかも]/何でも[なんでも]/総て[すべて]/すっぽり[すっぽり]/大概[たいがい]/何でもかんでも[なんでもかんでも]/何事[なにごと]/一切[いっさい]/一部始終[いちぶしじゅう]/
+alles{pron}/全て[すべて]/全部[ぜんぶ]/
 alles andere als/さっぱり[さっぱり]/
 alles fressend{adj}/雑食の[ざっしょくの]/
 allesamt{adv}/揃いも揃って[そろいもそろって]/
@@ -909,7 +908,7 @@ Allesfresser{m}/雑食動物[ざっしょくどうぶつ]/
 Alleskleber{m}/万能接着剤[ばんのうせっちゃくざい]/
 Allgegenwart{f}/遍在[へんざい]/
 allgegenwärtig{adv}/遍在の[へんざいの]/
-allgemein{adj}{adv}/広く[ひろく]/一般に[いっぱんに]/パブリック[ぱぶりっく]/大方[おおかた]/全般的[ぜんぱんてき]/ジェネリック[じぇねりっく]/一般的[いっぱんてき]/
+allgemein{adj}{adv}/一般に[いっぱんに]/
 allgemein bekannt/公然たる[こうぜんたる]/
 allgemein bekannt sein/知れ渡る[しれわたる]/
 allgemein bekannt werden/世に現われる[よにあらわれる]/
@@ -917,31 +916,31 @@ Allgemeinbegriff{m}/一般概念[いっぱんがいねん]/
 Allgemeinbildung{f}/一般教養[いっぱんきょうよう]/
 allgemeine Wehrpflicht{f}/国民皆兵[こくみんかいへい]/
 Allgemeingültigkeit{f}/通用[つうよう]/
-Allgemeinheit{f}/普通[ふつう]/一般[いっぱん]/大方[おおかた]/社会[しゃかい]/公衆[こうしゅう]/公共[こうきょう]/全般[ぜんぱん]/世間[せけん]/
+Allgemeinheit{f}/一般[いっぱん]/
 Allgemeinwissen{n}/常識[じょうしき]/
 Allheilmittel{n}/万能薬[ばんのうやく]/
-Allianz{f}/連合[れんごう]/連立[れんりつ]/同盟[どうめい]/
+Allianz{f}/同盟[どうめい]/
 Alligator{m}/ワニ[わに]/
 Alliierte{m}{f}/連合軍[れんごうぐん]/
 Allmacht{f}/万能[ばんのう]/
 Allmende{f}/入相[いりあい]/
 allmächtig{adj}{adv}/オールマイティーな[おーるまいてぃーな]/
-allmählich{adv}/ゆっくり[ゆっくり]/おいおい[おいおい]/徐々に[じょじょに]/ぼちぼち[ぼちぼち]/次第に[しだいに]/徐々[じょじょ]/じりじり[じりじり]/そろそろ[そろそろ]/漸く[ようやく]/段々[だんだん]/ジワジワ[じわじわ]/
+allmählich{adv}/段々[だんだん]/
 allotropisch{adv}/同質異体の[どうしついたいの]/
 Allquantor{m}/全称作用素[ぜんしょうさようそ]/
 Allradantrieb{m}/四輪駆動[よんりんくどう]/
 Allradlenkung{f}/四輪操舵[よんりんそうだ]/
-Alltag{m}/日常[にちじょう]/日常生活[にちじょうせいかつ]/平常[へいじょう]/実生活[じっせいかつ]/平日[へいじつ]/
-Alltagsleben{n}/生活[せいかつ]/日常生活[にちじょうせいかつ]/
-alltäglich{adj}/普段[ふだん]/尋常[じんじょう]/庶民的[しょみんてき]/
-Alltäglichkeit{f}/平凡[へいぼん]/月並み[つきなみ]/茶飯事[さはんじ]/陳腐[ちんぷ]/
+Alltag{m}/日常[にちじょう]/
+Alltagsleben{n}/日常生活[にちじょうせいかつ]/
+alltäglich{adj}/日常の[にちじょうの]/
+Alltäglichkeit{f}/(-> alltäglich)/
 allumfassend{adj}/網羅的な[もうらてきな]/
 Allwissenheit{f}/全知[ぜんち]/
 allzu{adv}/あんまり[あんまり]/
 Alma Mater{f}/母校[ぼこう]/
 Almanach{n}/暦[こよみ]/
 Almandin{m}/貴ざくろ石[きざくろいし]/
-Almosen{n}{pl}/旦那[だんな]/恵み[めぐみ]/
+Almosen{n}{pl}/施し物[ほどこしもの]/
 Aloe{f}/アロエ[あろえ]/
 Alopezie{f}/脱毛症[だつもうしょう]/
 Alpaka{n}/アルパカ[あるぱか]/
@@ -965,12 +964,11 @@ Alte{f}{m}/ばば[ばば]/
 alte Jungfer{f}/尼[あま]/
 Altenpflege{f}/養老[ようろう]/
 Altenpflegeheim{n}/養老院[ようろういん]/
-Alter{n}/年[とし]/年配[ねんぱい]/おい[おい]/老朽[ろうきゅう]/年齢[ねんれい]/齢[よわい]/老い[おい]/先生[せんせい]/高齢者[こうれいしゃ]/歳[とし]/年頃[としごろ]/
+Alter{n}/年[とし]/
 Alter Ego{n}/他我[たが]/
-altern/枯れる[かれる]/
-Altern{n}/高齢化[こうれいか]/加齢[かれい]/熟成[じゅくせい]/老化[ろうか]/
+altern{vi}/年をとる[としをとる]
 alternativ{adj}{adv}/択一的[たくいつてき]/
-Alternative{f}/選択肢[せんたくし]/オルタナティブ[おるたなてぃぶ]/代替[だいたい]/択一[たくいつ]/
+Alternative{f}/(Möglichkeit) 可能性[かのうせい]/
 Alternativplan{m}/代案[だいあん]/
 alternieren{vi}/互い違いだ[たがいちがいだ]/
 alternierend{adj}/互い違いに[たがいちがいに]/
@@ -1009,7 +1007,7 @@ Altstadt{f}/旧市街[きゅうしがい]/
 Altstimme{f}/アルト[あると]/
 Altwaren{pl}/古道具[ふるどうぐ]/
 Altwarenhändler{m}/道具屋[どうぐや]/
-Altweibersommer{m}/小春[こはる]/小春日和[こはるびより]/
+Altweibersommer{m}/小春日和[こはるびより]/
 Altöl{n}/廃油[はいゆ]/
 Aluminiumlegierung{f}/アルミニウム合金[あるみにうむごうきん]/
 alveolar{adj}/歯槽の[しそうの]/
@@ -1020,7 +1018,7 @@ Ama{m}/海人[あま]/
 amalgamieren{vt}/アマルガムにする[あまるがむにする]/
 Amalgamierung{f}/合併[がっぺい]/
 Amaryllis{f}/彼岸花[ひがんばな]/
-Amateur{m}/素人[しろうと]/愛好者[あいこうしゃ]/愛好家[あいこうか]/アマチュア[あまちゅあ]/
+Amateur{m}/素人[しろうと]/アマチュア[あまちゅあ]/
 Amateurfunk{m}/アマチュア無線[あまちゅあむせん]/
 Amazone{f}/スーパーウーマン[すーぱーうーまん]/
 Amber{m}/竜涎香[りゅうぜんこう]/
@@ -1065,18 +1063,18 @@ Ampulle{f}/アンプル[あんぷる]/
 Amputation{f}/切断[せつだん]/
 amputieren{vt}/切断する[せつだんする]/
 Amsel{f}/クロウタドリ[くろうたどり]/
-Amt{n}/局[きょく]/係[かかり]/部署[ぶしょ]/椅子[いす]/任務[にんむ]/職[しょく]/官庁[かんちょう]/公務[こうむ]/本領[ほんりょう]/官[つかさ]/本分[ほんぶん]/司[つかさ]/
+Amt{n}/(Beruf) 職務[しょくむ]/(Behörde) 役所[やくしょ]/
 amtieren{vi}/奉職している[ほうしょくしている]/
 amtlich{adv}/公然と[こうぜんと]/
-amtliche Bekanntmachung{f}/公表[こうひょう]/発令[はつれい]/公示[こうじ]/告示[こくじ]/触れ[ふれ]/
-Amtsantritt{m}/就職[しゅうしょく]/就任[しゅうにん]/
+amtliche Bekanntmachung{f}/公表[こうひょう]/
+Amtsantritt{m}/就職[しゅうしょく]/
 Amtsarzt{m}/医官[いかん]/
 Amtsbefugnis{f}/職権[しょっけん]/
 Amtsbezeichnung{f}/職名[しょくめい]/
 Amtsbezirk{m}/管内[かんない]/
 Amtsblatt{n}/公報[こうほう]/
 Amtsdauer{f}/任期[にんき]/
-Amtsenthebung{f}/御免[ごめん]/解任[かいにん]/
+Amtsenthebung{f}/罷免[ひめん]/
 Amtsführung{f}/事務管理[じむかんり]/
 Amtsgericht{n}/簡易裁判所[かんいさいばんしょ]/
 Amtsgewalt{f}/職権[しょっけん]/
@@ -1092,10 +1090,10 @@ Amtsvorsteher{m}/署長[しょちょう]/
 Amtszeichen{n}/局符号[きょくふごう]/
 Amtszeit{f}/任期[にんき]/
 Amtsübernahme{f}/事務引き継ぎ[じむひきつぎ]/
-Amulett{n}/札[ふだ]/お守り[おまもり]/お札[おふだ]/
+Amulett{n}/お守り[おまもり]/
 Amöbe{f}/アメーバ[あめーば]/
 amöbisch{adj}/アメーバの[あめーばの]/
-an{prp; wo? +Dativ; wohin? +Akkusativ}{prp; wann? +Dativ}/に[に]/アット[あっと]/
+an{prp; wo? +Dativ; wohin? +Akkusativ}{prp; wann? +Dativ}/(Zeit) に[に]/(Ort) で[で]/(Ort) に[に]/
 an den Haaren herbeigezogen/牽強付会の[けんきょうふかいの]/
 an der Reihe sein/番に当たる[ばんにあたる]/
 an einem Wettbewerb teilnehmen/競技に加わる[きょうぎにくわわる]/
@@ -1115,7 +1113,7 @@ Analogie{f}/類似[るいじ]/
 Analphabet{m}/盲[めくら]/
 Analphabetentum{n}/無筆[むひつ]/
 Analverkehr{m}/アナル･セックス[あなるせっくす]/
-Analyse{f}/分析[ぶんせき]/解剖[かいぼう]/分解[ぶんかい]/分解[ぶんかい]/解析[かいせき]/
+Analyse{f}/分析[ぶんせき]/
 analysieren{vt}/解剖する[かいぼうする]/
 Analytik{f}/分析学[ぶんせきがく]/
 Analytiker{m}/分析者[ぶんせきしゃ]/
@@ -1135,8 +1133,8 @@ Anatolien{n}/アジア･トルコ[あじあとるこ]/
 Anatom{n}/解剖学者[かいぼうがくしゃ]/
 Anatomie{f}/解剖学[かいぼうがく]/
 anatomisch{adj}{adv}/解剖学の[かいぼうがくの]/
-Anbau{m}/作[さく]/培養[ばいよう]/耕作[こうさく]/植栽[しょくさい]/増築[ぞうちく]/栽培[さいばい]/
-anbauen{vt}/出来る[できる]/作る[つくる]/造る[つくる]/創る[つくる]/
+Anbau{m}/(Planzen) 栽培[さいばい]/(Gebäude) 増築[ぞうちく]/
+anbauen{vt}/(Pflanzen) 栽培する[さいばいする]/(Gebäude) 増築する[ぞうちくする]/
 Anbaufläche{f}/耕作地[こうさくち]/
 Anbaugebiet{n}/産地[さんち]/
 Anbaumethode{f}/農法[のうほう]/
@@ -1144,13 +1142,12 @@ Anbaumöbel{n}/ユニット家具[ゆにっとかぐ]/
 anbeißen{vt}/食う[くう]/喰う[くう]/
 anbellen{vt}/わんわんほえる[わんわんほえる]/
 Anbeter{m}/礼賛者[らいさんしゃ]/
-Anbetung{f}/憧れ[あこがれ]/礼拝[らいはい]/崇拝[すうはい]/礼賛[らいさん]/
-Anbieten{n}/提供[ていきょう]/申し出[もうしで]/
-anbieten{vt}/出す[だす]/売る[うる]/申し込む[もうしこむ]/勧める[すすめる]/
+Anbetung{f}/崇拝[すうはい]/
+anbieten{vt}/勧める[すすめる]/
 Anbieter{m}/売り手[うりて]/
 Anbieterabsprache{f}/談合入札[だんごうにゅうさつ]/
 anblasen{vt}/吹っかける[ふっかける]/
-Anblick{m}/光景[こうけい]/様相[ようそう]/見物[みもの]/景観[けいかん]/趣[おもむき]/眺望[ちょうぼう]/情景[じょうけい]/
+Anblick{m}/光景[こうけい]/
 anblitzen{vt}/見据える[みすえる]/
 anbrechen/明ける[あける]/
 anbrennen{vi}/焦がす[こがす]/
@@ -1160,16 +1157,16 @@ Andalusier{m}/アンダルシア地方人[あんだるしあちほうじん]/
 Andalusit{m}/紅柱石[こうちゅうせき]/
 andauern/続く[つづく]/
 andauernd{adv}/継続的[けいぞくてき]/
-Andenken{n}/記念[きねん]/思い出[おもいで]/想い出[おもいで]/記念品[きねんひん]/記念物[きねんぶつ]/
+Andenken{n}/想い出[おもいで]/記念品[きねんひん]/
 andere/その外[そのほか]/
 anderntags{adv}/過日[かじつ]/
 anders ausdrücken{vt}/言い換える[いいかえる]/
 anders formulieren{vt}/言い方を違える[いいかたをちがえる]/
-Andersartigkeit{f}/異[こと]/オルタナティブ[おるたなてぃぶ]/
+Andersartigkeit{f}/異[こと]/
 andersherum/あべこべに[あべこべに]/
 andeuten{vt}/漏らす[もらす]/
 andeutend{adj}{adv}/暗に[あんに]/
-Andeutung{f}/気配[けはい]/伏線[ふくせん]/示唆[しさ]/含み[ふくみ]/暗示[あんじ]/ジェスチャー[じぇすちゃー]/
+Andeutung{f}/暗示[あんじ]/
 andeutungsweise{adv}/暗に[あんに]/
 andiskutieren/口を切る[くちをきる]/
 Andrang{m}/雑踏[ざっとう]/
@@ -1179,20 +1176,20 @@ Andrologie{f}/アンドロロジー[あんどろろじー]/
 andächtig{adj}{adv}/信心深い[しんじんぶかい]/
 Aneignung{f}/獲得[かくとく]/
 aneinander vorbeigehen{vi}/すれ違う[すれちがう]/
-Anekdote{f}/エピソード[えぴそーど]/逸話[いつわ]/小話[しょうわ]/
+Anekdote{f}/逸話[いつわ]/
 Anemometer{n}/風速計[ふうそくけい]/
 Anemone{f}/アネモネ[あねもね]/
 anerkannt{adj}/押しも押されもしない[おしもおされもしない]/
 anerkennen{vt}/言う[いう]/買う[かう]/許す[ゆるす]/云う[いう]/
 anerkennend{adv}{adj}/鑑賞的に[かんしょうてきに]/
-Anerkennung{f}/承認[しょうにん]/認定[にんてい]/了承[りょうしょう]/賞賛[しょうさん]/認知[にんち]/感心[かんしん]/
+Anerkennung{f}/承認[しょうにん]/
 Anfahren{n}/起動[きどう]/
 Anfahrt{f}/アプローチ[あぷろーち]/
 Anfall{m}/発作[ほっさ]/
-Anfang{m}/トップ[とっぷ]/双葉[ふたば]/発足[ほっそく]/起源[きげん]/出だし[でだし]/零[ぜろ]/起こり[おこり]/発端[ほったん]/序[じょ]/初頭[しょとう]/源[みなもと]/初期[しょき]/当初[とうしょ]/走り[はしり]/第一歩[だいいっぽ]/始まり[はじまり]/皮切り[かわきり]/初っ端[しょっぱな]/最初[さいしょ]/先頭[せんとう]/幕開け[まくあけ]/着手[ちゃくしゅ]/ゼロ[ぜろ]/冒頭[ぼうとう]/手始め[てはじめ]/のっけ[のっけ]/入り[いり]/初め[はじめ]/始め[はじめ]/立ち上がり[たちあがり]/小口[こぐち]/開始[かいし]/
-anfangen{vt}{vi}/入る[いる]/始める[はじめる]/売る[うる]/明ける[あける]/掛かる[かかる]/始まる[はじまる]/
+Anfang{m}/始まり[はじまり]/
+anfangen{vt}{vi}/{vt}始める[はじめる]/{vi}始まる[はじまる]/
 anfangs{adv}/初めは[はじめは]/
-Anfangsbuchstabe{m}/頭文字[かしらもじ]/イニシャル[いにしゃる]/
+Anfangsbuchstabe{m}/頭文字[かしらもじ]/
 Anfangsdruck{m}/最初圧力[さいしょあつりょく]/
 Anfangsgehalt{n}/初任給[しょにんきゅう]/
 Anfangsgeschwindigkeit{f}/初速度[しょそくど]/
@@ -1203,35 +1200,35 @@ anfechten{vt}/反ばくする[はんばくする]/
 Anfechtung{f}/反駁[はんばく]/
 Anfechtungsklage{f}/抗告訴訟[こうこくそしょう]/
 Anfeindung{f}/敵視[てきし]/
-Anfertigung{f}/作成[さくせい]/制作[せいさく]/作製[さくせい]/製作[せいさく]/
+Anfertigung{f}/製作[せいさく]/
 anfeuern{vt}/鞭打つ[むちうつ]/
 anflehen{vt}/乞う[こう]/
-Anflug{m}/気[け]/一抹[いちまつ]/嫌い[きらい]/進入[しんにゅう]/アプローチ[あぷろーち]/
+Anflug{m}/(Lande~) 着陸進入[ちゃくりくしんにゅう]/{fig.} 気配[けはい]/
 Anflughilfe{f}/進入援助設備[しんにゅうえんじょせつび]/
 Anforderung{f}/要求[ようきゅう]/要項[ようこう]/
-Anfrage{f}/質問[しつもん]/お問い合わせ[おといあわせ]/要請[ようせい]/引き合い[ひきあい]/伺い[うかがい]/調査[ちょうさ]/照会[しょうかい]/問い合わせ[といあわせ]/問合せ[といあわせ]/
+Anfrage{f}/問い合わせ[といあわせ]/
 anfrieren{vi}/凍りつく[こおりつく]/
 anfällig{adj}/虚弱な[きょじゃくな]/
-Anfänger{m}/初心者[しょしんしゃ]/駆け出し[かけだし]/新米[しんまい]/ビギナー[びぎなー]/
-anfänglich{adv}/本来[ほんらい]/抑[そもそも]/初めは[はじめは]/
+Anfänger{m}/初心者[しょしんしゃ]/
+anfänglich{adv}/初めの[はじめの]/
 anfügen{vt}/付する[ふする]/
 Anfügung{f}/付加[ふか]/
-Anführer{m}/リーダー[りーだー]/チーフ[ちーふ]/組長[くみちょう]/中堅[ちゅうけん]/
+Anführer{m}/統率者[とうそつしゃ]/
 Anführung{f}/引用[いんよう]/
 Anführungszeichen{n}/引用符[いんようふ]/
-Angabe{f}/表示[ひょうじ]/ほら[ほら]/申告[しんこく]/自慢[じまん]/申し立て[もうしたて]/指摘[してき]/天狗[てんぐ]/
-angeben{vt}/言う[いう]/吹く[ふく]/吹き飛ばす[ふきとばす]/云う[いう]/
-Angeber{m}/犬[いぬ]/ほら[ほら]/天狗[てんぐ]/
+Angabe{f}/申し立て[もうしたて]/
+angeben{vt}/(Information) 知らせる[しらせる]/(protzen) 威張る[いばる]/
+Angeber{m}/法螺吹き[ほらふき]/
 Angeberei{f}/誇張[こちょう]/
 angeberisch{adv}{adj}/口幅ったい[くちはばったい]/
-angeblich{adj}{adv}/所謂[いわゆる]/表向き[おもてむき]/
+angeblich{adj}{adv}/自称の[じしょうの]/
 angeboren{adv}{adj}/生来[せいらい]/
-Angebot{n}/提供[ていきょう]/オファー[おふぁー]/申し入れ[もうしいれ]/申し出[もうしで]/見積もり[みつもり]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/入札[にゅうさつ]/
+Angebot{n}/提供[ていきょう]/
 Angebotspreis{m}/募集価格[ぼしゅうかかく]/
 angeheitert{adv}/生酔いの[なまよいの]/
-angehen{vi}/関わる[かかわる]/係る[かかる]/踏み出す[ふみだす]/
+angehen{vi}/(in Bezug auf etwas) 関係ある[かんけいある]/
 Angel{f}/中子[なかご]/
-Angelegenheit{f}/事[こと]/局[きょく]/案件[あんけん]/物[もの]/モノ[もの]/課題[かだい]/事件[じけん]/事故[じこ]/事柄[ことがら]/儀[ぎ]/事項[じこう]/用[よう]/問題[もんだい]/物事[ものごと]/用件[ようけん]/ご用[ごよう]/御用[ごよう]/
+Angelegenheit{f}/用件[ようけん]/
 Angelgerät{n}/釣り具[つりぐ]/
 Angelhaken{m}/針[はり]/鍼[はり]/
 angeln{vi}/釣る[つる]/
@@ -1239,11 +1236,11 @@ Angelplatz{m}/釣り場[つりば]/
 Angelrute{f}/釣竿[つりざお]/
 Angelsachse{m}/アングロサクソン[あんぐろさくそん]/
 Angelschnur{f}/糸[いと]/
-angemessen{adv}{adj}/良い[いい]/適宜[てきぎ]/いい加減[いいかげん]/宜しく[よろしく]/好い[いい]/適当[てきとう]/相応しい[ふさわしい]/順当[じゅんとう]/一角[ひとかど]/リーズナブル[りーずなぶる]/
-Angemessenheit{f}/相当[そうとう]/相応[そうおう]/適宜[てきぎ]/具合[ぐあい]/適正[てきせい]/妥当[だとう]/適切[てきせつ]/一角[ひとかど]/手ごろ[てごろ]/手頃[てごろ]/向き[むき]/
-angenehm{adv}/楽しい[たのしい]/面白い[おもしろい]/好ましい[このましい]/結構[けっこう]/良い[いい]/好い[いい]/居心地のいい[いごこちのいい]/心地よい[ここちよい]/心地良い[ここちよい]/愉しい[たのしい]/気持ちよい[きもちよい]/
+angemessen{adv}{adj}/相応しい[ふさわしい]/
+Angemessenheit{f}/相応[そうおう]/
+angenehm{adv}/気持ちよい[きもちよい]/
 angenommen{adv}/仮定的[かていてき]/
-angepasst/…に即した[…にそくした]/
+angepasst/に即した[にそくした]/
 angeschlagen/グロッキー[ぐろっきー]/
 angeschwemmt{adj}/堆積土砂の[たいせきどしゃの]/
 angesehen/偉い[えらい]/
@@ -1257,10 +1254,10 @@ Angewohnheit{f}/癖[くせ]/
 Angina{f}/口峡炎[こうきょうえん]/
 Angina pectoris{f}/狭心症[きょうしんしょう]/
 angleichen/似せる[にせる]/
-Angleichung{f}/適応[てきおう]/同化[どうか]/
-Angler{m}/釣り人[つりびと]/釣り師[つりし]/
+Angleichung{f}/同化[どうか]/
+Angler{m}/釣り人[つりびと]/
 angliedern{vt}/併置する[へいちする]/
-Angliederung{f}/付属[ふぞく]/附属[ふぞく]/併設[へいせつ]/
+Angliederung{f}/合併[がっぺい]/
 Anglist{m}/英文学者[えいぶんがくしゃ]/
 Anglistik{f}/英文[えいぶん]/
 Angloamerikaner{m}/英国系のアメリカ人[えいこくけいのあめりかじん]/
@@ -1271,16 +1268,16 @@ Angorakaninchen{n}/アンゴラ兎[あんごらうさぎ]/
 Angorakatze{f}/アンゴラ猫[あんごらねこ]/
 Angorawolle{f}/アンゴラ[あんごら]/
 Angoraziege{f}/アンゴラ[あんごら]/
-angreifen{vt}/攻める[せめる]/襲う[おそう]/突く[つく]/立ち向かう[たちむかう]/駆ける[かける]/掛かる[かかる]/寄せる[よせる]/
+angreifen{vt}/攻撃する[こうげきする]/
 Angreifer{m}/アタッカー[あたっかー]/
 angrenzen{vi}/隣り合う[となりあう]/
 angrenzend{adj}{adv}/隣接した[りんせつした]/
-Angriff{m}/攻撃[こうげき]/侵略[しんりゃく]/攻め[せめ]/アタック[あたっく]/掛かり[かかり]/チャージ[ちゃーじ]/ダッシュ[だっしゅ]/進撃[しんげき]/攻勢[こうせい]/襲来[しゅうらい]/襲撃[しゅうげき]/フォワード[ふぉわーど]/切り込み[きりこみ]/
+Angriff{m}/攻撃[こうげき]/
 Angriffskrieg{m}/侵略戦争[しんりゃくせんそう]/
 Angriffspunkt{m}/作用点[さようてん]/
 Angriffsspitze{f}/攻撃の先端[こうげきのせんたん]/
 Angriffsziel{n}/矛先[ほこさき]/
-Angst{f}/心配[しんぱい]/苦[く]/気がかり[きがかり]/懸念[けねん]/不安[ふあん]/憂い[うれい]/恐怖心[きょうふしん]/恐れ[おそれ]/気遣い[きづかい]/
+Angst{f}/(Sorge) 心配[しんぱい]/恐れ[おそれ]/
 Angstgefühl{n}/恐怖感[きょうふかん]/
 Angstgegner{m}/キラー[きらー]/
 Angsthase{m}/小心者[しょうしんもの]/
@@ -1288,11 +1285,11 @@ Angstmacher{m}/威嚇者[いかくしゃ]/
 Angstneurose{f}/不安神経症[ふあんしんけいしょう]/
 Angstschweiß{m}/冷や汗[ひやあせ]/
 anhaften/付く[つく]/
-anhalten/続く[つづく]/立ち止まる[たちどまる]/止める[とめる]/付ける[つける]/殺す[ころす]/着ける[つける]/
+anhalten/{vi} 止まる[とまる]/{vt} 止める[とめる]/(andauern) 続く[つづく]/
 anhaltend{adj}/継続的[けいぞくてき]/
 Anhalter{m}/ヒッチハイカー[ひっちはいかー]/
-Anhaltspunkt{m}/当て[あて]/宛[あて]/宛て[あて]/手がかり[てがかり]/
-Anhang{m}/サプリメント[さぷりめんと]/付録[ふろく]/子分[こぶん]/
+Anhaltspunkt{m}/手がかり[てがかり]/
+Anhang{m}/追加[ついか]/(E-Mail~) 添付ファイル[てんぷふぁいる]/
 anheben/上げる[あげる]/
 anheften{vt}/添える[そえる]/
 Anheizzeit{f}/予熱時間[よねつじかん]/
@@ -15907,7 +15904,7 @@ Konsumquote{f}/消費性向[しょうひせいこう]/
 Konsumrausch{m}/消費意欲[しょうひいよく]/
 Konsumverein{m}/生協[せいきょう]/コープ[こーぷ]/
 Kontakt{m}/連絡[れんらく]/接点[せってん]/コンタクト[こんたくと]/接触[せっしょく]/触れ合い[ふれあい]/
-Kontaktabzug{n}/下手[べた]/べた[べた]/密着[みっちゃく]/
+Kontakt{n}/下手[べた]/べた[べた]/密着[みっちゃく]/
 Kontaktadresse{f}/連絡先[れんらくさき]/
 kontaktfreudig{adj}/あけっぴろげな[あけっぴろげな]/
 Kontaktfreudigkeit{f}/社交性[しゃこうせい]/
@@ -27448,7 +27445,7 @@ steter Wandel{m}/流転[るてん]/
 Stethoskop{n}/聴診器[ちょうしんき]/
 stetig{adj}/ぐんぐん[ぐんぐん]/継続的[けいぞくてき]/ジワジワ[じわじわ]/
 Steuer{f}{n}/税金[ぜいきん]/課税[かぜい]/タックス[たっくす]/調[みつぎ]/税[ぜい]/
-Steuerabzug{m}/課税控除[かぜいこうじょ]/
+Steuer{m}/課税控除[かぜいこうじょ]/
 Steueraufkommen{n}/税収[ぜいしゅう]/
 Steuerbefreiung{f}/免税[めんぜい]/
 Steuerbehörde{f}/税務署[ぜいむしょ]/
