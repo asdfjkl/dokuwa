@@ -392,7 +392,7 @@ abschrubben{vt}/こそげる[こそげる]/
 Abschrägen{n}/面取り[めんとり]/
 abschrägen{vt}/面取りをする[めんとりをする]/
 Abschussrampe{f}/発射台[はっしゃだい]/
-Abschweifung{f}/余談[よだん]/横道[おうどう]/脱線[だっせん]/
+abschweifen{vt}/(vom Thema ~)脇へそれる[わきへそれる]/
 Abschwung{m}/下押し気配[したおしけはい]/
 abschwächen{vt}/和らげる[やわらげる]/
 Abschwächung{f}/緩和[かんわ]/
@@ -413,22 +413,22 @@ Absenker{m}/取り木[とりき]/
 Absenktunnel{m}/沈埋トンネル[ちんまいとんねる]/
 Absenkung{f}/沈降[ちんこう]/
 Absetzbecken{n}/浄化槽[じょうかそう]/
-absetzen{vt}/追う[おう]/売る[うる]/外す[はずす]/下ろす[おろす]/
+absetzen{vt}/(ein Medikament ~) 薬を取り止める[くすりをとりやめる]/(Koffer) 降ろす[おろす]/
 Absetzung{f}/解雇[かいこ]/
 Absicherung{f}/垣根[かきね]/
-Absicht{f}/予定[よてい]/計画[けいかく]/積もり[つもり]/腹[はら]/志[こころざし]/考え[かんがえ]/狙い[ねらい]/意[い]/心がけ[こころがけ]/見込み[みこみ]/結構[けっこう]/旨[むね]/目当て[めあて]/目的[もくてき]/意図[いと]/所存[しょぞん]/趣旨[しゅし]/趣向[しゅこう]/意志[いし]/意向[いこう]/方針[ほうしん]/志向[しこう]/故意[こい]/思惑[おもわく]/目処[めど]/意思[いし]/
-absichtlich{adj}{adv}/意図的[いとてき]/好んで[このんで]/意識的[いしきてき]/計画的[けいかくてき]/
+Absicht{f}/目的[もくてき]/意図[いと]/
+absichtlich{adj}{adv}/故意の[こいの]/わざと[わざと]/
 Absichtserklärung{f}/意思通知[いしつうち]/
 Absinth{m}/アブサン[あぶさん]/
 absitzen{vt}/降り立つ[おりたつ]/
-absolut{adv}/絶対[ぜったい]/断然[だんぜん]/絶対的[ぜったいてき]/絶対に[ぜったいに]/
+absolut{adv}/絶対的[ぜったいてき]/
 Absolutbetrag{m}/無名数[むめいすう]/
 Absolutgeschwindigkeit{f}/対地速度[たいちそくど]/
 Absolutheit{f}/絶対[ぜったい]/
 Absolutismus{m}/絶対主義[ぜったいしゅぎ]/
 Absolutist{m}/絶対主義者[ぜったいしゅぎしゃ]/
 Absolutwert{m}/絶対値[ぜったいち]/
-Absolvent{m}/卒業生[そつぎょうせい]/出身者[しゅっしんしゃ]/
+Absolvent{m}/卒業生[そつぎょうせい]/
 absondern{vt}/分ける[わける]/離す[はなす]/
 Absonderung{f}/分離[ぶんり]/分泌[ぶんぴつ]/
 Absorption{f}/吸収[きゅうしゅう]/吸引[きゅういん]/
@@ -449,25 +449,24 @@ abspringen{vi}/取れる[とれる]/
 Absprung{m}/踏切[ふみきり]/
 Absprungstelle{f}/踏切[ふみきり]/
 abspülen{vt}/洗う[あらう]/
-Abstammung{f}/生まれ[うまれ]/系譜[けいふ]/出身[しゅっしん]/血統[けっとう]/生れ[うまれ]/由緒[ゆいしょ]/系図[けいず]/系統[けいとう]/家系[かけい]/流れ[ながれ]/
+Abstammung{f}/家系[かけい]/
 Abstammungslinie{f}/系統[けいとう]/
-Abstand{m}/間[あいだ]/開き[ひらき]/差[さ]/距離[きょり]/間隔[かんかく]/点差[てんさ]/
-Abstecher{m}/周り[まわり]/寄り道[よりみち]/回り道[まわりみち]/
+Abstand{m}/距離[きょり]/
+Abstecher{m}/寄り道[よりみち]/
 Absteckpfahl{m}/測量ポール[そくりょうぽーる]/
 absteigen{vi}/降り立つ[おりたつ]/
 Absteigen{n}/下り[くだり]/下車[げしゃ]/
-abstellen{vt}/切る[きる]/斬る[きる]/外す[はずす]/
+abstellen{vt}/(Koffer) 降ろす[おろす]/(Radio) 止める[とめる]/
 Abstellgleis{n}/側線[そくせん]/
 Abstellkammer{f}/物置[ものおき]/
 Abstellplatz{m}/置き場[おきば]/
 absterben/枯れる[かれる]/
 Absterben{n}/枯死[こし]/
-Abstieg{m}/坂[さか]/降下[こうか]/下り坂[くだりざか]/下降[かこう]/転落[てんらく]/下り[くだり]/
+Abstieg{m}/下り[くだり]/{fig.} 衰退[すいたい]/
 abstillen{vt}/離乳する[りにゅうする]/
 Abstillen{n}/乳離れ[ちばなれ]/
-abstimmen{vt}/入れる[いれる]/
-Abstimmen{n}/同調[どうちょう]/
-Abstimmung{f}/投票[とうひょう]/同調[どうちょう]/議決[ぎけつ]/採決[さいけつ]/決[けつ]/
+abstimmen{vt}/投票する[とうひょうする]/
+Abstimmung{f}/投票[とうひょう]/
 Abstinenz{f}/禁断[きんだん]/禁酒[きんしゅ]/
 Abstinenzbewegung{f}/禁酒運動[きんしゅうんどう]/
 Abstinenzler{m}/下戸[げこ]/
@@ -491,7 +490,7 @@ Abstumpfung{f}/無感覚[むかんかく]/
 Absturz{m}/転落[てんらく]/墜落[ついらく]/
 abstürzen{vi}/落ちる[おちる]/
 abstützen{vt}/支う[かう]/
-Absurdität{f}/非常識[ひじょうしき]/不条理[ふじょうり]/
+Absurdität{f}/不条理[ふじょうり]/
 Abszess{m}/膿瘍[のうよう]/
 Abszissenachse{f}/横軸[よこじく]/
 Abt{m}/住職[じゅうしょく]/
@@ -505,8 +504,8 @@ Abtauen{n}/除霜[じょそう]/
 Abtei{f}/修道院[しゅうどういん]/
 Abteil{n}/区画[くかく]/
 abteilen{vt}/分ける[わける]/
-Abteilung{f}/部[ぶ]/局[きょく]/部隊[ぶたい]/分割[ぶんかつ]/部門[ぶもん]/課[か]/区分[くぶん]/室[しつ]/仕切り[しきり]/隊[たい]/区画[くかく]/セクション[せくしょん]/教室[きょうしつ]/
-Abteilungsleiter{m}/部長[ぶちょう]/課長[かちょう]/室長[しつちょう]/
+Abteilung{f}/(Firmen~) 部[ぶ]/区画[くかく]/
+Abteilungsleiter{m}/部長[ぶちょう]/
 Abtrag{m}/切り土[きりつち]/
 Abtragen{n}/消磨[しょうま]/
 abtragen{vt}/崩す[くずす]/
@@ -536,15 +535,13 @@ Abwasserreinigungsanlage{f}/下水処理場[げすいしょりじょう]/
 Abwasserrohr{n}/排水管[はいすいかん]/
 abwechseln{vt}/掛け合う[かけあう]/
 abwechselnd{adj}{adv}/順に[じゅんに]/交代で[こうたいで]/
-Abwechslung{f}/変化[へんか]/バラエティー[ばらえてぃー]/気分転換[きぶんてんかん]/気晴らし[きばらし]/
+Abwechslung{f}/気分転換[きぶんてんかん]/
 abwechslungsreich{adj}/さっき[さっき]/
 Abweg{m}/脇道[わきみち]/
-Abwehr{f}/クリア[くりあ]/防御[ぼうぎょ]/押さえ[おさえ]/抑え[おさえ]/固め[かため]/ディフェンス[でぃふぇんす]/防衛[ぼうえい]/クリアー[くりあー]/
+Abwehr{f}/防御[ぼうぎょ]/
 abwehren{vt}/防ぐ[ふせぐ]/避ける[よける]/
-abweichen{vi}/異なる[ことなる]/狂う[くるう]/外れる[はずれる]/
-Abweichen{n}/逸脱[いつだつ]/
-abweichend{adj}{adv}/無軌道の[むきどうの]/
-Abweichung{f}/ずれ[ずれ]/歪み[ゆがみ]/逸脱[いつだつ]/誤差[ごさ]/
+abweichen{vi}/(von etwas ~)何から逸れる[なにからそれる]/
+Abweichung{f}/逸脱[いつだつ]/
 abweisen{vt}/戻す[もどす]/
 abweisend{adj}/けんもほろろの[けんもほろろの]/
 Abweisung{f}/却下[きゃっか]/拒絶[きょぜつ]/
@@ -552,7 +549,7 @@ Abwendung{f}/背離[はいり]/
 abwerben{vt}/引き抜く[ひきぬく]/
 Abwerfen{n}/排出[はいしゅつ]/
 Abwertung{f}/切り下げ[きりさげ]/
-Abwesenheit{f}/休み[やすみ]/不参加[ふさんか]/ぼんやり[ぼんやり]/留守[るす]/大空[おおぞら]/欠席[けっせき]/不在[ふざい]/
+Abwesenheit{f}/欠席[けっせき]/不在[ふざい]/
 Abwesenheitsrate{f}/欠席率[けっせきりつ]/
 abwickeln{vt}/残務を整理する[ざんむをせいりする]/
 Abwickeln{n}/後始末[あとしまつ]/
@@ -572,7 +569,7 @@ Abzeichen{n}/記[しるし]/章[しょう]/エンブレム[えんぶれむ]/
 Abziehbild{n}/転写画[てんしゃかく]/
 Abziehen{n}/焼き付け[やきつけ]/
 abziehen{vt}/引く[ひく]/落とす[おとす]/
-Abzug{m}/絵[え]/写し[うつし]/アウトレット[あうとれっと]/控除[こうじょ]/プリント[ぷりんと]/撤退[てったい]/引き金[ひきがね]/
+Abzug{m}/(Kopie) 焼き増し[やきまし]/(Rückzug) 撤退[てったい]/(finanziell) 控除[こうじょ]/
 Abzugskanal{m}/溝渠[こうきょ]/
 Abzugsschach{n}/明き王手[あきおうて]/
 Abzweig{m}/小道[こみち]/小径[こみち]/
