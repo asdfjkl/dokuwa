@@ -1406,9 +1406,9 @@ Anordnung{f}/(Gegenstände) 配列[はいれつ]/(Befehl) 指示[しじ]/
 anorganisch{adj}{adv}/無機の[むきの]/
 Anpassbarkeit{f}/カスタマイズ性[かすたまいずせい]/
 anpassen{vt}/揃える[そろえる]/
-Anpassung{f}/対応[たいおう]/応変[おうへん]/同化[どうか]/フィット[ふぃっと]/順応[じゅんおう]/適合[てきごう]/手直し[てなおし]/合わせ[あわせ]/適応[てきおう]/適応[てきおう]/カスタマイズ[かすたまいず]/調節[ちょうせつ]/
+Anpassung{f}/適合[てきごう]/
 anpassungsfähig{adj}{adv}/滑脱な[かつだつな]/
-Anpassungsfähigkeit{f}/弾力[だんりょく]/融通[ゆうずう]/応変[おうへん]/
+Anpassungsfähigkeit{f}/適合性 [てきごうせい]/
 Anpassungsprozess{m}/調整過程[ちょうせいかてい]/
 Anprall{m}/衝撃[しょうげき]/衝突[しょうとつ]/
 Anprobe{f}/試着室[しちゃくしつ]/
@@ -1416,10 +1416,10 @@ anprobieren{vt}/試着する[しちゃくする]/
 Anraten{n}/勧め[すすめ]/薦め[すすめ]/
 Anrechnung{f}/算入[さんにゅう]/
 Anrechnungspunkt{m}/単位[たんい]/
-anregen{vt}/促す[うながす]/励ます[はげます]/勧める[すすめる]/
+anregen{vt}/(vorschlagen) 提案する[ていあんする]/(beleben) 活発にする[かっぱつにする]/
 anregend{adj}{adv}/興味のある[きょうみのある]/
 Anreger{m}/発起人[ほっきにん]/
-Anregung{f}/勧め[すすめ]/薦め[すすめ]/発起[ほっき]/発案[はつあん]/触発[しょくはつ]/刺激[しげき]/激励[げきれい]/
+Anregung{f}/(Vorschlag) 提案[ていあん]/
 Anregungsmittel{n}/興奮剤[こうふんざい]/
 anreichern{vt}/選鉱する[せんこうする]/
 Anreicherung{f}/濃縮[のうしゅく]/
@@ -1429,7 +1429,7 @@ Anreißer{m}/呼び込み[よびこみ]/
 Anrichte{f}/調理台[ちょうりだい]/
 Anruf{m}/電話[でんわ]/呼びかけ[よびかけ]/
 Anrufbeantworter{m}/留守番電話[るすばんでんわ]/
-anrufen{vt}/祈る[いのる]/呼びかける[よびかける]/掛ける[かける]/
+anrufen{vt}/(Stimme) 呼びかける[よびかける]/(telefonieren) 電話する[でんわする]/
 Anrufung{f}/祈り[いのり]/
 anrüchig{adj}/如何わしい[いかがわしい]/
 anrühren{vt}/捏ねる[こねる]/
@@ -1437,26 +1437,26 @@ Ansage{f}/アナウンス[あなうんす]/
 ansagen{vt}/予告する[よこくする]/
 Ansager{m}/アナ[あな]/アナウンサー[あなうんさー]/
 ansammeln{vt}/凝らす[こらす]/
-Ansammlung{f}/集まり[あつまり]/オンパレード[おんぱれーど]/蓄積[ちくせき]/
+Ansammlung{f}/集まり[あつまり]/
 Ansatz{m}/アプローチ[あぷろーち]/
 Ansaugöffnung{f}/取り入れ口[とりいれぐち]/
-Anschaffung{f}/購入[こうにゅう]/調達[ちょうたつ]/買い付け[かいつけ]/買い上げ[かいあげ]/
+Anschaffung{f}/買い入れ[かいいれ]/
 Anschaffungskosten{pl}/実費[じっぴ]/
 Anschaffungspreis{m}/購買値段[こうばいねだん]/
 Anschaffungswert{m}/コスト[こすと]/
 anschaulich{adj}/具象的[ぐしょうてき]/
-Anschauung{f}/考え方[かんがえかた]/心構え[こころがまえ]/観念[かんねん]/思想[しそう]/
+Anschauung{f}/意見[いけん]/
 Anschauungsmaterial{n}/視覚教材[しかくきょうざい]/
 Anschauungsunterricht{m}/視覚教育[しかくきょういく]/
-Anschein{m}/様子[ようす]/見てくれ[みてくれ]/気配[けはい]/体裁[ていさい]/てい[てい]/外観[がいかん]/表面[ひょうめん]/
-Anschlag{m}/アタック[あたっく]/暗殺[あんさつ]/掲示[けいじ]/陰謀[いんぼう]/張り紙[はりがみ]/
+Anschein{m}/様子[ようす]/
+Anschlag{m}/(Bekanntmachung) ポスター[ぽすたー]/(Attentat) 暗殺[あんさつ]/
 Anschlagbrett{n}/ビルボード[びるぼーど]/
 Anschlagdrucker{m}/インパクト･プリンター[いんぱくとぷりんたー]/
 anschlagen{vt}/欠く[かく]/
 Anschlagen{n}/タッチ[たっち]/
 Anschlagsäule{f}/広告塔[こうこくとう]/
 Anschlagzettel{m}/ビラ[びら]/張り紙[はりがみ]/
-Anschluss{m}/連絡[れんらく]/端子[たんし]/接続[せつぞく]/連結[れんけつ]/
+Anschluss{m}/(Reise) 連絡[れんらく]/(Verbindung) 接続[せつぞく]/
 Anschlussflug{m}/乗り継ぎ便[のりつぎべん]/
 Anschlusslinie{f}/連絡線[れんらくせん]/
 Anschlussmarkt{m}/流通市場[りゅうつうしじょう]/
@@ -1471,29 +1471,29 @@ anschreiben{vt}{vi}/傍接させる[ぼうせつさせる]/
 Anschreiben{n}/売り掛け[うりかけ]/
 anschreien{vt}/怒鳴る[どなる]/
 Anschwellen{n}/膨らみ[ふくらみ]/
-anschwellen{vi}/増える[ふえる]/盛り上がる[もりあがる]/膨らむ[ふくらむ]/
+anschwellen{vi}/膨らむ[ふくらむ]/
 anschwärzen/塗る[ぬる]/
-Ansehen{n}/拝見[はいけん]/威勢[いせい]/人前[ひとまえ]/観覧[かんらん]/貫禄[かんろく]/手前[てまえ] N]/勢力[せいりょく]/肩身[かたみ]/名声[めいせい]/
-ansehen{vt}/見る[みる]/眺める[ながめる]/
-ansehnlich{adj}{adv}/相当[そうとう]/著しい[いちじるしい]/堂々[どうどう]/
-Ansicht{f}/見[けん]/見識[けんしき]/論[ろん]/考え[かんがえ]/判断[はんだん]/ビュー[びゅー]/意見[いけん]/オピニオン[おぴにおん]/所存[しょぞん]/案[あん]/説[せつ]/景観[けいかん]/主張[しゅちょう]/感想[かんそう]/見方[みかた]/思惑[おもわく]/議[ぎ]/所信[しょしん]/
+Ansehen{n}/(Ruf) 評判[ひょうばん]/(-> ansehen)/
+ansehen{vt}/見る[みる]/
+ansehnlich{adj}{adv}/立派な[りっぱな]/
+Ansicht{f}/(Meinung) 景観[けいかん]/(Landschaft) 景色[けしき]/
 Ansichtskarte{f}/絵葉書[えはがき]/
 Ansiedlung{f}/人里[ひとざと]/
 anspannen{vt}/張る[はる]/
-Anspannung{f}/緊張[きんちょう]/テンション[てんしょん]/
+Anspannung{f}/緊張[きんちょう]/
 anspielend{adj}/思わせ振りな[おもわせぶりな]/
 Anspielung{f}/風刺[ふうし]/ジェスチャー[じぇすちゃー]/
-Ansporn{m}/刺激[しげき]/勇[いさみ]/拍車[はくしゃ]/励み[はげみ]/激励[げきれい]/
+Ansporn{m}/激励[げきれい]/
 anspornend{adj}/やいのやいの[やいのやいの]/
 Ansprache{f}/挨拶[あいさつ]/演説[えんぜつ]/
 Ansprechen{n}/呼びかけ[よびかけ]/
-ansprechen{vt}/掛かる[かかる]/呼びかける[よびかける]/掛ける[かける]/話しかける[はなしかける]/
+ansprechen{vt}/話しかける[はなしかける]/
 ansprechend{adv}/愛敬のある[あいきょうのある]/
-Ansprechpartner{m}/担当者[たんとうしゃ]/窓口[まどぐち]/
+Ansprechpartner{m}/担当者[たんとうしゃ]/
 Ansprechstrom{m}/動作電流[どうさでんりゅう]/
 Ansprechzeit{f}/レスポンスタイム[れすぽんすたいむ]/
 anspringen{vi}/飛び掛かる[とびかかる]/
-Anspruch{m}/注文[ちゅうもん]/要求[ようきゅう]/クレーム[くれーむ]/
+Anspruch{m}/(Verlangen) 要求[ようきゅう]/(Anrecht) 請求権[せいきゅうけん]/
 anspruchslos{adj}{adv}/細やか[ささやか]/
 anspruchsvoll{adj}{adv}/険しい[けわしい]/
 anspucken{v}/唾を引っ掛ける[つばをひっかける]/
@@ -1507,33 +1507,33 @@ Anstecknadel{f}/ピン[ぴん]/
 Ansteckung{f}/感染[かんせん]/伝染[でんせん]/
 anstehen/そう[そう]/並ぶ[ならぶ]/
 ansteigend{adj}/険しい[けわしい]/
-Anstellung{f}/採用[さいよう]/起用[きよう]/職[しょく]/雇用[こよう]/
+Anstellung{f}/雇用[こよう]/
 Anstellungsprüfung{f}/登用試験[とうようしけん]/
 Anstellungsvertrag{m}/雇用契約[こようけいやく]/
 Anstellwinkel{m}/迎え角[むかえかく]/
-Anstieg{m}/向上[こうじょう]/登り[のぼり]/上昇[じょうしょう]/上り坂[のぼりざか]/勾配[こうばい]/高まり[たかまり]/
+Anstieg{m}/上り坂[のぼりざか]/
 Anstiegsrate{f}/上昇率[じょうしょうりつ]/
 anstiften{vt}/焚きつける[たきつける]/
 Anstifter{m}/張本人[ちょうほんにん]/
 Anstiftung{f}/煽動[せんどう]/
-Anstoß{m}/衝撃[しょうげき]/発起[ほっき]/弾み[はずみ]/モチベーション[もちべーしょん]/衝突[しょうとつ]/キックオフ[きっくおふ]/
+Anstoß{m}/衝撃[しょうげき]/
 anstoßen{vi}/支える[つっかえる]/
 Anstreichen{n}/塗装[とそう]/
 anstrengend{adj}{adv}/険しい[けわしい]/
-Anstrengung{f}/努力[どりょく]/骨折[ほねおり]/奔走[ほんそう]/苦労[くろう]/懸命[けんめい]/勤労[きんろう]/労力[ろうりょく]/一苦労[ひとくろう]/尽力[じんりょく]/奮発[ふんぱつ]/
-Anstrich{m}/塗装[とそう]/塗り[ぬり]/塗[ぬり]/塗料[とりょう]/
-Ansturm{m}/ダッシュ[だっしゅ]/突進[とっしん]/取り付け[とりつけ]/取付[とりつけ]/殺到[さっとう]/
+Anstrengung{f}/努力[どりょく]/
+Anstrich{m}/(Äußeres) 外見[がいけん]/(Farbe) /塗装[とそう]/
+Ansturm{m}/突撃[とつげき]/
 anständig{adj}/きちんと[きちんと]/
 Anständigkeit{f}/地道[じみち]/
 anstößig{adj}{adv}/如何わしい[いかがわしい]/
 Anstößigkeit{f}/尾ろう[びろう]/
 ansuchen{vt}/申請する[しんせいする]/
 Antagonist{m}/相手[あいて]/仇[かたき]/
-Anteil{m}/前[まえ]/割り[わり]/割合[わりあい]/負担[ふたん]/配慮[はいりょ]/配当[はいとう]/関係[かんけい]/配分[はいぶん]/
+Anteil{m}/分け前 [わけまえ]/
 Anteilhaber{m}/株主[かぶぬし]/
-Anteilnahme{f}/興味[きょうみ]/同情[どうじょう]/関心[かんしん]/思いやり[おもいやり]/関与[かんよ]/
+Anteilnahme{f}/関心[かんしん]/
 Antenne{f}/アンテナ[あんてな]/
-Anthologie{f}/詩集[ししゅう]/文集[ぶんしゅう]/アンソロジー[あんそろじー]/歌集[かしゅう]/
+Anthologie{f}/詞華集 [しかしゅう]/
 Anthrazit{n}/無煙炭[むえんたん]/
 Anthropologe{m}/人類学者[じんるいがくしゃ]/
 Anthropologie{f}/人類学[じんるいがく]/
@@ -1563,14 +1563,14 @@ Antimaterie{f}/反物質[はんぶっしつ]/
 Antimon{n}/亜アンチモン[ああんちもん]/
 antineoplastisch{adj}/抗がん性の[こうがんせいの]/
 Antioxidationsmittel{n}/酸化防止剤[さんかぼうしざい]/
-Antipathie{f}/嫌い[きらい]/反感[はんかん]/嫌悪[けんお]/
+Antipathie{f}/反感[はんかん]/
 Antiphlogistikum{n}/消炎剤[しょうえんざい]/
 Antipode{m}/対極[たいきょく]/
 antipodisch{adj}/対蹠的な[たいしょてきな]/
 Antipyretikum{n}/解熱剤[げねつざい]/
 Antiqua/アンティーク[あんてぃーく]/浪漫[ろーまん]/
 Antiquar{m}/古本屋[ふるほんや]/
-Antiquariat{n}/古本屋[ふるほんや]/古書店[こしょてん]/
+Antiquariat{n}/古書店[こしょてん]/
 antiquarisch{adj}/中古の[ちゅうぶるの]/
 Antiquität{f}/アンティーク[あんてぃーく]/骨董[こっとう]/
 Antiquitätengeschäft{n}/アンティーク･ショップ[あんてぃーくしょっぷ]/
@@ -1582,17 +1582,17 @@ Antiserum{n}/免疫血清[めんえきけっせい]/
 antithetisch{adj}/全く相反した[まったくあいはんした]/
 Antitoxin{n}/解毒剤[げどくざい]/
 Antivalenz{f}/排他的離接[はいたてきりせつ]/
-Antizipation{f}/期待[きたい]/観測[かんそく]/先取り[さきどり]/
+Antizipation{f}/観測[かんそく]/
 Antizyklone{f}/高気圧[こうきあつ]/
 Antlitz{n}/顔面[がんめん]/
 Antonym{n}/対義語[たいぎご]/
-Antrag{m}/願い[ねがい]/提案[ていあん]/請求[せいきゅう]/申し出[もうしで]/提言[ていげん]/プロポーズ[ぷろぽーず]/提出[ていしゅつ]/願[ねがい]/出願[しゅつがん]/申請[しんせい]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/訴え[うったえ]/
+Antrag{m}/申請[しんせい]/
 Antragsdelikt{n}/親告罪[しんこくざい]/
 Antragsteller{m}/応募者[おうぼしゃ]/
 Antragsunterlagen{pl}/申請書類[しんせいしょるい]/
 antreiben{vt}/煽る[あふる]/駆る[かる]/
 antreibend/やいやい[やいやい]/
-Antrieb{m}/勢い[いきおい]/駆動[くどう]/拍車[はくしゃ]/弾み[はずみ]/やる気[やるき]/推進[すいしん]/勢[いきおい]/モチーフ[もちーふ]/動機[どうき]/動機[どうき]/原動力[げんどうりょく]/
+Antrieb{m}/(Motivation) 動機[どうき]/(Maschine) 原動力[げんどうりょく]/
 Antriebsachse{f}/主軸[しゅじく]/
 Antriebskraft{f}/推進力[すいしんりょく]/
 Antriebsmaschine{f}/駆動装置[くどうそうち]/
@@ -1601,37 +1601,36 @@ Antriebswelle{f}/カップスタン[かっぷすたん]/
 Antritt{m}/上り口[あがりくち]/
 Antrittsrede{f}/就任演説[しゅうにんえんぜつ]/
 Antwerpen (Stadt in Belgien)/アントワープ[あんとわーぷ]/
-Antwort{f}/対応[たいおう]/挨拶[あいさつ]/返答[へんとう]/受け答え[うけこたえ]/返事[へんじ]/レスポンス[れすぽんす]/応答[おうとう]/解答[かいとう]/返信[へんしん]/回答[かいとう]/答え[こたえ]/答[こたえ]/答弁[とうべん]/
-Antwortkarte{f}/返信はがき[へんしんはがき]/
+Antwort{f}/返事[へんじ]/
 Antwortzeit{f}/レスポンスタイム[れすぽんすたいむ]/
 Anurie{f}/無尿症[むにょうしょう]/
-anvertrauen{vt}/頼む[たのむ]/託す[たくす]/寄せる[よせる]/預ける[あずける]/任せる[まかせる]/
+anvertrauen{vt}/任せる[まかせる]/
 anvertrautes Gut/受託物[じゅたくぶつ]/
 Anwaltsbüro{n}/法律事務所[ほうりつじむしょ]/
 Anwaltszulassung{f}/弁護士資格[べんごししかく]/
 anweisen{vt}/配る[くばる]/
-Anweisung{f}/指示[しじ]/指揮[しき]/命令[めいれい]/規定[きてい]/沙汰[さた]/心得[こころえ]/
+Anweisung{f}/指示[しじ]/
 Anweisungen{pl}/注意書き[ちゅういがき]/
 anwendbar{adv}/応用できる[おうようできる]/
 Anwender{m}/ユーザー[ゆーざー]/ユーザ[ゆーざ]/
 Anwenderprogramm{n}/アプリケーションソフトウェア[あぷりけーしょんそふとうぇあ]/
 Anwendersoftware{f}/アプリケーションソフト[あぷりけーしょんそふと]/
-Anwendung{f}/使い方[つかいかた]/適用[てきよう]/アプリケーション[あぷりけーしょん]/アプリケーション[あぷりけーしょん]/行使[こうし]/使用[しよう]/応用[おうよう]/アプリ[あぷり]/効用[こうよう]/活用[かつよう]/運用[うんよう]/
+Anwendung{f}/使用[しよう]/
 Anwendungsbereich{m}/適用範囲[てきようはんい]/
 Anwendungsfeld{n}/応用分野[おうようぶんや]/
 Anwendungsprogramm{n}/アプリケーションソフト[あぷりけーしょんそふと]/
 Anwendungssoftware{f}/アプリケーションソフト[あぷりけーしょんそふと]/
 anwerben{vt}/募る[つのる]/
 Anwerbung{f}/募集[ぼしゅう]/求人[きゅうじん]/
-Anwesen{n}/屋敷[やしき]/邸宅[ていたく]/財産[ざいさん]/
-Anwesende{m}{f}/観衆[かんしゅう]/来場者[らいじょうしゃ]/
-Anwesenheit{f}/出勤[しゅっきん]/来場[らいじょう]/出席[しゅっせき]/参列[さんれつ]/
+Anwesen{n}/屋敷[やしき]/
+Anwesende{m}{f}/出席者[しゅっせきしゃ]/
+Anwesenheit{f}/出席[しゅっせき]/
 Anwesenheitsliste{f}/出席簿[しゅっせきぼ]/
 Anwohner{m}/現地の人々[げんちのひとびと]/
 Anzahl{f}/多寡[たか]/
-Anzahlung{f}/入金[にゅうきん]/頭金[あたまきん]/
-Anzeichen{n}/記[しるし]/予兆[よちょう]/様子[ようす]/兆候[ちょうこう]/兆し[きざし]/胎動[たいどう]/兆[ちょう]/影[かげ]/気配[けはい]/鼓動[こどう]/痕跡[こんせき]/証拠[しょうこ]/前触れ[まえぶれ]/形跡[けいせき]/
-Anzeige{f}/表示[ひょうじ]/届出[とどけいで]/告訴[こくそ]/告発[こくはつ]/披露[ひろう]/告知[こくち]/届け[とどけ]/届[とどけ]/通知[つうち]/広告[こうこく]/
+Anzahlung{f}/頭金[あたまきん]/
+Anzeichen{n}/記[しるし]/
+Anzeige{f}/(Nachrichtentafel) 速報板[そくほうばん]/(Polizei) 告発[こくはつ]/
 Anzeigegerät{n}/インジケーター[いんじけーたー]/
 Anzeigelampe{f}/指示灯[しじとう]/
 anzeigen{vt}/言いつける[いいつける]/
@@ -1643,9 +1642,9 @@ Anzeiger{m}/起訴者[きそしゃ]/
 Anzeigetafel{f}/スコアボード[すこあぼーど]/
 anziehend{adv}/魅力的[みりょくてき]/
 Anziehung{f}/吸引[きゅういん]/
-Anziehungskraft{f}/魅力[みりょく]/アピール[あぴーる]/チャーム[ちゃーむ]/
+Anziehungskraft{f}/引力[いんりょく]/
 Anziehungspunkt{m}/呼び物[よびもの]/
-Anzug{m}/服[ふく]/洋服[ようふく]/衣装[いしょう]/衣裳[いしょう]/衣類[いるい]/揃い[そろい]/スーツ[すーつ]/
+Anzug{m}/スーツ[すーつ]/
 Anzüglichkeit{f}/当てこすり[あてこすり]/
 anzünden{vt}/放つ[はなつ]/燃やす[もやす]/
 Anämie{f}/貧血[ひんけつ]/
@@ -1684,10 +1683,10 @@ Apostille{f}/傍注[ぼうちゅう]/
 Apostroph{m}/アポストロフィ[あぽすとろふぃ]/
 Apotheke{f}/薬局[やっきょく]/
 Apotheker{m}/薬剤師[やくざいし]/
-Apparat{m}/セット[せっと]/装置[そうち]/内線[ないせん]/機械[きかい]/
+Apparat{m}/(Maschine) 機械[きかい]/(Telefon~) 電話[でんわ]/
 Apparatschik{m}/アパラチキ[あぱらちき]/
 Appartement{n}/アパルトマン[あぱるとまん]/
-Appell{m}/アピール[あぴーる]/呼びかけ[よびかけ]/訴え[うったえ]/
+Appell{m}/アピール[あぴーる]/
 Apperzeption{f}/統覚[とうかく]/
 Appetit{m}/食欲[しょくよく]/食い気[くいけ]/
 Appetitanreger{m}/アペタイザー[あぺたいざー]/
@@ -1719,9 +1718,9 @@ Araber{m}/アラブ人[あらぶじん]/
 Arabeske{f}/アラベスク[あらべすく]/
 arabisch{adj}/アラビア人の[あらびあじんの]/
 Aragonit{m}/あられ石[あられいし]/
-Arbeit{f}/仕事[しごと]/就労[しゅうろう]/仕業[しわざ]/職業[しょくぎょう]/操業[そうぎょう]/作り[つくり]/造り[つくり]/工[たくみ]/苦労[くろう]/働き[はたらき]/任務[にんむ]/論文[ろんぶん]/用事[ようじ]/職[しょく]/ワーク[わーく]/労務[ろうむ]/勤労[きんろう]/労[ろう]/ワーキング[わーきんぐ]/事業[じぎょう]/出来[でき]/用[よう]/所用[しょよう]/職務[しょくむ]/労力[ろうりょく]/就業[しゅうぎょう]/労働[ろうどう]/用達[ようたし]/作業[さぎょう]/巧み[たくみ]/工事[こうじ]/勤務[きんむ]/
+Arbeit{f}/仕事[しごと]/
 arbeiten{vi}/働く[はたらく]/務める[つとめる]/
-Arbeiter{m}/職人[しょくにん]/人手[ひとで]/労働者[ろうどうしゃ]/工[たくみ]/作業員[さぎょういん]/ワーカー[わーかー]/従業員[じゅうぎょういん]/工業[こうぎょう]/巧み[たくみ]/
+Arbeiter{m}/労働者[ろうどうしゃ]/
 Arbeiterbewegung{f}/労働運動[ろうどううんどう]/
 Arbeitergewerkschaft{f}/労働組合[ろうどうくみあい]/
 Arbeiterklasse{f}/労働者階級[ろうどうしゃかいきゅう]/
@@ -1736,7 +1735,7 @@ Arbeitsanzug{m}/作業服[さぎょうふく]/
 Arbeitsaufwand{m}/労働量[ろうどうりょう]/
 Arbeitsauslastung{f}/稼働率[かどうりつ]/
 Arbeitsbedingungen{pl}/労働条件[ろうどうじょうけん]/
-Arbeitsbeginn{m}/着手[ちゃくしゅ]/就業[しゅうぎょう]/始業[しぎょう]/
+Arbeitsbeginn{m}/始業[しぎょう]/
 Arbeitsbeschaffung{f}/授産[じゅさん]/
 Arbeitsbeschaffungsmaßnahme{f}/失業対策事業[しつぎょうたいさくじぎょう]/
 Arbeitsblatt{n}/ワークシート[わーくしーと]/
@@ -1752,7 +1751,7 @@ arbeitsfreudig/勤勉な[きんべんな]/
 Arbeitsfähigkeit{f}/労働能力[ろうどうのうりょく]/
 Arbeitsgang{m}/手順[てじゅん]/工程[こうてい]/
 Arbeitsgesetzgebung{f}/労働立法[ろうどうりっぽう]/
-Arbeitsgruppe{f}/サークル[さーくる]/ワークショップ[わーくしょっぷ]/
+Arbeitsgruppe{f}/作業班[さぎょうはん]/
 Arbeitsheft{n}/労働手帳[ろうどうてちょう]/
 Arbeitshypothese{f}/作業仮説[さぎょうかせつ]/
 arbeitsintensiv{adj}/労働集約的[ろうどうしゅうやくてき]/
@@ -1760,7 +1759,7 @@ Arbeitskampf{m}/労働争議[ろうどうそうぎ]/
 Arbeitskleidung{f}/作業服[さぎょうふく]/
 Arbeitskollege{m}/僚友[りょうゆう]/
 Arbeitskosten{pl}/作業費[さぎょうひ]/
-Arbeitskraft{f}/労力[ろうりょく]/人員[じんいん]/労働力[ろうどうりょく]/
+Arbeitskraft{f}/労働力[ろうどうりょく]/
 Arbeitskräfte{pl}/手[て]/
 Arbeitskräftemangel{m}/求人難[きゅうじんなん]/
 Arbeitslager{n}/労働収容所[ろうどうしゅうようしょ]/
@@ -1769,7 +1768,7 @@ Arbeitsleben{n}/労働生活[ろうどうせいかつ]/
 arbeitslos sein/遊ぶ[あそぶ]/
 Arbeitslosenquote{f}/失業率[しつぎょうりつ]/
 Arbeitslosenunterstützung{f}/失業手当[しつぎょうてあて]/
-Arbeitslosenversicherung{f}/雇用保険[こようほけん]/失業保険[しつぎょうほけん]/
+Arbeitslosenversicherung{f}/失業保険[しつぎょうほけん]/
 Arbeitslosigkeit{f}/失業[しつぎょう]/
 Arbeitsmarkt{m}/労働市場[ろうどうしじょう]/
 Arbeitsminister{m}/労働大臣[ろうどうだいじん]/
@@ -1778,7 +1777,7 @@ Arbeitsnorm{f}/ノルマ[のるま]/
 Arbeitsordnung{f}/就業規則[しゅうぎょうきそく]/
 Arbeitspferd{n}/役馬[えきば]/
 Arbeitsplan{m}/時間割[じかんわり]/
-Arbeitsplatz{m}/職場[しょくば]/仕事場[しごとば]/就職先[しゅうしょくさき]/勤務先[きんむさき]/勤め先[つとめさき]/
+Arbeitsplatz{m}/職場[しょくば]/
 Arbeitsplatzbewertung{f}/職務評価[しょくむひょうか]/
 Arbeitsplatzgestaltung{f}/人間工学[にんげんこうがく]/
 Arbeitsplatzsicherheit{f}/職業安定[しょくぎょうあんてい]/
@@ -1808,8 +1807,8 @@ Arbeitsvermittlung{f}/就職斡旋[しゅうしょくあっせん]/
 Arbeitsvertrag{m}/雇用契約[こようけいやく]/
 Arbeitsverwaltung{f}/労務管理[ろうむかんり]/
 Arbeitsweise{f}/働き振り[はたらきぶり]/
-Arbeitszeit{f}/時間[じかん]/労働時間[ろうどうじかん]/
-Arbeitszimmer{n}/書房[しょぼう]/勉強部屋[べんきょうべや]/書院[しょいん]/書斎[しょさい]/
+Arbeitszeit{f}/労働時間[ろうどうじかん]/
+Arbeitszimmer{n}/研究室[けんきゅうしつ]/
 Arbitrage{f}/さや取り[さやとり]/
 Archaikum{n}/始生代[しせいだい]/
 archaisch{adj}/古臭い[ふるくさい]/
@@ -1822,7 +1821,7 @@ Architektur{f}/建築[けんちく]/
 Architekturgeschichte{f}/建築史[けんちくし]/
 Architekturschule{f}/建築学校[けんちくがっこう]/
 Architrav{m}/大輪[だいわ]/
-Archiv{n}/記録[きろく]/書庫[しょこ]/資料室[しりょうしつ]/
+Archiv{n}/公文書館[こうぶんしょかん]/
 Archivar{m}/記録係[きろくがかり]/
 archivieren{vt}/アーカイブに入れる[あーかいぶにいれる]/
 Archäologe{m}/考古学者[こうこがくしゃ]/
@@ -1831,7 +1830,7 @@ Arena{f}/アリーナ[ありーな]/
 Argentinier{m}/アルゼンチン人[あるぜんちんじん]/
 argentinisch{adj}/アルゼンチンの[あるぜんちんの]/
 Argentit{m}/輝銀鉱[きぎんこう]/
-Arglist{f}/悪質[あくしつ]/悪意[あくい]/悪意[あくい]/
+Arglist{f}/悪意[あくい]/
 arglos{adj}{adv}/何気ない[なにげない]/他愛もない[たわいもない]/
 Arglosigkeit{f}/無邪気[むじゃき]/天真爛漫[てんしんらんまん]/
 Argument{n}/論[ろん]/議論[ぎろん]/理屈[りくつ]/
