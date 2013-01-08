@@ -1831,12 +1831,12 @@ Argentinier{m}/アルゼンチン人[あるぜんちんじん]/
 argentinisch{adj}/アルゼンチンの[あるぜんちんの]/
 Argentit{m}/輝銀鉱[きぎんこう]/
 Arglist{f}/悪意[あくい]/
-arglos{adj}{adv}/何気ない[なにげない]/他愛もない[たわいもない]/
-Arglosigkeit{f}/無邪気[むじゃき]/天真爛漫[てんしんらんまん]/
-Argument{n}/論[ろん]/議論[ぎろん]/理屈[りくつ]/
+arglos{adj}{adv}/無邪気な[むじゃきな]/
+Arglosigkeit{f}/無邪気[むじゃき]/
+Argument{n}/論拠[ろんきょ]/
 Argumentation{f}/論[ろん]/
 argumentieren{vi}/論じる[ろんじる]/
-Argwohn{m}/疑惑[ぎわく]/疑心[ぎしん]/不信[ふしん]/疑念[ぎねん]/疑い[うたがい]/
+Argwohn{m}/猜疑[さいぎ]/
 arhythmisch{adj}/不整脈の[ふせいみゃくの]/
 Arie{f}/アリア[ありあ]/
 Arier{m}/アーリア人[あーりあじん]/
@@ -1849,19 +1849,19 @@ Arkadien{n}/桃源郷[とうげんきょう]/
 Arktis{f}/北極帯[ほっきょくだい]/
 arktisch{adj}/北極の[ほっきょくの]/
 Arkus{m}/弧[こ]/
-Arm{m}/手[て]/アーム[あーむ]/アーム[あーむ]/アーム[あーむ]/
-arm{adj}{adv}/苦しい[くるしい]/貧しい[まずしい]/乏しい[とぼしい]/しがない[しがない]/プア[ぷあ]/プア[ぷあ]/可哀相[かわいそう]/可哀想[かわいそう]/
+Arm{m}/腕[うで]/
+arm{adj}{adv}/貧乏な[びんぼうな]/
 Armada{m}/艦隊[かんたい]/
 Armatur{f}/アーマチュア[あーまちゅあ]/
 Armaturenbrett{n}/ダッシュボード[だっしゅぼーど]/
 Armband{n}{m}/ブレスレット[ぶれすれっと]/
-Armbanduhr{f}/ウォッチ[うぉっち]/ウオッチ[うおっち]/腕時計[うでどけい]/
+Armbanduhr{f}/腕時計[うでどけい]/
 Armbeuge{f}/腕の湾曲部[うでのわんきょくぶ]/
 Armbinde{f}/腕章[わんしょう]/
 Armbrust{f}/弩[いしゆみ]/
 Armdrücken{n}/腕相撲[うでずもう]/
 Arme{m}/上肢[じょうし]/
-Armee{f}/兵[へい]/軍隊[ぐんたい]/ミリタリー[みりたりー]/陸軍[りくぐん]/
+Armee{f}/軍隊[ぐんたい]/
 Armeeoffizier{m}/陸軍将校[りくぐんしょうこう]/
 Armenhaus{n}/貧民院[ひんみんいん]/
 Armenier{m}/アルメニヤ人[あるめにやじん]/
@@ -1873,27 +1873,27 @@ Armleuchter{pl}/昼行灯[ひるあんどん]/
 Armloch{n}/アームホール[あーむほーる]/
 Armreif{m}/ブレスレット[ぶれすれっと]/
 Armschutz{m}/アーム･ガード[あーむがーど]/
-armselig{adv}{adj}/寒い[さむい]/貧しい[まずしい]/情けない[なさけない]/乏しい[とぼしい]/
-Armseligkeit{f}/不便[ふびん]/惨め[みじめ]/不憫[ふびん]/貧弱[ひんじゃく]/
-Armut{f}/貧乏[びんぼう]/不自由[ふじゆう]/貧弱[ひんじゃく]/貧困[ひんこん]/貧[ひん]/
+armselig{adv}{adj}/見すぼらしい[みずぼらしい]/
+Armseligkeit{f}/(-> armselig)/
+Armut{f}/貧乏[びんぼう]/
 Arnika{n}/アルニカ[あるにか]/
-Aroma{n}/味[あじ]/香料[こうりょう]/味わい[あじわい]/匂い[におい]/香味[こうみ]/芳香[ほうこう]/フレーバー[ふれーばー]/香り[かおり]/薫り[かおり]/アロマ[あろま]/
-Aromatherapie{f}/アロマテラピー[あろまてらぴー]/アロマセラピー[あろませらぴー]/
+Aroma{n}/(Geschmack) 味[あじ]/(Geruch) 香り[かおり]/
+Aromatherapie{f}/アロマテラピー[あろまてらぴー]/
 aromatisch{adv}/香ばしい[こうばしい]/
 Aronstab{m}/コンニャク[こんにゃく]/
 Arpeggio{n}/アルペジオ[あるぺじお]/
 Arrangeur{m}/世話人[せわにん]/
-arrangieren{vt}/配る[くばる]/設ける[もうける]/
+arrangieren{vt}/(vorbereiten) 準備する[じゅんびする]/(anordnen) 手配りをする[てくばりをする]/
 Arrestzelle{f}/営倉[えいそう]/
 Arrhythmie{f}/不整脈[ふせいみゃく]/
-Arroganz{f}/我慢[がまん]/鼻息[びそく]/傲慢[ごうまん]/
+Arroganz{f}/横柄 [おうへい]/
 Arsch{m}/尻[けつ]/
 Arschloch{n}/けつの穴[けつのあな]/
 Arsen{n}/アルセニック[あるせにっく]/
 Arsenkies{m}/硫ひ鉄鉱[りゅうひてっこう]/
 Arsenvergiftung{f}/ヒ素中毒[ひそちゅうどく]/
-Art{f}/通り[とおり]/種[たね]/部類[ぶるい]/式[しき]/有様[ありよう]/類[るい]/仕方[しかた]/属[ぞく]/種目[しゅもく]/毛色[けいろ]/持ち前[もちまえ]/種類[しゅるい]/種族[しゅぞく]/品種[ひんしゅ]/
-Art und Weise{f}/手[て]/具合[ぐあい]/方法[ほうほう]/通り[とおり]/通り[とおり]/手口[てぐち]/やり方[やりかた]/流儀[りゅうぎ]/仕様[しよう]/調子[ちょうし]/
+Art{f}/(Sorte) 種類[しゅるい]/(Methode) やり方[やりかた]/
+Art und Weise{f}/やり方[やりかた]/
 Artefakt{n}/人為[じんい]/
 Arterie{f}/動脈[どうみゃく]/
 Arterienverkalkung{f}/動脈硬化[どうみゃくこうか]/
@@ -1901,8 +1901,8 @@ Arterienwand{f}/動脈壁[どうみゃくへき]/
 Arteriosklerose{f}/動脈硬化[どうみゃくこうか]/
 Arthritis{f}/関節炎[かんせつえん]/
 Arthrose{f}/関節症[かんせつしょう]/
-Artigkeit{f}/丁寧[ていねい]/愛想[あいそう]/
-Artikel{m}/記事[きじ]/題目[だいもく]/物件[ぶっけん]/品目[ひんもく]/条項[じょうこう]/項[こう]/品物[しなもの]/品[しな]/論文[ろんぶん]/箇条[かじょう]/物資[ぶっし]/事項[じこう]/規定[きてい]/商品[しょうひん]/製品[せいひん]/著作[ちょさく]/物品[ぶっぴん]/
+Artigkeit{f}/丁寧[ていねい]/
+Artikel{m}/(Zeitungs~) 記事[きじ]/(Ware) 品物[しなもの]/
 Artikelnummer{f}/品番[ひんばん]/
 Artikulation{f}/発音[はつおん]/
 Artillerie{f}/砲兵[ほうへい]/
@@ -1911,12 +1911,12 @@ Artillerist{m}/砲兵[ほうへい]/
 Artischocke{f}/アーティチョーク[あーてぃちょーく]/
 Artist{m}/芸人[げいにん]/
 Artname{m}/種名[しゅめい]/
-Arznei{f}/薬[くすり]/医薬[いやく]/薬味[やくみ]/医薬品[いやくひん]/薬剤[やくざい]/
+Arznei{f}/薬[くすり]/
 Arzneiform{f}/剤形[ざいけい]/
 Arzneikosten{pl}/薬代[やくだい]/
-Arzneimittel{n}/薬[くすり]/医薬[いやく]/薬物[やくぶつ]/薬品[やくひん]/
+Arzneimittel{n}/薬[くすり]/
 Arzneimittelgesetz{n}/薬事法[やくじほう]/
-Arzt{m}/医者[いしゃ]/匙[さじ]/医師[いし]/医[い]/ドクター[どくたー]/
+Arzt{m}/医者[いしゃ]/
 Arztberuf{m}/医業[いぎょう]/
 Arzthonorar{n}/薬礼[やくれい]/
 Arztzimmer{n}/医局[いきょく]/
@@ -1941,7 +1941,7 @@ Askese{f}/工夫[くふう]/
 Asket{m}/行者[ぎょうじゃ]/
 Asketismus{m}/禁欲主義[きんよくしゅぎ]/
 asozial{adj}/反社会的[はんしゃかいてき]/
-Aspekt{m}/姿[すがた]/観点[かんてん]/相[そう]/視点[してん]/見方[みかた]/
+Aspekt{m}/見方[みかた]/
 Asphalt{m}/アスファルト[あすふぁると]/舗装[ほそう]/
 Asphaltbeton{m}/アスコン[あすこん]/
 asphaltieren{vt}/アスファルトを敷く[あすふぁるとをしく]/
@@ -1950,15 +1950,15 @@ asphyktisch{adj}/仮死の[かしの]/
 Aspik{m}/アスピック[あすぴっく]/
 Aspirant{m}/志願者[しがんしゃ]/
 Aspiration{f}/吸引[きゅういん]/
-aspirieren{vt}/飲む[のむ]/吸う[すう]/呑む[のむ]/
-Ass{n}/サービス･エイス[さーびすえいす]/
+aspirieren{vt}/(einatmen) 吸う[すう]/
+Ass{n}/(der Beste) 第一人者 [だいいちにんしゃ]/(Spielkarten) エース[えーす]/
 Assekuranz{f}/保険[ほけん]/
 Assembler{m}/アセンブラ[あせんぶら]/
 Assemblersprache{f}/アセンブラー言語[あせんぶらーげんご]/
 Assimilation{f}/摂取[せっしゅ]/同化[どうか]/
 assimilieren{vt}/摂取する[せっしゅする]/
 Assimilierung{f}/同化[どうか]/
-Assistent{m}/アシスタント[あしすたんと]/補佐[ほさ]/ウィザード[うぃざーど]/助手[じょしゅ]/
+Assistent{m}/助手[じょしゅ]/
 Assonanz{f}/類音[るいおん]/
 Assoziation{f}/連合[れんごう]/連想[れんそう]/
 Assoziationstest{m}/連想テスト[れんそうてすと]/
@@ -1972,7 +1972,7 @@ astigmatisch{adj}/乱視の[らんしの]/
 Astloch{n}/節穴[ふしあな]/
 astral{adv}/星気の[せいきの]/
 Astrologe{m}/星占い師[ほしうらないし]/
-Astrologie{f}/占星術[せんせいじゅつ]/星占い[ほしうらない]/
+Astrologie{f}/星占い[ほしうらない]/
 astrologisch{adj}{adv}/占星術上の[せんせいじゅつじょうの]/
 Astrometrie{f}/位置天文学[いちてんもんがく]/
 Astronom{m}/天文学者[てんもんがくしゃ]/
@@ -1988,7 +1988,7 @@ Asynchronmotor{m}/誘導電動機[ゆうどうでんどうき]/
 Aszendent{m}/尊属[そんぞく]/
 Atavismus{m}/隔世遺伝[かくせいいでん]/
 Ataxie{f}/運動失調[うんどうしっちょう]/
-Atem{m}/息[いき]/気合い[きあい]/気合[きあい]/ブレス[ぶれす]/息吹[いぶき]/呼吸[こきゅう]/
+Atem{m}/呼吸[こきゅう]/
 Atembeschwerden{pl}/呼吸困難[こきゅうこんなん]/
 Atemgeräusche{pl}/ぐう[ぐう]/
 Atemloch{n}/噴気孔[ふんきこう]/
@@ -1999,7 +1999,7 @@ Atemzug{m}/息[いき]/呼吸[こきゅう]/
 Atemübung{f}/呼吸運動[こきゅううんどう]/
 Atheismus{m}/無神論[むしんろん]/
 Atheist{m}/無神論者[むしんろんしゃ]/
-Athlet{m}/アスリート[あすりーと]/スポーツ選手[すぽーつせんしゅ]/スポーツマン[すぽーつまん]/
+Athlet{m}/スポーツ選手[すぽーつせんしゅ]/
 athletisch{adj}{adv}/アスレチック[あすれちっく]/
 Atlantik{m}/大西洋[たいせいよう]/
 atlantisch{adj}/大西洋の[たいせいようの]/
@@ -2007,12 +2007,12 @@ Atlas{m}/地図[ちず]/
 Atlasspat{m}/繊維石膏[せんいせっこう]/
 Atmen{n}/息[いき]/ブレス[ぶれす]/
 atmen{vi}/通う[かよう]/吐く[つく]/
-Atmosphäre{f}/気分[きぶん]/情緒[じょうしょ]/大気[たいき]/雰囲気[ふんいき]/
+Atmosphäre{f}/(Wetter) 大気[たいき]/{fig.} 雰囲気[ふんいき]/
 Atmosphärendruck{m}/気圧[きあつ]/
 atmosphärisch{adj}{adv}/大気の[たいきの]/
-Atmung{f}/息[いき]/呼吸[こきゅう]/呼吸[こきゅう]/
-Atoll{n}{m}/島[しま]/嶋[しま]/
-Atom{n}/アトム[あとむ]/原子[げんし]/原子[げんし]/
+Atmung{f}/呼吸[こきゅう]/
+Atoll{n}{m}/島[しま]/
+Atom{n}/原子[げんし]/
 Atom-U-Boot{n}/原子力潜水艦[げんしりょくせんすいかん]/
 atomar{adj}{adv}/アトミック[あとみっく]/
 Atombatterie{f}/原子力電池[げんしりょくでんち]/
@@ -2049,27 +2049,27 @@ Atopie{f}/アトピー[あとぴー]/
 Atrium{n}/アトリウム[あとりうむ]/
 Atrophie{f}/萎縮[いしゅく]/
 Attaché{m}/アタッシュ[あたっしゅ]/
-Attentäter{m}/加害者[かがいしゃ]/刺客[しきゃく]/暗殺者[あんさつしゃ]/
+Attentäter{m}/暗殺者[あんさつしゃ]/
 Attest{n}/証明書[しょうめいしょ]/
-Attraktion{f}/看板[かんばん]/誘致[ゆうち]/アトラクション[あとらくしょん]/
+Attraktion{f}/人寄せ[ひとよせ]/
 Attraktivität{f}/愛嬌[あいきょう]/
 Attribut{n}/属性[ぞくせい]/
 Aubergine{f}/茄子[なすび]/
-Audienz{f}/目見え[めみえ]/お目見え[おめみえ]/
+Audienz{f}/引見[いんけん]/
 Audienzzimmer{n}/引見室[いんけんしつ]/
 Audimax{n}/大講堂[だいこうどう]/
 Aue{f}/水郷[すいごう]/
 Auerochse{m}/オーロックス[おーろっくす]/
-auf{prp; wo? +Dativ}{prp; wohin? +Akkusativ}/に[に]/之[の]/
+auf{prp; wo? +Dativ}{prp; wohin? +Akkusativ}/の上に[のうえに]/
 auf dem neuesten Stand/アップツーデート[あっぷつーでーと]/
 auf dem Rücken liegend{adj}/仰むけの[あおむけの]/
 auf den Knien rutschen/躄る[いざる]/
 auf der ganzen Welt/世界中[せかいちゅう]/
-auf der Stelle/早速[さっそく]/急に[きゅうに]/即[そく]/即刻[そっこく]/いち早く[いちはやく]/直ぐに[すぐに]/即時[そくじ]/即座に[そくざに]/
+auf der Stelle/即刻[そっこく]/
 auf die Dauer/長く間には[ながくあいだには]/
 auf die Straße setzen/追い出す[おいだす]/
 auf eigene Gefahr/身を捨てて[みをすてて]/
-auf einmal/どっと[どっと]/ばったり[ばったり]/突如[とつじょ]/俄然[がぜん]/一躍[いちやく]/一度に[いちどに]/
+auf einmal/突如[とつじょ]/
 auf etw. achten/見る[みる]/
 auf etw. basieren/踏まえている[ふまえている]/
 auf etw. bestehen/てこでも動かない[てこでもうごかない]/
@@ -2078,19 +2078,18 @@ auf Grund laufen{vi}/乗り上げる[のりあげる]/
 auf Probe/試験的に[しけんてきに]/
 auf Schritt und Tritt/至る所[いたるところ]/
 auf Schwierigkeiten stoßen/難関に逢着する[なんかんにほうちゃくする]/
-auf sich nehmen/持つ[もつ]/引き受ける[ひきうける]/担う[になう]/
+auf sich nehmen/引き受ける[ひきうける]/
 auf sich selbst gestellt sein/自力でやっていかねばならなくなる[じりきでやっていかねばならなくなる]/
-Auf und Ab{n}/波乱万丈[はらんばんじょう]/一進一退[いっしんいったい]/栄枯盛衰[えいこせいすい]/曲折[きょくせつ]/栄枯[えいこ]/起伏[きふく]/
-Auf Wiedersehen!/さよなら[さよなら]/サヨナラ[さよなら]/
+Auf Wiedersehen!/さよなら[さよなら]/
 auf Zehenspitzen/抜き足で[ぬきあしで]/
 aufatmen{vi}/撫で下ろす[なでおろす]/
-Aufbau{m}/作り[つくり]/造り[つくり]/セットアップ[せっとあっぷ]/体質[たいしつ]/建設[けんせつ]/建造[けんぞう]/構成[こうせい]/構造[こうぞう]/献立[こんだて]/
+Aufbau{m}/(Errichtung) 建設[けんせつ]/(Struktur) 構成[こうせい]/
 Aufbaustudium{n}/研究科[けんきゅうか]/
 aufbereiten{vt}/選鉱する[せんこうする]/
 Aufbereitung{f}/選鉱[せんこう]/
-Aufbewahrung{f}/収納[しゅうのう]/保管[ほかん]/キープ[きーぷ]/温存[おんぞん]/預かり[あずかり]/貯蔵[ちょぞう]/
+Aufbewahrung{f}/保管[ほかん]/
 Aufbewahrungsgebühr{f}/保管料[ほかんりょう]/
-Aufbewahrungsort{m}/置き場[おきば]/置き場所[おきばしょ]/
+Aufbewahrungsort{m}/置き場所[おきばしょ]/
 Aufbewahrungsschein{m}/預かり[あずかり]/
 aufbieten{vt}/出動を命じられる[しゅつどうをめいじられる]/
 aufbinden{vt}/結び目を解く[むすびめをとく]/
@@ -2100,36 +2099,35 @@ aufblähen{vt}/膨らます[ふくらます]/
 aufblühen{vi}/日の出の勢いである[ひのでのいきおいである]/
 aufbohren{vt}/パワーアップする[ぱわーあっぷする]/
 Aufbrausen{n}/気早[きばや]/
-aufbrechen{vi}/出る[でる]/立つ[たつ]/出かける[でかける]/出掛ける[でかける]/起こす[おこす]/開く[ひらく]/
-Aufbruch{m}/お出かけ[おでかけ]/発足[ほっそく]/お出掛け[おでかけ]/出掛け[でかけ]/
+aufbrechen{vi}/(fortgehen) 出かける[でかける]/
+Aufbruch{m}/出発[しゅっぱつ]/
 aufdecken/暴く[あばく]/
 aufdrehen/捻る[ねじる]/
 aufdringlich{adv}{adj}/しつこい[しつこい]/
-Aufdringlichkeit{f}/押し[おし]/執拗[しつよう]/
+Aufdringlichkeit{f}/執拗[しつよう]/
 Aufdruck{m}/模様[もよう]/
 Aufdrängen{n}/押付け[おしつけ]/
 aufdrücken{vt}/押し開ける[おしあける]/
 aufeinander abstimmen{vt}/合わせる[あわせる]/
-Aufeinanderfolge{f}/続き[つづき]/連続[れんぞく]/
-Aufenthalt{m}/滞在[たいざい]/停車[ていしゃ]/駐在[ちゅうざい]/収容[しゅうよう]/所在[しょざい]/
+Aufeinanderfolge{f}/続き[つづき]/
+Aufenthalt{m}/滞在[たいざい]/
 Aufenthaltsberechtigung{f}/在留資格[ざいりゅうしかく]/
 Aufenthaltsdauer{f}/滞在期間[たいざいきかん]/
 Aufenthaltserlaubnis{f}/滞在許可書[たいざいきょかしょ]/
-Aufenthaltsort{m}/行方[いきがた]/行き方[いきがた]/居場所[いばしょ]/行き先[いきさき]/所在[しょざい]/
+Aufenthaltsort{m}/滞在地[たいざいち]/
 auferlegen{vt}/掛ける[かける]/
 Auferstehung{f}/蘇生[そせい]/更生[こうせい]/
 aufessen{vt}/食べ尽くす[たべつくす]/
 auffahren{vt}/跳ねる[はねる]/
 Auffahrt{f}/路地[ろじ]/
 Auffahrunfall{m}/追突[ついとつ]/
-auffallen{vi}/目立つ[めだつ]/目に付く[めにつく]/
-auffallend{adv}/くっきり[くっきり]/著しい[いちじるしい]/
+auffallen{vi}/目立つ[めだつ]/
+auffallend{adv}/くっきり[くっきり]/
 Auffanggesellschaft{f}/受け皿会社[うけざらかいしゃ]/
-Auffassung{f}/目[め]/考え[かんがえ]/意見[いけん]/眼[め]/見方[みかた]/解釈[かいしゃく]/議[ぎ]/思想[しそう]/
+Auffassung{f}/解釈[かいしゃく]/
 Auffassungsgabe{f}/悟り[さとり]/覚[さとり]/
-auffliegen{vi}/空く[あく]/飛び立つ[とびたつ]/
-Aufforderung{f}/挑戦[ちょうせん]/催促[さいそく]/お召し[おめし]/申し出[もうしで]/勧誘[かんゆう]/
-Aufforstung{f}/緑化[りょっか]/植林[しょくりん]/
+Aufforderung{f}/要請[ようせい]/
+Aufforstung{f}/植林[しょくりん]/
 Auffrischen{n}/ブラッシュアップ[ぶらっしゅあっぷ]/
 auffrischen/リフレッシュする[りふれっしゅする]/
 Auffrischung{f}/リフレッシュ[りふれっしゅ]/
@@ -2138,43 +2136,43 @@ Auffälligkeit{f}/派手[はで]/
 Aufführungsrecht{n}/興行権[こうぎょうけん]/
 auffüllen{vt}/注ぐ[つぐ]/
 Auffüllung{f}/裏込め[うらごめ]/
-Aufgabe{f}/問題[もんだい]/題目[だいもく]/使命[しめい]/係[かかり]/部署[ぶしょ]/ギブアップ[ぎぶあっぷ]/任務[にんむ]/リタイア[りたいあ]/放棄[ほうき]/課題[かだい]/題[だい]/見切り[みきり]/割愛[かつあい]/役目[やくめ]/官[つかさ]/本分[ほんぶん]/司[つかさ]/
+Aufgabe{f}/(Arbeit) 仕事[しごと]/(Auftrag) 課題[かだい]/(Verzicht) 断念[だんねん]/
 Aufgabenbereich{m}/管内[かんない]/
-aufgeben{vi}/出す[だす]/見極める[みきわめる]/控える[ひかえる]/投げる[なげる]/捨てる[すてる]/
+aufgeben{vi}/(verzichten) 放棄する[ほうきする]/(Paket) 出す[だす]/
 aufgeblasen{adj}{adv}/意気揚揚たる[いきようようたる]/
-Aufgeblasenheit{f}/誇張[こちょう]/意気揚々[いきようよう]/
+Aufgeblasenheit{f}/威張った調子[いばったちょうし]/
 Aufgebot{m}/掲示[けいじ]/
 aufgedonnert{adj}/あくどい[あくどい]/
 aufgedunsen{adj}{adv}/ぶくぶく[ぶくぶく]/
-aufgehen{vi}/上がる[あがる]/空く[あく]/上る[のぼる]/登る[のぼる]/昇る[のぼる]/立つ[たつ]/打ち込む[うちこむ]/開く[ひらく]/
+aufgehen{vi}/(Tür) 開く[ひらく]/(Sonne) 出る[でる]/
 Aufgeklärtheit{f}/開化[かいか]/
-aufgeregt{adj}{adv}/わくわく[わくわく]/騒がしい[さわがしい]/
+aufgeregt{adj}{adv}/騒がしい[さわがしい]/
 aufgerichtet{adv}/直立の[ちょくりつの]/
 Aufgeschlossenheit{f}/英気[えいき]/
 Aufgewühltheit{f}/かっか[かっか]/
 aufgreifen{vt}/取り上げる[とりあげる]/
 Aufguss{m}/湯薬[とうやく]/
-aufhalten{vt}/止める[とめる]/制する[せいする]/制す[せいす]/
+aufhalten{vt}/(Tür) 開けておく[あけておく]/(vereiteln) 阻止する[そしする]/
 Aufheben{n}/ピックアップ[ぴっくあっぷ]/
-Aufhebung{f}/中止[ちゅうし]/廃止[はいし]/廃棄[はいき]/破棄[はき]/撤廃[てっぱい]/
+Aufhebung{f}/廃止[はいし]/
 Aufheiterung{f}/激励[げきれい]/
 aufhellen{vt}/解き明かす[ときあかす]/
 Aufhetzung{f}/煽動[せんどう]/
 aufholen{vt}/追いつく[おいつく]/
 aufhängen/掛ける[かける]/
 Aufhängung{f}/懸架[けんか]/
-aufhäufen{vt}/重ねる[かさねる]/盛り上げる[もりあげる]/
-aufhören{vi}/上がる[あがる]/辞める[やめる]/置く[おく]/途切れる[とぎれる]/央[おう]/止む[やむ]/
+aufhäufen{vt}/盛り上げる[もりあげる]/
+aufhören{vi}/辞める[やめる]/
 Aufkauf{m}/買収[ばいしゅう]/
 aufkaufen{vt}/買い込む[かいこむ]/
 Aufkleben{n}/貼付[てんぷ]/
-aufkleben{vt}/はる[はる]/貼る[はる]/貼り付ける[はりつける]/
-Aufkleber{m}/ペーパー[ぺーぱー]/シール[しーる]/ステッカー[すてっかー]/張り紙[はりがみ]/レーベル[れーべる]/
+aufkleben{vt}/貼り付ける[はりつける]/
+Aufkleber{m}/ステッカー[すてっかー]/
 aufklinken{vt}/掛け金を外す[かけがねをはずす]/
-aufklären{vt}/解く[とく]/晴らす[はらす]/明らかにする[あきらかにする]/
+aufklären{vt}/(Verdacht) 晴らす[はらす]/(Wetter) 晴れる[はれる]/
 aufklärend/啓蒙的な[けいもうてきな]/
 Aufklärer{m}/偵察機[ていさつき]/
-Aufklärung{f}/情報[じょうほう]/もう[もう]/開発[かいはつ]/諜報[ちょうほう]/偵察[ていさつ]/啓蒙[けいもう]/啓発[けいはつ]/蒙[もう]/
+Aufklärung{f}/(Epoche) 啓蒙主義[けいもうしゅぎ]/解明[かいめい]/(Sexualerziehung) 性教育[せいきょういく]/
 Aufklärungsflug{m}/偵察飛行[ていさつひこう]/
 Aufklärungsflugzeug{n}/偵察機[ていさつき]/
 aufknöpfen{vt}/ボタンを外す[ぼたんをはずす]/
@@ -2184,36 +2182,36 @@ Auflage{f}/大台[おおだい]/
 Auflager{n}/靴[くつ]/
 Auflauf{m}/スフレ[すふれ]/
 Auflaufform{f}/グラタン皿[ぐらたんざら]/
-auflegen{vt}/切る[きる]/斬る[きる]/掛ける[かける]/合わせる[あわせる]/
-Auflehnung{f}/反抗[はんこう]/反乱[はんらん]/
+auflegen{vt}/載せる[のせる]/
+Auflehnung{f}/反抗[はんこう]/
 aufleuchten{vi}/夜光の[やこうの]/
-Auflistung{f}/列挙[れっきょ]/リストアップ[りすとあっぷ]/
-auflösen{vt}/とく[とく]/解く[とく]/
-Auflösung{f}/解消[かいしょう]/謎解き[なぞとき]/解体[かいたい]/解散[かいさん]/解答[かいとう]/
+Auflistung{f}/列挙[れっきょ]/
+auflösen{vt}/(Vertrag) 解約する[かいやくする]/(Frage) 解答する[かいとうする]/
+Auflösung{f}/解答[かいとう]/
 Auflösungsvermögen{n}/分解能[ぶんかいのう]/
 Auflösungszeichen{n}/ナチュラル[なちゅらる]/
 aufmachen{vt}/開く[ひらく]/解く[とく]/
 Aufmacher{m}/大見出し[おおみだし]/
-Aufmachung{f}/姿[すがた]/装い[よそおい]/装丁[そうてい]/外観[がいかん]/
-aufmerksam{adj}{adv}/強い[つよい]/頓[ひたすら]/気の利いた[きのきいた]/
+Aufmachung{f}/外装[がいそう]/
+aufmerksam{adj}{adv}/注意深い[ちゅういぶかい]/
 aufmerksam beobachten{vt}/見澄ます[みすます]/
 aufmerksam machen{vt}/驚かす[おどろかす]/
-Aufmerksamkeit{f}/目[め]/腹[はら]/志[こころざし]/念[ねん]/注目[ちゅうもく]/心がけ[こころがけ]/留意[りゅうい]/視聴[しちょう]/一心[いっしん]/用心[ようじん]/気配り[きくばり]/関心[かんしん]/注意[ちゅうい]/贈り物[おくりもの]/眼[め]/丹念[たんねん]/心遣い[こころづかい]/配慮[はいりょ]/注視[ちゅうし]/気遣い[きづかい]/
+Aufmerksamkeit{f}/注意[ちゅうい]/
 Aufmerksamkeitsspanne{f}/視聴時間[しちょうじかん]/
-Aufmunterung{f}/勧め[すすめ]/薦め[すすめ]/激励[げきれい]/
-Aufnahme{f}/写真[しゃしん]/待遇[たいぐう]/撮影[さつえい]/編入[へんにゅう]/ショット[しょっと]/レコーディング[れこーでぃんぐ]/テイク[ていく]/受け入れ[うけいれ]/ツキ[つき]/加入[かにゅう]/取り扱い[とりあつかい]/取扱い[とりあつかい]/取扱[とりあつかい]/採用[さいよう]/採択[さいたく]/収容[しゅうよう]/受け[うけ]/収録[しゅうろく]/付き[つき]/接待[せったい]/摂取[せっしゅ]/録音[ろくおん]/
+Aufmunterung{f}/励まし[はげまし]/
+Aufnahme{f}/(Foto) 写真[しゃしん]/(in ein Krankenhaus) 入院[にゅういん]/(Ton) 録音[ろくおん]/(Video) 録画[ろくが]/
 Aufnahmefähigkeit{f}/容量[ようりょう]/
 Aufnahmegebühr{f}/入会金[にゅうかいきん]/
 Aufnahmegerät{m}{n}/レコーダー[れこーだー]/
 Aufnahmekapazität{f}/定員[ていいん]/
-Aufnahmeprüfung{f}/入試[にゅうし]/採用試験[さいようしけん]/
-aufnehmen{vt}/入れる[いれる]/撮る[とる]/取り上げる[とりあげる]/取り入れる[とりいれる]/受け入れる[うけいれる]/飲む[のむ]/呑む[のむ]/
+Aufnahmeprüfung{f}/入学試験[にゅうがくしけん]/
+aufnehmen{vt}/受け入れる[うけいれる]/(Essen ~) 飲む[のむ]/(Ton) 録音する[ろくおんする]/(Video) 録画する[ろくがする]/
 Aufnehmen{n}/接受[せつじゅ]/
-aufpassen{vi}/見守る[みまもる]/気をつける[きをつける]/
+aufpassen{vi}/気をつける[きをつける]/
 aufprallen{vi}/バウンドする[ばうんどする]/
 Aufputschmittel{n}/覚せい剤[かくせいざい]/
 Aufrechnung{f}/相殺[そうさい]/
-aufrecht{adv}/正しい[ただしい]/正しく[まさしく]/
+aufrecht{adv}/正しい[ただしい]/#
 aufrecht erhalten{vt}/繕う[つくろう]/
 aufrechterhalten{vt}/保つ[たもつ]/
 Aufrechterhaltung{f}/保持[ほじ]/持続[じぞく]/保有[ほゆう]/維持[いじ]/
