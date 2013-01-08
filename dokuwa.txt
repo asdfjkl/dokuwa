@@ -2214,33 +2214,33 @@ Aufrechnung{f}/相殺[そうさい]/
 aufrecht{adv}/正しい[ただしい]/#
 aufrecht erhalten{vt}/繕う[つくろう]/
 aufrechterhalten{vt}/保つ[たもつ]/
-Aufrechterhaltung{f}/保持[ほじ]/持続[じぞく]/保有[ほゆう]/維持[いじ]/
-aufregend{adj}/劇的[げきてき]/スリリング[すりりんぐ]/エキサイティング[えきさいてぃんぐ]/
-Aufregung{f}/興奮[こうふん]/憤慨[ふんがい]/波紋[はもん]/エキサイト[えきさいと]/激動[げきどう]/動揺[どうよう]/取り込み[とりこみ]/
+Aufrechterhaltung{f}/保持[ほじ]/
+aufregend{adj}/劇的な[げきてきな]/
+Aufregung{f}/興奮[こうふん]/
 aufreihen{vt}/並べる[ならべる]/
 aufreizend{adv}{adj}/セクシー[せくしー]/
 Aufreißen{n}/ナンパ[なんぱ]/
 aufreißen{vt}/開け放つ[あけはなつ]/
 Aufreißer{m}/リッパ[りっぱ]/
-aufrichten{vt}/起こす[おこす]/立てる[たてる]/引き起こす[ひきおこす]/
-aufrichtig{adv}/マジ[まじ]/正しい[ただしい]/頓[ひたすら]/真っ直ぐ[まっすぐ]/せつ[せつ]/厚い[あつい]/まじ[まじ]/心から[こころから]/みっちり[みっちり]/直ぐ[すぐ]/切に[せつに]/切[せつ]/固い[かたい]/堅い[かたい]/硬い[かたい]/切実に[せつじつに]/プレーン[ぷれーん]/
-Aufrichtigkeit{f}/正直[しょうじき]/真面目[まじめ]/天真爛漫[てんしんらんまん]/忠実[ちゅうじつ]/誠実[せいじつ]/真っ当[まっとう]/率直[そっちょく]/切実[せつじつ]/直行[ちょっこう]/誠[まこと]/徳[とく]/善良[ぜんりょう]/公明[こうめい]/純[じゅん]/真摯[しんし]/プレーン[ぷれーん]/誠意[せいい]/
+aufrichten{vt}/起こす[おこす]/
+aufrichtig{adv}/切実に[せつじつに]/
+Aufrichtigkeit{f}/切実[せつじつ]/
 Aufriss{m}/正面図[しょうめんず]/
 aufrollen{vt}/巻く[まく]/
-Aufruf{m}/アピール[あぴーる]/呼び出し[よびだし]/
+Aufruf{m}/呼び出し[よびだし]/
 aufrufen/当てる[あてる]/指す[さす]/
-Aufruhr{m}/変[へん]/波乱[はらん]/波瀾[はらん]/嵐[あらし]/へん[へん]/反逆[はんぎゃく]/騒乱[そうらん]/暴動[ぼうどう]/反乱[はんらん]/激動[げきどう]/動揺[どうよう]/騒動[そうどう]/旋風[せんぷう]/大騒ぎ[おおさわぎ]/暴挙[ぼうきょ]/事変[じへん]/
+Aufruhr{m}/反乱[はんらん]/
 aufrücken{vi}/上がる[あがる]/
 Aufrührer{m}/賊[ぞく]/
 aufrührerisch{adv}/騒がしい[さわがしい]/
 Aufrüstung{f}/軍拡[ぐんかく]/
 Aufrüttelung{f}/奮起[ふんき]/
 aufsammeln{vt}/拾う[ひろう]/
-Aufsatz{m}/文章[ぶんしょう]/作文[さくぶん]/論文[ろんぶん]/ペーパー[ぺーぱー]/論説[ろんせつ]/著作[ちょさく]/
+Aufsatz{m}/文章[ぶんしょう]/
 aufsaugen{vt}/吸い込む[すいこむ]/
-aufschieben{vt}/引っ張る[ひっぱる]/後にする[あとにする]/譲る[ゆずる]/
+aufschieben{vt}/延期する[えんきする]/
 Aufschiebung{f}/衝上断層[しょうじょうだんそう]/
-Aufschlag{m}/折り返し[おりかえし]/割増[わりまし]/サーブ[さーぶ]/
+Aufschlag{m}/(Zusammenstoß) 衝突[しょうとつ]/(Preis~) プレミアム/(Tennis) サーブ[さーぶ]/
 aufschlagen{vt}/広げる[ひろげる]/
 Aufschlagen{n}/弾着[だんちゃく]/
 Aufschlagfehler{m}/フォルト[ふぉると]/
@@ -2249,57 +2249,56 @@ Aufschluss{m}/解明[かいめい]/
 aufschlussreich{adj}{adv}/有益な[ゆうえきな]/
 Aufschlüsselung{f}/内訳[うちわけ]/
 aufschneiden{vi}/さく[さく]/
-Aufschneider{m}/ほら[ほら]/天狗[てんぐ]/
-Aufschneiderei{f}/ほら[ほら]/豪語[ごうご]/天狗[てんぐ]/
+Aufschneider{m}/ほら吹き[ほらふき]/
+Aufschneiderei{f}/ほら[ほら]/
 Aufschnitt{m}/薄切り[うすぎり]/
 aufschnüren{vt}/解く[とく]/
 aufschrecken{vt}/怯える[おびえる]/
 aufschreckend{adv}/ぎくっと[ぎくっと]/
-Aufschrei{m}/悲鳴[ひめい]/絶叫[ぜっきょう]/叫び声[さけびごえ]/
+Aufschrei{m}/叫び声[さけびごえ]/
 aufschreiben{vt}/記す[きす]/
 aufschreien{vi}/叫ぶ[さけぶ]/
 Aufschrift{f}/マーク[まーく]/
-Aufschub{m}/待った[まった]/延期[えんき]/遅延[ちえん]/後回し[あとまわし]/先延ばし[さきのばし]/猶予[ゆうよ]/
-Aufschwung{m}/花[はな]/発展[はってん]/隆盛[りゅうせい]/華[はな]/振興[しんこう]/繁盛[はんじょう]/飛躍[ひやく]/
+Aufschub{m}/延期[えんき]/
+Aufschwung{m}/{ökon.} 好景気[こうけいき]/
 aufschütten{vt}/盛り上げる[もりあげる]/
 Aufschüttung{f}/盛り土[もりつち]/
 Aufsehen{n}/注目[ちゅうもく]/
 aufsehenerregend{adj}/驚異的[きょういてき]/
-Aufseher{m}/監督[かんとく]/取り締まり[とりしまり]/取締[とりしまり]/見張り[みはり]/組長[くみちょう]/番人[ばんにん]/
+Aufseher{m}/監視人[かんしにん]/
 Aufseherin{f}/婦人看守[ふじんかんしゅ]/
-Aufsicht{f}/番[ばん]/取り締まり[とりしまり]/取締[とりしまり]/担当[たんとう]/吟味[ぎんみ]/監視[かんし]/横目[よこめ]/見張り[みはり]/監督[かんとく]/管理[かんり]/
+Aufsicht{f}/監督[かんとく]/
 Aufsichtsbehörde{f}/監督官庁[かんとくかんちょう]/
-Aufsichtsrat{m}/役員[やくいん]/役員会[やくいんかい]/
+Aufsichtsrat{m}/(Person) 役員[やくいん]/(Gruppe) 役員会[やくいんかい]/
 aufspalten{vt}/分解する[ぶんかいする]/
 Aufspaltung{f}/分解[ぶんかい]/
 aufspeichern{vt}/囲む[かこむ]/
-aufspringen{vi}/弾ける[はじける]/飛び立つ[とびたつ]/
+aufspringen{vi}/(sich öffnen) 開く[あく]/
 aufspüren{vt}/突き止める[つきとめる]/
-Aufstand{m}/変[へん]/へん[へん]/騒乱[そうらん]/暴動[ぼうどう]/反乱[はんらん]/反乱[はんらん]/乱[らん]/騒動[そうどう]/暴挙[ぼうきょ]/
+Aufstand{m}/反乱[はんらん]/
 aufstapeln{vt}/重ねる[かさねる]/
 aufstauen{vt}/積み重なる[つみかさなる]/
-aufstehen{vi}/立つ[たつ]/立ち上がる[たちあがる]/起きる[おきる]/
-aufsteigen{vt}/上がる[あがる]/上る[のぼる]/上る[のぼる]/登る[のぼる]/登る[のぼる]/昇る[のぼる]/昇る[のぼる]/立つ[たつ]/移る[うつる]/
-Aufsteigen{n}/上昇[じょうしょう]/浮上[ふじょう]/新興[しんこう]/
+aufstehen{vi}/(Platz) 立ち上がる[たちあがる]/(aus dem Bett ~) 起きる[おきる]/
+aufsteigen{vt}/(Berg) 登る[のぼる]/
+Aufsteigen{n}/(-> aufsteigen)
 aufsteigend{adj}/もくもく[もくもく]/
-aufstellen{vt}/置く[おく]/仕掛ける[しかける]/掲げる[かかげる]/唱える[となえる]/配る[くばる]/立てる[たてる]/組み立てる[くみたてる]/起こす[おこす]/設ける[もうける]/並べる[ならべる]/取り付ける[とりつける]/
-Aufstellung{f}/メンバー[めんばー]/制定[せいてい]/取り組み[とりくみ]/取組[とりくみ]/目録[もくろく]/整列[せいれつ]/セットアップ[せっとあっぷ]/勢揃い[せいぞろい]/顔ぶれ[かおぶれ]/フォーメーション[ふぉーめーしょん]/配備[はいび]/配列[はいれつ]/配置[はいち]/編成[へんせい]/確立[かくりつ]/布陣[ふじん]/
-Aufstieg{m}/上がり[あがり]/出世[しゅっせ]/上り[あがり]/登り[のぼり]/上り坂[のぼりざか]/隆盛[りゅうせい]/向上[こうじょう]/登山道[とざんどう]/
+aufstellen{vt}/(Gegenstand) 立てる[たてる]/
+Aufstellung{f}/作成[さくせい]/
+Aufstieg{m}/上昇[じょうしょう]/
 aufstocken{vt}/継ぎ足す[つぎたす]/
 aufstoßen{vi}{vt}/排する[はいする]/
 aufstrebend{adj}/勃々[ぼつぼつ]/
 aufständisch{adj}/不穏な[ふおんな]/
 aufsässig{adv}{adj}/反抗的[はんこうてき]/
 Aufsässigkeit{f}/恨み[うらみ]/
-Auftakt{m}/序[じょ]/手始め[てはじめ]/前触れ[まえぶれ]/
+Auftakt{m}/上拍[じょうはく]/
 Auftauchen{n}/浮上[ふじょう]/台頭[たいとう]/
-auftauchen{vi}/出る[でる]/上がる[あがる]/現れる[あらわれる]/現れる[あらわれる]/浮かび上がる[うかびあがる]/顔を出す[かおをだす]/浮かぶ[うかぶ]/浮く[うく]/
+auftauchen{vi}/(Wasser) 出る[でる]/(sich zeigen) 現れる[あらわれる]/
 Auftauen{n}/霜解け[しもどけ]/
 auftauen{vt}/冷凍を戻す[れいとうをもどす]/
-aufteilen{vt}/向ける[むける]/配る[くばる]/分ける[わける]/分ける[わける]/給[きゅう]/割る[わる]/
+aufteilen{vt}/分ける[わける]/
 Aufteilung{f}/分割[ぶんかつ]/
-auftischen{vt}/登る[のぼる]/上る[のぼる]/昇る[のぼる]/
-Auftrag{m}/用[よう]/使命[しめい]/発注[はっちゅう]/請負[うけおい]/任務[にんむ]/依頼[いらい]/担当[たんとう]/注文[ちゅうもん]/課題[かだい]/頼み[たのみ]/委託[いたく]/ご用[ごよう]/御用[ごよう]/
+Auftrag{m}/(Aufgabe) 委託[いたく]/(Bestellung) 注文[ちゅうもん]/
 Auftragen{n}/盛り付け[もりつけ]/
 Auftraggeber{m}/依頼人[いらいにん]/
 Auftragnehmer{m}/注文先[ちゅうもんさき]/
@@ -2311,13 +2310,13 @@ Auftragsnummer{f}/注文番号[ちゅうもんばんごう]/
 Auftragswalze{f}/インク･ローラー[いんくろーらー]/
 Auftragswerk{n}/委嘱作品[いしょくさくひん]/
 auftreiben{vt}/整える[ととのえる]/
-auftreten{vi}/出る[でる]/踏む[ふむ]/ふむ[ふむ]/踏み出す[ふみだす]/現れる[あらわれる]/起こる[おこる]/起きる[おきる]/
-Auftreten{n}/出演[しゅつえん]/態度[たいど]/素振り[そぶり]/出現[しゅつげん]/動作[どうさ]/風情[ふぜい]/行い[おこない]/
+auftreten{vi}/(Probleme) 起こる[おこる]/
+Auftreten{n}/(Bühne) 登場[とうじょう]/(Benehmen) 態度[たいど]/
 Auftrieb{m}/揚力[ようりょく]/
-Auftritt{m}/登場[とうじょう]/場[ば]/場面[ばめん]/出演[しゅつえん]/幕[まく]/
+Auftritt{m}/(Bühnen~) 登場[とうじょう]/(Benehmen) 態度[たいど]/
 aufwachsen{vi}/育つ[そだつ]/
 Aufwallung{f}/激烈[げきれつ]/
-Aufwand{m}/費用[ひよう]/支出[ししゅつ]/コスト[こすと]/
+Aufwand{m}/{fin.}(Ausgaben) 支出[ししゅつ]/
 aufwarten{vi}/侍る[はべる]/
 Aufwertung{f}/切り上げ[きりあげ]/
 aufwickeln{vt}/巻く[まく]/
@@ -2330,23 +2329,23 @@ Aufwärter{m}/お付き[おつき]/
 Aufwärtshaken{m}/アッパー[あっぱー]/
 Aufwärtstransformator{m}/昇圧トランス[しょうあつとらんす]/
 aufwühlen{vt}/起こす[おこす]/
-aufzeichnen{vt}/記す[きす]/控える[ひかえる]/
-Aufzeichnung{f}/記録[きろく]/レコーディング[れこーでぃんぐ]/文書[ぶんしょ]/譜[ふ]/筆記[ひっき]/手記[しゅき]/収録[しゅうろく]/記載[きさい]/
-aufziehen{vt}/育てる[そだてる]/育む[はぐくむ]/育つ[そだつ]/手がける[てがける]/養う[やしなう]/
-Aufzug{m}/行列[ぎょうれつ]/リフト[りふと]/エレベーター[えれべーたー]/
+aufzeichnen{vt}/(Ton) 録音する[ろくおんする]/(Video)　録画する[ろくがする]/(Text)　書き留める[かきとめる]/
+Aufzeichnung{f}/(Ton) 録音[ろくおん]/(Video)　録画[ろくが]/(Text) 記録[きろく]/
+aufziehen{vt}/(Kind) 育てる[そだてる]/(Tür) 開ける[あける]/
+Aufzug{m}/エレベーター[えれべーたー]/
 aufzählen{vt}/並べる[ならべる]/
 Aufzählung{f}/列挙[れっきょ]/
-Augapfel{m}/目[め]/目玉[めだま]/眼[め]/
-Auge{n}/目[め]/目つき[めつき]/眼[め]/眼[め]/眼[め]/お目目[おめめ]/
+Augapfel{m}/目玉[めだま]/
+Auge{n}/目[め]/
 Augenarzt{m}/眼科医[がんかい]/
 Augenbewegung{f}/眼球運動[がんきゅううんどう]/
 Augenbinde{f}/目隠し[めかくし]/
-Augenblick{m}/時[とき]/瞬間[しゅんかん]/目前[めさき]/瞬時[しゅんじ]/刹那[せつな]/目先[めさき]/
-augenblicklich{adv}/今のところ[いまのところ]/今の所[いまのところ]/直ぐに[すぐに]/
-Augenbraue{f}/眉[まゆ]/眉毛[まゆげ]/
+Augenblick{m}/瞬間[しゅんかん]/
+augenblicklich{adv}/(jetzt) 今の所[いまのところ]/(plötzlich) 直ぐに[すぐに]/
+Augenbraue{f}/眉毛[まゆげ]/
 Augenbrauenstift{m}/黛[まゆずみ]/
 Augenfarbe{f}/目色[めいろ]/
-augenfällig{adv}/くっきり[くっきり]/歴然[れきぜん]/
+augenfällig{adv}/著しい[いちじるしい]/
 Augenglas{n}/めがね[めがね]/
 Augenheilkunde{f}/眼科[がんか]/
 Augenhöhe{f}/目通り[めどおり]/
@@ -2354,7 +2353,7 @@ Augenhöhle{f}/眼窩[がんか]/
 Augeninnendruck{m}/眼圧[がんあつ]/
 Augenklappe{f}/眼帯[がんたい]/
 Augenklinik{f}/眼科医院[がんかいいん]/
-Augenlicht{n}/目[め]/ひかり[ひかり]/眼[め]/
+Augenlicht{n}/(Sehkraft) 視力[しりょく]/
 Augenlid{n}/瞼[まぶた]/
 Augenmaß{n}/目分量[めぶんりょう]/
 Augenmerk{n}/付け所[つけどころ]/
@@ -2381,17 +2380,17 @@ Aula{f}/教室[きょうしつ]/堂[どう]/講堂[こうどう]/
 Aura{f}/アウラ[あうら]/
 aural{adj}/耳の[みみの]/
 Aus{n}/アウト[あうと]/チョン[ちょん]/
-aus{prp; +Dativ}/オフ[おふ]/アウト[あうと]/之[の]/
-aus freien Stücken/勝手に[かってに]/好んで[このんで]/
+aus{prp; +Dativ}/から[から]/
+aus freien Stücken/勝手に[かってに]/
 aus sich herausgehen{vr}/打ち解ける[うちとける]/
-ausarbeiten{vt}/仕上げる[しあげる]/作り上げる[つくりあげる]/
-Ausarbeitung{f}/完成[かんせい]/仕上げ[しあげ]/
-ausatmen{vi}/吹く[ふく]/吐き出す[はきだす]/
+ausarbeiten{vt}/仕上げる[しあげる]/
+Ausarbeitung{f}/仕上げ[しあげ]/
+ausatmen{vi}/吹く[ふく]/
 Ausatmung{f}/呼気[こき]/
 Ausbau{m}/充実[じゅうじつ]/拡充[かくじゅう]/
 ausbauen{vt}/増設する[ぞうせつする]/
 ausbessern{vt}/直す[なおす]/継ぐ[つぐ]/
-Ausbesserung{f}/手入れ[ていれ]/改修[かいしゅう]/補修[ほしゅう]/改築[かいちく]/修繕[しゅうぜん]/直し[なおし]/
+Ausbesserung{f}/直し[なおし]/
 Ausbesserungsarbeiten{pl}/補修工事[ほしゅうこうじ]/
 Ausbeulung{f}/隆起[りゅうき]/
 Ausbeute{f}/出来高[できだか]/
@@ -2399,9 +2398,9 @@ ausbeuten{vt}/吸い取る[すいとる]/
 Ausbeuter{m}/開発者[かいはつしゃ]/
 ausbeuterisch{adj}/収奪的な[しゅうだつてきな]/
 Ausbeutung{f}/利用[りよう]/搾取[さくしゅ]/
-ausbilden{vt}/育てる[そだてる]/作り上げる[つくりあげる]/育つ[そだつ]/
+ausbilden{vt}/教える[おしえる]/
 Ausbilder{m}/トレーナー[とれーなー]/
-Ausbildung{f}/教育[きょういく]/学歴[がくれき]/育成[いくせい]/修業[しゅうぎょう]/教養[きょうよう]/仕込み[しこみ]/職業訓練[しょくぎょうくんれん]/訓練[くんれん]/養成[ようせい]/スクーリング[すくーりんぐ]/
+Ausbildung{f}/教育[きょういく]/
 Ausbildungsberatung{f}/生活指導[せいかつしどう]/
 Ausbildungskosten{pl}/教育費[きょういくひ]/
 Ausbildungsstätte{f}/研修所[けんしゅうじょ]/
@@ -2412,7 +2411,7 @@ ausbleichen{vi}/晒す[さらす]/
 ausblenden{vt}/隠す[かくす]/
 Ausblenden{n}/FO[えふおー]/
 Ausblendung{f}/フェードアウト[ふぇーどあうと]/
-Ausblick{m}/風景[ふうけい]/見通し[みとおし]/見所[みどころ]/見どころ[みどころ]/見晴らし[みはらし]/展望[てんぼう]/眺め[ながめ]/眺望[ちょうぼう]/
+Ausblick{m}/(Zukunft) 見晴らし[みはらし]/(Landschaft) 景色[けしき]/
 ausblühen{vi}/風化する[ふうかする]/
 Ausblühung{f}/風化[ふうか]/
 ausbrechen{vi}{vt}/出る[でる]/飛び出す[とびだす]/起こる[おこる]/目覚める[めざめる]/始まる[はじまる]/
