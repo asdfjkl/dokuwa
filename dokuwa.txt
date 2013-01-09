@@ -2414,40 +2414,40 @@ Ausblendung{f}/フェードアウト[ふぇーどあうと]/
 Ausblick{m}/(Zukunft) 見晴らし[みはらし]/(Landschaft) 景色[けしき]/
 ausblühen{vi}/風化する[ふうかする]/
 Ausblühung{f}/風化[ふうか]/
-ausbrechen{vi}{vt}/出る[でる]/飛び出す[とびだす]/起こる[おこる]/目覚める[めざめる]/始まる[はじまる]/
+ausbrechen{vi}{vt}/(entfliehen) 脱出する[だっしゅつする]/
 Ausbreiten{n}/敷き[しき]/
-Ausbreitung{f}/普及[ふきゅう]/横行[おうこう]/退散[たいさん]/広がり[ひろがり]/発散[はっさん]/伸び[のび]/膨張[ぼうちょう]/分布[ぶんぷ]/
-Ausbruch{m}/発生[はっせい]/爆発[ばくはつ]/噴出[ふんしゅつ]/突発[とっぱつ]/
-Ausdauer{f}/我慢[がまん]/忍[にん]/根気[こんき]/辛抱[しんぼう]/強靭[きょうじん]/腸[はらわた]/忍耐[にんたい]/頑張り[がんばり]/粘り[ねばり]/
+Ausbreitung{f}/広がり[ひろがり]/
+Ausbruch{m}/(Flucht) 脱出[だっしゅつ]/(Ereignis) 突発[とっぱつ]/
+Ausdauer{f}/忍耐[にんたい]/
 ausdauernd{adj}{adv}/根気よく[こんきよく]/
-Ausdehnung{f}/大きさ[おおきさ]/拡張[かくちょう]/拡大[かくだい]/広がり[ひろがり]/波及[はきゅう]/発展[はってん]/広大[こうだい]/広さ[ひろさ]/規模[きぼ]/膨張[ぼうちょう]/程度[ていど]/拡充[かくじゅう]/
+Ausdehnung{f}/拡大[かくだい]/
 Ausdehnungskoeffizient{m}/膨張率[ぼうちょうりつ]/
 ausdenken{vt}/作り上げる[つくりあげる]/
-Ausdruck{m}/言葉[ことば]/表れ[あらわれ]/現れ[あらわれ]/言い回し[いいまわし]/印刷[いんさつ]/プリントアウト[ぷりんとあうと]/表情[ひょうじょう]/文句[もんく]/式[しき]/表現[ひょうげん]/色[いろ]/詞[ことば]/辞[ことば]/表明[ひょうめい]/
+Ausdruck{m}/(Sprache) 表現[ひょうげん]/(Papier) プリントアウト[ぷりんとあうと]/
 ausdrucken{vt}/打ち出す[うちだす]/
 Ausdrucksform{f}/語呂[ごろ]/
 Ausdruckskraft{f}/表現力[ひょうげんりょく]/
 ausdruckslos{adj}{adv}/表情に乏しい[ひょうじょうにとぼしい]/
 ausdrucksstark{adj}{adv}/表情のある[ひょうじょうのある]/
-Ausdrucksweise{f}/言い方[いいかた]/口調[くちょう]/言い回し[いいまわし]/言いよう[いいよう]/辞令[じれい]/言葉遣い[ことばづかい]/文体[ぶんたい]/
-ausdrücken{vt}/言う[いう]/絞る[しぼる]/云う[いう]/
+Ausdrucksweise{f}/言い回し[いいまわし]/
+ausdrücken{vt}/言う[いう]/
 ausdrücklich{adj}{adv}/断固[だんこ]/
 Ausdünstung{f}/発散[はっさん]/
 auseinander gehen/分かれる[わかれる]/
-Auseinandersetzung{f}/対決[たいけつ]/論争[ろんそう]/抗争[こうそう]/
+Auseinandersetzung{f}/議論[ぎろん]/
 ausfahren{vi}{vt}/舟を出す[ふねをだす]/
 Ausfahrt{f}/出口[でぐち]/
 Ausfall{m}/落ち[おち]/出撃[しゅつげき]/
 Ausfallbürgschaft{f}/補償契約書[ほしょうけいやくしょ]/
 ausfallen{vi}/抜ける[ぬける]/
 Ausfertigung{f}/正本[しょうほん]/
-ausfindig machen{vt}/求める[もとめる]/捜す[さがす]/見つける[みつける]/
+ausfindig machen{vt}/見つけ出す[みつけだす]/
 ausfließen{vi}/流れ出す[ながれだす]/
 Ausflockung{f}/凝固[ぎょうこ]/
-Ausflucht{f}/断り[ことわり]/口実[こうじつ]/名目[めいもく]/
-Ausflug{m}/旅行[りょこう]/遠足[えんそく]/トリップ[とりっぷ]/行楽[こうらく]/遊覧[ゆうらん]/
+Ausflucht{f}/口実[こうじつ]/
+Ausflug{m}/遠足[えんそく]/
 Ausflugsschiff{n}/遊覧船[ゆうらんせん]/
-Ausfluss{m}/流出[りゅうしゅつ]/放出[ほうしゅつ]/
+Ausfluss{m}/流出[りゅうしゅつ]/
 Ausflügler{m}/行楽客[こうらくきゃく]/
 ausfragen{vt}/聞く[きく]/聴く[きく]/
 ausfugen{vt}/目地を塗る[めじをぬる]/
@@ -2457,38 +2457,38 @@ Ausfuhrzoll{m}/輸出税[ゆしゅつぜい]/
 Ausfällapparat{m}/沈殿器[ちんでんき]/
 ausführbar{adj}{adv}/実行可能[じっこうかのう]/
 Ausführen{n}/施行[しこう]/
-ausführen{vt}/行う[おこなう]/踏む[ふむ]/ふむ[ふむ]/物語る[ものがたる]/行なう[おこなう]/運ぶ[はこぶ]/
-ausführlich{adv}{adj}/良く[よく]/詳しい[くわしい]/細かい[こまかい]/
+ausführen{vt}/(machen) 仕上げる[しあげる]/(durchführen) 行う[おこなう]/(Rendezvous) デートする[でーとする]/
+ausführlich{adv}{adj}/詳しい[くわしい]/
 ausführlich beschreiben/つまびらかに記す[つまびらかにしるす]/
-Ausführung{f}/作り[つくり]/施工[せこう]/出来栄え[できばえ]/成就[じょうじゅ]/実施[じっし]/造り[つくり]/遂行[すいこう]/出来[でき]/解釈[かいしゃく]/手際[てぎわ]/実行[じっこう]/実行[じっこう]/執行[しっこう]/
+Ausführung{f}/(Durchführung) 実行[じっこう]/(Report) 詳論[しょうろん]/
 Ausführungsbeispiel{n}/施行例[しこうれい]/
 Ausführungszeichnung{f}/分解図[ぶんかいず]/
-ausfüllen{vt}/書き込む[かきこむ]/埋める[うずめる]/
+ausfüllen{vt}/(Dokument) 書き込む[かきこむ]/(schließen) 塞ぐ[ふさぐ]/
 Ausfüllung{f}/書き入れ[かきいれ]/
-Ausgabe{f}/ナンバー[なんばー]/出力[しゅつりょく]/バージョン[ばーじょん]/支出[ししゅつ]/エディション[えでぃしょん]/募集[ぼしゅう]/入り[いり]/
+Ausgabe{f}/(Geld) 支出[ししゅつ]/(Buch) エディション[えでぃしょん]/
 Ausgabedatei{f}/出力ファイル[しゅつりょくふぁいる]/
 Ausgabegerät{n}/出力装置[しゅつりょくそうち]/
-Ausgaben{pl}/費用[ひよう]/出費[しゅっぴ]/経費[けいひ]/
+Ausgaben{pl}/Geld) 支出[ししゅつ]/
 Ausgabenbuch{n}/小遣い帳[こづかいちょう]/
 Ausgabenkürzung{f}/経費節約[けいひせつやく]/
-Ausgang{m}/結果[けっか]/外出[がいしゅつ]/始末[しまつ]/出口[でぐち]/末期[まっき]/結末[けつまつ]/終[おわり]/成り行き[なりゆき]/落ち[おち]/終わり[おわり]/終り[おわり]/
+Ausgang{m}/出口[でぐち]/
 Ausgangsbedingung{f}/初期条件[しょきじょうけん]/
 Ausgangslinie{f}/基準線[きじゅんせん]/
 Ausgangsmaterial{n}/材料[ざいりょう]/
-Ausgangspunkt{m}/原点[げんてん]/起点[きてん]/起こり[おこり]/起因[きいん]/出発点[しゅっぱつてん]/
+Ausgangspunkt{m}/出発点[しゅっぱつてん]/
 Ausgangssituation{f}/準備状況[じゅんびじょうきょう]/
 Ausgangssperre{f}/外出禁止令[がいしゅつきんしれい]/
 Ausgangswert{m}/初期値[しょきち]/
 ausgearbeitet{adj}/綿密な[めんみつな]/
-ausgeben{vt}/使う[つかう]/読み取る[よみとる]/掛ける[かける]/降りる[おりる]/下りる[おりる]/落とす[おとす]/
+ausgeben{vt}/(Geld) 使う[つかう]/
 ausgebildet/年季が入った[ねんきがはいった]/
-ausgedehnt{adv}/広い[ひろい]/広々[ひろびろ]/
+ausgedehnt{adv}/広い[ひろい]/
 ausgedient{adv}/老廃した[ろうはいした]/
-ausgefallen{adj}/異様[いよう]/乙[おつ]/
+ausgefallen{adj}/奇抜な[きばつな]/
 ausgeglichen{adv}{adj}/穏やか[おだやか]/
-Ausgeglichenheit{f}/落ち着き[おちつき]/均衡[きんこう]/互角[ごかく]/とんとん[とんとん]/落着[おちつき]/
+Ausgeglichenheit{f}/調和[ちょうわ]/
 Ausgehanzug{m}/よそ行き[よそいき]/
-ausgehen{vi}/出かける[でかける]/抜ける[ぬける]/尽きる[つきる]/切れる[きれる]/キレる[きれる]/消える[きえる]/出掛ける[でかける]/落ちる[おちる]/
+ausgehen{vi}/(Licht) 消える[きえる]/(aufgebraucht werde) 尽きる[つきる]/
 Ausgehverbot{n}/外出禁止令[がいしゅつきんしれい]/
 ausgelassen{adj}{adv}/野放図[のほうず]/
 ausgelassen sein{vi}/騒ぐ[さわぐ]/
@@ -2499,15 +2499,15 @@ Ausgereiftheit{f}/円熟[えんじゅく]/
 ausgeschaltet{adj}/オフ[おふ]/
 Ausgeschlossen!/真逆[まさか]/
 Ausgesetztsein{n}/被曝[ひばく]/
-ausgesprochen{adj}{adv}/たっぷり[たっぷり]/無性に[むしょうに]/
+ausgesprochen{adj}{adv}/(~ viel) 無性に[むしょうに]/
 ausgestellt sein{vi}/朝顔形に開く[あさがおがたにひらく]/
 ausgestorben{adj}/死滅した[しめつした]/
 ausgesucht{adv}/粒よりの[つぶよりの]/
 ausgewachsen{adj}/成虫の[せいちゅうの]/
 ausgewählt{adv}/特別上等の[とくべつじょうとうの]/
 ausgezählt werden{vi}/カウントアウトになる[かうんとあうとになる]/
-Ausgleich{m}/解決[かいけつ]/見返り[みかえり]/入れ替え[いれかえ]/勘定[かんじょう]/補償[ほしょう]/調整[ちょうせい]/
-ausgleichen{vt}/扱う[あつかう]/足す[たす]/
+Ausgleich{m}/均衡[きんこう]/
+ausgleichen{vt}/等しくする[ひとしくする]/
 ausgleichend{adv}/協調的[きょうちょうてき]/
 Ausgleichslager{n}/緩衝在庫[かんしょうざいこ]/
 Ausgleichsschicht{f}/レベリング･コース[れべりんぐこーす]/
@@ -2519,7 +2519,7 @@ Ausgrabungsort{f}/出土地[しゅつどち]/
 Ausguck{m}/見晴らし[みはらし]/
 Ausguss{m}/流し[ながし]/
 aushalten{vt}/耐える[たえる]/
-Aushang{m}/掲示[けいじ]/伝言板[でんごんばん]/
+Aushang{m}/掲示[けいじ]/
 ausharren{vi}/耐える[たえる]/
 Aushebung{f}/徴兵[ちょうへい]/
 aushecken{vt}/工夫する[くふうする]/
@@ -2528,20 +2528,20 @@ Aushilfe{f}/凌ぎ[しのぎ]/
 Aushilfskraft{f}/嘱託[しょくたく]/
 aushorchen{vt}/聞き出す[ききだす]/
 Aushub{m}/ずり[ずり]/
-Aushändigung{f}/交付[こうふ]/引渡し[ひきわたし]/
-aushängen{vt}/出す[だす]/掲げる[かかげる]/掛ける[かける]/
+Aushändigung{f}/交付[こうふ]/
+aushängen{vt}/掲示する[けいじする]/
 Aushängeschild{n}/看板[かんばん]/
 Aushärtung{f}/時効硬化[じこうこうか]/
 aushöhlen{vt}/掘る[ほる]/
 Aushöhlung{f}/空洞化[くうどうか]/
 Auskleidung{f}/裏打ち[うらうち]/
-auskommen{vi}/暮らす[くらす]/済ませる[すませる]/食う[くう]/喰う[くう]/やって来る[やってくる]/暮す[くらす]/
-Auskunft{f}/報告[ほうこく]/案内所[あんないじょ]/案内[あんない]/受け付け[うけつけ]/受付[うけつけ]/
-Auskunftsbüro{n}/案内所[あんないじょ]/相談所[そうだんしょ]/
+auskommen{vi}/やり繰りする[やりくりする]/
+Auskunft{f}/(Erklärung) 案内[あんない]/(Empfang) 受け付け[うけつけ]/
+Auskunftsbüro{n}/案内所[あんないじょ]/
 Auskunftsstelle{f}/案内所[あんないじょ]/
 Auslage{f}/陳列[ちんれつ]/
-Auslagen{pl}/経費[けいひ]/支出[ししゅつ]/
-Ausland{n}/海外[かいがい]/外国[とつくに]/向こう[むこう]/向う[むこう]/異国[いこく]/国外[こくがい]/
+Auslagen{pl}/(Kosten) 経費[けいひ]/
+Ausland{n}/海外[かいがい]/
 Auslandsbeziehungen{pl}/外交[がいこう]/
 Auslandsgeschäft{n}/国際業務[こくさいぎょうむ]/
 Auslandsgespräch{n}/国際電話[こくさいでんわ]/
@@ -2553,39 +2553,39 @@ Auslandsreise{f}/海外旅行[かいがいりょこう]/
 Auslandsvermögen{n}/在外資産[ざいがいしさん]/
 Auslandsvertreter{m}/外国代理店[がいこくだいりてん]/
 Auslandsüberweisung{f}/外国送金[がいこくそうきん]/
-Auslass{m}/アウトレット[あうとれっと]/出口[でぐち]/
-Auslassung{f}/落ち[おち]/省略[しょうりゃく]/漏れ[もれ]/略[りゃく]/欠落[けつらく]/脱落[だつらく]/
+Auslass{m}/出口[でぐち]/
+Auslassung{f}/省略[しょうりゃく]/
 Auslassungszeichen{n}/省略等[しょうりゃくとう]/
-Auslastung{f}/稼動[かどう]/稼働[かどう]/
-Auslaufen{n}/発進[はっしん]/出港[しゅっこう]/出航[しゅっこう]/
+Auslastung{f}/稼動[かどう]/
+Auslaufen{n}/(Schiff) 出港[しゅっこう]/
 auslaufen/乗り出す[のりだす]/
-auslegen{vt}/張る[はる]/敷く[しく]/
+auslegen{vt}/張る[はる]/
 Ausleger{m}/ジブ[じぶ]/
-Auslegung{f}/解釈[かいしゃく]/読み方[よみかた]/
+Auslegung{f}/解釈[かいしゃく]/
 Ausleihdatum{n}/貸し出し日付[かしだしひづけ]/
 Ausleihgebühr{f}/貸し出し料金[かしだしりょうきん]/
-Auslese{f}/選択[せんたく]/精鋭[せいえい]/精華[せいか]/淘汰[とうた]/粋[すい]/選抜[せんばつ]/抜粋[ばっすい]/セレクション[せれくしょん]/抜擢[ばってき]/
+Auslese{f}/(Auswahl) 選抜[せんばつ]/
 auslesen{vt}/選ぶ[えらぶ]/
 Auslesen{n}/読了[どくりょう]/
 ausliefern{vt}/配る[くばる]/
-Auslieferung{f}/届け[とどけ]/交付[こうふ]/引渡し[ひきわたし]/出荷[しゅっか]/届[とどけ]/
+Auslieferung{f}/届け[とどけ]/
 Auslieferungsvertrag{m}/引き渡し条約[ひきわたしじょうやく]/
 ausloten{vt}/測る[はかる]/計る[はかる]/
-Ausländer{m}/外国人[がいこくじん]/外人[がいじん]/胡[こ]/
+Ausländer{m}/外国人[がいこくじん]/
 ausländerfeindlich{adj}/排外的な[はいがいてきな]/
 Ausläufer{m}{pl}/繊ぷく枝[せんぷくし]/
 auslöschen{vt}/消す[けす]/
-Auslöschung{f}/全滅[ぜんめつ]/抹殺[まっさつ]/
+Auslöschung{f}/全滅[ぜんめつ]/
 auslösen{vt}/引き起こす[ひきおこす]/
 Auslöser{m}/トリガー[とりがー]/
 Auslösung{f}/触発[しょくはつ]/
 Ausmauerung{f}/本巻き[ほんまき]/
-Ausmaß{n}/程度[ていど]/広さ[ひろさ]/規模[きぼ]/寸法[すんぽう]/加減[かげん]/
+Ausmaß{n}/{fig.} 程度[ていど]/(Größe) 広さ[ひろさ]/
 ausmerzen{vt}/絶やす[たやす]/
 ausmessen{vt}/測る[はかる]/計る[はかる]/
 ausmustern{vt}/ふるい落とす[ふるいおとす]/
-Ausmusterung{f}/落選[らくせん]/不合格[ふごうかく]/
-Ausnahme{f}/例外[れいがい]/別物[べつもの]/特例[とくれい]/破格[はかく]/異例[いれい]/除外[じょがい]/別格[べっかく]/
+Ausmusterung{f}/不合格[ふごうかく]/
+Ausnahme{f}/例外[れいがい]/
 Ausnahmesituation{f}/異常事態[いじょうじたい]/
 Ausnahmezustand{m}/非常事態[ひじょうじたい]/
 ausnahmslos{adv}/悉く[ことごとく]/
@@ -2599,29 +2599,29 @@ auspflanzen{vt}/定植する[ていしょくする]/
 ausplaudern{vt}/喋る[しゃべる]/
 auspreisen{vt}/正札をつける[しょうふだをつける]/
 ausrasten{vi}/頭にくる[あたまにくる]/
-Ausrede{f}/申し訳[もうしわけ]/口実[こうじつ]/言い訳[いいわけ]/言い分[いいぶん]/断り[ことわり]/
-ausreichend{adj}/結構[けっこう]/たんと[たんと]/充分[じゅうぶん]/たんまり[たんまり]/沢山[たくさん]/
+Ausrede{f}/口実[こうじつ]/
+ausreichend{adj}/充分[じゅうぶん]/
 Ausreise{f}/出国[しゅっこく]/
 Ausreiseerlaubnis{f}/出国許可[しゅっこくきょか]/
 Ausreisevisum{n}/出国ビザ[しゅっこくびざ]/
-ausreißen{vi}/逃げる[にげる]/逃げ出す[にげだす]/
+ausreißen{vi}/(fliehen) 逃げ出す[にげだす]/
 Ausreißer{m}/逃亡者[とうぼうしゃ]/
 ausrenken{vt}/外す[はずす]/
 ausrichten{vt}/伝える[つたえる]/
-Ausrichtung{f}/演出[えんしゅつ]/方向性[ほうこうせい]/本位[ほんい]/
+Ausrichtung{f}/方向性[ほうこうせい]/
 ausrotten{vt}/滅ぼす[ほろぼす]/
-Ausrottung{f}/退治[たいじ]/駆除[くじょ]/絶滅[ぜつめつ]/撲滅[ぼくめつ]/
+Ausrottung{f}/根絶[こんぜつ]/
 Ausruf{m}/絶叫[ぜっきょう]/
-ausrufen{vt}/上げる[あげる]/声をかける[こえをかける]/
+ausrufen{vt}/(durchsagen) アナウンスする[あなうんすする]/(laut ~) 声をかける[こえをかける]/
 Ausrufer{m}/呼び込み[よびこみ]/
 Ausrufezeichen{n}/感嘆符[かんたんふ]/
 ausruhen{vi}/休む[やすむ]/
 Ausrutscher{m}/し損ない[しそこない]/
 ausrücken{vi}{vt}/出動する[しゅつどうする]/
 ausrüsten{vt}/ぎ装する[ぎそうする]/
-Ausrüstung{f}/用意[ようい]/装置[そうち]/武装[ぶそう]/装着[そうちゃく]/搭載[とうさい]/設備[せつび]/装備[そうび]/仕上げ[しあげ]/備え[そなえ]/支度[したく]/仕度[したく]/
-Aussage{f}/申し立て[もうしたて]/供[きょう]/供述[きょうじゅつ]/
-aussagen{vt}/言う[いう]/云う[いう]/
+Ausrüstung{f}/装備[そうび]/
+Aussage{f}/供述する[きょうじゅつする]/
+aussagen{vt}/言う[いう]/
 Ausschalten{n}/消灯[しょうとう]/
 Ausschalter{m}/断続器[だんぞくき]/
 Ausschaltung{f}/無力化[むりょくか]/
@@ -2629,13 +2629,13 @@ Ausschank{m}/居酒屋[いざかや]/
 Ausschau{f}/見張り[みはり]/
 Ausscheiden{n}/降板[こうばん]/
 ausscheiden{vt}{vi}/下す[くだす]/
-Ausscheidung{f}/落選[らくせん]/排泄[はいせつ]/
+Ausscheidung{f}/排泄[はいせつ]/
 ausschlafen{vi}/朝寝する[あさねする]/
 Ausschlag{m}/発疹[ほっしん]/
-ausschlagen{vi}/断る[ことわる]/生える[はえる]/
-ausschlaggebend/決定的[けっていてき]/本質的[ほんしつてき]/
-ausschließen{vt}/除く[のぞく]/弾く[はじく]/
-ausschließlich/専属[せんぞく]/専ら[もっぱら]/
+ausschlagen{vi}/断る[ことわる]/
+ausschlaggebend/決定的[けっていてき]/
+ausschließen{vt}/(aussperren) 締め出[しめだす]/
+ausschließlich/専ら[もっぱら]/
 Ausschluss{m}/除去[じょきょ]/シャットアウト[しゃっとあうと]/追放[ついほう]/不合格[ふごうかく]/
 Ausschlussprinzip{n}/消去法[しょうきょほう]/
 ausschmücken{vt}/色を付ける[いろをつける]/
