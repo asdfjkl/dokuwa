@@ -2418,7 +2418,11 @@ ausbrechen{vi}{vt}/(entfliehen) 脱出する[だっしゅつする]/
 Ausbreiten{n}/敷き[しき]/
 Ausbreitung{f}/広がり[ひろがり]/
 Ausbruch{m}/(Flucht) 脱出[だっしゅつ]/(Ereignis) 突発[とっぱつ]/
+<<<<<<< HEAD
 Ausdauer{f}/忍耐[にんたい]/
+=======
+Ausdauer{f}/我慢[がまん]/忍[にん]/根気[こんき]/辛抱[しんぼう]/強靭[きょうじん]/腸[はらわた]/(Geduld) 忍耐[にんたい]/頑張り[がんばり]/粘り[ねばり]/
+>>>>>>> bis Basislager
 ausdauernd{adj}{adv}/根気よく[こんきよく]/
 Ausdehnung{f}/拡大[かくだい]/
 Ausdehnungskoeffizient{m}/膨張率[ぼうちょうりつ]/
@@ -2632,78 +2636,86 @@ ausscheiden{vt}{vi}/下す[くだす]/
 Ausscheidung{f}/排泄[はいせつ]/
 ausschlafen{vi}/朝寝する[あさねする]/
 Ausschlag{m}/発疹[ほっしん]/
+<<<<<<< HEAD
 ausschlagen{vi}/断る[ことわる]/
 ausschlaggebend/決定的[けっていてき]/
 ausschließen{vt}/(aussperren) 締め出[しめだす]/
 ausschließlich/専ら[もっぱら]/
 Ausschluss{m}/除去[じょきょ]/シャットアウト[しゃっとあうと]/追放[ついほう]/不合格[ふごうかく]/
+=======
+ausschlagen{vi}/断る[ことわる]/生える[はえる]/
+ausschlaggebend/決定的[けっていてき]/本質的[ほんしつてき]/
+ausschließen{vt}/除く[のぞく]/弾く[はじく]/
+ausschließlich/専属[せんぞく]/専ら[もっぱら]/
+Ausschluss{m}/除去[じょきょ]/
+>>>>>>> bis Basislager
 Ausschlussprinzip{n}/消去法[しょうきょほう]/
 ausschmücken{vt}/色を付ける[いろをつける]/
-Ausschmückung{f}/装飾[そうしょく]/艶[つや]/飾り付け[かざりつけ]/美化[びか]/
+Ausschmückung{f}/装飾[そうしょく]/
 ausschneiden{vt}/切り落とす[きりおとす]/
-Ausschnitt{m}/カット[かっと]/スクラップ[すくらっぷ]/ネック[ねっく]/切り抜き[きりぬき]/
+Ausschnitt{m}/(Teil) 一部[いちぶ]/(Decollete)  デコルテ[でこるて]/
 ausschreiben{vt}/…を公募する[…をこうぼする]/
 Ausschreibung{f}/募集[ぼしゅう]/入札[にゅうさつ]/
 Ausschreitung{f}/行き過ぎ[ゆきすぎ]/
-Ausschuss{m}/委員会[いいんかい]/ウエスト[うえすと]/
+Ausschuss{m}/(Komitee) 委員会[いいんかい]/
 Ausschussmitglied{n}/委員[いいん]/
 Ausschussware{f}/不良品[ふりょうひん]/
 ausschweifend{adj}/無茶[むちゃ]/
-Ausschweifung{f}/遊び[あそび]/散財[さんざい]/道楽[どうらく]/贅沢[ぜいたく]/
+Ausschweifung{f}/放埒[ほうらつ]/
 ausschwitzen{vt}/滲出する[しんしゅつする]/
 Ausschwitzung{f}/滲出[しんしゅつ]/
 ausschwärmen{vi}/散開する[さんかいする]/
 ausschöpfen{vt}/央[おう]/
 ausschütten{vt}/打ちまける[ぶちまける]/
-Aussehen{n}/色[いろ]/様子[ようす]/様相[ようそう]/掛かり[かかり]/押し出し[おしだし]/装い[よそおい]/見込み[みこみ]/見た目[みため]/素振り[そぶり]/形容[けいよう]/ルックス[るっくす]/見かけ[みかけ]/形態[けいたい]/体裁[ていさい]/ルック[るっく]/仕上げ[しあげ]/外見[そとみ]/構[かまえ]/風情[ふぜい]/趣[おもむき]/てい[てい]/外観[がいかん]/フェイス[ふぇいす]/模様[もよう]/佇まい[たたずまい]/格好[かっこう]/フェース[ふぇーす]/風格[ふうかく]/情景[じょうけい]/構え[かまえ]/姿[すがた]/
+Aussehen{n}/外観[がいかん]/
 aussetzen{vi}{vt}/捨てる[すてる]/
 Aussetzen{n}/間歇[かんけつ]/
 Aussetzer{m}/絶え絶え[たえだえ]/
-Aussicht{f}/期待[きたい]/見通し[みとおし]/見所[みどころ]/見どころ[みどころ]/光[こう]/風景[ふうけい]/見晴らし[みはらし]/見込み[みこみ]/展望[てんぼう]/眺め[ながめ]/将来[しょうらい]/末[すえ]/希望[きぼう]/模様[もよう]/眺望[ちょうぼう]/目処[めど]/前途[ぜんと]/
-Aussichtsplattform{f}/展望台[てんぼうだい]/見晴らし[みはらし]/
+Aussicht{f}/(Zukunftserwartung)見込み[みこみ]/(Landschaft) 景色[けしき]/
+Aussichtsplattform{f}/展望台[てんぼうだい]/
 Aussichtspunkt{m}/展望台[てんぼうだい]/
 Aussichtsturm{m}/櫓[やぐら]/
-aussortieren{vt}/除く[のぞく]/取り出す[とりだす]/分ける[わける]/
+aussortieren{vt}/取り出す[とりだす]/
 aussparen{vt}/さく[さく]/
 Aussparung{f}/中抜き[なかぬき]/
 Aussperrung{f}/ロックアウト[ろっくあうと]/
-Aussprache{f}/読み[よみ]/議論[ぎろん]/交渉[こうしょう]/発音[はつおん]/読み方[よみかた]/吐露[とろ]/
-aussprechen{vt}/言う[いう]/述べる[のべる]/云う[いう]/云う[いう]/申す[もうす]/
-ausspucken{vt}/上げる[あげる]/吐き出す[はきだす]/吐き出す[はきだす]/吐く[つく]/
+Aussprache{f}/(Diskussion) 議論[ぎろん]/(Betonung) 発音[はつおん]/
+aussprechen{vt}/(sagen) 言う[いう]/
+ausspucken{vt}/つばを吐く[つばをはく]/
 ausspähen{vt}/窺う[うかがう]/
 ausspülen{vt}/濯ぐ[ゆすぐ]/
 ausstatten{vt}/備える[そなえる]/
-Ausstattung{f}/装備[そうび]/装着[そうちゃく]/備品[びひん]/搭載[とうさい]/設備[せつび]/支度[したく]/仕度[したく]/
+Ausstattung{f}/(Ausrüstung) 装備[そうび]/
 ausstehen{vi}/耐える[たえる]/
 aussteigen{vi}/降り立つ[おりたつ]/
 aussteigen lassen/下ろす[おろす]/
 Aussteiger{m}/ドロップアウト[どろっぷあうと]/
 Aussteller{m}/出品者[しゅっぴんしゃ]/
-Ausstellung{f}/展示[てんじ]/展覧会[てんらんかい]/陳列[ちんれつ]/博覧会[はくらんかい]/フェア[ふぇあ]/出品[しゅっぴん]/出展[しゅってん]/展示会[てんじかい]/
+Ausstellung{f}/展覧会[てんらんかい]/
 Ausstellungsgelände{n}/博覧会場[はくらんかいち]/
 Ausstellungskatalog{m}/出品目録[しゅっぴんもくろく]/
-Ausstellungsraum{m}/展示場[てんじじょう]/ショールーム[しょーるーむ]/
+Ausstellungsraum{m}/展示場[てんじじょう]/
 Ausstellungsstand{m}/陳列台[ちんれつだい]/
 Ausstellungsstück{n}/展示品[てんじひん]/
-Aussterben{n}/消滅[しょうめつ]/断絶[だんぜつ]/自滅[じめつ]/廃絶[はいぜつ]/絶滅[ぜつめつ]/
+Aussterben{n}/死滅[しめつ]/
 aussterben{vi}/無くなる[なくなる]/
 Aussteuer{f}/嫁入り道具[よめいりどうぐ]/
 Ausstieg{m}/降車口[こうしゃぐち]/
-Ausstoß{m}/排気[はいき]/生産量[せいさんりょう]/
+Ausstoß{m}/(Produktion) 生産量[せいさんりょう]/
 ausstoßen{vt}/追う[おう]/
-ausstrahlen{vt}/放つ[はなつ]/発する[はっする]/
-Ausstrahlung{f}/放送[ほうそう]/発散[はっさん]/
-ausstrecken/出す[だす]/差し出す[さしだす]/伸ばす[のばす]/
+ausstrahlen{vt}/発する[はっする]/
+Ausstrahlung{f}/(Rundfunksendung) 放送[ほうそう]/
+ausstrecken/差し出す[さしだす]/
 ausstreichen{vt}/削る[けずる]/
 ausströmen{vi}/発する[はっする]/
 Ausströmen{n}/噴出[ふんしゅつ]/
-Ausströmung{f}/流出[りゅうしゅつ]/放出[ほうしゅつ]/
-Austausch{m}/交換[こうかん]/入れ替え[いれかえ]/引き換え[ひきかえ]/交流[こうりゅう]/やり取り[やりとり]/
+Ausströmung{f}/流出[りゅうしゅつ]/
+Austausch{m}/交換[こうかん]/
 Austauschbarkeit{f}/互換性[ごかんせい]/
 Austauschschüler{m}/交換学生[こうかんがくせい]/
 Austauschstudent{m}/交換留学生[こうかんりゅうがくせい]/
-Austeilung{f}/配布[はいふ]/区分[くぶん]/配当[はいとう]/
-Auster{f}/カキ[かき]/牡蠣[かき]/オイスター[おいすたー]/
+Austeilung{f}/区分[くぶん]/
+Auster{f}/カキ[かき]/
 Austernbank{f}/牡蠣棚[かきだな]/
 Austernfischer{m}/都鳥[みやこどり]/
 Austernseitling{m}/ヒラタケ[ひらたけ]/
@@ -2722,10 +2734,10 @@ Austrittserklärung{n}/退会届け[たいかいとどけ]/
 austrocknen{vi}/乾く[かわく]/干す[ほす]/
 Austrocknung{f}/枯渇[こかつ]/日照[ひでり]/
 austüfteln{vt}/編み出す[あみだす]/
-Ausverkauf{m}/セール[せーる]/安売り[やすうり]/売り出し[うりだし]/バーゲン[ばーげん]/完売[かんばい]/
+Ausverkauf{m}/セール[せーる]/
 ausverkaufen{vt}/売り払う[うりはらう]/
 ausverkauft{adj}/満席[まんせき]/
-Auswahl{f}/選択[せんたく]/ドラフト[どらふと]/セレクト[せれくと]/盛り合わせ[もりあわせ]/淘汰[とうた]/選定[せんてい]/ダイジェスト[だいじぇすと]/選挙[せんきょ]/見出し[みだし]/選抜[せんばつ]/抄[しょう]/選別[せんべつ]/抜粋[ばっすい]/セレクション[せれくしょん]/選考[せんこう]/選[せん]/抜擢[ばってき]/
+Auswahl{f}/選択[せんたく]/
 Auswahlkriterium{n}/選考基準[せんこうきじゅん]/
 Auswahlverfahren{n}/篩[ふるい]/
 auswalzen{vt}/水増しする[みずましする]/
@@ -2743,12 +2755,12 @@ Ausweichmanöver{n}/回避行動[かいひこうどう]/
 Ausweichstelle{f}/待避路[たいひみち]/
 Ausweis{m}/パス[ぱす]/証明書[しょうめいしょ]/
 Ausweisung{f}/追放[ついほう]/
-Ausweitung{f}/拡大[かくだい]/拡張[かくちょう]/エスカレート[えすかれーと]/
+Ausweitung{f}/拡大[かくだい]/
 auswerfen{vt}/噴出する[ふんしゅつする]/
 auswerten{vt}/積み上げる[つみあげる]/
-Auswertung{f}{Analyse}/利用[りよう]/活用[かつよう]/
+Auswertung{f}{Analyse}/利用[りよう]/
 auswickeln{vt}/広げる[ひろげる]/
-Auswirkung{f}/活動[かつどう]/影響[えいきょう]/実効[じっこう]/
+Auswirkung{f}/(Wirkung) 効果[こうか]/
 auswischen{vt}/拭く[ふく]/
 auswringen{vt}/絞る[しぼる]/
 Auswuchs{m}/隆起[りゅうき]/
@@ -2762,13 +2774,13 @@ auszahlen{vt}/渡す[わたす]/
 Auszahlung{f}/支給[しきゅう]/
 Auszeichnung{f}/勲章[くんしょう]/
 Auszeit{f}/タイム[たいむ]/
-Auszug{m}/概要[がいよう]/抄[しょう]/退去[たいきょ]/
-ausüben{vt}/行う[おこなう]/踏む[ふむ]/ふむ[ふむ]/行なう[おこなう]/及ぼす[およぼす]/押す[おす]/
-Ausübung{f}/実行[じっこう]/行使[こうし]/執行[しっこう]/
+Auszug{m}/(Text) 抄本[しょうほん]/
+ausüben{vt}/行う[おこなう]/
+Ausübung{f}/行使[こうし]/
 Authentifizierung{f}/認証[にんしょう]/
 authentisch{adv}/根拠のある[こんきょのある]/
 Autismus{m}/自閉症[じへいしょう]/
-Auto{n}/車[くるま]/自動車[じどうしゃ]/乗用車[じょうようしゃ]/
+Auto{n}/車[くるま]/
 Autoausstellung{f}/モーターショー[もーたーしょー]/
 Autobahn{f}/高速道路[こうそくどうろ]/ハイウェイ[はいうぇい]/
 Autobahnauffahrt{f}/インターチェンジ[いんたーちぇんじ]/
@@ -2786,7 +2798,7 @@ Autofahrer{m}/モータリスト[もーたりすと]/
 Autofahrt{f}/ドライブ[どらいぶ]/
 Autofähre{f}/フェリー[ふぇりー]/
 Autogenschweißen{n}/ガス溶接[がすようせつ]/
-Autogramm{n}/サイン[さいん]/署名[しょめい]/
+Autogramm{n}/サイン[さいん]/
 Autograph{m}/肉筆[にくひつ]/
 Autohersteller{m}/自動車製造業者[じどうしゃせいぞうぎょうしゃ]/
 Autohändler{m}/自動車売買業者[じどうしゃばいばいぎょうしゃ]/
@@ -2802,7 +2814,7 @@ Automatik{f}/自動[じどう]/
 Automatikgetriebe{n}/ノークラッチ[のーくらっち]/
 Automatikuhr{f}/自動巻き[じどうまき]/
 Automation{f}/オートメーション[おーとめーしょん]/
-automatisch{adv}{adj}/勢い[いきおい]/勢[いきおい]/オート[おーと]/自動的[じどうてき]/自ずと[おのずと]/自然に[しぜんに]/
+automatisch{adv}{adj}/自動的[じどうてき]/
 automatisieren{vt}/機械化する[きかいかする]/
 Automatisierung{f}/自動化[じどうか]/
 Automatismus{m}/自動式[じどうしき]/
@@ -2812,14 +2824,14 @@ autonom{adv}/自主的[じしゅてき]/
 Autonomie{f}/自主[じしゅ]/自治[じち]/自律[じりつ]/
 Autopilot{m}/オートパイロット[おーとぱいろっと]/
 Autopsie{f}/解剖[かいぼう]/
-Autor{m}/作家[さっか]/執筆者[しっぴつしゃ]/著者[ちょしゃ]/作者[さくしゃ]/筆者[ひっしゃ]/
+Autor{m}/作者[さくしゃ]/
 Autoradio{n}/カーラジオ[かーらじお]/
 Autoreifen{m}/自動車のタイヤ[じどうしゃのたいや]/
 Autoreisezug{m}/カートレイン[かーとれいん]/
 Autorenkatalog{m}/著者目録[ちょしゃもくろく]/
 Autorennen{n}/カーレース[かーれーす]/
 Autoritarismus{m}/権威主義[けんいしゅぎ]/
-Autorität{f}/力[ちから]/威勢[いせい]/局[きょく]/根拠[こんきょ]/大御所[おおごしょ]/重鎮[じゅうちん]/一家[いっか]/権力[けんりょく]/勢い[いきおい]/勢[いきおい]/威力[いりょく]/威風[いふう]/権威[けんい]/玄人[くろうと]/当局[とうきょく]/巨匠[きょしょう]/
+Autorität{f}/権威[けんい]/
 Autorotation{f}/自動回転[じどうかいてん]/
 Autoschlüssel{m}/車のキー[くるまのきー]/
 Autosom{n}/常染色体[じょうせんしょくたい]/
@@ -2830,7 +2842,7 @@ Autoverkäufer{m}/自動車のセールスマン[じどうしゃのせーるす�
 Autoverleih{m}/レンタカー会社[れんたかーがいしゃ]/
 Autowaschanlage{f}/洗車場[せんしゃじょう]/
 Autowerkstatt{f}/整備工場[せいびこうじょう]/
-außen{adv}/他[ほか]/外[ほか]/外に[そとに]/部外[ぶがい]/
+außen{adv}/外に[そとに]/
 Außenaufnahme{f}/野外撮影[やがいさつえい]/
 Außenbahn{f}/アウトコース[あうとこーす]/
 Außenborder{m}/船外機[せんがいき]/
@@ -2850,8 +2862,8 @@ Außenminister{m}/外務大臣[がいむだいじん]/
 Außenministerkonferenz{f}/外相会議[がいしょうかいぎ]/
 Außenpolitik{f}/外交[がいこう]/
 Außenputz{m}/外装[がいそう]/
-Außenseite{f}/横[よこ]/外部[がいぶ]/外回り[そとまわり]/外観[がいかん]/表面[ひょうめん]/外側[そとがわ]/
-Außenseiter{m}/穴[あな]/負け犬[まけいぬ]/孔[あな]/穴馬[あなうま]/ストレンジャー[すとれんじゃー]/
+Außenseite{f}/外側[そとがわ]/
+Außenseiter{m}/アウトサイダー[あうとさいだー]/
 Außenspiegel{m}/ドアミラー[どあみらー]/
 Außenstehende{m}{f}/傍の人たち[はたのひとたち]/
 Außentasche{f}/アウトサイド･ポケット[あうとさいどぽけっと]/
@@ -2860,17 +2872,17 @@ Außenverpackung{f}/上包み[うわづつみ]/
 Außenwand{f}/外壁[がいへき]/
 außer{prp; +Dativ}{conj}/除いて[のぞいて]/
 außer sich geraten/我を忘れる[われをわすれる]/
-außerdem{adv}/し[し]/以外[いがい]/且つ[かつ]/その他[そのた]/又[また]/復[また]/更[さら]/尚且つ[なおかつ]/のみならず[のみならず]/その上[そのうえ]/更に[さらに]/
+außerdem{adv}/その上[そのうえ]/
 Außerdienststellung{f}/お役御免[おやくごめん]/
 außerehelich{adj}/庶出の[しょしゅつの]/
 außergerichtlich{adj}/外庭で[がいていで]/
 außerhalb{prp; +Genitiv}{adv}/外に[そとに]/
 außerhalb stehen/局外に立つ[きょくがいにたつ]/
 Außerkraftsetzung{f}/失効[しっこう]/
-außerordentlich{adj}{adv}/大変[たいへん]/著しい[いちじるしい]/とんだ[とんだ]/至極[しごく]/至って[いたって]/いと[いと]/断然[だんぜん]/たっぷり[たっぷり]/極めて[きわめて]/優れて[すぐれて]/大層[たいそう]/臨時[りんじ]/偉い[えらい]/格段[かくだん]/とんでもない[とんでもない]/
+außerordentlich{adj}{adv}/特別の[とくべつの]/
 außerparlamentarisch{adj}/院外の[いんがいの]/
 avancieren/伸し上がる[のしあがる]/
-Avantgarde{f}/最先端[さいせんたん]/前衛[ぜんえい]/前衛[ぜんえい]/
+Avantgarde{f}/前衛[ぜんえい]/
 Avatar{m}/権化[ごんげ]/
 Avis{m}{n}/案内状[あんないじょう]/
 Avocado{f}/アボカド[あぼかど]/
@@ -2881,7 +2893,6 @@ Azalee{f}/躑躅[つつじ]/
 Azetylenlampe{f}/アセチレンランプ[あせちれんらんぷ]/
 Azimut{m}/方位角[ほういかく]/
 Azteke{m}/アステック[あすてっく]/
-B{n}/良[りょう]/
 Babylon{n}/バビロン[ばびろん]/
 Babylonier{m}/バビロニア人[ばびろにあじん]/
 Babynahrung{f}/離乳食[りにゅうしょく]/
@@ -2889,7 +2900,7 @@ Babypuder{n}/ベビーパウダー[べびーぱうだー]/
 Babyschuh{m}/ベビー･シューズ[べびーしゅーず]/
 Babysitter{m}/守り[もり]/守[もり]/子守[こもり]/
 Babysprache{f}/幼児語[ようじご]/
-Bach{m}/川[かわ]/小川[こがわ]/沢[さわ]/河[かわ]/流れ[ながれ]/
+Bach{m}/小川[こがわ]/
 Bachforelle{f}/岩魚[いわな]/
 Bachstelze{f}/セキレイ[せきれい]/
 Backblech{n}/天パン[てんぱん]/
@@ -2907,39 +2918,39 @@ Backplane{f}{n}/バックプレーン[ばっくぷれーん]/
 Backpulver{n}/ベーキングパウダー[べーきんぐぱうだー]/
 Backslash{m}/バックスラッシュ[ばっくすらっしゅ]/
 Backstein{m}/煉瓦[れんが]/
-Bad{n}/バス[ばす]/温室[おんしつ]/入浴[にゅうよく]/浴場[よくじょう]/風呂[ふろ]/浴室[よくしつ]/
+Bad{n}/風呂[ふろ]/
 Badeanzug{m}/水着[みずぎ]/
 Badebekleidung{f}/水着[みずぎ]/
 Badegast{m}/入湯客[にゅうとうきゃく]/
 Badehaus{n}/流し[ながし]/浴場[よくじょう]/
-Badehose{f}/パンツ[ぱんつ]/水着[みずぎ]/
+Badehose{f}/水着[みずぎ]/
 Badekappe{f}/水泳帽[すいえいぼう]/
 Badekur{f}/湯治[とうじ]/
 Bademantel{m}/バスローブ[ばすろーぶ]/
 Badematte{f}/バス･マット[ばすまっと]/
-Baden{n}/水泳[すいえい]/入浴[にゅうよく]/
+Baden{n}/水泳[すいえい]/
 Badeort{m}/湯治場[とうじば]/
 Badesalz{n}/入浴剤[にゅうよくざい]/
 Badestrand{m}/海水浴場[かいすいよくじょう]/
-Badetuch{n}/タオル[たおる]/バスタオル[ばすたおる]/
-Badewanne{f}/湯船[ゆぶね]/浴槽[よくそう]/
+Badetuch{n}/タオル[たおる]/
+Badewanne{f}/湯船[ゆぶね]/
 Badewasser{n}/お湯[おゆ]/
-Badezimmer{n}/温室[おんしつ]/バスルーム[ばするーむ]/浴室[よくしつ]/
+Badezimmer{n}/浴室[よくしつ]/
 Bagatelle{f}/些事[さじ]/
 bagatellisieren{vt}/見くびる[みくびる]/
 Bagger{m}/ショベルカー[しょべるかー]/
 baggern{vt}/浚う[さらう]/
-Baguette{n}/フランスパン[ふらんすぱん]/バゲット[ばげっと]/
+Baguette{n}/バゲット[ばげっと]/
 Bahaismus{m}/バハーイー[ばはーいー]/
 Bahamer{m}/バハマ人[ばはまじん]/
-Bahn{f}/トラック[とらっく]/ラップ[らっぷ]/軌道[きどう]/コース[こーす]/
+Bahn{f}/(Straße) 道路[どうろ]/(Zug) 電車[でんしゃ]/
 Bahn brechen/先駆する[せんくする]/
 Bahnbeamte{m}{f}/電車従業員[でんしゃじゅうぎょういん]/
 Bahnbrecher{m}/パイオニア[ぱいおにあ]/
 Bahngesellschaft{f}/鉄道会社[てつどうがいしゃ]/
 Bahngleis{n}/鉄道線路[てつどうせんろ]/
 Bahnhof{m}/駅[えき]/ステーション[すてーしょん]/
-Bahnhofsgebäude{n}/駅舎[えきしゃ]/駅ビル[えきびる]/
+Bahnhofsgebäude{n}/駅舎[えきしゃ]/#
 Bahnhofshalle{f}/コンコース[こんこーす]/
 Bahnkörper{m}/路盤[ろばん]/
 Bahnlinie{f}/線路[せんろ]/
@@ -2953,7 +2964,7 @@ Bahnwärter{m}/踏切番[ふみきりばん]/
 Bahnübergang{m}/踏切[ふみきり]/
 Baikalsee{m}/バイカル[ばいかる]/
 Baiser{n}/メレンゲ[めれんげ]/
-Baisse{f}/暴落[ぼうらく]/弱気[よわき]/ベアー[べあー]/軟弱[なんじゃく]/
+Baisse{f}/(Preissturz) 暴落[ぼうらく]/
 Baissetendenz{f}/弱含み[よわふくみ]/
 Bajonett{n}/剣[けん]/
 Bake{f}/標識[ひょうしき]/
@@ -2963,23 +2974,22 @@ bakteriell{adj}{adv}/細菌の[さいきんの]/
 Bakterienkultur{f}/細菌培養[さいきんばいよう]/
 Bakteriologe{m}/細菌学者[さいきんがくしゃ]/
 Bakteriologie{f}/細菌学[さいきんがく]/
-Balance{f}/中心[ちゅうしん]/体勢[たいせい]/均衡[きんこう]/見合い[みあい]/バランス[ばらんす]/平均[へいきん]/
+Balance{f}/バランス[ばらんす]/
 Balanceakt{m}/自転車操業[じてんしゃそうぎょう]/
-bald{adv}/今回[こんかい]/直に[じきに]/直[じき]/この度[このたび]/近い[ちかい]/追っかけ[おっかけ]/近々[ちかぢか]/その内[そのうち]/今度[こんど]/そろそろ[そろそろ]/間もなく[まもなく]/近日[きんじつ]/近いうちに[ちかいうちに]/今に[いまに]/
+bald{adv}/もうすぐ[もうすぐ]/
 Baldachin{m}/天蓋[てんがい]/
 baldmöglichst{adv}/至急に[しきゅうに]/
 Baldrian{m}/マタタビ[またたび]/
 Balg{m}/砂利[じゃり]/
-Balken{m}/ビーム[びーむ]/梁[はり]/
+Balken{m}/梁[はり]/
 Balkendiagramm{n}/棒グラフ[ぼうぐらふ]/
-Balkon{m}/縁側[えんがわ]/バルコニー[ばるこにー]/
-Ball{m}/玉[たま]/塊[まるかせ]/球[たま]/舞踏会[ぶとうかい]/
-Ballade{f}/歌[うた]/唄[うた]/バラード[ばらーど]/バラード[ばらーど]/歌謡[かよう]/
+Balkon{m}/バルコニー[ばるこにー]/
+Ball{m}/(Objekt) ボール[ぼーる]/(Tanz) 舞踏会[ぶとうかい]/
+Ballade{f}/バラード[ばらーど]/
 Ballast{m}/バラス[ばらす]/
 Ballaststoffe{pl}/ファイバー[ふぁいばー]/
 Ballen{m}/こり[こり]/
 Ballerina{f}/バレリーナ[ばれりーな]/
-Ballermann{m}/パチンコ[ぱちんこ]/蓮根[れんこん]/
 Ballett{n}/バレー[ばれー]/バレエ[ばれえ]/
 Balletttänzer{m}/バレエ･ダンサー[ばれえだんさー]/
 Ballistik{f}/弾道学[だんどうがく]/
@@ -2995,15 +3005,15 @@ Balzverhalten{n}/求愛行動[きゅうあいこうどう]/
 Bambus{m}/竹[たけ]/
 Bambusrohr{n}/竹竿[たけざお]/
 banal{adj}{adv}/芸がない[げいがない]/
-Banalität{f}/陳腐[ちんぷ]/月並み[つきなみ]/
+Banalität{f}/月並み[つきなみ]/
 Banane{f}/バナナ[ばなな]/
 Bananenschale{f}/バナナの皮[ばななのかわ]/
 Bananenstecker{m}/バナナ･プラグ[ばななぷらぐ]/
 Banause{m}/俗物[ぞくぶつ]/
-Band{n}{m}{f}/編[ぺん]/楽団[がくだん]/篇[へん]/テープ[てーぷ]/ベルト[べると]/バンド[ばんど]/バンド[ばんど]/バンド[ばんど]/バンド[ばんど]/縞[しま]/紐[ひも]/維[い]/絆[きずな]/ストラップ[すとらっぷ]/音楽隊[おんがくたい]/リボン[りぼん]/巻[かん]/巻き[まき]/
+Band{n}{m}{f}/(Musik~) バンド[ばんど]/(Farb~) リボン[りぼん]/(Buch) 巻[かん]/巻き[まき]/
 Bandage{f}/サポーター[さぽーたー]/
 bandagieren/テーピングする[てーぴんぐする]/
-Bande{f}/仲間[なかま]/徒[と]/連中[れんぢゅう]/群[むれ]/組[くみ]/組み[くみ]/群れ[むれ]/
+Bande{f}/仲間[なかま]/
 Bandit{m}/山賊[さんぞく]/
 Bandmaß{n}/物差し[ものさし]/
 Bandoneon{n}/バンドネオン[ばんどねおん]/
@@ -3013,7 +3023,7 @@ Bandschleife{f}/花結び[はなむすび]/
 Bandsäge{f}/帯鋸[おびのこぎり]/
 Bandwurm{m}/サナダムシ[さなだむし]/
 Banjo{n}/バンジョー[ばんじょー]/
-Bank{f}/銀行[ぎんこう]/ベンチ[べんち]/バンク[ばんく]/金庫[きんこ]/
+Bank{f}/{fin.} 銀行[ぎんこう]/(Sitzgelegenheit) ベンチ[べんち]/
 Bankanweisung{f}/銀行為替[ぎんこうかわせ]/
 Bankdarlehen{n}/銀行融資[ぎんこうゆうし]/
 Bankdrücken{n}/ベンチプレス[べんちぷれす]/
@@ -3037,7 +3047,7 @@ Bankzusammenbruch{m}/経営破綻[けいえいはたん]/
 Banküberfall{m}/銀行強盗[ぎんこうごうとう]/
 Banküberweisung{f}/銀行振込み[ぎんこうふりこみ]/
 Banner{n}/バナー[ばなー]/
-Bar{f}{n}/バー[ばー]/酒場[さかば]/カフェ[かふぇ]/飲み屋[のみや]/
+Bar{f}{n}/バー[ばー]/
 bar{adj}/現金の[げんきんの]/
 Baracke{f}/バラック[ばらっく]/
 Barbar{m}/胡[こ]/
@@ -3045,7 +3055,7 @@ Barbarei{f}/野蛮[やばん]/
 barbarisch{adj}{adv}/卑しい[いやしい]/
 Barbier{m}/理髪師[りはつし]/
 Bardame{f}/玄人[くろうと]/
-Bargeld{n}/金[かね]/現金[げんきん]/キャッシュ[きゃっしゅ]/金銭[きんせん]/かね[かね]/
+Bargeld{n}/現金[げんきん]/
 bargeldlos{adj}/キャッシュレス[きゃっしゅれす]/
 barhäuptig{adj}/帽子をかぶらずに[ぼうしをかぶらずに]/
 Bariton{m}/バリトン[ばりとん]/
@@ -3054,7 +3064,7 @@ Bariumkarbonat{n}/炭酸バリウム[たんさんばりうむ]/
 Barkauf{m}/現金買い[げんきんがい]/
 Barkeeper{m}/バーテンダー[ばーてんだー]/
 barmherzig{adv}/情深い[なさけぶかい]/
-Barmherzigkeit{f}/仁[じん]/恵み[めぐみ]/慈悲[じひ]/恩恵[おんけい]/恩[おん]/情[なさけ]/
+Barmherzigkeit{f}/慈悲[じひ]/
 Barock{m}{n}/バロック[ばろっく]/
 barock{adj}/バロック式の[ばろっくしきの]/
 Barockstil{m}/バロック様式[ばろっくようしき]/
@@ -3064,7 +3074,7 @@ Baron{m}/男爵[だんしゃく]/
 Baronin{m}/男爵夫人[だんしゃくふじん]/
 Barpreis{m}/現金正価[げんきんせいか]/
 Barren{m}/平行棒[へいこうぼう]/
-Barriere{f}/壁[かべ]/関門[かんもん]/バリア[ばりあ]/
+Barriere{f}/(Zaun) 柵[さく]/(Wand) 壁[かべ]/{fig.}(Hindernis) 障害[しょうがい]/
 Barrierefreiheit{f}/アクセシビリティー[あくせしびりてぃー]/
 Barriereriff{n}/堡礁[ほしょう]/
 Barrikade{f}/バリケード[ばりけーど]/
@@ -3077,15 +3087,15 @@ Barytlauge{f}/バライタ水[ばらいたすい]/
 Barzahlung{f}/即金[そっきん]/
 Barzahlungsrabatt{m}/現金割り引き[げんきんわりびき]/
 Basalt{m}/玄武岩[げんぶがん]/
-Base{f}/ベース[べーす]/従姉妹[いとこ]/
-Baseball{m}/野球[やきゅう]/ベースボール[べーすぼーる]/
+Base{f}/(Cousine) 従姉妹[いとこ]/
+Baseball{m}/野球[やきゅう]/
 Baseballschläger{m}/打棒[だぼう]/
 Baseballspieler{m}/野球選手[やきゅうせんしゅ]/
-Baseballstadion{n}/球場[きゅうじょう]/野球場[やきゅうじょう]/
+Baseballstadion{n}/野球場[やきゅうじょう]/
 Basilika{f}/バシリカ[ばしりか]/
 Basilikum{n}/バジル[ばじる]/
 Basilisk{m}/コッカトリース[こっかとりーす]/
-Basis{f}/基本[きほん]/根元[ねもと]/拠点[きょてん]/基盤[きばん]/底辺[ていへん]/ベーシック[べーしっく]/基[もとい]/根拠[こんきょ]/基礎[きそ]/ベース[べーす]/土台[どだい]/根本[こんぽん]/規模[きぼ]/根底[こんてい]/基準[きじゅん]/基地[きち]/
+Basis{f}/(Grundlage) 基礎[きそ]/
 Basisadresse{f}/ベースアドレス[べーすあどれす]/
 Basisdemokratie{f}/草の根民主主義[くさのねみんしゅしゅぎ]/
 Basislager{n}/基地[きち]/
