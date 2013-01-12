@@ -1,6 +1,6 @@
 Abiturient{m}/大学入学資格受験者[だいがくにゅうがくしかくじゅけんしゃ]/
 Vorladung{f}/{jur.} 出頭命令[しゅっとうめいれい]/
-Besamung{f}/künstliche ~ 人工授精[じんこうじゅせい]/
+Besamung{f}/(künstliche ~) 人工授精[じんこうじゅせい]/
 blinzeln{vi}/瞬きする[まばたきする]/
 Flüchtling{m}/難民[なんみん]/
 Kinderlähmung{f}/{med.} 小児麻痺[しょうにまひ]/
@@ -2418,11 +2418,7 @@ ausbrechen{vi}{vt}/(entfliehen) 脱出する[だっしゅつする]/
 Ausbreiten{n}/敷き[しき]/
 Ausbreitung{f}/広がり[ひろがり]/
 Ausbruch{m}/(Flucht) 脱出[だっしゅつ]/(Ereignis) 突発[とっぱつ]/
-<<<<<<< HEAD
 Ausdauer{f}/忍耐[にんたい]/
-=======
-Ausdauer{f}/我慢[がまん]/忍[にん]/根気[こんき]/辛抱[しんぼう]/強靭[きょうじん]/腸[はらわた]/(Geduld) 忍耐[にんたい]/頑張り[がんばり]/粘り[ねばり]/
->>>>>>> bis Basislager
 ausdauernd{adj}{adv}/根気よく[こんきよく]/
 Ausdehnung{f}/拡大[かくだい]/
 Ausdehnungskoeffizient{m}/膨張率[ぼうちょうりつ]/
@@ -2636,19 +2632,11 @@ ausscheiden{vt}{vi}/下す[くだす]/
 Ausscheidung{f}/排泄[はいせつ]/
 ausschlafen{vi}/朝寝する[あさねする]/
 Ausschlag{m}/発疹[ほっしん]/
-<<<<<<< HEAD
 ausschlagen{vi}/断る[ことわる]/
 ausschlaggebend/決定的[けっていてき]/
 ausschließen{vt}/(aussperren) 締め出[しめだす]/
 ausschließlich/専ら[もっぱら]/
-Ausschluss{m}/除去[じょきょ]/シャットアウト[しゃっとあうと]/追放[ついほう]/不合格[ふごうかく]/
-=======
-ausschlagen{vi}/断る[ことわる]/生える[はえる]/
-ausschlaggebend/決定的[けっていてき]/本質的[ほんしつてき]/
-ausschließen{vt}/除く[のぞく]/弾く[はじく]/
-ausschließlich/専属[せんぞく]/専ら[もっぱら]/
 Ausschluss{m}/除去[じょきょ]/
->>>>>>> bis Basislager
 Ausschlussprinzip{n}/消去法[しょうきょほう]/
 ausschmücken{vt}/色を付ける[いろをつける]/
 Ausschmückung{f}/装飾[そうしょく]/
