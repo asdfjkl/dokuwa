@@ -3804,12 +3804,12 @@ Beschriftung{f}/表記[ひょうき]/
 beschränken{vt}/狭める[せばめる]/
 beschränkt{adv}{adj}/乏しい[とぼしい]/
 Beschränktheit{f}/偏狭[へんきょう]/
-Beschränkung{f}/限定[げんてい]/拘束[こうそく]/紐[ひも]/有限[ゆうげん]/制限[せいげん]/制約[せいやく]/束縛[そくばく]/
+Beschränkung{f}/制限[せいげん]/
 beschuldigen{vt}/問う[とう]/
 Beschuldigung{f}/罪名[ざいめい]/
-Beschuss{m}/打ち込み[うちこみ]/被弾[ひだん]/
+Beschuss{m}/砲撃[ほうげき]/
 beschwatzen{vt}/包める[くるめる]/
-Beschwerde{f}/病気[びょうき]/文句[もんく]/抗議[こうぎ]/苦情[くじょう]/クレーム[くれーむ]/訴え[うったえ]/疾患[しっかん]/
+Beschwerde{f}/苦情[くじょう]/
 Beschwerdebrief{m}/投書[とうしょ]/
 Beschwerdefrist{f}/抗告期間[こうこくきかん]/
 Beschwerdeführer{m}/訴願人[そがんにん]/
@@ -3822,46 +3822,46 @@ Beschwichtigungspolitik{f}/宥和政策[ゆうわせいさく]/
 beschwindeln{vt}/騙す[だます]/
 beschwören{vt}/払う[はらう]/
 Beschwörung{f}/祈祷[きとう]/
-beschädigen{vt}/壊す[こわす]/傷つける[きずつける]/欠く[かく]/
+beschädigen{vt}/壊す[こわす]/
 beschädigt{adj}/きずのある[きずのある]/
-Beschädigung{f}/痛み[いたみ]/被害[ひがい]/損傷[そんしょう]/破損[はそん]/傷害[しょうがい]/故障[こしょう]/
+Beschädigung{f}/損傷[そんしょう]/
 beschäftigen{vt}/使う[つかう]/
-beschäftigt{adv}{adj}/忙しい[せわしい]/険しい[けわしい]/
+beschäftigt{adv}{adj}/忙しい[いそがしい]/
 beschäftigt sein/かまける[かまける]/
-Beschäftigung{f}/事[こと]/稼ぎ[かせぎ]/仕事[しごと]/商売[しょうばい]/使用[しよう]/生業[なりわい]/用事[ようじ]/職[しょく]/雇用[こよう]/所用[しょよう]/用達[ようたし]/
+Beschäftigung{f}/(Arbeit) 事[こと]/(~ mit einer Sache) 従事[じゅうじ]/
 Beschäftigungsdauer{f}/雇用期間[こようきかん]/
 Beschäftigungstherapeut{m}/作業療法士[さぎょうりょうほうし]/
 Beschäler{m}/種牡馬[しゅぼば]/
 beschämen{vt}/恥をかかせる[はじをかかせる]/
-beschämend{adv}{adj}/恥ずかしい[はずかしい]/情けない[なさけない]/輝かしい[かがやかしい]/
+beschämend{adv}{adj}/恥ずかしい[はずかしい]/
 beschämt{adj}{adv}/気恥ずかしい[きはずかしい]/
 Beschämung{f}/恥ずかしさ[はずかしさ]/
 beschönigen{vt}/誤魔化す[ごまかす]/
 beschönigend{adj}/婉曲[えんきょく]/
 Beschönigung{f}/粉飾[ふんしょく]/
-Beschützer{m}/旦那[だんな]/守り[もり]/守[もり]/保護者[ほごしゃ]/父兄[ふけい]/
-beseitigen{vt}/落とす[おとす]/除く[のぞく]/取り除く[とりのぞく]/抜く[ぬく]/片付ける[かたづける]/
-Beseitigung{f}/解決[かいけつ]/廃止[はいし]/一掃[いっそう]/除去[じょきょ]/打破[だは]/投棄[とうき]/廃絶[はいぜつ]/処理[しょり]/撤廃[てっぱい]/処分[しょぶん]/排除[はいじょ]/
+Beschützer{m}/保護者[ほごしゃ]/
+beseitigen{vt}/(wegschaffen) 除去する[じょきょする]/(aufräumen) 片付ける[かたづける]/
+Beseitigung{f}/除去[じょきょ]/
 Besen{m}/箒[ほうき]/
 Besenstiel{m}/ほうきの柄[ほうきのえ]/
 besessen{adj}/神がかりの[かみがかりの]/
 Besessenheit{f}/マニア[まにあ]/
-besetzen{vt}/占める[しめる]/しめる[しめる]/
+besetzen{vt}/占める[しめる]/
 Besetzer{m}/占拠者[せんきょしゃ]/
 besetzt sein{vi}/塞がる[ふさがる]/
 Besetztton{m}/お話中音[おはなしちゅうおと]/
-Besetzung{f}/占領[せんりょう]/占拠[せんきょ]/配役[はいやく]/
+Besetzung{f}/(Okkupation) 占領[せんりょう]/(Rollen~) 配役[はいやく]/
 besichtigen{vt}/見る[みる]/
-Besichtigung{f}/検査[けんさ]/見物[みもの]/観覧[かんらん]/拝観[はいかん]/監査[かんさ]/参観[さんかん]/見学[けんがく]/視察[しさつ]/見舞[みまい]/見舞い[みまい]/点検[てんけん]/
-Besichtigungsreise{f}/ツーリング[つーりんぐ]/観光旅行[かんこうりょこう]/
+Besichtigung{f}/見学[けんがく]/
+Besichtigungsreise{f}/観光旅行[かんこうりょこう]/
 besiedeln{vt}/開拓する[かいたくする]/
 Besiedlung{f}/開拓[かいたく]/
-besiegen{vt}/倒す[たおす]/下す[くだす]/破る[やぶる]/
-Besinnung{f}/意識[いしき]/正気[しょうき]/
+besiegen{vt}/負かす[まかす]/
+Besinnung{f}/意識[いしき]/
 Besinnungslosigkeit{f}/喪神[そうしん]/
-Besitz{m}/有[ゆう]/持ち物[もちもの]/財産[ざいさん]/所持[しょじ]/保有[ほゆう]/所蔵[しょぞう]/財[たから]/資本[しほん]/宝[たから]/
-besitzen{vt}/持つ[もつ]/有する[ゆうする]/在る[ある]/有る[ある]/備える[そなえる]/
-Besitzer{m}/主[ぬし]/オーナー[おーなー]/所有者[しょゆうしゃ]/持ち主[もちぬし]/
+Besitz{m}/(Vermögen) 財産[ざいさん]/(Grund~) 所持[しょじ]/
+besitzen{vt}/占有する[せんゆうする]/
+Besitzer{m}/所有者[しょゆうしゃ]/
 Besitzgier{f}/独占欲[どくせんよく]/
 Besitznahme{f}/獲得[かくとく]/
 Besitzung{f}/所領[しょりょう]/
@@ -3869,29 +3869,29 @@ Besitzwechsel{m}/受取手形[うけとりてがた]/
 besoffen{adj}/酔っ払った[よっぱらった]/
 besoffen sein/へべれけに酔っている[へべれけによっている]/
 Besoffenheit{f}/泥酔[でいすい]/
-Besoldung{f}/報酬[ほうしゅう]/待遇[たいぐう]/手当て[てあて]/手当[てあて]/給与[きゅうよ]/
-Besonderheit{f}/特徴[とくちょう]/特異[とくい]/希少[きしょう]/特有[とくゆう]/別段[べつだん]/一風[いっぷう]/
+Besoldung{f}/報酬[ほうしゅう]/
+Besonderheit{f}/特徴[とくちょう]/
 Besonderheiten{pl}/委細[いさい]/
-besonders{adv}/特に[とくに]/一に[いつに]/一段と[いちだんと]/特別[とくべつ]/別に[べつに]/別々に[べつべつに]/そんなに[そんなに]/独特[どくとく]/格別[かくべつ]/極めて[きわめて]/世にも[よにも]/臨時[りんじ]/格段[かくだん]/
+besonders{adv}/特に[とくに]/
 Besonnenheit{f}/遠慮[えんりょ]/
-Besorgnis{f}/不安[ふあん]/苦[く]/気がかり[きがかり]/危惧[きぐ]/懸念[けねん]/配慮[はいりょ]/憂い[うれい]/恐れ[おそれ]/気遣い[きづかい]/疑念[ぎねん]/
+Besorgnis{f}/不安[ふあん]/
 besorgt{adj}{adv}/くよくよ[くよくよ]/
 Besorgtheit{f}/不安[ふあん]/
-Besorgung{f}/買い物[かいもの]/始末[しまつ]/買い出し[かいだし]/お使い[おつかい]/買物[かいもの]/世話[せわ]/使い[つかい]/遣い[つかい]/
-besprechen{vt}/払う[はらう]/話し合う[はなしあう]/
-Besprechung{f}/話[はなし]/談合[だんごう]/審議[しんぎ]/話し[はなし]/相談[そうだん]/論評[ろんぴょう]/話し合い[はなしあい]/会議[かいぎ]/ミーティング[みーてぃんぐ]/交渉[こうしょう]/評論[ひょうろん]/批評[ひひょう]/祈祷[きとう]/祓い[はらい]/協議[きょうぎ]/議[ぎ]/談義[だんぎ]/会談[かいだん]/面会[めんかい]/打ち合わせ[うちあわせ]/打合せ[うちあわせ]/
+Besorgung{f}/(Anschaffung) 調達[ちょうたつ]/(Einkauf) 買物[かいもの]/
+besprechen{vt}/話し合う[はなしあう]/
+Besprechung{f}/(Beratung) 相談[そうだん]/(Verhandlung) 協議[きょうぎ]/
 Besprechungszimmer{n}/会議室[かいぎしつ]/
-besser{adj}{adv}/もっと[もっと]/ベター[べたー]/良く[よく]/寧ろ[むしろ]/増し[まし]/まし[まし]/マシ[まし]/
+besser{adj}{adv}/(besser sein als) よりよい[よりよい]/
 besser werden{vi}/治まる[おさまる]/
-Besserung{f}/回復[かいふく]/軽快[けいかい]/向上[こうじょう]/感化[かんか]/矯正[きょうせい]/
+Besserung{f}/回復[かいふく]/
 Besserungsanstalt{f}/少年鑑別所[しょうねんかんべつじょ]/
 Besserwisser{m}/半可通[はんかつう]/
 Bestand{m}/人手[ひとで]/
 Bestandsaufnahme{f}/棚卸[たなおろし]/
 Bestandsliste{f}/インベントリー[いんべんとりー]/
-Bestandteil{m}/アイテム[あいてむ]/成り立ち[なりたち]/成分[せいぶん]/
+Bestandteil{m}/成分[せいぶん]/
 Bestatter{m}/葬儀屋[そうぎや]/
-Bestattung{f}/葬儀[そうぎ]/埋葬[まいそう]/葬式[そうしき]/
+Bestattung{f}/葬儀[そうぎ]/
 Beste{m}{f}{n}/粋[すい]/
 bestechen{vt}/握らせる[にぎらせる]/
 Bestecher{m}/贈賄者[ぞうわいしゃ]/
@@ -3901,48 +3901,47 @@ Bestechung{f}/買収[ばいしゅう]/使い物[つかいもの]/
 Bestechungsgeld{n}/賄賂[わいろ]/
 Besteck{n}/食器[しょっき]/
 bestehen{vi}/押し通す[おしとおす]/
-Bestehen{n}/合格[ごうかく]/現存[げんそん]/通過[つうか]/現行[げんこう]/
+Bestehen{n}/(Existenz) 現存[げんそん]/
 bestehen auf/言い張る[いいはる]/
 bestehen aus{vi}/成る[なる]/
-bestellen{vt}/頼む[たのむ]/上げる[あげる]/申し込む[もうしこむ]/
+bestellen{vt}/注文する[ちゅうもんする]//
 Bestellformular{n}/注文書[ちゅうもんしょ]/
 Bestellnummer{f}/注文番号[ちゅうもんばんごう]/
-Bestellung{f}/注文[ちゅうもん]/発注[はっちゅう]/お召し[おめし]/オーダー[おーだー]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/
+Bestellung{f}/注文[ちゅうもん]/
 besteuern{vt}/掛ける[かける]/
 Besteuerung{f}/課税[かぜい]/
-Bestialität{f}/残酷[ざんこく]/極悪[ごくあく]/殺伐[さつばつ]/
+Bestialität{f}/残酷[ざんこく]/
 besticken{vt}/縫い取りをする[ぬいとりをする]/
 bestimmen{vt}/決める[きめる]/
-bestimmt{adv}/確か[たしか]/必ずや[かならずや]/定か[さだか]/絶対[ぜったい]/大丈夫[だいじょうぶ]/断じて[だんじて]/きっぱり[きっぱり]/具体的[ぐたいてき]/決まって[きまって]/断然[だんぜん]/必ず[かならず]/はっきり[はっきり]/端的[たんてき]/違いない[ちがいない]/間違いない[まちがいない]/てっきり[てっきり]/
-Bestimmtheit{f}/明確[めいかく]/的確[てっかく]/一定[いってい]/
-Bestimmung{f}/数[すう]/確定[かくてい]/使命[しめい]/約束[やくそく]/条項[じょうこう]/制定[せいてい]/定め[さだめ]/規律[きりつ]/規制[きせい]/特定[とくてい]/指定[してい]/条件[じょうけん]/所定[しょてい]/天職[てんしょく]/規定[きてい]/決まり[きまり]/決定[けってい]/規則[きそく]/宿命[しゅくめい]/本分[ほんぶん]/
+bestimmt{adv}/一定の[いっていの]/
+Bestimmung{f}/(Zielort) 届け先数[とどけさき]/(Festsetzung) 確定[かくてい]/(Schicksal) 宿命[しゅくめい]/
 Bestimmungshafen{m}/行き先[いきさき]/
 Bestimmungsort{m}/行き先[いきさき]/
 Bestimmungswort{n}/修飾語[しゅうしょくご]/
 bestrafen{vt}/戒める[いましめる]/
-Bestrafung{f}/科[とが]/処罰[しょばつ]/刑[けい]/罰[ばち]/処分[しょぶん]/制裁[せいさい]/罪[つみ]/
+Bestrafung{f}/処罰[しょばつ]/
 bestrahlen{vt}/照射する[しょうしゃする]/
 Bestrahlung{f}/照射[しょうしゃ]/
-Bestrebung{f}/志望[しぼう]/尽力[じんりょく]/
+Bestrebung{f}/志望[しぼう]/
 bestreuen{vt}/振りまく[ふりまく]/
 Bestseller{m}/ベストセラー[べすとせらー]/
 Bestzeit{f}/ベスト･タイム[べすとたいむ]/
-beständig{adv}{adj}/終始[しゅうし]/安定した[あんていした]/
-Beständigkeit{f}/安定[あんてい]/恒久[こうきゅう]/
-bestätigen{vt}/確かめる[たしかめる]/見極める[みきわめる]/
-Bestätigung{f}/確認[かくにん]/認定[にんてい]/証明[しょうめい]/認証[にんしょう]/説[せつ]/検証[けんしょう]/肯定[こうてい]/認知[にんち]/実証[じっしょう]/
+beständig{adv}{adj}/安定した[あんていした]/
+Beständigkeit{f}/安定[あんてい]/
+bestätigen{vt}/確かめる[たしかめる]/
+Bestätigung{f}/確認[かくにん]/
 bestäuben{vt}/受粉する[じゅふんする]/
 Bestäubung{f}/受粉[じゅふん]/
 bestürzt/愕然[がくぜん]/
-Bestürzung{f}/驚愕[きょうがく]/激動[げきどう]/仰天[ぎょうてん]/
-Besuch{m}/入り[いり]/挨拶[あいさつ]/訪れ[おとずれ]/参観[さんかん]/訪問者[ほうもんしゃ]/伺い[うかがい]/訪問[ほうもん]/客[きゃく]/来場[らいじょう]/見舞[みまい]/見舞い[みまい]/運び[はこび]/来訪[らいほう]/参上[さんじょう]/遠征[えんせい]/面会[めんかい]/お越し[おこし]/
-besuchen{vt}/行く[いく]/上がる[あがる]/足を運ぶ[あしをはこぶ]/いく[いく]/訪れる[おとずれる]/出る[でる]/訪ねる[たずねる]/通う[かよう]/伺う[うかがう]/
-Besucher{m}/入り[いり]/来訪者[らいほうしゃ]/訪問者[ほうもんしゃ]/観衆[かんしゅう]/客[きゃく]/ビジター[びじたー]/来賓[らいひん]/来客[らいきゃく]/入場者[にゅうじょうしゃ]/来場者[らいじょうしゃ]/出席者[しゅっせきしゃ]/
-besänftigen{vt}/休める[やすめる]/落ち着ける[おちつける]/
+Bestürzung{f}/驚愕[きょうがく]/
+Besuch{m}/訪問[ほうもん]/
+besuchen{vt}/訪ねる[たずねる]/
+Besucher{m}/訪問者[ほうもんしゃ]/
+besänftigen{vt}/落ち着ける[おちつける]/
 Besänftigung{f}/気休め[きやすめ]/
 Beta-Strahlung{f}/ベータ線[べーたせん]/
 Betagtheit{f}/シルバーエイジ[しるばーえいじ]/
-beteiligen{vt}/…に関与する[…にかんよする]/
+beteiligen{vt}/に関与する[にかんよする]/
 Beteiligung{f}/参加[さんか]/参入[さんにゅう]/関与[かんよ]/
 Beteiligungsfinanzierung{f}/エクイティー･ファイナンス[えくいてぃーふぁいなんす]/
 Beteiligungskapital{n}/資本参加資本[しほんさんかしほん]/
@@ -3965,21 +3964,21 @@ Betonstein{m}/コンクリートブロック[こんくりーとぶろっく]/
 Betonstraße{f}/舗道[ほどう]/
 betont{adj}/アクセントのある[あくせんとのある]/
 Betontransporter{m}/コンクリート車[こんくりーとしゃ]/
-Betonung{f}/ストレス[すとれす]/強弱[きょうじゃく]/強調[きょうちょう]/アクセント[あくせんと]/アクセント[あくせんと]/
+Betonung{f}/(Nachdruck) 強弱[きょうじゃく]/(Akzent) アクセント[あくせんと]/
 Betonverteiler{m}/コンクリート･スプレッダ[こんくりーとすぷれっだ]/
 Betonwand{f}/コンクリートの壁[こんくりーとのかべ]/
-betrachten{vt}/見る[みる]/観る[みる]/ご覧になる[ごらんになる]/眺める[ながめる]/
+betrachten{vt}/眺める[ながめる]/
 Betrachter{m}/来観者[らいかんしゃ]/
 Betrachtung{f}/考察[こうさつ]/
-Betrag{m}/金[かね]/総額[そうがく]/かね[かね]/
+Betrag{m}/(Summe) 総額[そうがく]/
 betrauern{vt}/悲しむ[かなしむ]/
-betreffend{adj}/当[とう]/当の[とうの]/ならば[ならば]/
+betreffend{adj}/当該の[とうがいの]/
 betreiben{vt}/経営する[けいえいする]/
 Betreibung{f}/徴発[ちょうはつ]/
 Betreten verboten!/立ち入り禁止[たちいりきんし]/
 Betreuer{m}{f}/カウンセラー[かうんせらー]/
-Betreuung{f}/面倒[めんどう]/養護[ようご]/手入れ[ていれ]/世話[せわ]/カウンセリング[かうんせりんぐ]/
-Betrieb{m}/使用[しよう]/稼働[かどう]/稼動[かどう]/製作所[せいさくじょ]/動作[どうさ]/事業[じぎょう]/営み[いとなみ]/盛況[せいきょう]/運転[うんてん]/営業[えいぎょう]/経営[けいえい]/運行[うんこう]/
+Betreuung{f}/世話[せわ]/
+Betrieb{m}/(Unternehmen) 営業[えいぎょう]/(Lebhaftigkeit) [賑わい]にぎわい/
 Betriebsart{f}/業種[ぎょうしゅ]/
 Betriebsdruck{m}/使用圧力[しようあつりょく]/
 Betriebsergebnis{n}/営業利益[えいぎょうりえき]/
@@ -4004,25 +4003,25 @@ Betriebswirtschaftler{m}/経営学者[けいえいがくしゃ]/
 Betriebswirtschaftslehre{f}/経営管理[けいえいかんり]/
 Betriebszeit{f}/動作時間[どうさじかん]/
 betroffen{adj}/どぎまぎ[どぎまぎ]/
-Betroffenheit{f}/驚愕[きょうがく]/被災[ひさい]/当該[とうがい]/
-Betrug{m}/詐欺[さぎ]/騙し[だまし]/寝返り[ねがえり]/狂言[きょうげん]/インチキ[いんちき]/欺瞞[ぎまん]/
+Betroffenheit{f}/驚愕[きょうがく]/
+Betrug{m}/詐欺[さぎ]/
 betrunken{adj}{adv}/べろべろ[べろべろ]/
 Betrunkenheit{f}/酔い[よい]/
-beträchtlich{adv}{adj}/相当[そうとう]/いい加減[いいかげん]/一段と[いちだんと]/至って[いたって]/めっきり[めっきり]/大分[だいぶん]/多大[ただい]/大した[たいした]/
+beträchtlich{adv}{adj}/相当[そうとう]/
 betrüben{vt}/痛める[いためる]/
 betrübend{adv}/痛ましい[いたましい]/
-Betrübnis{f}/痛み[いたみ]/悲しさ[かなしさ]/悲しみ[かなしみ]/哀しみ[かなしみ]/憂い[うれい]/遺憾[いかん]/悲哀[ひあい]/哀愁[あいしゅう]/
-betrübt{adv}/悲しい[かなしい]/哀しい[かなしい]/
+Betrübnis{f}/悲しみ[かなしみ]/
+betrübt{adv}/悲しい[かなしい]/
 Betrübtheit{f}/沈痛[ちんつう]/
-betrügen{vt}/図る[はかる]/裏切る[うらぎる]/
-Betrüger{m}/詐欺師[さぎし]/騙し[だまし]/
+betrügen{vt}/欺く[あざむく]/
+Betrüger{m}/詐欺師[さぎし]/
 Betrügerei{f}/かたり[かたり]/
-betrügerisch{adv}{adj}/騙し騙し[だましだまし]/
-Bett{n}/ベッド[べっど]/寝床[ねどこ]/寝台[しんだい]/
+betrügerisch{adv}{adj}/詐欺[さぎ]/
+Bett{n}/寝台[しんだい]/
 Bettbezug{m}/布団カバー[ふとんかばー]/
 Bettdecke{f}/掛け布団[かけぶとん]/
 Bettelmönch{m}/勧進[かんじん]/
-Betteln{n}/泣き[なき]/乞食[こじき]/
+Betteln{n}/乞食[こじき]/
 Bettgeflüster{n}/枕詞[まくらことば]/
 Bettler{m}/乞食[こじき]/
 Bettnässen{n}/夜尿症[やにょうしょう]/
@@ -4031,11 +4030,11 @@ Bettpfanne{f}/虎子[まる]/
 Bettzeug{n}/寝具[しんぐ]/
 Betätigungsfeld{n}/活動の舞台[かつどうのぶたい]/
 betäuben{vt}/麻酔をかける[ますいをかける]/
-Betäubung{f}/麻痺[まひ]/麻酔[ますい]/
+Betäubung{f}/麻酔[ますい]/
 Betäubungsmittel{n}/麻酔薬[ますいやく]/
 betörend{adv}/魅惑的な[みわくてきな]/
 betört/現つを抜かす[うつつをぬかす]/
-Betörung{f}/迷い[まよい]/悩殺[のうさつ]/
+Betörung{f}/悩殺[のうさつ]/
 Beugemuskel{m}/屈筋[くっきん]/
 beugen{vt}/曲げる[まげる]/
 Beugung{f}/変化[へんか]/活用[かつよう]/屈折[くっせつ]/
