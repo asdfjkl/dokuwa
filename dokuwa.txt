@@ -4268,18 +4268,18 @@ Bindemittel{n}/繋ぎ[つなぎ]/
 Binder{m}/ネクタイ[ねくたい]/
 Bindestrich{m}/ダッシュ[だっしゅ]/
 Bindfaden{m}/緒[お]/
-Bindung{f}/拘束[こうそく]/綴[とじ]/束縛[そくばく]/結合[けつごう]/
+Bindung{f}/拘束[こうそく]/
 Bindungskraft{f}/拘束力[こうそくりょく]/
 Bingo{n}/備後[びんご]/
-binnen{prp; +Genitiv; +Dativ}/…以内で[…いないで]/
-binnen kurzem/今に[いまに]/その内[そのうち]/
+binnen{prp; +Genitiv; +Dativ}/以内で[いないで]/
+binnen kurzem/その内[そのうち]/
 Binnenhafen{m}/内港[ないこう]/
 Binnenhandel{m}/内国貿易[ないこくぼうえき]/
 Binnenland{n}/国内[こくない]/内地[ないち]/
 Binnenmarkt{m}/国内市場[こくないしじょう]/
 Binnennachfrage{f}/国内需要[こくないじゅよう]/
 Binom{n}/二項[にこう]/
-Binse{f}/イ[い]/
+Binse{f}/藺[い]/
 Binsenweisheit{f}/自明の理[じめいのことわり]/
 binär{adj}/二進[にしん]/
 Binärcode{m}/2進コード[にしんこーど]/
@@ -4320,12 +4320,12 @@ Birnbaum{m}/梨[なし]/
 Birne{f}/玉[たま]/球[たま]/
 bis/迄[まで]/
 bis auf den letzten Mann/一人残らず[ひとりのこらず]/
-bis jetzt/今まで[いままで]/未だに[いまだに]/未だ[いまだ]/今でも[いまでも]/今迄[いままで]/従来[じゅうらい]/今に[いまに]/
+bis jetzt/今までに[いままでに]/
 Bisamratte{f}/ジャコウネズミ[じゃこうねずみ]/
 Bischof{m}/ビショップ[びしょっぷ]/
 Bisexualität{f}/両刀[りょうとう]/
 bisexuell{adj}/バイセクシャル[ばいせくしゃる]/
-bisher{adv}/今まで[いままで]/今でも[いまでも]/今迄[いままで]/従来[じゅうらい]/
+bisher{adv}/今まで[いままで]/
 bisherig{adj}/依然たる[いぜんたる]/
 Biskuit{m}{n}/ケーキ[けーき]/
 Biskuitrolle{f}/ロールケーキ[ろーるけーき]/
@@ -4337,18 +4337,18 @@ bissig{adj}{adv}/鋭い[するどい]/
 Bissigkeit{f}/辛辣[しんらつ]/
 Bistro{n}/ビストロ[びすとろ]/
 Bistum{n}/司教区[しきょうく]/
-bisweilen{adv}/時々[ときどき]/折々[おりおり]/
+bisweilen{adv}/時々[ときどき]/
 Bitmap{f}/ビットマップ[びっとまっぷ]/
-bitte{interj}/下さい[ください]/まあまあ[まあまあ]/何卒[どうぞ]/どうぞ[どうぞ]/ちょいと[ちょいと]/どうか[どうか]/
-Bitte{f}/願い[ねがい]/求め[もとめ]/要請[ようせい]/祈願[きがん]/願い事[ねがいごと]/請求[せいきゅう]/依頼[いらい]/願[ねがい]/申請[しんせい]/頼み[たのみ]/お願い[おねがい]/要望[ようぼう]/
+bitte{interj}/どうぞ[どうぞ]/(keine Ursache!) どう致しまして[どういたしまして]/(Entschuldigen Sie bitte, aber ...) すみませんが...[すみませんが...]/(Bitte geben Sie mir ...) ...をください[...をください]/
+Bitte{f}/お願い[おねがい]/
 Bitte legen Sie ab!/どうぞコートをお脱ぎ下さい。[どうぞこーとをおぬぎください。]/
 Bitte nehmen Sie Platz!/どうぞおかけ下さい。[どうぞおかけください。]/
 Bitte sehr!/どうも[どうも]/
 Bitte warten Sie einen Augenblick!/しばらくお待ち下さい。[しばらくおまちください。]/
 Bitten{n}/昵懇[じっこん]/
-bitten{vi}{vt}/頼む[たのむ]/乞う[こう]/願う[ねがう]/上げる[あげる]/仰ぐ[あおぐ]/
-bitter{adj}{adv}/厳しい[きびしい]/激しい[はげしい]/苦い[にがい]/苦い[にがい]/渋い[しぶい]/
-Bitterkeit{f}/無念[むねん]/苦味[にがみ]/ビター[びたー]/
+bitten{vi}{vt}/願う[ねがう]/
+bitter{adj}{adv}/苦い[にがい]/
+Bitterkeit{f}/{fig.} 無念[むねん]/(Geschmack) 苦味[にがみ]/
 Bittermandel{f}/ビター･アーモンド[びたーあーもんど]/
 Bitterspat{m}/菱苦土鉱[りょうくどこう]/
 Bittgesuch{n}/請願[せいがん]/
@@ -4362,7 +4362,7 @@ Blackout{m}/ブラックアウト[ぶらっくあうと]/
 blanchieren{vt}/湯掻く[ゆがく]/
 blanko{adj}{adv}/無記名式の[むきめいしきの]/
 Blankovollmacht{f}/白紙委任[はくしいにん]/
-Blase{f}/バブル[ばぶる]/泡[あわ]/
+Blase{f}/{ökon.} バブル[ばぶる]/(Schaum~) 泡[あわ]/(Harn~) 膀胱[ぼうこう]/
 Blasebalg{m}/鞴[ふいご]/
 blasend/ふうふう[ふうふう]/
 Blasenentzündung{f}/膀胱炎[ぼうこうえん]/
@@ -4371,13 +4371,13 @@ Blasenspiegel{m}/膀胱鏡[ぼうこうきょう]/
 Blasenspülung{f}/膀胱洗浄[ぼうこうせんじょう]/
 Blasenstein{m}/膀胱結石[ぼうこうけっせき]/
 blasig{adj}/泡沫の[ほうまつの]/
-Blasinstrument{n}/管[かん]/管楽器[かんがっき]/
-Blaskapelle{f}/ブラス[ぶらす]/吹奏楽団[すいそうがくだん]/
+Blasinstrument{n}/管楽器[かんがっき]/
+Blaskapelle{f}/吹奏楽団[すいそうがくだん]/
 Blasmusik{f}/吹奏楽[すいそうがく]/
 Blasphemie{f}/冒涜[ぼうとく]/
 Blasrohr{n}/吹き矢[ふきや]/
-blass{adv}/青い[あおい]/淡い[あわい]/淡々[たんたん]/蒼い[あおい]/青々[あおあお]/
-Blatt{n}/葉っぱ[はっぱ]/木の葉[このは]/リーフ[りーふ]/ブレード[ぶれーど]/
+blass{adv}/青白い[あおじろい]/
+Blatt{n}/(Pflanze) 葉[は]/(Papier) 紙片[しへん]/
 Blattfeder{f}/リーフ･スプリング[りーふすぷりんぐ]/
 Blattform{f}/葉状[ようじょう]/
 Blattgelatine{f}/板ゼラチン[いたぜらちん]/
@@ -4388,8 +4388,8 @@ Blattlaus{f}/アブラムシ[あぶらむし]/
 Blattpflanze{f}/観葉植物[かんようしょくぶつ]/
 Blattspitze{f}/葉末[はずえ]/
 Blattstiel{m}/葉柄[ようへい]/
-blau{adj}/青い[あおい]/蒼い[あおい]/
-Blau{n}/ブルー[ぶるー]/青[あお]/青色[あおいろ]/
+blau{adj}/青い[あおい]/
+Blau{n}/青[あお]/
 blaublütig{adj}/貴族出の[きぞくしゅつの]/
 Blauelster{f}/尾長[おなが]/
 blaugrau{adj}/藍ねずの[あいねずの]/
@@ -4402,7 +4402,7 @@ Blausäurevergiftung{f}/青酸中毒[せいさんちゅうどく]/
 Blauverschiebung{f}/ブルー･シフト[ぶるーしふと]/
 Blauwal{m}/シロナガスクジラ[しろながすくじら]/
 Blazer{m}/ブレザー[ぶれざー]/
-Blech{n}/プレート[ぷれーと]/ブラス[ぶらす]/ブリキ[ぶりき]/
+Blech{n}/ブリキ[ぶりき]/
 Blechblasinstrument{n}/ブラス[ぶらす]/
 Blechbläser{m}/ブラス[ぶらす]/
 Blechdose{f}/ブリキの缶[ぶりきのかん]/
@@ -4411,8 +4411,8 @@ Blechnapf{m}/金盥[かなだらい]/
 Blechschere{f}/金鋏[かなばさみ]/
 Blei{n}/鉛筆[えんぴつ]/
 Bleibe{f}/住処[すみか]/
-bleiben{vi}/残る[のこる]/宿る[やどる]/止まる[とまる]/留まる[とまる]/
-bleich{adv}/青い[あおい]/淡い[あわい]/蒼い[あおい]/
+bleiben{vi}/留まる[とどまる]/(übrig ~) 残る[のこる]/
+bleich{adv}/青白い[あおじろい]/
 Bleiche{f}/蒼然[そうぜん]/
 bleichen{vt}/晒す[さらす]/
 Bleichmittel{n}/ブリーチ[ぶりーち]/
@@ -4428,9 +4428,9 @@ Bleiweiß{n}/鉛白[えんぱく]/
 Blende{f}/絞り[しぼり]/搾り[しぼり]/
 Blendschutzfilter{m}/映り込み防止フィルター[うつりこみぼうしふぃるたー]/
 Blendung{f}/グレア[ぐれあ]/
-Blick{m}/眺め[ながめ]/目つき[めつき]/眼差し[まなざし]/眺望[ちょうぼう]/視線[しせん]/
+Blick{m}/視線[しせん]/
 Blickfang{m}/アイキャッチャー[あいきゃっちゃー]/
-Blickfeld{n}/視野[しや]/目前[めさき]/視界[しかい]/目先[めさき]/
+Blickfeld{n}/視野[しや]/
 Blickkontakt{m}/アイコンタクト[あいこんたくと]/
 Blickpunkt{m}/視点[してん]/
 Blickrichtung{f}/視線[しせん]/
@@ -4453,7 +4453,7 @@ blinken{vi}/明滅する[めいめつする]/
 Blinker{m}/ウインカー[ういんかー]/
 Blinkfeuer{n}/明暗灯[めいあんとう]/
 Blinklicht{n}/点滅信号[てんめつしんごう]/
-Blitz{m}/電[いなづま]/稲妻[いなづま]/フラッシュ[ふらっしゅ]/電光[でんこう]/
+Blitz{m}/稲光[いなびかり]/(Kamera) フラッシュ[ふらっしゅ]/
 Blitzableiter{m}/避雷針[ひらいしん]/
 blitzartig{adv}/電撃的な[でんげきてきな]/
 Blitzbesuch{m}/電撃的訪問[でんげきてきほうもん]/
@@ -4465,9 +4465,9 @@ Blitzkrieg{m}/電撃[でんげき]/
 Blitzlicht{n}/フラッシュ[ふらっしゅ]/
 Blitzschlag{m}/落雷[らくらい]/
 blitzschnell{adv}{adj}/颯と[さっと]/
-Block{m}/丁目[ちょうめ]/区画[くかく]/
+Block{m}/(Klumpen) 一塊[ひとかたまり]/(Stadtbezirk) 区画[くかく]/
 Blockabsatz{m}/中ヒール[ちゅうひーる]/
-Blockade{f}/停止[ていし]/封鎖[ふうさ]/閉塞[へいそく]/
+Blockade{f}/封鎖[ふうさ]/
 Blockbau{m}/ブロック建築[ぶろっくけんちく]/
 Blockflöte{f}/リコーダー[りこーだー]/
 Blockhaus{n}/ログハウス[ろぐはうす]/
@@ -4478,17 +4478,17 @@ blond{adj}/ブロンドの[ぶろんどの]/
 Blonde{f}{m}/ブロンド[ぶろんど]/
 Blouson{m}/ブルゾン[ぶるぞん]/
 bloße Haut{f}/素肌[すはだ]/
-Bloßstellung{f}/発覚[はっかく]/暴露[ばくろ]/
+Bloßstellung{f}/(Schande) 不名誉[ふめいよ]/(Enthüllung) 暴露[ばくろ]/
 Bluejeans{pl}/ブルージーンズ[ぶるーじーんず]/
 Bluff{m}/強がり[つよがり]/
-Blume{f}/花[はな]/草花[くさばな]/フラワー[ふらわー]/華[はな]/
+Blume{f}/花[はな]/
 Blumen pflücken{vt}/花を摘む[はなをつむ]/
-Blumenbeet{n}/花畑[はなばたけ]/お花畑[おはなばたけ]/花園[はなぞの]/花壇[かだん]/
+Blumenbeet{n}/花畑[はなばたけ]/
 Blumenbinder{m}/フラワー･デコレイター[ふらわーでこれいたー]/
 Blumenbukett{n}/花束[はなたば]/
 Blumenduft{m}/花の甘い香り[はなのあまいかおり]/
 Blumenerde{f}/培養土[ばいようど]/
-Blumengarten{m}/花畑[はなばたけ]/お花畑[おはなばたけ]/花園[はなぞの]/花壇[かだん]/
+Blumengarten{m}/花畑[はなばたけ]/
 Blumengeschäft{n}/花屋[はなや]/
 Blumenhändler{m}/花屋[はなや]/
 Blumenkind{n}/フラワー･チャイルド[ふらわーちゃいるど]/
@@ -4497,13 +4497,13 @@ Blumenkohl{m}/カリフラワー[かりふらわー]/
 Blumenkranz{m}/花輪[はなわ]/
 Blumenkrone{f}/花冠[かかん]/
 Blumenmädchen{n}/花売り[はなうり]/
-Blumenstrauß{m}/花束[はなたば]/ブーケ[ぶーけ]/
+Blumenstrauß{m}/花束[はなたば]/
 Blumenstängel{m}/花茎[かけい]/
 Blumentopf{m}/植木鉢[うえきばち]/
 Bluse{f}/ブラウス[ぶらうす]/
-Blut{n}/血[ち]/血統[けっとう]/血液[けつえき]/
+Blut{n}/血[ち]/
 Blutandrang{m}/充血[じゅうけつ]/
-Blutbad{n}/虐殺[ぎゃくさつ]/殺戮[さつりく]/
+Blutbad{n}/虐殺[ぎゃくさつ]/
 Blutbank{f}/血液銀行[けつえきぎんこう]/
 blutbefleckt{adj}/血みどろ[ちみどろ]/
 Blutbild{n}/血液像[けつえきぞう]/
@@ -4516,7 +4516,7 @@ Bluter{m}/血友病患者[けつゆうびょうかんじゃ]/
 Bluterguss{m}/打撲傷[だぼくしょう]/
 Bluterkrankheit{f}/血友病[けつゆうびょう]/
 Blutfleck{m}/血痕[けっこん]/
-Blutgefäß{n}/血管[けっかん]/脈絡[みゃくらく]/
+Blutgefäß{n}/血管[けっかん]/
 Blutgerinnsel{n}/血栓[けっせん]/
 Blutgerinnung{f}/血液凝固[けつえきぎょうこ]/
 Blutgruppe{f}/血液型[けつえきがた]/
@@ -4534,10 +4534,10 @@ Blutspender{m}/献血者[けんけつしゃ]/
 Blutspur{f}/血痕[けっこん]/
 blutstillend{adj}/収斂性の[しゅうれんせいの]/
 Blutstillung{f}/止血[しけつ]/
-Blutsverwandtschaft{f}/血[ち]/血統[けっとう]/
+Blutsverwandtschaft{f}/血統[けっとう]/
 Bluttransfusion{f}/輸血[ゆけつ]/
 Blutung{f}/出血[しゅっけつ]/
-Blutvergießen{n}/殺傷[さっしょう]/流血[りゅうけつ]/
+Blutvergießen{n}/殺傷[さっしょう]/
 Blutvergiftung{f}/敗血症[はいけつしょう]/
 Blutverlust{m}/失血[しっけつ]/
 Blutzucker{m}/血糖[けっとう]/
@@ -4553,23 +4553,23 @@ Blödmann{m}/能無し[のうなし]/
 Blödsinn{m}/デタラメ[でたらめ]/
 blödsinnig{adj}/いい加減[いいかげん]/
 Blöken{n}/鳴き声[なきごえ]/
-Blöße{f}/隙[すき]/弱み[よわみ]/
-Blühen{n}/開花[かいか]/賑わい[にぎわい]/花盛り[はなざかり]/繁盛[はんじょう]/
-blühen{vi}/咲く[さく]/賑わう[にぎわう]/開く[ひらく]/開く[ひらく]/
+Blöße{f}/(Nacktheit) 裸[はだか]/(Schwäche) 弱み[よわみ]/
+Blühen{n}/開花[かいか]/
+blühen{vi}/咲く[さく]/
 blühende Pflanze{f}/草花[くさばな]/
-Blüte{f}/花[はな]/開花[かいか]/精華[せいか]/真っ盛り[まっさかり]/盛り[さかり]/隆盛[りゅうせい]/華[はな]/華[はな]/壮[そう]/花盛り[はなざかり]/
-Blütenblatt{n}/花びら[はなびら]/花弁[はなびら]/
+Blüte{f}/開花[かいか]/
+Blütenblatt{n}/花弁[はなびら]/
 Blütendiagramm{n}/花式図[かしきず]/
 Blütenkelch{m}/萼[がく]/
 Blütenpflanze{f}/顕花植物[けんかしょくぶつ]/
 Blütenstand{m}/花序[かじょ]/
 Blütentraube{f}/総状花序[そうじょうばなじょ]/
-Blütezeit{f}/花[はな]/全盛期[ぜんせいき]/全盛[ぜんせい]/真っ盛り[まっさかり]/盛り[さかり]/華[はな]/花盛り[はなざかり]/花盛り[はなざかり]/最盛期[さいせいき]/
+Blütezeit{f}/(Effloreszenz) 開花期[かいかき]/(Zeitalter) 全盛期[ぜんせいき]/
 BMW{m}/ベーエムベー[べーえむべー]/
-Boa{f}/襟巻き[えりまき]/
+Boa{f}/襟巻き[えりまき]/	
 Bob{m}/ボブスレー[ぼぶすれー]/
 Bob fahren/ボブスレーに乗る[ぼぶすれーにのる]/
-Bock{m}/馬[うま]/ヤギ[やぎ]/山羊[やぎ]/
+Bock{m}/(Tier) 雄[お]/{ugs.}(keinen Bock auf etwas haben) 気乗りがしない[きのりがしない]/
 bocken/跳ねる[はねる]/
 Bockkäfer{m}/天牛[かみきりむし]/
 Bockleiter{f}/脚立[きゃたつ]/
@@ -4577,7 +4577,7 @@ Bockmist{m}/めちゃくちゃなもの[めちゃくちゃなもの]/
 Bockspringen{n}/馬跳び[うまとび]/
 Bockwurst{f}/茹でソーセージ[ゆでそーせーじ]/
 Bodden{m}/潟[かた]/
-Boden{m}/土[つち]/ボトム[ぼとむ]/屋根裏[やねうら]/地[じ]/底[そこ]/土壌[どじょう]/床[ゆか]/農地[のうち]/どん底[どんぞこ]/地盤[じばん]/地面[じめん]/大地[だいち]/土地[とち]/アース[あーす]/
+Boden{m}/(Erde) 土[つち]/(Fuß~) 床[ゆか]/
 Boden-Boden-Rakete{f}/地対地ミサイル[ちたいちみさいる]/
 Boden-Luft-Rakete{f}/サム[さむ]/
 Bodenbelag{m}/敷物[しきもの]/
@@ -4605,7 +4605,7 @@ Bodyboard{n}/ボディボード[ぼでぃぼーど]/
 Bodybuilder{m}/ボディビルダー[ぼでぃびるだー]/
 Bodybuilding{n}/ボディビル[ぼでぃびる]/
 Bodycheck{m}/ボディーチェック[ぼでぃーちぇっく]/
-Bogen{m}/弓[ゆみ]/アーチ[あーち]/弧[こ]/曲線[きょくせん]/
+Bogen{m}/弓形[ゆみがた]/
 Bogenfenster{n}/弓形窓[ゆみがたまど]/
 Bogengang{m}/アーケード[あーけーど]/
 Bogenlampe{f}/アーク灯[あーくとう]/
@@ -4629,7 +4629,7 @@ Bohrmaschine{f}/掘削機[くっさくき]/
 Bohrturm{m}/櫓[やぐら]/
 Bohrung{f}/掘削[くっさく]/
 Bohrwagen{m}/ジャンボ[じゃんぼ]/
-Boje{f}/ブイ[ぶい]/浮き[うき]/
+Boje{f}/浮標[ふひょう]/
 Bollwerk{n}/防壁[ぼうへき]/
 Bolzen{m}/栓[せん]/
 bombardieren{vt}/浴びせる[あびせる]/
@@ -4641,15 +4641,15 @@ Bombenangriff{m}/爆撃[ばくげき]/
 Bombenerfolg{m}/大当たり[おおあたり]/
 Bombengeschäft{n}/ぼろ儲け[ぼろもうけ]/
 Bomber{m}/爆撃機[ばくげきき]/
-Bon{m}/チケット[ちけっと]/クーポン[くーぽん]/
-Bonbon{n}/ドロップ[どろっぷ]/キャンディー[きゃんでぃー]/キャンディ[きゃんでぃ]/飴[あめ]/
+Bon{m}/レシート[れしーと]/
+Bonbon{n}/飴[あめ]/
 Bonmot{n}/名文句[めいもんく]/
 Bonobo{m}/ボノボ[ぼのぼ]/
 Bonsai{n}/盆栽[ぼんさい]/
 Bonus{m}/ボーナス[ぼーなす]/
-Bonze{m}/坊[ぼう]/和尚[おしょう]/坊主[ぼうず]/
-Boom{m}/ブーム[ぶーむ]/ラッシュ[らっしゅ]/
-Boot{n}/船[ふな]/舟[ふな]/ボート[ぼーと]/艇[てい]/
+Bonze{m}{pej.}/親分[おやぶん]/
+Boom{m}/ブーム[ぶーむ]/
+Boot{n}/船[ふね]/
 Bootsfahrt{f}/舟遊び[ふなあそび]/
 Bootsführer{m}/船頭[せんどう]/
 Bootshaus{n}/艇庫[ていこ]/
@@ -4671,16 +4671,16 @@ Borstenwurm{m}/多毛類[たもうるい]/
 borstig{adj}/剛毛のある[ごうもうのある]/
 Borsäure{f}/ホウ酸[ほうさん]/
 Borte{f}/組紐[くみひも]/
-Boshaftigkeit{f}/毒[どく]/どく[どく]/陰湿[いんしつ]/
-Bosheit{f}/悪[あく]/悪意[あくい]/極悪[ごくあく]/どく[どく]/邪悪[じゃあく]/毒[どく]/嫌味[いやみ]/不良[ふりょう]/意地悪[いじわる]/
-Boss{m}/かしら[かしら]/マスター[ますたー]/親爺[おやじ]/社長[しゃちょう]/親方[おやかた]/親分[おやぶん]/マイスター[まいすたー]/
+Boshaftigkeit{f}/意地悪[いじわる]/
+Bosheit{f}/悪意[あくい]/
+Boss{m}/親分[おやぶん]/
 Botanik{f}/植物学[しょくぶつがく]/
 Botaniker{m}/植物学者[しょくぶつがくしゃ]/
 botanisch{adj}/植物学の[しょくぶつがくの]/
 Botanisiertrommel{f}/胴乱[どうらん]/
-Bote{m}/使い[つかい]/使者[ししゃ]/メッセンジャー[めっせんじゃー]/お使い[おつかい]/遣い[つかい]/
-Botengang{m}/使い[つかい]/お使い[おつかい]/遣い[つかい]/
-Botschaft{f}/メッセージ[めっせーじ]/伝言[でんごん]/大使館[たいしかん]/
+Bote{m}/使者[ししゃ]/
+Botengang{m}/使い[つかい]/
+Botschaft{f}/(Nachricht) お知らせ[しらせ]/(diplomatische Vertretung) 大使館[たいしかん]/
 Botschafter{m}/大使[たいし]/
 Botschaftsrat{m}/参事官[さんじかん]/
 Bottich{m}/オケ[おけ]/桶[おけ]/
@@ -4707,7 +4707,7 @@ Brachland{n}/荒れ地[あれち]/
 brachliegen{vi}/寝る[ねる]/
 Brackwasser{n}/淡海水[たんかいすい]/
 Bramsegel{n}/トガンマスト[とがんますと]/
-Branche{f}/業界[ぎょうかい]/種目[しゅもく]/業種[ぎょうしゅ]/
+Branche{f}/部門[ぶもん]/
 branchenspezifisch{adj}/業界特有の[ぎょうかいとくゆうの]/
 Branchenverzeichnis{n}/職業別電話帳[しょくぎょうべつでんわちょう]/
 branchenüblich{adj}/業界特有の[ぎょうかいとくゆうの]/
@@ -4741,8 +4741,8 @@ Branntwein{m}/ブランデー[ぶらんでー]/
 Brasilianer{m}/ブラジル人[ぶらじるじん]/
 brasilianisch{adj}/ブラジルの[ぶらじるの]/
 Bratapfel{m}/焼きりんご[やきりんご]/
-Braten{m}/焼き[やき]/焼[やき]/ロース[ろーす]/ロースト[ろーすと]/
-braten{vt}/炒める[いためる]/揚げる[あげる]/
+Braten{m}/ロースト[ろーすと]/
+braten{vt}/炒める[いためる]/
 Bratensoße{f}/グレービー[ぐれーびー]/
 Brathähnchen{n}/ロースター[ろーすたー]/
 Bratpfanne{f}/フライパン[ふらいぱん]/
@@ -4750,8 +4750,8 @@ Bratrost{m}/焼き網[やきあみ]/
 Bratsche{f}/ビオラ[びおら]/
 Bratschist{m}/ビオラ奏者[びおらそうしゃ]/
 Bratspieß{m}/串[くし]/
-Brauch{m}/様[ためし]/カスタム[かすたむ]/慣習[かんしゅう]/恒例[こうれい]/風俗[ふうぞく]/例[ためし]/コンベンション[こんべんしょん]/決まり[きまり]/習慣[しゅうかん]/伝統[でんとう]/
-Brauchbarkeit{f}/一角[ひとかど]/手ごろ[てごろ]/手頃[てごろ]/使い勝手[つかいがって]/
+Brauch{m}/風俗[ふうぞく]/
+Brauchbarkeit{f}/有用[ゆうよう]/
 Brauchtum{n}/遺風[いふう]/
 Brauchwasser{n}/用水[ようすい]/
 Brauchwasserpumpe{f}/給水ポンプ[きゅうすいぽんぷ]/
@@ -4771,7 +4771,7 @@ Braunfäule{f}/赤腐れ病[あかぐされびょう]/
 Braunkohle{f}/褐炭[かったん]/
 Brausen{n}/どうどう[どうどう]/
 brausen{vi}/逆巻く[さかまく]/
-Braut{f}/嫁[よめ]/お嫁さん[およめさん]/婚約者[こんやくしゃ]/新婦[しんぷ]/花嫁[はなよめ]/
+Braut{f}/花嫁[はなよめ]/
 Brautbett{n}/新枕[にいまくら]/
 Brautente{f}/オシ[おし]/
 Brautjungfer{f}/付き添い[つきそい]/
@@ -4783,7 +4783,7 @@ bravo!{interj}/ヒヤ･ヒヤ[ひやひや]/
 Bravour{f}/気勢[きせい]/
 Brecheisen{n}/金梃[かなてこ]/
 Brechen{n}/決壊[けっかい]/
-brechen{vt}/折れる[おれる]/折る[おる]/折る[おる]/
+brechen{vt}/折れる[おれる]/
 Brecher{m}/波[なみ]/
 Brechmittel{n}/吐剤[とざい]/
 Brechstange{f}/金梃[かなてこ]/
@@ -4791,7 +4791,7 @@ Brechung{f}/屈折[くっせつ]/
 Brechungsindex{m}/屈折率[くっせつりつ]/
 Brechungswinkel{m}/屈折角[くっせつかく]/
 Brechwurzel{f}/吐根[とこん]/
-Breite{f}/横[よこ]/ワイド[わいど]/広さ[ひろさ]/
+Breite{f}/広さ[ひろさ]/
 Breitengrad{m}/緯度[いど]/
 Breitenkreis{m}/緯線[いせん]/
 breithüftig{adj}/尻の大きい[しりのおおきい]/
@@ -4799,7 +4799,7 @@ Breitmaulnashorn{n}/白犀[しろさい]/
 Breitseite{f}/舷側[げんそく]/
 Breitwand{f}/ワイドスクリーン[わいどすくりーん]/
 Bremsbelag{m}/ライニング[らいにんぐ]/
-Bremse{f}/ブレーキ[ぶれーき]/歯止め[はどめ]/アブ[あぶ]/
+Bremse{f}/ブレーキ[ぶれーき]/
 bremsen{vt}/ブレーキを掛ける[ぶれーきをかける]/
 Bremsen{n}/制動[せいどう]/
 Bremser{m}/制動手[せいどうしゅ]/
@@ -4816,16 +4816,16 @@ Brennbarkeit{f}/可燃[かねん]/
 Brennebene{f}/フォーカルプレーン[ふぉーかるぷれーん]/
 Brenneisen{n}/ヘアアイロン[へああいろん]/
 Brennelement{n}/燃料棒[ねんりょうぼう]/
-Brennen{n}/焼き[やき]/焼[やき]/炎上[えんじょう]/醸造[じょうぞう]/
-brennen{vi}{vt}/燃える[もえる]/焼ける[やける]/
-brennend{adj}/切[せつ]/せつ[せつ]/切に[せつに]/
+Brennen{n}/(Brauen) 醸造[じょうぞう]/
+brennen{vi}{vt}/{vi} 燃える[もえる]/
+brennend{adj}/燃えている[もえている]/
 Brenner{m}/ブレンネル峠[ぶれんねるとうげ]/
 Brennerei{f}/醸造所[じょうぞうじょ]/
-Brennholz{n}/柴[しば]/薪[まき]/マキ[まき]/
+Brennholz{n}/薪[まき]/
 Brennkammer{f}/燃焼室[ねんしょうしつ]/
 Brennnessel{f}/イラクサ[いらくさ]/
 Brennofen{m}/窯[かま]/
-Brennpunkt{m}/焦点[しょうてん]/ピント[ぴんと]/フォーカス[ふぉーかす]/
+Brennpunkt{m}/焦点[しょうてん]/
 Brennstab{m}/燃料棒[ねんりょうぼう]/
 Brennstoff{m}/燃料[ねんりょう]/
 Brennstoffpumpe{f}/燃料ポンプ[ねんりょうぽんぷ]/
@@ -4833,13 +4833,13 @@ Brennstoffzelle{f}/燃料電池[ねんりょうでんち]/
 Brennweite{f}/焦点距離[しょうてんきょり]/
 Brennwert{m}/発熱量[はつねつりょう]/
 Bresche{f}/突破口[とっぱこう]/
-Brett{n}/板[いた]/ボード[ぼーど]/盤[ばん]/
+Brett{n}/板[いた]/
 Bretterzaun{m}/板塀[いたべい]/
 Brettspiel{n}/ボードゲーム[ぼーどげーむ]/
 Bridge{n}/ブリッジ[ぶりっじ]/
 Brie{m}/ブリー[ぶりー]/
-Brief{m}/書[ふみ]/紙面[しめん]/レター[れたー]/便[たより]/文[ふみ]/書面[しょめん]/便り[たより]/手紙[てがみ]/書簡[しょかん]/状[じょう]/
-Briefbeschwerer{m}/抑え[おさえ]/押さえ[おさえ]/
+Brief{m}/手紙[てがみ]/
+Briefbeschwerer{m}/抑え[おさえ]/
 Briefbombe{f}/郵便爆弾[ゆうびんばくだん]/
 Brieffreund{m}/ペンフレンド[ぺんふれんど]/
 Briefgeheimnis{n}/信書の秘密[しんしょのひみつ]/
@@ -4856,14 +4856,14 @@ Brieftelegramm{n}/書信電報[しょしんでんぽう]/
 Briefträger{m}/郵便屋[ゆうびんや]/
 Briefumschlag{m}/封筒[ふうとう]/
 Briefwahl{f}/不在者投票[ふざいしゃとうひょう]/
-Briefwechsel{m}/連絡[れんらく]/音信[いんしん]/
+Briefwechsel{m}/往復書簡[おうふくしょかん]/
 Briefwähler{m}/不在投票者[ふざいとうひょうしゃ]/
 Brieföffner{m}/紙切り[かみきり]/
 Brigade{f}/旅団[りょだん]/
 Brigadegeneral{m}/准将[じゅんしょう]/
 Brillant{m}/ブリリアント[ぶりりあんと]/
 Brillanz{f}/英明[えいめい]/
-Brille{f}/眼鏡[がんきょう]/ゴーグル[ごーぐる]/
+Brille{f}/眼鏡[めがね]/
 Brillenbär{m}/メガネグマ[めがねぐま]/
 Brillenbügel{m}/眼鏡のつる[めがねのつる]/
 Brillenetui{n}/めがね入れ[めがねいれ]/
@@ -4887,29 +4887,29 @@ Bronzemedaille{f}/銅メダル[どうめだる]/
 Bronzezeit{f}/青銅器時代[せいどうきじだい]/
 Bronzieren{n}/ろう付け[ろうづけ]/
 Brooklyn{n}/ブルックリン[ぶるっくりん]/
-Brosche{f}/ピン[ぴん]/ブローチ[ぶろーち]/
-Broschüre{f}/パンフレット[ぱんふれっと]/ブックレット[ぶっくれっと]/冊子[さっし]/小冊子[しょうさっし]/パンフ[ぱんふ]/
+Brosche{f}/ブローチ[ぶろーち]/
+Broschüre{f}/パンフレット[ぱんふれっと]/
 Brot{n}/ブレッド[ぶれっど]/
 Brotbackautomat{m}/ホーム・ベーカリー[ほーむべーかりー]/
-Broterwerb{m}/稼ぎ[かせぎ]/生計[せいけい]/朝夕[あさゆう]/
+Broterwerb{m}/生計[せいけい]/
 Brotkruste{f}/パンの皮[ぱんのかわ]/
 Brotscheibe{f}/パンの1切れ[ぱんのいちきれ]/
 Brotverdiener{m}/稼ぎ手[かせぎて]/
-Bruch{m}{m}{n}/半端[はんぱ]/沼[ぬま]/破綻[はたん]/破損[はそん]/断絶[だんぜつ]/ヘルニア[へるにあ]/破棄[はき]/欠け[かけ]/
+Bruch{m}/破壊[はかい]/(Knochen~)  骨折[こっせつ]/
 Bruchband{n}/脱腸帯[だっちょうたい]/
 Bruchbude{f}/ぼろ家[ぼろや]/
 Bruchfläche{f}/断口[だんこう]/
 Bruchstein{m}/荒石[あらいし]/
 Bruchsteinmauerwerk{n}/自然石積み[しぜんせきづみ]/
-Bruchstück{n}/半端[はんぱ]/破片[はへん]/断片[だんぺん]/欠け[かけ]/欠片[かけら]/割れ[われ]/
-Bruchteil{m}/割り[わり]/割れ[われ]/
+Bruchstück{n}/破片[はへん]/
+Bruchteil{m}/割れ[われ]/
 Bruchzahl{f}/端数[はすう]/
 Bruchzone{f}/断裂帯[だんれつたい]/
 Bruder{m}/ブラザー[ぶらざー]/
 Brummen{n}/ぶんぶん[ぶんぶん]/
-brummen{vi}/吠える[ほえる]/唸る[うなる]/
+brummen{vi}/唸る[うなる]/
 Brummschädel{m}/二日酔い[ふつかよい]/
-Brunnen{m}/泉[いずみ]/井[い]/井戸[いど]/
+Brunnen{m}/井戸[いど]/
 Brunnenbauer{m}/井戸掘り[いどほり]/
 Brunnenbecken{n}/流し[ながし]/
 Brunnenhaus{n}/井戸屋形[いどやかた]/
@@ -4917,10 +4917,10 @@ Brunnenkresse{f}/クレソン[くれそん]/
 Brunnenschacht{m}/井筒[いづつ]/
 Brunnenwasser{n}/井戸水[いどみず]/
 Brunst{f}/盛り[さかり]/
-Brust{f}/胸[むね]/おっぱい[おっぱい]/乳[ち]/懐中[かいちゅう]/胸元[むなもと]/バスト[ばすと]/
+Brust{f}/胸[むね]/(Busen) おっぱい[おっぱい]/
 Brustamputation{f}/乳房切除[にゅうぼうせつじょ]/
 Brustbein{n}/胸板[むないた]/
-Brustbild{n}/バスト[ばすと]/上半身[じょうはんしん]/
+Brustbild{n}/半身像[はんしんぞう]/
 Brustdrüse{f}/乳腺[にゅうせん]/
 Brustfell{n}/胸膜[きょうまく]/
 Brustharnisch{m}/胸当て[むねあて]/
@@ -4932,9 +4932,10 @@ Brusttasche{f}/ポシェット[ぽしぇっと]/
 Brustumfang{m}/胸囲[きょうい]/
 Brustvergrößerung{f}/乳房増大[ちぶさぞうだい]/
 Brustwarze{f}/乳首[ちくび]/
-Brut{f}/児[こ]/群[むれ]/稚魚[ちぎょ]/群れ[むれ]/
-brutal{adj}{adv}/厳しい[きびしい]/強引に[ごういんに]/
-Brutalität{f}/強引[ごういん]/残虐[ざんぎゃく]/凶悪[きょうあく]/残酷[ざんこく]/凶暴[きょうぼう]/
+Brut{f}{pej.}{ugs.}/子供[こども]/
+Brut{f}/抱卵[ほうらん]/
+brutal{adj}{adv}/残酷な[ざんこくな]/
+Brutalität{f}/残酷[ざんこく]/
 Brutapparat{m}/孵卵器[ふらんき]/
 Bruthitze{f}/うだるような暑さ[うだるようなあつさ]/
 Brutplatz{m}/孵化場[ふかじょう]/
@@ -4943,15 +4944,15 @@ Brutstätte{f}/温床[おんしょう]/
 Bruttogewicht{n}/総量[そうりょう]/
 Bruttogewinn{m}/総利益[そうりえき]/
 Bruttoinlandsprodukt{n}/国内総生産[こくないそうせいさん]/
-Bruttosozialprodukt{n}/GNP[じーえぬぴー]/
+Bruttosozialprodukt{n}/国民総生産[こくみんそうせいさん]/
 brutzeln{vt}/じりじり焼く[じりじりやく]/
 Bräune{f}/サンタン[さんたん]/
 bräunen{vt}/火どる[ひどる]/
 bräunlich{adj}/浅黒い[あさぐろい]/
-Bräutigam{m}/新郎[しんろう]/婚約者[こんやくしゃ]/婿[むこ]/
+Bräutigam{m}/花婿[はなむこ]/ 
 Brötchen{n}/ロールパン[ろーるぱん]/
 brüchig{adj}/割れ易い[われやすい]/
-Brücke{f}/橋[きょう]/ブリッジ[ぶりっじ]/ブリッジ[ぶりっじ]/ブリッジ[ぶりっじ]/
+Brücke{f}/橋[はし]/
 Brückengleichrichter{m}/ブリッジ整流器[ぶりっじせいりゅうき]/
 Brückenkopf{m}/橋頭堡[きょうとうほ]/
 Brückenkran{m}/橋形クレーン[はしがたくれーん]/
@@ -4961,7 +4962,7 @@ Brückenwaage{f}/台秤[だいばかり]/
 brüderlich{adj}/兄弟の[きょうだいの]/
 Brüderlichkeit{f}/親睦[しんぼく]/
 Brügge{n}/ブリュージュ[ぶりゅーじゅ]/
-Brühe{f}/汁[つゆ]/液[つゆ]/
+Brühe{f}/ブイヨン[ぶいよん]/
 Brünette{f}/ブルネットの女[ぶるねっとのおんな]/
 Brünieren{n}/黒染め[くろぞめ]/
 Brüstung{f}/欄[おばしま]/
@@ -4970,8 +4971,8 @@ Bub{m}/坊[ぼう]/小僧[こぞう]/
 Bubblegum{m}/バブル･ガム[ばぶるがむ]/
 Bube{m}/少年[しょうねん]/ジャック[じゃっく]/
 Bubikopf{m}/ボブ[ぼぶ]/
-Buch{n}/本[ほん]/篇[へん]/書籍[しょせき]/ブック[ぶっく]/著書[ちょしょ]/文[ふみ]/冊子[さっし]/単行本[たんこうぼん]/書[ふみ]/一本[いっぽん]/著作[ちょさく]/巻[かん]/
-Buchbesprechung{f}/書評[しょひょう]/ブックレビュー[ぶっくれびゅー]/
+Buch{n}/本[ほん]/
+Buchbesprechung{f}/書評[しょひょう]/
 Buchbinden{n}/製本[せいほん]/
 Buchbinder{m}/製本屋[せいほんや]/
 Buchbinderei{f}/本の装幀[ほんのそうてい]/
@@ -4983,11 +4984,11 @@ Buchecker{f}/ブナの実[ぶなのみ]/
 buchen{vt}/申し込む[もうしこむ]/
 Buchen{n}/ブッキング[ぶっきんぐ]/
 Buchenholz{n}/ブナ[ぶな]/
-Buchführung{f}/経理[けいり]/簿記[ぼき]/
-Buchhalter{m}/会計[かいけい]/会計士[かいけいし]/
-Buchhaltung{f}/会計[かいけい]/経理[けいり]/簿記[ぼき]/
+Buchführung{f}/簿記[ぼき]/
+Buchhalter{m}/会計士[かいけいし]/
+Buchhaltung{f}/会計[かいけい]/
 Buchhandel{m}/書籍販売[しょせきはんばい]/
-Buchhandlung{f}/書店[しょてん]/書房[しょぼう]/本屋[ほんや]/
+Buchhandlung{f}/書店[しょてん]/
 Buchhändler{m}/本屋[ほんや]/
 Buchmachen{n}/ノミ行為[のみこうい]/
 Buchmacher{m}/ブックメーカー[ぶっくめーかー]/
@@ -4996,12 +4997,12 @@ Buchreihe{f}/ライブラリー[らいぶらりー]/
 Buchrücken{m}/背表紙[せびょうし]/
 Buchsbaum{m}/柘植[つげ]/
 Buchseite{f}/頁[ぺーじ]/
-Buchstabe{m}/文字[もじ]/レター[れたー]/キャラクター[きゃらくたー]/
+Buchstabe{m}/文字[もじ]/
 Buchstabencode{m}/文字暗号[もじあんごう]/
 buchstäblich{adv}/文字通りに[もじどおりに]/
-Bucht{f}/湾[わん]/江[え]/潟[かた]/入江[いりえ]/浦[うら]/
+Bucht{f}/湾[わん]/
 Buchtitel{m}/書名[しょめい]/
-Buchumschlag{m}/ジャケット[じゃけっと]/
+Buchumschlag{m}/ブックカバー[ぶっくかばー]/
 Buchung{f}/記入[きにゅう]/ブッキング[ぶっきんぐ]/
 Buchungsbeleg{m}/伝票[でんぴょう]/
 Buchweizen{m}/蕎麦[そば]/
