@@ -4037,17 +4037,17 @@ betört/現つを抜かす[うつつをぬかす]/
 Betörung{f}/悩殺[のうさつ]/
 Beugemuskel{m}/屈筋[くっきん]/
 beugen{vt}/曲げる[まげる]/
-Beugung{f}/変化[へんか]/活用[かつよう]/屈折[くっせつ]/
+Beugung{f}/曲がり[まがり]/
 Beugungsgitter{n}/回折格子[かいせつこうし]/
-Beule{f}/穴[あな]/孔[あな]/凹み[くぼみ]/
+Beule{f}/凹み[へこみ]/
 Beulenpest{f}/腺ペスト[せんぺすと]/
 beunruhigen{vt}/苦しめる[くるしめる]/
 beunruhigend{adv}{adj}/寒心すべき[かんしんすべき]/
-Beunruhigung{f}/動揺[どうよう]/不穏[ふおん]/
+Beunruhigung{f}/不穏[ふおん]/
 beurlauben{vt}/休職する[きゅうしょくする]/
 Beurlaubung{f}/休職[きゅうしょく]/
-Beurteilung{f}/判断[はんだん]/鑑定[かんてい]/審査[しんさ]/査定[さてい]/判別[はんべつ]/
-Beute{f}/幸[さち]/餌[えさ]/戦利品[せんりひん]/獲物[えもの]/餌食[えじき]/
+Beurteilung{f}/判断[はんだん]/
+Beute{f}/戦利品[せんりひん]/
 Beutel{m}/袋[ふくろ]/
 Beutelteufel{m}/タスマニアデビル[たすまにあでびる]/
 Beuteltier{n}/有袋動物[ゆうたいどうぶつ]/
@@ -4056,30 +4056,30 @@ bevorrechtigt/優先的の[ゆうせんてきの]/
 bevorstehen{vi}/迫る[せまる]/
 bevorstehend{adv}/間近な[まぢかな]/
 bevorzugt/優先的の[ゆうせんてきの]/
-Bevorzugung{f}/引き[ひき]/優遇[ゆうぐう]/抜擢[ばってき]/
-Bevölkerung{f}/住民[じゅうみん]/人口[じんこう]/
+Bevorzugung{f}/(Parteilichkeit) 依怙贔屓[えこひいき]/(freundliche Behandlung) 優遇[ゆうぐう]/
+Bevölkerung{f}/住民[じゅうみん]/(Einwohnerzahl) 人口[じんこう]/
 Bevölkerungsdichte{f}/人口密度[じんこうみつど]/
 Bevölkerungsexplosion{f}/人口爆発[じんこうばくはつ]/
 Bevölkerungspolitik{f}/人口政策[じんこうせいさく]/
 Bevölkerungsstruktur{f}/人口構成[じんこうこうせい]/
 Bevölkerungswachstum{n}/人口増加[じんこうぞうか]/
 Bevölkerungsüberschuss{m}/人口過剰[じんこうかじょう]/
-bewachen{vt}/守る[まもる]/見張る[みはる]/見守る[みまもる]/
+bewachen{vt}/見張る[みはる]/
 Bewacher{m}/警護[けいご]/
-Bewachung{f}/警備[けいび]/気配り[きくばり]/固め[かため]/見張り[みはり]/
+Bewachung{f}/見張り[みはり]/
 bewaffnet{adj}/備えのある[そなえのある]/
-Bewaffnung{f}/装備[そうび]/武装[ぶそう]/搭載[とうさい]/
+Bewaffnung{f}/武装[ぶそう]/
 Bewahrer{m}/維持者[いじしゃ]/
-Bewahrung{f}/管理[かんり]/保全[ほぜん]/維持[いじ]/保守[ほしゅ]/温存[おんぞん]/保存[ほぞん]/
+Bewahrung{f}/保全[ほぜん]/
 bewaldet/樹木の茂った[じゅもくのしげった]/
-bewegen{vt}/動かす[うごかす]/走らせる[はしらせる]/
-bewegend{adv}/ぐっと[ぐっと]/動的[どうてき]/ぞっと[ぞっと]/ゾッと[ぞっと]/
-Beweggrund{m}/理由[りゆう]/モチベーション[もちべーしょん]/趣旨[しゅし]/モチーフ[もちーふ]/動機[どうき]/原動力[げんどうりょく]/
+bewegen{vt}/動かす[うごかす]/
+bewegend{adv}/(dynamisch) 動的[どうてき]/(rührend)  感動的な[かんどうてきな]/
+Beweggrund{m}/動機[どうき]/
 beweglich{adj}{adv}/小まめ[こまめ]/
 Beweglichkeit{f}/可動[かどう]/
 bewegt{adj}/さっき[さっき]/
 Bewegtheit{f}/運動[うんどう]/
-Bewegung{f}/感動[かんどう]/上り下り[あがりさがり]/動作[どうさ]/感慨[かんがい]/モーション[もーしょん]/運動[うんどう]/運動[うんどう]/動き[うごき]/身動き[みうごき]/移動[いどう]/発動[はつどう]/感心[かんしん]/
+Bewegung{f}/運動[うんどう]/
 Bewegungsfreiheit{f}/遊び[あそび]/余地[よち]/
 Bewegungsgleichung{f}/運動方程式[うんどうほうていしき]/
 Bewegungsgröße{f}/運動量[うんどうりょう]/
@@ -4091,7 +4091,7 @@ Bewegungstherapie{f}/運動療法[うんどうりょうほう]/
 Bewehrungseisen{n}/鉄筋[てっきん]/
 Bewehrungsstab{m}/鉄筋[てっきん]/
 Bewehrungsstahl{m}/鉄筋[てっきん]/
-Beweis{m}/記[しるし]/ネタ[ねた]/ねた[ねた]/証明[しょうめい]/証明[しょうめい]/証明[しょうめい]/根拠[こんきょ]/立証[りっしょう]/証[しょう]/実証[じっしょう]/
+Beweis{m}/証明[しょうめい]/
 Beweisaufnahme{f}/挙証[きょしょう]/
 Beweisführung{f}/論[ろん]/論調[ろんちょう]/
 Beweislast{f}/証明責任[しょうめいせきにん]/
@@ -4099,29 +4099,29 @@ Beweismaterial{n}/事跡[じせき]/
 Beweissicherung{f}/証拠保全[しょうこほぜん]/
 Beweisstück{n}/物件[ぶっけん]/
 Bewerber{m}/希望者[きぼうしゃ]/
-Bewerbung{f}/願い[ねがい]/志願[しがん]/立候補[りっこうほ]/願[ねがい]/出願[しゅつがん]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/
+Bewerbung{f}/応募[おうぼ]/
 Bewerbungsformular{n}/応募用紙[おうぼようし]/
 Bewerbungsfrist{f}/出願期限[しゅつがんきげん]/
 Bewerbungsunterlagen{pl}/応募資料[おうぼしりょう]/
 Bewertung{f}/評価[ひょうか]/鑑定[かんてい]/
 Bewertungsgrundlage{f}/評価基準[ひょうかきじゅん]/
 Bewertungssystem{n}/評価制度[ひょうかせいど]/
-Bewilligung{f}/許可[きょか]/許諾[きょだく]/承諾[しょうだく]/付与[ふよ]/
-bewirken{vt}/起こす[おこす]/引き起こす[ひきおこす]/
+Bewilligung{f}/許可[きょか]/
+bewirken{vt}/引き起こす[ひきおこす]/
 bewirten{vt}/扱う[あつかう]/
-Bewirtung{f}/ご馳走[ごちそう]/待遇[たいぐう]/供[きょう]/振る舞い[ふるまい]/接待[せったい]/
+Bewirtung{f}/持て成し[もてなし]/
 Bewirtungskosten{pl}/接待費[せったいひ]/
 bewohnbar{adj}{adv}/住むに適した[すむにてきした]/
-bewohnen{vt}/住む[すむ]/居る[いる]/棲む[すむ]/
-Bewohner{m}/住民[じゅうみん]/住人[じゅうにん]/
-bewundern{vt}/驚く[おどろく]/惚れる[ほれる]/憧れる[あこがれる]/見上げる[みあげる]/恋する[こいする]/
+bewohnen{vt}/住む[すむ]/
+Bewohner{m}/住民[じゅうみん]/
+bewundern{vt}/感嘆する[かんたんする]/
 bewundernd{adv}/瞠若[どうじゃく]/
-bewundernswert{adv}/驚くべき[おどろくべき]/奇特[きどく]/
-Bewunderung{f}/感[かん]/感嘆[かんたん]/観賞[かんしょう]/憧れ[あこがれ]/感服[かんぷく]/敬服[けいふく]/礼賛[らいさん]/驚き[おどろき]/感心[かんしん]/
+bewundernswert{adv}/感嘆すべき[かんたんすべき]/
+Bewunderung{f}/感嘆[かんたん]/
 bewusst{adj}/意識的[いしきてき]/
 Bewusstheit{f}/コンシャス[こんしゃす]/
 bewusstlos{adj}/気絶した[きぜつした]/
-Bewusstsein{n}/意識[いしき]/正体[しょうたい]/正気[しょうき]/マインド[まいんど]/
+Bewusstsein{n}/意識[いしき]/
 Bewusstseinsstörung{f}/意識障害[いしきしょうがい]/
 bewährt{adj}/時の試練を経た[ときのしれんをへた]/
 Bewährung{f}/執行猶予[しっこうゆうよ]/
@@ -4134,20 +4134,20 @@ Bewässerungskanal{n}/用水路[ようすいろ]/
 bewölkt/暗澹[あんたん]/
 Bewölkung{f}/曇[くもり]/
 bezahlt{adj}/支払い済み[しはらいずみ]/
-Bezahlung{f}/会計[かいけい]/待遇[たいぐう]/払い[はらい]/納付[のうふ]/納入[のうにゅう]/賃金[ちんきん]/支払い[しはらい]/支払[しはらい]/勘定[かんじょう]/対価[たいか]/
+Bezahlung{f}/支払い[しはらい]/
 bezaubern{vt}/惹きつける[ひきつける]/
-bezaubernd{adv}/チャーミング[ちゃーみんぐ]/艶やか[あでやか]/
+bezaubernd{adv}/艶やか[あでやか]/
 bezaubernde Frau{f}/あだっぽい女[あだっぽいおんな]/
-Bezauberung{f}/魅了[みりょう]/悩殺[のうさつ]/
+Bezauberung{f}/悩殺[のうさつ]/
 bezeichnen{vt}/称する[しょうする]/
 Bezeichner{m}/識別子[しきべつし]/
-Bezeichnung{f}/名[な]/名称[めいしょう]/呼称[こしょう]/名目[めいもく]/呼び方[よびかた]/
+Bezeichnung{f}/名称[めいしょう]/
 bezeugen{vt}/裏付ける[うらづける]/
-Beziehung{f}/関係[かんけい]/間[あいだ]/点[てん]/因縁[いんねん]/因[ちなみ]/係り[かかわり]/係[かかり]/結びつき[むすびつき]/伝[つて]/繋がり[つながり]/交渉[こうしょう]/交際[こうさい]/関連[かんれん]/コネ[こね]/行き来[ゆきき]/絡み[からみ]/コネクション[こねくしょん]/間柄[あいだがら]/関わり[かかわり]/
+Beziehung{f}/関係[かんけい]/
 Beziehungen{pl}/手蔓[てづる]/
-Bezirk{m}/地域[ちいき]/地区[ちく]/区域[くいき]/域[いき]/エリア[えりあ]/区[く]/区画[くかく]/
-Bezug{m}/関係[かんけい]/係り[かかわり]/係[かかり]/カヴァー[かう゛ぁー]/引き合い[ひきあい]/関連性[かんれんせい]/カバー[かばー]/関わり[かかわり]/
-Bezugnahme{f}/言及[げんきゅう]/引き合い[ひきあい]/
+Bezirk{m}/地域[ちいき]/
+Bezug{m}/(Verbindung) 関係[かんけい]/(Gehalt) 給料[きゅうりょう]/
+Bezugnahme{f}/(in Verbindung bringen) 関係づける[かんけいづける]/
 Bezugspunkt{m}/基準点[きじゅんてん]/
 Bezugsquelle{f}/供給源[きょうきゅうげん]/
 Bezugsrecht{n}/オプション[おぷしょん]/
@@ -4156,15 +4156,15 @@ Bezugszeichen{n}/符号[ふごう]/
 bezwecken{vt}/目がける[めがける]/
 bezweifeln{vt}/疑う[うたがう]/
 bezwingen{vt}/打ち負かす[うちまかす]/
-bezüglich{prp; +Genitiv}/相対的[そうたいてき]/就いて[ついて]/
+bezüglich{prp; +Genitiv}/に関して[にかんして]/
 Bias{n}/先入態度[せんにゅうたいど]/
-Bibel{f}/聖書[せいしょ]/バイブル[ばいぶる]/
+Bibel{f}/聖書[せいしょ]/
 Bibelkunde{f}/聖書学[せいしょがく]/
 Biber{m}/ビーバー[びーばー]/
 Bibliografie{f}/書誌[しょし]/
 Bibliograph{m}/書誌学者[しょしがくしゃ]/
 Bibliophilie{f}/書いん[しょいん]/
-Bibliothek{f}/図書館[としょかん]/書庫[しょこ]/蔵書[ぞうしょ]/書院[しょいん]/文庫[ぶんこ]/ライブラリー[らいぶらりー]/ライブラリー[らいぶらりー]/
+Bibliothek{f}/図書館[としょかん]/
 Bibliothekar{m}/司書[ししょ]/
 biblisch{adj}{adv}/聖書の[せいしょの]/
 Bidet{n}/ビデ[びで]/
@@ -4177,13 +4177,13 @@ Biegen{n}/撓み[たわみ]/
 Biegesteifigkeit{f}/たわみ剛性[たわみごうせい]/
 biegsam{adv}/柔軟[じゅうなん]/
 Biegsamkeit{f}/柔軟性[じゅうなんせい]/
-Biegung{f}/カーブ[かーぶ]/曲折[きょくせつ]/曲がり[まがり]/屈折[くっせつ]/
+Biegung{f}/湾曲[わんきょく]/
 Biene{f}/蜂[はち]/
 Bienenkönigin{f}/女王蜂[じょおうばち]/
 Bienenstock{m}/蜂の巣[はちのす]/
 Bienenwachs{n}/蜜蝋[みつろう]/
 Bienenzucht{f}/養蜂[ようほう]/
-Bier{n}/ビール[びーる]/麦酒[ばくしゅ]/ビア[びあ]/
+Bier{n}/ビール[びーる]/
 Bierbauch{m}/太鼓腹[たいこばら]/
 Bierbrauerei{f}/ビール醸造所[びーるじょうぞうじょ]/
 Bierdose{f}/缶ビール[かんびーる]/
@@ -4200,11 +4200,11 @@ Bifurkation{f}/分岐[ぶんき]/
 Bigamie{f}/重婚[じゅうこん]/
 Bigamist{m}/重婚者[じゅうこんしゃ]/
 Bigotterie{f}/偏屈[へんくつ]/
-Bikini{m}/ツーピースの水着[つーぴーすのみずぎ]/
-Bilanz{f}/差[さ]/残高[ざんだか]/収支[しゅうし]/決済[けっさい]/決算[けっさん]/
+Bikini{m}/ビキニ[びきに]/
+Bilanz{f}/総決算[そうけっさん]/{fin.}(Konzernbilanz) 貸借対照表[たいしゃくたいしょうひょう]/
 bilanzieren{vt}/収支の差引勘定をする[しゅうしのさしひきかんじょうをする]/
 Bilbao (Stadt in Spanien)/ビルバオ[びるばお]/
-Bild{n}/画面[がめん]/様相[ようそう]/絵[え]/画[が]/面影[おもかげ]/像[ぞう]/肖像画[しょうぞうが]/概念[がいねん]/肖像[しょうぞう]/絵画[かいが]/イメージ[いめーじ]/映像[えいぞう]/
+Bild{n}/絵[え]/
 Bildauflösung{f}/画質[がしつ]/
 Bildausschnitt{m}/アパーチュア[あぱーちゅあ]/
 Bildbearbeitung{f}/画像処理[がぞうしょり]/
@@ -4223,16 +4223,16 @@ bildhauerisch{adj}/彫刻的な[ちょうこくてきな]/
 Bildhauerkunst{f}/彫刻術[ちょうこくじゅつ]/
 bildhübsch{adj}/美しい[うつくしい]/
 bildlich/比喩的[ひゆてき]/
-Bildnis{n}/画像[えぞう]/肖像画[しょうぞうが]/肖像[しょうぞう]/絵画[かいが]/
+Bildnis{n}/肖像[しょうぞう]/
 Bildplatte{f}/レーザーディスク[れーざーでぃすく]/
 Bildpunkt{m}/画素[がそ]/
 Bildröhre{f}/イメージ管[いめーじかん]/
-Bildschirm{m}/画面[がめん]/モニタ[もにた]/モニター[もにたー]/スクリーン[すくりーん]/
+Bildschirm{m}/画面[がめん]/
 Bildschirmarbeit{f}/VDT作業[ぶいでぃーてぃーさぎょう]/
 Bildschirmgerät{n}/ディスプレー装置[でぃすぷれーそうち]/
 bildschön{adj}/麗しい[うるわしい]/
 Bildseitenverhältnis{n}/アスペクト･レーショ[あすぺくとれーしょ]/
-Bildung{f}/教育[きょういく]/結成[けっせい]/教養[きょうよう]/仕立て[したて]/構成[こうせい]/生成[せいせい]/形成[けいせい]/編成[へんせい]/学[がく]/
+Bildung{f}/教育[きょういく]/
 Bildungsanstalt{f}/学府[がくふ]/
 Bildungseinrichtung{f}/学校[がっこう]/
 Bildungsgang{m}/学歴[がくれき]/
@@ -4250,11 +4250,11 @@ Billardkugel{f}/玉突きの球[たまつきのたま]/
 Billardspieler{m}/玉突きをする人[たまつきをするひと]/
 Billardstock{m}/キュー[きゅー]/
 Billardzimmer{n}/玉突き場[たまつきじょう]/
-billig{adv}{adj}/安い[やすい]/安く[やすく]/三文[さんもん]/安っぽい[やすっぽい]/格安[かくやす]/
+billig{adv}{adj}/安い[やすい]/
 billige Kneipe{f}/赤提灯[あかぢょうちん]/
 billiger werden{vi}/相場が下がる[そうばがさがる]/
-Billigkeit{f}/手軽[てがる]/正当[せいとう]/公正[こうせい]/チープ[ちーぷ]/公平[こうへい]/
-Billigung{f}/同意[どうい]/賛成[さんせい]/承認[しょうにん]/認可[にんか]/可決[かけつ]/容認[ようにん]/
+Billigkeit{f}/(Preisgünstigkeit) 安め[やすめ]/
+Billigung{f}/承認[しょうにん]/
 Billion{f}/兆[ちょう]/
 Bimetall{n}/バイメタル[ばいめたる]/
 Bimetallismus{n}/複本位制[ふくほんいせい]/
