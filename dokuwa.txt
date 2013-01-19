@@ -5510,10 +5510,10 @@ Darmentleerung{f}/脱糞[だっぷん]/
 Darmgeschwür{n}/腸潰瘍[ちょうかいよう]/
 Darmsaite{f}/ガット[がっと]/
 Darreichungsform{f}/剤形[ざいけい]/
-darstellen{vt}/言う[いう]/扮する[ふんする]/演じる[えんじる]/描く[かく]/云う[いう]/書く[かく]/
+darstellen{vt}/現わす[あらわす]/
 darstellend/記述的[きじゅつてき]/
 Darsteller{m}/出演者[しゅつえんしゃ]/
-Darstellung{f}/表現[ひょうげん]/演芸[えんげい]/仕草[しぐさ]/記述[きじゅつ]/記載[きさい]/描写[びょうしゃ]/演技[えんぎ]/表明[ひょうめい]/
+Darstellung{f}/上演[じょうえん]/
 Darstellungsweise{f}/演出法[えんしゅつほう]/
 Darts{n}/ダーツ[だーつ]/
 Darwinismus{m}/ダーウィニズム[だーうぃにずむ]/
@@ -5521,10 +5521,10 @@ das{art}/ん[ん]/其[それ]/其[それ]/
 Das geht dich nichts an!/出る幕ではない。[でるまくではない。]/
 das Geschäft aufgeben/看板を下ろす[かんばんをおろす]/
 das Schlimmste/最悪[さいあく]/
-das Wesentliche/肝心[かんじん]/要項[ようこう]/要旨[ようし]/趣旨[しゅし]/本質[ほんしつ]/実質[じっしつ]/
+das Wesentliche/肝心[かんじん]/
 das wirkliche Leben/実生活[じっせいかつ]/
 das Wort ergreifen{vt}/発言する[はつげんする]/
-Dasein{n}/生活[せいかつ]/実在[じつざい]/生存[せいぞん]/居[い]/存在[そんざい]/
+Dasein{n}/生存[せいぞん]/
 Daseinsberechtigung{f}/存在理由[そんざいりゆう]/
 dastehen{vi}/佇む[たたずむ]/
 Data-Mining{n}/データマイニング[でーたまいにんぐ]/
@@ -5532,7 +5532,7 @@ Datei{f}/ファイル[ふぁいる]/
 Dateigröße{f}/ファイルサイズ[ふぁいるさいず]/
 Dateiname{m}/主題[しゅだい]/
 Dateizuordnungstabelle{f}/ファット[ふぁっと]/
-Daten{pl}/データ[でーた]/材料[ざいりょう]/資料[しりょう]/
+Daten{pl}/データ[でーた]/
 Datenaustausch{m}/データ交換[でーたこうかん]/
 Datenauswertung{f}/データ解析[でーたかいせき]/
 Datenautobahn{f}/情報ハイウェー[じょうほうはいうぇー]/
@@ -5557,28 +5557,28 @@ Datenverarbeitung{f}/情報処理[じょうほうしょり]/
 Datenverarbeitungseinrichtung{f}/データ処理装置[でーたしょりそうち]/
 Datenverbindung{f}/データリンク[でーたりんく]/
 Datenverkehr{m}/トラフィック[とらふぃっく]/
-Datenübertragung{f}/通信[つうしん]/情報通信[じょうほうつうしん]/
+Datenübertragung{f}/情報通信[じょうほうつうしん]/
 Datenübertragungsprotokoll{n}/通信プロトコル[つうしんぷろとこる]/
 Datierung{f}/年代測定法[ねんだいそくていほう]/
 Dativ{m}/与格[よかく]/
 Dativobjekt{n}/間接目的語[かんせつもくてきご]/
 Dattel{f}/棗[なつめ]/
 Dattelpalme{f}/デーツ[でーつ]/
-Datum{m}{n}/日[ひ]/日々[ひにち]/日日[ひにち]/月日[がっぴ]/日付け[ひづけ]/日付[ひづけ]/年月日[ねんがっぴ]/日にち[ひにち]/日時[にちじ]/
+Datum{m}{n}/日付け[ひづけ]/
 Datumsgrenze{f}/日付変更線[ひづけへんこうせん]/
 Datumsstempel{m}/日付印[ひづけいん]/
-Dauer{f}/継続[けいぞく]/悠久[ゆうきゅう]/
+Dauer{f}/(Zeitspanne) 期間[きかん]/(Fort~) 継続[けいぞく]/
 Dauerbetrieb{m}/連続運転[れんぞくうんてん]/
 Dauerfeuer{n}/連発[れんぱつ]/
 Dauerfrost{m}/永久凍土[えいきゅうとうど]/
 Dauerfrostboden{m}/永久凍土[えいきゅうとうど]/
 Dauergeschwindigkeit{f}/経済速度[けいざいそくど]/
 dauerhaft{adv}{adj}/堅ろうな[けんろうな]/
-Dauerhaftigkeit{f}/耐久[たいきゅう]/長持ち[ながもち]/
+Dauerhaftigkeit{f}/耐久[たいきゅう]/
 Dauerkarte{f}/定期券[ていきけん]/
 Dauermagnet{m}/永久磁石[えいきゅうじしゃく]/
-dauern{vi}/続く[つづく]/持つ[もつ]/掛かる[かかる]/
-dauernd{adv}/ずっと[ずっと]/常々[つねづね]/常日頃[つねひごろ]/しょっちゅう[しょっちゅう]/絶えず[たえず]/常に[つねに]/
+dauern{vi}/(an~) 続く[つづく]/(Zeitspanne) かかる[かかる]/
+dauernd{adv}/絶えず[たえず]/
 Dauerregen{m}/長雨[ながあめ]/
 Dauerumschaltung{f}/シフトアウト[しふとあうと]/
 Dauerwelle{f}/パーマ[ぱーま]/
@@ -5588,31 +5588,31 @@ Daune{f}/毛[け]/
 Daunendecke{f}/羽毛布団[うもうぶとん]/
 Daunenjacke{f}/ダウン･ジャケット[だうんじゃけっと]/
 davor/この前[このまえ]/
-dazu{adv}/し[し]/更[さら]/その上[そのうえ]/更に[さらに]/
+dazu{adv}/(außerdem) その上[そのうえ]/(ferner) 更に[さらに]/(zu diesem Zweck) そのため[そのため] /
 dazu neigen, etw. zu tun/動もすれば[ややもすれば]/
 dazugehören{vi}/付く[つく]/
 dazwischen{adv}/中間に[ちゅうかんに]/
 dazwischenliegend{adj}{adv}/中間の[ちゅうかんの]/
-Debatte{f}/論[ろん]/議論[ぎろん]/討論[とうろん]/交渉[こうしょう]/論議[ろんぎ]/討論会[とうろんかい]/論戦[ろんせん]/議[ぎ]/談義[だんぎ]/
+Debatte{f}/議論[ぎろん]/
 debattieren{vi}/論じる[ろんじる]/
 Debetsaldo{n}/借り方残高[かりかたざんだか]/
 Debugger{m}/デバッガ[でばっが]/
-Debüt{n}/デビュー[でびゅー]/お目見え[おめみえ]/目見え[めみえ]/新登場[しんとうじょう]/お披露目[おひろめ]/
+Debüt{n}/デビュー[でびゅー]/
 Debütant{m}/新顔[しんがお]/
 Debütantin{f}/デビュタント[でびゅたんと]/
 debütieren{vi}/デビューする[でびゅーする]/
 dechiffrieren{vt}/暗号を解く[あんごうをとく]/
 Dechiffrierung{f}/暗号解読[あんごうかいどく]/
 Deckanstrich{m}/トップコート[とっぷこーと]/
-Decke{f}/天井[てんじょう]/毛布[もうふ]/
-Deckel{m}/表紙[ひょうし]/蓋[ふた]/
-decken{vt}/掛ける[かける]/満たす[みたす]/
+Decke{f}/毛布[もうふ]/
+Deckel{m}/(Verschluss) 蓋[ふた]/(Buch~) 表紙[ひょうし]/
+decken{vt}//(Bedarf~) 満たす[みたす]/(den Tisch ~) 食事の用意をする[しょくじのよういをする]/
 Decken{n}/種付け[たねつけ]/
 Deckengemälde{n}/天井画[てんじょうが]/
 Deckenleuchte{f}/ルーム･ランプ[るーむらんぷ]/
 Deckenventilator{m}/天井扇風機[てんじょうせんぷうき]/
 Deckmantel{m}/美名[びめい]/
-Deckname{m}/別名[べつめい]/異名[いめい]/
+Deckname{m}/偽名[ぎめい]/
 Deckpassagier{m}/等外船客[とうがいせんきゃく]/
 Deckstein{m}/かさ石[かさいし]/
 Deckung{f}/カバーリング[かばーりんぐ]/
@@ -5621,7 +5621,7 @@ Decoder{m}/デコーダー[でこーだー]/
 deduktiv{adv}/演えき的[えんえきてき]/
 Deeskalation{f}/デスカレーション[ですかれーしょん]/
 defekt{adj}/不備な[ふびな]/
-Defekt{m}/故障[こしょう]/不備[ふび]/
+Defekt{m}/不備[ふび]/
 defensiv{adv}/受け身の[うけみの]/
 Defensive{f}/防御[ぼうぎょ]/
 Defibrillation{f}/除細動[じょさいどう]/
@@ -5629,7 +5629,7 @@ Defibrillator{m}/除細動器[じょさいどうき]/
 definieren{vt}/定義つける[ていぎつける]/
 Definition{f}/定義[ていぎ]/
 Definitionsbereich{m}/変域[へんいき]/
-Defizit{n}/穴[あな]/欠陥[けっかん]/孔[あな]/欠点[けってん]/赤字[あかじ]/マイナス[まいなす]/
+Defizit{n}/(Mangel) 欠陥[けっかん]/(rote Zahlen) 赤字[あかじ]/
 defizitär{adj}/赤字の[あかじの]/
 Deflation{f}/風食[ふうしょく]/
 Deflator{m}/デフレーター[でふれーたー]/
@@ -5637,8 +5637,8 @@ Deformation{f}/変形[へんけい]/
 defragmentieren{vt}/フラグメンテーションを解消する[ふらぐめんてーしょんをかいしょうする]/
 Defäkation{f}/排便[はいべん]/
 Defätismus{m}/敗北主義[はいぼくしゅぎ]/
-Degen{m}/剣[けん]/刀[かたな]/
-Degeneration{f}/衰退[すいたい]/堕落[だらく]/退化[たいか]/
+Degen{m}/剣[けん]/
+Degeneration{f}/衰退[すいたい]/
 degeneriert{adv}/亡国的[ぼうこくてき]/
 Degradierung{f}/降格[こうかく]/
 Degustation{f}/試飲[しいん]/
@@ -5646,7 +5646,7 @@ dehnbar{adj}/柔軟[じゅうなん]/
 Dehnbarkeit{f}/伸縮性[しんしゅくせい]/
 Dehnungsmessstreifen{m}/ひずみゲージ[ひずみげーじ]/
 Dehydration{f}/脱水[だっすい]/
-Deich{m}/ダム[だむ]/堤[つつみ]/堤防[ていぼう]/土手[どて]/
+Deich{m}/堤防[ていぼう]/
 Deichbau{m}/築堤[ちくてい]/
 Deichsel{f}/舵[かじ]/
 Deinstallation{f}/アンインストール[あんいんすとーる]/
@@ -5660,9 +5660,9 @@ Dekameter{n}/デカメートル[でかめーとる]/
 Dekan{m}/学監[がっかん]/
 Deklamation{f}/朗読[ろうどく]/
 deklamieren{vt}/朗読する[ろうどくする]/
-Deklaration{f}/宣言[せんげん]/申告[しんこく]/
+Deklaration{f}/宣言[せんげん]/
 deklarieren{vt}/申告する[しんこくする]/
-Deklination{f}/変化[へんか]/活用[かつよう]/
+Deklination{f}/(~ eines Wortes) 語形変化[ごけいへんか]/
 deklinieren{vt}/活用する[かつようする]/
 Dekodierung{f}/復号[ふくごう]/
 Dekokt{n}/煎剤[せんざい]/
@@ -5671,15 +5671,15 @@ dekomprimieren{vt}/展開する[てんかいする]/
 Dekonstruktion{f}/デコンストラクション[でこんすとらくしょん]/
 Dekor{n}/装飾[そうしょく]/
 Dekorateur{m}/装飾家[そうしょくか]/
-Dekoration{f}/飾り[かざり]/装飾[そうしょく]/デコレーション[でこれーしょん]/飾り付け[かざりつけ]/勲章[くんしょう]/
+Dekoration{f}/装飾[そうしょく]/
 Dekorationsmalerei{f}/装飾画[そうしょくが]/
 dekorativ{adj}{adv}/装飾的[そうしょくてき]/
 Dekorglas{n}/装飾ガラス[そうしょくがらす]/
-Dekret{n}/命令[めいれい]/布告[ふこく]/
+Dekret{n}/布告[ふこく]/
 Dekubitus{m}/褥瘡[じょくそう]/
 Dekupiersäge{f}/ジグソー[じぐそー]/
 Delikatessen{pl}/デリカ[でりか]/
-Delikt{n}/犯罪[はんざい]/罪[つみ]/
+Delikt{n}/犯罪[はんざい]/
 Delirium{n}/譫妄[せんぼう]/
 Delirium tremens{n}/振戦せん妄[しんせんせんもう]/
 Delle{f}/圧痕[あっこん]/
@@ -5689,14 +5689,14 @@ Demagoge{m}/デマゴーグ[でまごーぐ]/
 Demagogie{f}/デマゴギー[でまごぎー]/
 demagogisch{adj}{adv}/デマの[でまの]/
 Demarkation{f}/疆界[きょうかい]/
-Demarkationslinie{f}/国境[くにざかい]/境界線[きょうかいせん]/
+Demarkationslinie{f}/境界線[きょうかいせん]/
 Dementi{n}/撤回[てっかい]/
 Dementia{n}/痴呆症[ちほうしょう]/
 dementieren{vt}/打ち消す[うちけす]/
 demgegenüber{adv}/これに対して[これにたいして]/
 demgemäß{adv}/従って[したがって]/
 Demiurg{m}/デミウルゴス[でみうるごす]/
-demnach{conj}/だから[だから]/ですから[ですから]/従って[したがって]/
+demnach{conj}/(... entsprechend) ...従ってに[したがってに]/
 demobilisieren{vt}/復員する[ふくいんする]/
 Demobilisierung{f}/復員[ふくいん]/
 Demodulation{f}/復調[ふくちょう]/
@@ -5708,7 +5708,7 @@ demokratisch{adj}{adv}/民主的[みんしゅてき]/
 Demokratische Partei{f}/民主党[みんしゅとう]/
 demokratisieren{vt}/民主化する[みんしゅかする]/
 Demokratisierung{f}/民主化[みんしゅか]/
-Demonstration{f}/デモ[でも]/デモンストレーション[でもんすとれーしょん]/
+Demonstration{f}/デモ[でも]/
 demonstrativ{adj}{adv}/これ見よがしに[これみよがしに]/
 Demonstrativpronomen{n}/指示代名詞[しじだいめいし]/
 demonstrieren{vi}/標榜する[ひょうぼうする]/
@@ -5718,7 +5718,7 @@ Demoskop{m}/世論調査員[よろんちょうさいん]/
 Demoskopie{f}/世論調査[せろんちょうさ]/
 Demut{f}/謙虚[けんきょ]/従順[じゅうじゅん]/
 demzufolge{adv}/従って[したがって]/
-demütig{adj}{adv}/低い[ひくい]/謹んで[つつしんで]/
+demütig{adj}{adv}/謙虚な[けんきょな]/
 demütigen{vt}/卑しめる[いやしめる]/
 demütigend{adv}/屈辱的[くつじょくてき]/
 Demütigung{f}/屈辱[くつじょく]/
@@ -5732,19 +5732,19 @@ Denaturierung{f}/変性[へんせい]/
 Dendrologe{m}/樹木学者[じゅもくがくしゃ]/
 Denguefieber{n}/デング熱[でんぐねつ]/
 denkbar{adj}/想像できる[そうぞうできる]/
-Denken{n}/思い[しい]/考え[かんがえ]/見解[けんげ]/思索[しさく]/懐[かい]/思考[しこう]/想[そう]/
+Denken{n}/思考[しこう]/
 Denker{m}/思想家[しそうか]/
 Denkfabrik{f}/シンクタンク[しんくたんく]/
 denkfähig{adj}/賢い[かしこい]/
 Denkfähigkeit{f}/思考力[しこうりょく]/
-Denkmal{n}/メモリアル[めもりある]/モニュメント[もにゅめんと]/記念碑[きねんひ]/
+Denkmal{n}/記念碑[きねんひ]/
 Denkprozess{m}/思考過程[しこうかてい]/
-Denkschrift{f}/控え[ひかえ]/覚え書き[おぼえがき]/覚書[おぼえがき]/
+Denkschrift{f}/覚え書き[おぼえがき]/
 Denksportaufgabe{f}/奇問[きもん]/
 Denkvermögen{n}/思考力[しこうりょく]/
-Denkweise{f}/目[め]/考え方[かんがえかた]/眼[め]/見方[みかた]/
+Denkweise{f}/考え方[かんがえかた]/
 denkwürdig{adv}/忘れがたい[わすれがたい]/
-denn{conj}/だから[だから]/ですから[ですから]/何故なら[なぜなら]/一体[いったい]/一体[いったい]/
+denn{conj}/(deshalb) だから[だから]/(weil) 何故なら[なぜなら]/
 Dental{m}/歯音[しおん]/
 Dentallaut{m}/歯音[しおん]/
 Dentin{n}/象牙質[ぞうげしつ]/
@@ -5758,10 +5758,9 @@ deponieren{vt}/預ける[あずける]/
 Deportation{f}/流刑[りゅうけい]/
 deportieren{vt}/謫する[たくする]/
 Depot{n}/デポー[でぽー]/
-Depression{f}/うつ病[うつびょう]/凹[くぼ]/スランプ[すらんぷ]/不振[ふしん]/不景気[ふけいき]/不況[ふきょう]/鬱病[うつびょう]/鬱[うつ]/
+Depression{f}/{med.} 鬱病[うつびょう]/(Wirtschaftskrise) 経済危機[けいざいきき]/
 depressiv{adj}{adv}/うつ病の[うつびょうの]/
-deprimiert{adv}/重い[おもい]/重たい[おもたい]/しょんぼり[しょんぼり]/
-der{die Bedrohte}{art}/其の[その]/其[それ]/
+deprimiert{adv}/憂うつな[ゆううつな]/
 der Gesalbte{m}/キリスト[きりすと]/
 der Länge nach/真っ逆様[まっさかさま]/
 der Länge nach hinfallen{vi}/突っ伏す[つっぷす]/
@@ -5779,10 +5778,10 @@ dermaßen{adv}/そう言う[そういう]/
 derzeitig{adj}/今の[いまの]/
 Desensibilisierung{f}/脱感作[だつかんさ]/
 Deserteur{m}/逃亡者[とうぼうしゃ]/
-Desertion{f}/逃亡[とうぼう]/脱走[だっそう]/
-Design{n}/デザイン[でざいん]/柄[がら]/設計[せっけい]/絵柄[えがら]/趣向[しゅこう]/匠[たくみ]/意匠[いしょう]/模様[もよう]/
+Desertion{f}/脱走[だっそう]/
+Design{n}/デザイン[でざいん]/
 Designer{m}/デザイナー[でざいなー]/
-Desinfektion{f}/消毒[しょうどく]/除菌[じょきん]/
+Desinfektion{f}/消毒[しょうどく]/
 Desinfektionsmittel{n}/殺菌剤[さっきんざい]/
 Desinteresse{n}/無関心[むかんしん]/
 Desktop-Computer{m}/デスクトップ･コンピューター[ですくとっぷこんぴゅーたー]/
@@ -5811,9 +5810,9 @@ Determinismus{m}/決定論[けっていろん]/
 Detonation{f}/爆発[ばくはつ]/
 detonieren{vi}/爆発する[ばくはつする]/
 Deuterium{n}/重水素[じゅうすいそ]/
-deutlich{adv}/白い[しろい]/くっきり[くっきり]/明白[めいはく]/ずばり[ずばり]/きっぱり[きっぱり]/明快[めいかい]/明らか[あきらか]/はっきり[はっきり]/歴然[れきぜん]/ありあり[ありあり]/
+deutlich{adv}/はっきり[はっきり]/
 deutlich aussprechen{vt}/明瞭に発音する[めいりょうにはつおんする]/
-Deutlichkeit{f}/確か[たしか]/鮮明[せんめい]/白地[いささめ]/明瞭[めいりょう]/露骨[ろこつ]/顕著[けんちょ]/
+Deutlichkeit{f}/明瞭[めいりょう]/
 deutsch{adj}/ドイツ風[どいつふう]/
 Deutsche{m}{f}/ドイツ人[どいつじん]/
 Deutsche Demokratische Republik{f}/ドイツ民主共和国[どいつみんしゅきょうわこく]/
@@ -5841,8 +5840,8 @@ Diabas{m}/輝緑岩[きりょくがん]/
 Diabetes{m}/糖尿病[とうにょうびょう]/
 Diabetiker{m}/糖尿病患者[とうにょうびょうかんじゃ]/
 diabolisch{adv}/魔性の[ましょうの]/
-Diadem{n}/ティアラ[てぃあら]/王冠[おうかん]/
-Diagnose{f}/診断[しんだん]/診察[しんさつ]/
+Diadem{n}/(Tiara) ティアラ[てぃあら]/(königliche Krone) 王冠[おうかん]/
+Diagnose{f}/診断[しんだん]/
 Diagnosetechnik{f}/診断技術[しんだんぎじゅつ]/
 Diagnostik{f}/診断学[しんだんがく]/
 diagnostizieren{vt}/見立てる[みたてる]/
@@ -5850,16 +5849,16 @@ diagonal{adj}{adv}/斜めに[ななめに]/
 Diagonale{f}/対角線[たいかくせん]/
 Diagonalreifen{m}/バイアス･タイヤ[ばいあすたいや]/
 Diagonalstab{m}/斜材[しゃざい]/
-Diagramm{n}/表[ひょう]/図解[ずかい]/ダイア[だいあ]/チャート[ちゃーと]/図式[ずしき]/
+Diagramm{n}/グラフ[ぐらふ]/
 Diakon{m}/執事[しつじ]/
 Diakonisse{f}/奉仕女[ほうしめ]/
-Dialekt{m}/言葉[ことば]/詞[ことば]/辞[ことば]/方言[ほうげん]/
+Dialekt{m}/方言[ほうげん]/
 Dialektik{f}/弁証法[べんしょうほう]/
 dialektisch{adj}{adv}/弁証法的に[べんしょうほうてきに]/
-Dialog{m}/対話[たいわ]/問答[もんどう]/
+Dialog{m}/対話[たいわ]/
 Dialogfenster{n}/ダイアログボックス[だいあろぐぼっくす]/
 Dialyse{f}/透析[とうせき]/
-Diamant{m}/ダイヤモンド[だいやもんど]/ダイアモンド[だいあもんど]/ダイヤ[だいや]/
+Diamant{m}/ダイヤモンド[だいやもんど]/
 Diapason{m}/音叉[おんさ]/
 Diaphragma{n}/横隔膜[おうかくまく]/
 Diaprojektor{m}/映写機[えいしゃき]/
@@ -5869,38 +5868,38 @@ Diathese{f}/病的素質[びょうてきそしつ]/
 Diatomee{f}/珪藻[けいそう]/
 Diatomeenerde{f}/珪藻土[けいそうど]/
 Dichotomie{f}/二分法[にぶんほう]/
-dicht{adj}{adv}/厳しい[きびしい]/みっちり[みっちり]/密接[みっせつ]/ぎっしり[ぎっしり]/びっしり[びっしり]/深い[ふかい]/ぴったり[ぴったり]/
-Dichte{f}/濃厚[のうこう]/密度[みつど]/濃度[のうど]/密[みつ]/
-dichten{vt}/読む[よむ]/唄う[うたう]/
-Dichter{m}/作家[さっか]/歌人[かじん]/詩人[しじん]/
+dicht{adj}{adv}/密な[みつな]/
+Dichte{f}/{phys.} 密度[みつど]/
+dichten{vt}/(verschließen) 塞ぐ[ふさぐ]/(ein Gedicht/einen Roman verfassen) 創作する[そうさくする]/
+Dichter{m}/作家[さっか]/
 Dichterin{f}/女流作家[じょりゅうさっか]/
 dichterisch{adj}{adv}/文学的な[ぶんがくてきな]/
 Dichtheit{f}/濃密[のうみつ]/
-Dichtung{f}/詩[し]/文学[ぶんがく]/創作[そうさく]/文芸[ぶんげい]/
+Dichtung{f}/(Dichtungsmaterial) パッキング[ぱっきんぐ]/(Verfassen von Gedichten) 詩作[しさく]/(Lüge) 嘘[うそ]/
 Dichtungsmittel{n}/コーキング剤[こーきんぐざい]/
-dick{adj}{adv}/大きな[おおきな]/太い[ふとい]/こってり[こってり]/ほやほや[ほやほや]/厚い[あつい]/太った[ふとった]/コテコテ[こてこて]/濃い[こい]/大きい[おおきい]/ぽっちゃり[ぽっちゃり]/分厚い[ぶあつい]/深い[ふかい]/
+dick{adj}{adv}/太い[ふとい]/
 dickbäuchig/便便[べんべん]/
 Dickdarm{m}/大腸[だいちょう]/
 Dickdarmkrebs{m}/大腸がん[だいちょうがん]/
-Dicke{f}{m}/肉[にく]/厚み[あつみ]/厚さ[あつさ]/厚手[あつで]/濃厚[のうこう]/
-Dickicht{n}/草むら[くさむら]/雑木林[ぞうきばやし]/
+Dicke{f}/太さ[ふとさ]/
+Dickicht{n}/雑木林[ぞうきばやし]/
 Dickkopf{m}/分からず屋[わからずや]/
 dickköpfig{adv}{adj}/しぶとい[しぶとい]/
 Dickleibigkeit{f}/脂肪太り[しぼうぶとり]/
-dicklich{adj}/むくむく[むくむく]/
+dicklich{adj}/濃厚な[のうこうな]/
 die{art}/其[それ]/
 die Allgemeinheit/世人[せじん]/
 die Anwesenheit feststellen/出欠を取る[しゅっけつをとる]/
-die Fassung verlieren/上がる[あがる]/慌てる[あわてる]/
+die Fassung verlieren/慌てる[あわてる]/
 die Hände in den Schoß legen/拱く[こまねく]/
 die Köpfe zusammenstecken/鳩首する[きゅうしゅする]/
 die Massen/大向こう[おおむこう]/
 die Meinigen/うちの者[うちのもの]/
 die Uhr zurückstellen/時計を遅らせる[とけいをおくらせる]/
-Dieb{m}/泥棒[どろぼう]/曲者[くせもの]/窃盗[せっとう]/
+Dieb{m}/泥棒[どろぼう]/
 Dieberei{f}/盗み[ぬすみ]/
 Diebesgut{n}/盗品[とうひん]/
-Diebstahl{m}/泥棒[どろぼう]/盗難[とうなん]/窃盗[せっとう]/
+Diebstahl{m}/盗難[とうなん]/
 Diebstahlsicherung{f}/盗難防止[とうなんぼうし]/
 Diebstahlversicherung{f}/盗難保険[とうなんほけん]/
 Diele{f}/板[いた]/廊下[ろうか]/
@@ -5908,19 +5907,19 @@ Dielektrikum{n}/誘電体[ゆうでんたい]/
 dielektrisch{adj}/誘電性の[ゆうでんせいの]/
 Dielektrizitätskonstante{f}/誘電率[ゆうでんりつ]/
 dienen{vi}/成る[なる]/
-Diener{m}/男[おのこ]/丁[てい]/男の子[おのこ]/下部[しもべ]/僕[しもべ]/
+Diener{m}/召使い[めしつかい]/
 Dienerschaft{f}/下女下男[げじょげなん]/
 dienlich{adv}/有用な[ゆうような]/
-Dienst{m}/番[ばん]/奉仕[ほうし]/役[えき]/業務[ぎょうむ]/当番[とうばん]/労務[ろうむ]/貢献[こうけん]/勤め[つとめ]/務め[つとめ]/職務[しょくむ]/公務[こうむ]/年季[ねんき]/お勤め[おつとめ]/運行[うんこう]/勤務[きんむ]/本分[ほんぶん]/
+Dienst{m}/勤務[きんむ]/
 Dienst haben/当直する[とうちょくする]/
 Dienstag{m}/火曜日[かようび]/
 Dienstalter{n}/年功[ねんこう]/
-Dienstantritt{m}/就職[しゅうしょく]/出勤[しゅっきん]/
+Dienstantritt{m}/就職[しゅうしょく]/
 Dienstanweisung{f}/勤務規定[きんむきてい]/
 Dienstbeflissenheit{f}/勤怠[きんたい]/
 Dienstgrad{m}/職階[しょっかい]/
 Dienstherr{m}/雇い主[やといぬし]/
-Dienstleistung{f}/勤務[きんむ]/奉仕[ほうし]/
+Dienstleistung{f}/勤務[きんむ]/
 Dienstleistungsverkehr{m}/貿易外取引[ぼうえきがいとりひき]/
 dienstlich{adj}/公用で[こうようで]/
 Dienstmagd{f}/婢[ひ]/
@@ -5928,14 +5927,14 @@ Dienstmarke{f}/IDカード[あいでぃーかーど]/
 Dienstmädchen{n}/女中[じょちゅう]/
 Dienstpflicht{f}/職務[しょくむ]/
 Dienstreise{f}/出張[しゅっちょう]/
-Dienststelle{f}/職場[しょくば]/局[きょく]/
+Dienststelle{f}/職場[しょくば]/
 Dienststunde{f}/時間[じかん]/
 Dienstvertrag{m}/雇用契約[こようけいやく]/
 Dienstvorschrift{f}/職務規程[しょくむきてい]/
 Dienstvorschriften{pl}/就業規則[しゅうぎょうきそく]/
 Dienstwagen{m}/公用車[こうようしゃ]/
 Dienstwohnung{f}/官舎[かんしゃ]/
-Dienstzeit{f}/勤務時間[きんむじかん]/年季[ねんき]/
+Dienstzeit{f}/勤務時間[きんむじかん]/
 Diesel{m}/ディーゼル[でぃーぜる]/
 Dieselgenerator{m}/ディーゼル発電機[でぃーぜるはつでんき]/
 Dieselkraftstoff{m}/ディーゼル油[でぃーぜるゆ]/
@@ -5944,7 +5943,7 @@ Dieselrußfilter{m}/ディーゼル微粒子除去フィルター[でぃーぜ�
 Dieselöl{n}/軽油[けいゆ]/
 Diesseits{n}/娑婆[しゃば]/
 Dietrich{m}/合鍵[あいかぎ]/
-Diffamierung{f}/中傷[ちゅうしょう]/誹謗[ひぼう]/
+Diffamierung{f}/中傷[ちゅうしょう]/
 Differential{n}/微分[びぶん]/
 Differentialgeometrie{f}/微分幾何学[びぶんきかがく]/
 Differentialgleichung{f}/微分方程式[びぶんほうていしき]/
@@ -5952,7 +5951,7 @@ Differentialoperator{m}/微分演算子[びぶんえんざんし]/
 Differentialrechnung{f}/微分[びぶん]/
 Differentialthermoanalyse{f}/示差熱分析[しさねつぶんせき]/
 Differentiation{f}/微分法[びぶんほう]/
-Differenz{f}/違い[たがい]/落差[らくさ]/相違[そうい]/格差[かくさ]/差額[さがく]/ずれ[ずれ]/区別[くべつ]/差[さ]/距離[きょり]/距離[きょり]/差異[さい]/変わり[かわり]/点差[てんさ]/
+Differenz{f}/差[さ]/
 Differenzdruckmesser{m}/差圧計[さあつけい]/
 Differenzialgetriebe{n}/デフ[でふ]/
 differenzieren{vt}/見分ける[みわける]/
@@ -5972,17 +5971,16 @@ Diktat{n}/口述[こうじゅつ]/
 Diktator{m}/独裁者[どくさいしゃ]/
 diktatorisch{adv}/独裁的[どくさいてき]/
 Diktatur{f}/独裁[どくさい]/
-Diktion{f}/言葉[ことば]/言い回し[いいまわし]/詞[ことば]/辞[ことば]/
+Diktion{f}/言い回し[いいまわし]/
 Dilemma{n}/ジレンマ[じれんま]/
-Dilettant{m}/素人[しろうと]/アマチュア[あまちゅあ]/
+Dilettant{m}/素人[しろうと]/
 Dilettantismus{m}/物好き[ものずき]/
 Dill{m}/ディル[でぃる]/
-Dimension{f}/大きさ[おおきさ]/次元[じげん]/規模[きぼ]/寸法[すんぽう]/
+Dimension{f}/次元[じげん]/
 Dimer{n}/二量体[にりょうたい]/
 dimerisieren{vt}/二量化する[にりょうかする]/
 Diminutiv{n}/指小辞[ししょうじ]/
-Diner{n}/会食[かいしょく]/晩餐[ばんさん]/
-Ding{n}/ん[ん]/物件[ぶっけん]/奴[やつ]/物[もの]/モノ[もの]/実物[じつぶつ]/事柄[ことがら]/物事[ものごと]/事[こと]/物品[ぶっぴん]/
+Ding{n}/物[もの]/
 dinglich{adj}/対物の[たいぶつの]/
 Dinosaurier{m}/恐竜[きょうりゅう]/
 Diode{f}/ダイオード[だいおーど]/
@@ -5995,7 +5993,7 @@ Diplom{n}/証書[しょうしょ]/
 Diplomarbeit{f}/卒業論文[そつぎょうろんぶん]/
 Diplomat{m}/外交官[がいこうかん]/
 Diplomatenkoffer{m}/アタッシュケース[あたっしゅけーす]/
-Diplomatie{f}/外交[がいこう]/駆け引き[かけひき]/
+Diplomatie{f}/外交[がいこう]/
 diplomatisch{adj}{adv}/外交的[がいこうてき]/
 diplomatische Vertretung{f}/外交使節団[がいこうしせつだん]/
 Diplomingenieur{m}/技術士[ぎじゅつし]/
