@@ -5210,7 +5210,7 @@ Cache{m}/キャッシュメモリー[きゃっしゅめもりー]/
 Caddie{m}/キャディー[きゃでぃー]/
 Cafe{n}/コーヒーショップ[こーひーしょっぷ]/
 Cafeteria{f}/カフェテリア[かふぇてりあ]/
-Café{n}/カフェ[かふぇ]/茶屋[ちゃや]/喫茶[きっさ]/喫茶店[きっさてん]/茶房[さぼう]/
+Café{n}/喫茶店[きっさてん]/
 Callgirl{n}/コールガール[こーるがーる]/
 Calvados{m}/カルバドス[かるばどす]/
 Calypso{m}/カリプソ[かりぷそ]/
@@ -5243,15 +5243,15 @@ Champignon{m}/シャンピニオン[しゃんぴにおん]/
 Chamäleon{n}/カメレオン[かめれおん]/
 Chancengleichheit{f}/イコール･オポチュニティ[いこーるおぽちゅにてぃ]/
 Chanson{m}/シャンソン[しゃんそん]/
-Chaos{n}/混乱[こんらん]/てんやわんや[てんやわんや]/カオス[かおす]/混沌[こんとん]/スクランブル[すくらんぶる]/滅茶苦茶[めちゃくちゃ]/
+Chaos{n}/混乱[こんらん]/
 chaotisch{adj}/無茶[むちゃ]/
-Charakter{m}/性[さが]/性質[せいしつ]/意地[いじ]/人間[にんげん]/資質[ししつ]/人柄[ひとがら]/人物[じんぶつ]/生まれつき[うまれつき]/人格[じんかく]/柄[がら]/気質[かたぎ]/キャラクター[きゃらくたー]/人となり[ひととなり]/毛色[けいろ]/品格[ひんかく]/気象[きしょう]/根性[こんじょう]/指標[しひょう]/性格[せいかく]/性格[せいかく]/風格[ふうかく]/性分[しょうぶん]/
+Charakter{m}/性質[せいしつ]/
 Charakterbild{n}/性格描写[せいかくびょうしゃ]/
 Charakterfehler{m}/性格破綻[せいかくはたん]/
 charakterfest{adj}/気概のある[きがいのある]/
 Charakterisierung{f}/月旦[げったん]/
-Charakteristik{f}/指標[しひょう]/本領[ほんりょう]/
-Charakteristikum{n}/特徴[とくちょう]/固有[こゆう]/個性[こせい]/特性[とくせい]/
+Charakteristik{f}/指標[しひょう]/
+Charakteristikum{n}/特徴[とくちょう]/
 charakteristisch{adj}{adv}/独特[どくとく]/
 charakterlos{adj}/ろう劣な[ろうれつな]/
 Charakterlosigkeit{f}/陋劣[ろうれつ]/
@@ -5262,7 +5262,7 @@ Charakterstärke{f}/気骨[きこつ]/
 charaktervoll/きつい[きつい]/
 Charakterzug{m}/特色[とくしょく]/
 charismatisch{adj}/カリスマチック[かりすまちっく]/
-charmant{adj}/チャーミング[ちゃーみんぐ]/艶やか[あでやか]/
+charmant{adj}/チャーミング[ちゃーみんぐ]/
 Charta{f}/憲章[けんしょう]/
 Charterflug{m}/チャーター便[ちゃーたーびん]/
 Charterflugzeug{n}/チャーター機[ちゃーたーき]/
@@ -5272,7 +5272,7 @@ Chauvinismus{m}/ジンゴイズム[じんごいずむ]/
 Chauvinist{m}/愛国者[あいこくしゃ]/
 Cheerleader{m}/応援団[おうえんだん]/
 Cheeseburger{m}/チーズバーガー[ちーずばーがー]/
-Chef{m}/かしら[かしら]/主席[しゅせき]/長官[ちょうかん]/マスター[ますたー]/親爺[おやじ]/長[ちょう]/シェフ[しぇふ]/社長[しゃちょう]/親分[おやぶん]/チーフ[ちーふ]/主任[しゅにん]/キャップ[きゃっぷ]/首長[しゅちょう]/キャプテン[きゃぷてん]/マイスター[まいすたー]/
+Chef{m}/上役[うわやく]/
 Chefarzt{m}/医長[いちょう]/
 Chefingenieur{m}/技師長[ぎしちょう]/
 Chefredakteur{m}/編集長[へんしゅうちょう]/
@@ -5299,7 +5299,7 @@ Chilene{m}/チリ人[ちりじん]/
 chilenisch{adj}/チリの[ちりの]/
 Chinagras{n}/ちょま[ちょま]/
 Chinakohl{m}/白菜[はくさい]/
-Chinese{m}/中国人[ちゅうごくじん]/チャイナ[ちゃいな]/チャイニーズ[ちゃいにーず]/
+Chinese{m}/中国人[ちゅうごくじん]/
 chinesisch{adj}/支那の[しなの]/
 Chinin{n}/キニーネ[きにーね]/
 Chip{m}/チップ[ちっぷ]/
@@ -5321,7 +5321,7 @@ Choleriker{m}/胆汁質の人[たんじゅうしつのひと]/
 cholerisch{adj}{adv}/気難しい[きむずかしい]/
 Cholesterin{n}/コレステロール[これすてろーる]/
 Cholezystitis{f}/胆嚢炎[たんのうえん]/
-Chor{m}/合唱[がっしょう]/合唱団[がっしょうだん]/コーラス[こーらす]/
+Chor{m}/合唱団[がっしょうだん]/
 Choral{m}/コラール[こらーる]/
 Choreograph{m}/振付師[ふりつけし]/
 Choreographie{f}/振り付け[ふりつけ]/
@@ -5338,7 +5338,7 @@ Chromit{m}/クロム鉄鉱[くろむてっこう]/
 Chromosom{n}/染色体[せんしょくたい]/
 chromosomal{adj}/染色体の[せんしょくたいの]/
 Chromosomenanomalie{f}/染色体異常[せんしょくたいいじょう]/
-Chronik{f}/記録[きろく]/史[し]/クロニクル[くろにくる]/歴史[れきし]/
+Chronik{f}/編年史[へんねんし]/
 chronisch{adj}{adv}/慢性の[まんせいの]/
 Chronist{m}/史官[しかん]/
 Chronograph{m}/クロノグラフ[くろのぐらふ]/
@@ -5354,7 +5354,7 @@ Claque{f}/末社[まっしゃ]/
 Claqueur{m}/末社[まっしゃ]/
 Clearingstelle{f}/手形交換所[てがたこうかんじょ]/
 Clinch{m}/クリンチ[くりんち]/
-Clique{f}/仲間[なかま]/連中[れんぢゅう]/派閥[はばつ]/系統[けいとう]/党[とう]/
+Clique{f}/仲間[なかま]/
 Clown{m}/ピエロ[ぴえろ]/
 Cluster{m}{n}/クラスター[くらすたー]/
 Cockerspaniel{m}/コッカースパニエル[こっかーすぱにえる]/
@@ -5367,10 +5367,10 @@ Cola{f}/コーラ[こーら]/
 Collage{f}/コラージュ[こらーじゅ]/
 College{n}/カレッジ[かれっじ]/
 Combo{f}/コンボ[こんぼ]/
-Comic{m}/漫画[まんが]/コミックス[こみっくす]/コミック[こみっく]/
+Comic{m}/漫画[まんが]/
 Comicbuch{n}/漫画本[まんがぼん]/
 Coming-out{n}/アウティング[あうてぃんぐ]/
-Computer{m}/コンピュータ[こんぴゅーた]/コンピューター[こんぴゅーたー]/計算機[けいさんき]/電脳[でんのう]/
+Computer{m}/コンピュータ[こんぴゅーた]/
 Computeranwendung{f}/コンピューター･アプリケーション[こんぴゅーたーあぷりけーしょん]/
 Computerchemie{f}/計算機化学[けいさんきかがく]/
 Computerfreak{m}/コンピュータマニア[こんぴゅーたまにあ]/
@@ -5391,7 +5391,7 @@ Containerwagen{m}/コンテナ車[こんてなしゃ]/
 Controller{m}/コントローラー[こんとろーらー]/
 Copolymer{n}/コポリマー[こぽりまー]/
 Coprozessor{m}/コプロセッサ[こぷろせっさ]/
-Copyright{n}/著作権[ちょさくけん]/版権[はんけん]/
+Copyright{n}/著作権[ちょさくけん]/
 Copyright-Zeichen{n}/丸C[まるしー]/
 Cord{n}/コード[こーど]/
 Cornflakes{pl}/コーンフレーク[こーんふれーく]/
@@ -5399,9 +5399,9 @@ Corporate Identity{f}/コーポレートアイデンティティー[こーぽれ
 Corticosteroid{n}/コルチコイド[こるちこいど]/
 Cosplay{n}/コスプレ[こすぷれ]/
 Countdown{n}/秒読み[びょうよみ]/
-Coupon{m}/券[けん]/クーポン[くーぽん]/クーポン[くーぽん]/
+Coupon{m}/クーポン[くーぽん]/
 Coupé{n}/クーペ[くーぺ]/
-Courage{f}/勇気[ゆうき]/意気[いき]/肝[きも]/
+Courage{f}/勇気[ゆうき]/
 couragiert{adj}/凛々[りんりん]/
 Cousin{m}/従兄弟[じゅうけいてい]/
 Cousine{f}/従姉妹[いとこ]/
