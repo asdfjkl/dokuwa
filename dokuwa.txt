@@ -5427,7 +5427,7 @@ Cyberspace{m}/サイバースペース[さいばーすぺーす]/
 Cyborg{m}/人造人間[じんぞうにんげん]/
 D-Zug{m}/急行[きゅうこう]/
 da sein/居る[いる]/
-Dach{n}/屋根[やね]/ルーフ[るーふ]/
+Dach{n}/屋根[やね]/
 Dachboden{m}/屋根裏[やねうら]/
 Dachdecken{n}/瓦葺き[かわらぶき]/
 Dachdecker{m}/瓦屋[かわらや]/
@@ -5449,7 +5449,7 @@ Dadaismus{m}/ダダイズム[だだいずむ]/
 dadurch/かくのごとく[かくのごとく]/
 dafür{adv}/その代わり[そのかわり]/
 dagegen{adv}/然るに[しかるに]/
-daher/だから[だから]/ですから[ですから]/従って[したがって]/為に[ために]/その為[そのため]/
+daher/(deswegen) だから[だから]/(von daher) そこから[そこから]/
 dahindämmern{vi}/黄昏れる[たそがれる]/
 dahinschwinden{vi}/過ぎる[すぎる]/
 dahinter kommen{vi}/悟る[さとる]/
@@ -5457,9 +5457,8 @@ dahinterstecken{vi}/伏在する[ふくざいする]/
 dahintreiben{vi}/漂う[ただよう]/
 Dahlie{f}/ダリア[だりあ]/
 damalig{adj}/その頃の[そのころの]/
-damals{adv}/昔[むかし]/その節[そのせつ]/あの頃[あのころ]/当時[とうじ]/
-Damast{m}/あや[あや]/綾[あや]/
-Dame{f}/女性[にょしょう]/レディ[れでぃ]/女流[じょりゅう]/女[おんな]/淑女[しゅくじょ]/レディー[れでぃー]/婦人[ふじん]/
+damals{adv}/あのとき 【あの時】/(einst) 昔[むかし]/
+Dame{f}/淑女[しゅくじょ]/
 Damenbesuch{m}/女客[おんなきゃく]/
 Damenbinde{f}/ナプキン[なぷきん]/
 damenhaft{adj}/女らしい[おんならしい]/
@@ -5468,10 +5467,10 @@ Damenschneider{m}/ドレスメーカー[どれすめーかー]/
 Damenschneiderei{f}/ドレスメーキング[どれすめーきんぐ]/
 Damentoilette{f}/パウダー･ルーム[ぱうだーるーむ]/
 Damenunterwäsche{f}/ランジェリー[らんじぇりー]/
-damit/ように[ように]/為[ため]/これで[これで]/
-Damm{m}/ダム[だむ]/堤[つつみ]/堤防[ていぼう]/土手[どて]/
+damit/それで[それで]/
+Damm{m}/堰堤[えんてい]/{anat.} 会陰[えいん]/
 Damoklesschwert{n}/ダモクレスの剣[だもくれすのけん]/
-Dampf{m}/蒸気[じょうき]/湯気[ゆげ]/スチーム[すちーむ]/
+Dampf{m}/蒸気[じょうき]/
 Dampf machen/早める[はやめる]/
 Dampfbad{n}/蒸し風呂[むしぶろ]/
 Dampfbügeleisen{n}/スチームアイロン[すちーむあいろん]/
@@ -5484,27 +5483,26 @@ dampfig{adv}/じめじめ[じめじめ]/
 Dampfkessel{m}/汽罐[きかん]/
 Dampfkochtopf{m}/圧力鍋[あつりょくなべ]/
 Dampflokomotive{f}/蒸気機関車[じょうききかんしゃ]/
-Dampfmaschine{f}/機関[きかん]/蒸気機関[じょうききかん]/
+Dampfmaschine{f}/蒸気機関[じょうききかん]/
 Dampfschiff{n}/汽船[きせん]/
 Dampfturbine{f}/蒸気タービン[じょうきたーびん]/
 Dampfwalze{f}/蒸気ローラー[じょうきろーらー]/
-danach{adv}/後[あと]/あれから[あれから]/次いで[ついで]/後で[あとで]/その後[そのご]/
-Dandy{m}/お洒落[おしゃれ]/ダンディ[だんでぃ]/ダンディー[だんでぃー]/
+danach{adv}/その後で[そのあとで]/
+Dandy{m}/ダンディー[だんでぃー]/
 daneben{adv}/このほか[このほか]/
-Dank{m}/感謝[かんしゃ]/礼[れい]/
-dankbar{adj}{adv}/有難い[ありがたい]/有り難い[ありがたい]/
-Dankbarkeit{f}/感謝[かんしゃ]/お礼[おれい]/御礼[おれい]/恩[おん]/礼[れい]/
-Danke/サンキュー[さんきゅー]/
-Danke schön!/ダンケ･シェーン[だんけしぇーん]/
-Danke!/ありがと[ありがと]/有り難う[ありがとう]/有難う[ありがとう]/
+Dank{m}/感謝[かんしゃ]/
+dankbar{adj}{adv}/(dankbar sein) 感謝している[かんしゃしている]/
+Dankbarkeit{f}/感謝[かんしゃ]/
+Danke/有り難う[ありがとう]/
+Danke schön!/有り難う[ありがとう]/
 danken{vi}/謝する[しゃする]/
-dankenswert{adv}/有難い[ありがたい]/有り難い[ありがたい]/
+dankenswert{adv}/有難い[ありがたい]/
 Dankesbrief{m}/礼状[れいじょう]/
 Dankfest{n}/感謝祭[かんしゃさい]/
 Dankgebet{n}/アンゼルス[あんぜるす]/
 Dankschreiben{n}/礼状[れいじょう]/
-dann{adv}/では[では]/次いで[ついで]/そしたら[そしたら]/じゃあ[じゃあ]/すると[すると]/
-darauf{adv}/すると[すると]/次いで[ついで]/
+dann{adv}/(danach) それから[それから]/(in so einem Fall) そしたら[そしたら]/
+darauf{adv}/(danach) そして[そして]/(darüber) の上に[のうえに]/
 daraus{adv}/この中[このなか]/
 Darlehenskasse{f}/貸付信託[かしつけしんたく]/
 Darm{m}/腹[はら]/
