@@ -5998,20 +5998,20 @@ diplomatisch{adj}{adv}/外交的[がいこうてき]/
 diplomatische Vertretung{f}/外交使節団[がいこうしせつだん]/
 Diplomingenieur{m}/技術士[ぎじゅつし]/
 Dipol{n}/双極子[そうきょくし]/
-direkt{adj}{adv}/ずっと[ずっと]/直ちに[ただちに]/直に[じきに]/真っ直ぐ[まっすぐ]/ずばり[ずばり]/直接的[ちょくせつてき]/自ら[みずから]/親しく[したしく]/通し[とおし]/一路[いちろ]/端的[たんてき]/ダイレクト[だいれくと]/
+direkt{adj}{adv}/直接の[ちょくせつの]/
 Direktflug{m}/直行[ちょっこう]/
-Direktheit{f}/直接[ちょくせつ]/直[じき]/真っ向[まっこう]/ストレート[すとれーと]/
-Direktion{f}/運営[うんえい]/指揮[しき]/指導[しどう]/幹部[かんぶ]/
+Direktheit{f}/直接[ちょくせつ]/
+Direktion{f}/幹部[かんぶ]/
 Direktive{f}/言いつけ[いいつけ]/
 Direktmarketing{n}/ダイレクトマーケティング[だいれくとまーけてぃんぐ]/
-Direktor{m}/社長[しゃちょう]/専務[せんむ]/長[ちょう]/所長[しょちょう]/支配人[しはいにん]/園長[えんちょう]/理事[りじ]/取締役[とりしまりやく]/院長[いんちょう]/
+Direktor{m}/(Firmen~) 社長[しゃちょう]/所長[しょちょう]/
 Direktorium{n}/幹部[かんぶ]/
 Direktverbindung{f}/直行[ちょっこう]/
-Direktverkauf{m}/直売[ちょくばい]/直販[ちょくはん]/
+Direktverkauf{m}/直売[ちょくばい]/
 Direktversand{m}/直送[ちょくそう]/
 Direktwahl{f}/ダイヤルイン[だいやるいん]/
 Direktübertragung{f}/実況放送[じっきょうほうそう]/
-Dirigent{m}/ディレクター[でぃれくたー]/指揮者[しきしゃ]/
+Dirigent{m}/指揮者[しきしゃ]/
 Dirne{f}/売春婦[ばいしゅんふ]/
 Disagio{n}/逆打歩[ぎゃくうちぶ]/
 Discountgeschäft{n}/ディスカウントストア[でぃすかうんとすとあ]/
@@ -6023,14 +6023,14 @@ diskontinuierlich{adj}/不連続の[ふれんぞくの]/
 Diskontsatz{m}/歩合[ぶあい]/
 Diskontwechsel{m}/割引手形[わりびきてがた]/
 Diskothek{f}/ディスコ[でぃすこ]/
-Diskrepanz{f}/矛盾[むじゅん]/乖離[かいり]/相違[そうい]/
+Diskrepanz{f}/矛盾[むじゅん]/
 diskret{adj}/口が堅い[くちがかたいい]/
 Diskretion{f}/恭順[きょうじゅん]/
 diskriminieren{vt}/異[こと]/
 Diskriminierung{f}/差別[さべつ]/
 Diskurs{m}/談話[だんわ]/
 Diskus{m}/ディスカス[でぃすかす]/
-Diskussion{f}/論[ろん]/議論[ぎろん]/審議[しんぎ]/ディスカッション[でぃすかっしょん]/討論[とうろん]/論議[ろんぎ]/討論会[とうろんかい]/問答[もんどう]/議[ぎ]/談義[だんぎ]/
+Diskussion{f}/討論[とうろん]/
 Diskussionsteilnehmer{m}/パネラー[ぱねらー]/
 Diskussionsthema{n}/論点[ろんてん]/議題[ぎだい]/
 Diskuswerfer{m}/円盤投げの選手[えんばんなげのせんしゅ]/
@@ -6040,24 +6040,24 @@ Dislokation{f}/転位[てんい]/
 Disparität{f}/隔たり[へだたり]/
 Dispatcher{m}/ディスパッチャー[でぃすぱっちゃー]/
 Dispersion{f}/分散[ぶんさん]/
-Disposition{f}/傾向[けいこう]/処置[しょち]/素質[そしつ]/構想[こうそう]/配列[はいれつ]/
+Disposition{f}/(freies Ermessen) 自由裁量[じゆうさいりょう]/
 Disproportionierung{f}/不均化[ふきんか]/
 Disputant{m}/論者[ろんしゃ]/
-Disputation{f}/議論[ぎろん]/論争[ろんそう]/
+Disputation{f}/議論[ぎろん]/
 disputieren{vt}/論じる[ろんじる]/
 Disqualifikation{f}/失格[しっかく]/
 Dissens{f}/破調[はちょう]/
-Dissertation{f}/論[ろん]/論文[ろんぶん]/
+Dissertation{f}/論文[ろんぶん]/
 Dissident{m}/反体制派[はんたいせいは]/
 dissonant{adv}/調子外れの[ちょうしはずれの]/
 Dissoziation{f}/解離[かいり]/
-Distanz{f}/法[のり]/道程[みちのり]/距離[きょり]/間隔[かんかく]/道のり[みちのり]/
+Distanz{f}/距離[きょり]/
 distanziert{adj}/水臭い[みずくさい]/
 Distel{f}/薊[あざみ]/
 Distelöl{n}/サフラワー油[さふらわーゆ]/
-Distribution{f}/配信[はいしん]/物流[ぶつりゅう]/流通[りゅうつう]/
+Distribution{f}/{math.} 超関数[ちょうかんすう]/(Zuteilung) 分配[ぶんぱい]/(Lieferung) 配送[はいそう]/
 Distributionssystem{n}/配給機構[はいきゅうきこう]/
-Disziplin{f}/規則[きそく]/示し[しめし]/規律[きりつ]/秩序[ちつじょ]/躾[しつけ]/種目[しゅもく]/
+Disziplin{f}/規律[きりつ]/
 Disziplinarausschuss{m}/懲罰委員会[ちょうばついいんかい]/
 Disziplinarmaßnahme{f}/懲戒処分[ちょうかいしょぶん]/
 Disziplinarstrafe{f}/懲戒[ちょうかい]/
@@ -6080,8 +6080,8 @@ Diät{f}/ダイエット[だいえっと]/
 Diätassistent{m}/栄養士[えいようし]/
 Diätnahrungsmittel{pl}/ダイエット･フード[だいえっとふーど]/
 Diözese{f}/司教管区[しきょうかんく]/
-doch{adv}/だけど[だけど]/だけども[だけども]/まあまあ[まあまあ]/だが[だが]/それにしても[それにしても]/だけれども[だけれども]/やっぱし[やっぱし]/
-Docht{m}/シン[しん]/芯[しん]/
+doch{adv}/(aber) でも[でも]/(trotzdem) それにしても[それにして]/(schließlich) やはり[やはり]/
+Docht{m}/芯[しん]/
 Dock{n}/ドック[どっく]/
 Dockarbeiter{m}/船渠人夫[せんきょにんぷ]/
 Dodekaeder{n}/十二面体[じゅうにめんたい]/
@@ -6090,27 +6090,27 @@ Dogmatik{n}/教義学[きょうぎがく]/
 Dogmatiker{m}/教条主義者[きょうじょうしゅぎしゃ]/
 dogmatisch{adv}/ドグマチック[どぐまちっく]/
 Dogmatismus{m}/教条主義[きょうじょうしゅぎ]/
-Doktor{m}/先生[せんせい]/ドクター[どくたー]/
+Doktor{m}/(med.) 医者[いしゃ]/(~titel) 博士号[はかせごう]/
 Doktorand{m}/大学院生[だいがくいんせい]/
 Doktorarbeit{f}/卒業論文[そつぎょうろんぶん]/
-Doktorgrad{m}/博士[はくし]/
+Doktorgrad{m}/博士号[はかせごう]/
 Doktorhut{m}/角帽[かくぼう]/
 Doktorvater{m}/指導教官[しどうきょうかん]/
-Doktrin{f}/主義[しゅぎ]/理念[りねん]/義[ぎ]/
+Doktrin{f}/主義[しゅぎ]/
 doktrinär{adj}/杓子定規な[しゃくしじょうぎな]/
-Dokument{n}/記録[きろく]/書類[しょるい]/証書[しょうしょ]/文書[ぶんしょ]/文書[ぶんしょ]/書面[しょめん]/
+Dokument{n}/書類[しょるい]/
 Dokumentarfilm{m}/実写映画[じっしゃえいが]/
 dokumentarisch/ドキュメンタル[どきゅめんたる]/
-Dokumentation{f}/ドキュメンタリー[どきゅめんたりー]/ルポ[るぽ]/ドキュメント[どきゅめんと]/
+Dokumentation{f}/(Film) ドキュメンタリー[どきゅめんたりー]/(Handbuch) マニュアル[まにゅある]/
 Dokumentenpapier{n}/ボンド紙[ぼんどし]/
 Dolch{m}/刀[かたな]/
-Dollar{m}/ドル[どる]/ダラー[だらー]/
+Dollar{m}/ドル[どる]/
 Dollarkurs{m}/ドル相場[どるそうば]/
 Dolmen{m}/ドルメン[どるめん]/
 dolmetschen{vi}/通訳する[つうやくする]/
 Dolmetscher{m}/通訳[つうやく]/
 Dolomit{m}/ドロマイト[どろまいと]/
-Dom{m}/ドーム[どーむ]/教会[きょうかい]/大聖堂[だいせいどう]/
+Dom{m}/大聖堂[だいせいどう]/
 dominant{adv}/支配的な[しはいてきな]/
 Dominante{f}/ドミナント[どみなんと]/
 Dominanz{f}/支配[しはい]/
@@ -6119,15 +6119,15 @@ Dominikaner{m}/ドミニカ人[どみにかじん]/
 dominikanisch{adj}/ドミニカの[どみにかの]/
 Domino{n}/ドミノ[どみの]/
 Dominoeffekt{m}/玉突き効果[たまつきこうか]/
-Domizil{n}/住所[じゅうしょ]/本宅[ほんたく]/
+Domizil{n}/本宅[ほんたく]/
 Domkapitel{n}/参事会[さんじかい]/
-Dompteur{m}/トレーナー[とれーなー]/調教師[ちょうきょうし]/
-Domäne{f}/領土[りょうど]/ドメイン[どめいん]/
+Dompteur{m}/調教師[ちょうきょうし]/
+Domäne{f}/領土[りょうど]/{EDV} ドメイン[どめいん]/
 Don Juan{m}/ドンファン[どんふぁん]/
-Donner{m}/雷[いかずち]/雷鳴[らいめい]/
+Donner{m}/雷鳴[らいめい]/
 donnern{vi}/ごろごろ[ごろごろ]/
-Donnerschlag{m}/雷[いかずち]/雷鳴[らいめい]/
-Donnerstag{m}/木曜日[もくようび]/木曜[もくよう]/
+Donnerschlag{m}/雷鳴[らいめい]/
+Donnerstag{m}/木曜日[もくようび]/
 Donnervogel{m}/サンダーバード[さんだーばーど]/
 doof{adj}/無茶[むちゃ]/
 Dopamin{n}/ドーパミン[どーぱみん]/
@@ -6166,7 +6166,7 @@ Doppelsinnigkeit{f}/表裏[ひょうり]/
 Doppelspiel{n}/二心[にしん]/
 Doppelspüle{f}/ダブル･シンク[だぶるしんく]/
 Doppelsystem{n}/二本立て[にほんだて]/
-doppelt{adj}{adv}/倍[ばい]/二重[ふたえ]/
+doppelt{adj}{adv}/二重[ふたえ]/
 doppelt gemoppelt{adj}/ダブって[だぶって]/
 doppelt nehmen{vt}/二重に折る[にじゅうにおる]/
 Doppeltür{f}/両開き戸[りょうびらきど]/
@@ -6175,41 +6175,40 @@ Doppelwand{f}/防護張り[ぼうごばり]/
 Doppelwährung{f}/複本位[ふくほんい]/
 Doppelzimmer{n}/二人部屋[ふたりべや]/
 doppelzüngig{adj}/裏表のある[うらおもてのある]/
-Doppelzüngigkeit{f}/表裏[ひょうり]/陰日向[かげひなた]/
-Dorf{n}/村[むら]/農村[のうそん]/ビレッジ[びれっじ]/
+Doppelzüngigkeit{f}/二枚舌[にまいじた]/
+Dorf{n}/村[むら]/
 Dorfbewohner{m}/村人[むらびと]/
 Dorffest{n}/村祭り[むらまつり]/
-Dorn{m}/針[はり]/刺[とげ]/棘[きょく]/鍼[はり]/
+Dorn{m}/刺[とげ]/
 Dornenkrone{f}/荊冠[けいかん]/
 Dornenstrauch{m}/荊棘[けいきょく]/
 dornig{adv}{adj}/刺の多い[とげのおおい]/
 Dornigkeit{f}/有刺[ゆうし]/
 Dornröschen{n}/眠り姫[ねむりひめ]/
-Dorsch{m}/たら[たら]/タラ[たら]/
+Dorsch{m}/タラ[たら]/
 dort drüben/あすこ[あすこ]/
 dorthin/あそこへ[あそこへ]/
 dortig{adj}/そこの[そこの]/
-Dose{f}/箱[はこ]/缶詰[かんづめ]/
+Dose{f}/缶[かん]/
 Dosenbier{n}/缶ビール[かんびーる]/
 Dosenöffner{m}/缶切り[かんきり]/
 Dosierapparat{m}/バッチャ[ばっちゃ]/
 Dosierung{f}/用量[ようりょう]/
 Dosimeter{n}/線量計[せんりょうけい]/
 Dosimetrie{f}/線量測定[せんりょうそくてい]/
-Dosis{f}/服[ふく]/分量[ぶんりょう]/剤[ざい]/
+Dosis{f}/服用量[ふくようりょう]/
 Dossier{n}/一件書類[いっけんしょるい]/
 Dotierung{f}/ドーピング[どーぴんぐ]/
-Dotter{n}/黄身[きみ]/卵黄[らんおう]/
-Double{n}/吹き替え[ふきかえ]/二塁打[にるいだ]/
+Dotter{n}/卵黄[らんおう]/
+Double{n}/代役[だいやく]/
 Douglasie{f}/ダグラスファー[だぐらすふぁー]/
 Down-Syndrom{n}/ダウン症候群[だうんしょうこうぐん]/
-Dozent{m}/講師[こうし]/教師[きょうし]/教官[きょうかん]/
-Drache{m}/龍[たつ]/竜[たつ]/ドラゴン[どらごん]/辰[たつ]/辰[たつ]/
+Dozent{m}/(Lehrer) 教師[きょうし]/
+Drache{m}/(fiktives Tier) 竜[たつ]/(Hängegleiter) ハンググライダー[はんぐぐらいだー]/(Papier~) 凧[たこ]/
 Drachen{m}/カイト[かいと]/
 Drachenboot{n}/白竜[ぺーろん]/
 Drachenfliegen{m}/ハンググライディング[はんぐぐらいでぃんぐ]/
-Drachenläufer{m}/竜馬[りょうめ]/龍馬[りょうめ]/
-Draht{m}/線[せん]/針金[はりがね]/ワイヤー[わいやー]/
+Draht{m}/針金[はりがね]/
 Drahtauslöser{m}/ケーブル･レリーズ[けーぶるれりーず]/
 Drahtgeflecht{n}/鉄筋[てっきん]/
 Drahtlehre{f}/線規[せんき]/
@@ -6226,22 +6225,22 @@ drakonisch{adj}/秋霜烈日のごとき[しゅうそうれつじつのごとき
 drall{adj}{adv}/小太りの[こぶとりの]/
 Drall{m}/角運動量[かくうんどうりょう]/
 Drallheit{f}/小太り[こぶとり]/
-Drama{n}/ドラマ[どらま]/芝居[しばや]/劇[げき]/戯曲[ぎきょく]/
+Drama{n}/劇[げき]/
 Dramatiker{m}/脚本家[きゃくほんか]/
-dramatisch/劇的[げきてき]/ドラマチック[どらまちっく]/ドラマティック[どらまてぃっく]/
+dramatisch/劇的[げきてき]/
 Dramaturg{m}/脚色者[きゃくしょくしゃ]/
 Dramaturgie{f}/ドラマツルギー[どらまつるぎー]/
 Drangsal{f}/艱苦[かんく]/
 drangsalieren{vt}/苛める[いじめる]/
 Drapierung{f}/ドレープ[どれーぷ]/
-drastisch{adj}{adv}/断固[だんこ]/思い切った[おもいきった]/抜本的[ばっぽんてき]/ばっさり[ばっさり]/
+drastisch{adj}{adv}/断固[だんこ]/
 Draufgänger{m}/向こう見ず[むこうみず]/
 Draufgängertum{n}/無謀[むぼう]/
 Draufsicht{f}/上面図[じょうめんず]/
-draußen{adv}/外に[そとに]/アウトドア[あうとどあ]/
+draußen{adv}/外に[そとに]/
 Drechselbank{f}/旋盤[せんばん]/
 Drechsler{m}/ろくろ師[ろくろし]/
-Dreck{m}/ゴミ[ごみ]/汚れ[よごれ]/泥[ひじ]/垢[あか]/塵[ごみ]/
+Dreck{m}/(Müll) ゴミ[ごみ]/(Schmutz) 汚れ[よごれ]/
 dreckig{adj}{adv}/汚い[きたない]/
 Dreh{m}/コツ[こつ]/
 Drehachse{f}/シャフト[しゃふと]/
@@ -6250,11 +6249,10 @@ Drehautomat{m}/自動旋盤[じどうせんばん]/
 Drehbank{f}/旋盤[せんばん]/
 Drehbewegung{f}/回転運動[かいてんうんどう]/
 Drehbrücke{f}/開閉橋[かいへいきょう]/
-Drehbuch{n}/脚本[きゃくほん]/台本[だいほん]/
-Drehbuchautor{m}/本屋[ほんや]/脚本家[きゃくほんか]/
+Drehbuch{n}/脚本[きゃくほん]/
+Drehbuchautor{m}/脚本家[きゃくほんか]/
 Drehbühne{f}/回り舞台[まわりぶたい]/
-drehen{vt}/撮る[とる]/回す[まわす]/向ける[むける]/巻く[まく]/
-Drehen{n}/ショット[しょっと]/ターン[たーん]/スピン[すぴん]/
+drehen{vt}/回す[まわす]/
 Dreher{m}/旋盤工[せんばんこう]/
 Drehflügel{m}/旋回羽根[せんかいはね]/
 Drehflügler{m}/ジャイロ･プレーン[じゃいろぷれーん]/
@@ -6282,14 +6280,14 @@ Drehstromtransformator{m}/三相変圧器[さんそうへんあつき]/
 Drehstuhl{m}/回転椅子[かいてんいす]/
 Drehtisch{m}/ロータリーテーブル[ろーたりーてーぶる]/
 Drehtür{f}/回転ドア[かいてんどあ]/
-Drehung{f}/より[より]/ターン[たーん]/旋回[せんかい]/回転[かいてん]/回り[めぐり]/廻り[めぐり]/巡り[めぐり]/
+Drehung{f}/回転[かいてん]/
 Drehzahl{f}/回転数[かいてんすう]/
 Drehzahlmesser{m}/回転計[かいてんけい]/
 Drehzapfen{m}/ピボット[ぴぼっと]/
-drei{num}/三[み]/三つ[みっつ]/参[さん]/スリー[すりー]/
+drei{num}/三[さん]/(drei ~) 三つ[みっつ]/
 Dreibein{n}/三脚[さんきゃく]/
 dreibeinig{adj}/三本足の[さんぼんあしの]/
-Dreieck{n}/三角[さんかく]/三角形[さんかくけい]/トライアングル[とらいあんぐる]/
+Dreieck{n}/三角形[さんかくけい]/
 dreieckig{adj}{adv}/三角形の[さんかくけいの]/
 Dreieckstuch{n}/三角巾[さんかくきん]/
 Dreierkonferenz{f}/三者会談[さんしゃかいだん]/
