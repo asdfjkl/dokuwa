@@ -6311,33 +6311,32 @@ Dreisatz{m}/比例計算[ひれいけいさん]/
 dreisilbig{adj}/3音節の[さんおんせつの]/
 Dreispitz{m}/三角帽[さんかくぼう]/
 Dreisprung{m}/ホップステップジャンプ[ほっぷすてっぷじゃんぷ]/
-dreist{adv}/どんどん[どんどん]/太い[ふとい]/遠慮なく[えんりょなく]/
-Dreistigkeit{f}/チョコ[ちょこ]/大胆[だいたん]/
+dreist{adv}/厚かましい[あつかましい]/
+Dreistigkeit{f}/厚かましさ[あつかましさ]/
 Dreitagefieber{n}/突発性発疹[とっぱつせいほっしん]/
 dreiteilig{adj}/三部に分かれた[さんぶにわかれた]/
 Dreiteilung{f}/三等分[さんとうぶん]/
 dreiundzwanzig{num}/二三[にじゅうさん]/
 Dreizack{m}/三つ又[みつまた]/
 dreizehn{num}/十三[じゅうさん]/
-dreißig{num}/三十路[みそじ]/三十[さんじゅう]/
+dreißig{num}/三十[さんじゅう]/
 Dreschflegel{m}/麦打ち[むぎうち]/
 Dreschmaschine{f}/脱穀機[だっこくき]/
 Dressing{n}/ドレッシング[どれっしんぐ]/
-Dressur{f}/訓練[くんれん]/調教[ちょうきょう]/仕込み[しこみ]/
+Dressur{f}/調教[ちょうきょう]/
 Dressurreiten{n}/馬術[ばじゅつ]/
 Dribbling{n}/ドリブル[どりぶる]/
 Drift{f}/偏流[へんりゅう]/
 Driftwinkel{m}/偏流[へんりゅう]/
-Drill{m}/練習[れんしゅう]/ドリル[どりる]/仕込み[しこみ]/訓練[くんれん]/
+Drill{m}/訓練[くんれん]/
 Drillbohrer{m}/アルキメデス･ドリル[あるきめですどりる]/
-dringend{adv}/急に[きゅうに]/たって[たって]/切に[せつに]/切実に[せつじつに]/
-Dringlichkeit{f}/急[きゅう]/切実[せつじつ]/緊急[きんきゅう]/早急[さっきゅう]/当面[とうめん]/
+dringend{adv}/至急の[しきゅうの]/
+Dringlichkeit{f}/早急[さっきゅう]/
 Dringlichkeitsantrag{m}/緊急動議[きんきゅうどうぎ]/
-Dritte{m}{f}{m}{f}{n}/サードパーティー[さーどぱーてぃー]/
 Drittel{n}/三分[さんぶん]/
 Drittland{n}/第三国[だいさんごく]/
 Drittmittel{pl}/外部資金[がいぶしきん]/
-Droge{f}/薬[くすり]/麻薬[まやく]/剤[ざい]/
+Droge{f}/(Medizin) 薬[くすり]/(Rauschgift) 麻薬[まやく]/
 Drogenabhängigkeit{f}/麻薬中毒[まやくちゅうどく]/
 Drogenhändler{m}/売人[ばいにん]/
 Drogerie{f}/薬屋[くすりや]/
@@ -6345,7 +6344,7 @@ Drogist{m}/薬屋[くすりや]/
 Drohbrief{m}/脅迫状[きょうはくじょう]/
 drohende Gefahr{f}/危急[ききゅう]/
 Drohne{f}/遊民[ゆうみん]/
-Drohung{f}/脅威[きょうい]/脅し[おどし]/脅迫[きょうはく]/脅迫[きょうはく]/威嚇[いかく]/
+Drohung{f}/脅威[きょうい]/
 Drolligkeit{f}/ちんちくりん[ちんちくりん]/
 Dropkick{m}/ドロップキック[どろっぷきっく]/
 Drops{m}{n}/ドロップ[どろっぷ]/
@@ -6355,7 +6354,7 @@ Drosselklappe{f}/スロットル[すろっとる]/
 drosseln{vt}/切り詰める[きりつめる]/
 Drosselspule{f}/チョーク･コイル[ちょーくこいる]/
 Drosselventil{n}/絞り弁[しぼりべん]/
-Druck{m}/負担[ふたん]/映り[うつり]/写り[うつり]/圧力[あつりょく]/版画[はんが]/印刷[いんさつ]/圧迫[あっぱく]/強制[きょうせい]/圧[あつ]/押し[おし]/プリント[ぷりんと]/プリント[ぷりんと]/
+Druck{m}/圧迫[あっぱく]/(Aus/Buch~) 印刷[いんさつ]/
 Druckanzug{m}/与圧服[よあつふく]/
 Druckbehälter{m}/圧力容器[あつりょくようき]/
 Druckbelastung{f}/圧縮応力[あっしゅくおうりょく]/
@@ -6363,7 +6362,7 @@ Druckbleistift{m}/シャーペン[しゃーぺん]/
 Druckbogen{m}/プルーフ[ぷるーふ]/
 Druckbuchstabe{f}{pl}/活字[かつじ]/
 Druckdichte{f}/印字濃度[いんじのうど]/
-Drucken{n}/印刷[いんさつ]/プリント[ぷりんと]/
+Drucken{n}/印刷[いんさつ]/
 Drucker{m}/プリンター[ぷりんたー]/
 Druckerei{f}/プレス[ぷれす]/
 Druckerlaubnis{f}/出版許可[しゅっぱんきょか]/
@@ -6372,7 +6371,7 @@ Druckertreiber{m}/プリンター･ドライバー[ぷりんたーどらいば�
 Druckerzeugnis{n}/冊子[さっし]/
 Druckfahne{f}/校正刷り[こうせいずり]/
 Druckfarbe{f}/印刷インク[いんさついんく]/
-Druckfehler{m}/間違い[まちがい]/誤字[ごじ]/
+Druckfehler{m}/誤字[ごじ]/
 Druckfehlerverzeichnis{n}/訂正表[ていせいひょう]/
 druckfest{adj}/耐圧式の[たいあつしきの]/
 Druckfestigkeit{f}/耐圧[たいあつ]/
@@ -6401,7 +6400,7 @@ Druckpunkt{m}/壺[つぼ]/壷[つぼ]/
 Druckregler{m}/圧力調整器[あつりょくちょうせいき]/
 Drucksache{f}/印刷物[いんさつぶつ]/
 Druckspannung{f}/圧縮応力[あっしゅくおうりょく]/
-Druckstelle{f}/当たり[あたり]/当り[あたり]/痛み[いたみ]/
+Druckstelle{f}/(Schmerz) 痛み[いたみ]/
 Drucktechnik{f}/印刷技術[いんさつぎじゅつ]/
 Drucktype{f}/活字[かつじ]/
 Druckverband{m}/圧迫包帯[あっぱくほうたい]/
@@ -6413,7 +6412,7 @@ Druckwelle{f}/爆風[ばくふう]/
 Drängelei{f}/押し合い[おしあい]/
 drängeln{vi}/押し合う[おしあう]/
 Drängen{n}/催促[さいそく]/
-drängen{vt}/迫る[せまる]/促す[うながす]/責める[せめる]/押す[おす]/押す[おす]/
+drängen{vt}/押す[おす]/(erzwingen) 迫る[せまる]/
 Dröhnen{n}/爆音[ばくおん]/
 dröhnend{adj}/轟轟[ごうごう]/
 drüben{adv}/向こう側に[むこうがわに]/
@@ -6426,7 +6425,7 @@ Drücker{m}/引き金[ひきがね]/
 Drüse{f}/腺[せん]/
 Dschungel{m}/ジャングル[じゃんぐる]/
 DSL{n}/超音波偽底像[ちょうおんぱにせぞこぞう]/
-du{ppron}/君[きみ]/貴女[あなた]/我[われ]/お前[おまえ]/貴方[あなた]/吾[われ]/
+du{ppron}/あなた[あなた]/
 Du meine Güte!/あらっ[あらっ]/
 Dualismus{m}/二元論[にげんろん]/
 Dualist{m}/二元論者[にげんろんしゃ]/
@@ -6436,8 +6435,8 @@ Dublette{f}/複本[ふくほん]/
 Dudelsack{m}/バグパイプ[ばぐぱいぷ]/
 Duell{n}/決闘[けっとう]/
 Duellant{m}/決闘者[けっとうしゃ]/
-Duett{n}/デュオ[でゅお]/デュエット[でゅえっと]/
-Duft{m}/香り[かおり]/匂い[におい]/香味[こうみ]/芳香[ほうこう]/フレーバー[ふれーばー]/薫り[かおり]/
+Duett{n}/(Instrumental~) 二重奏[にじゅうそう]/
+Duft{m}/香り[かおり]/
 duftend{adj}{adv}/香ばしい[こうばしい]/
 duftig{adj}{adv}/馥郁[ふくいく]/
 Duftkissen{n}/匂い袋[においぶくろ]/
@@ -6445,51 +6444,51 @@ Duftstoff{m}/香料[こうりょう]/
 Duftwasser{m}/香水[こうすい]/
 Duftöl{n}/芳香油[ほうこうゆ]/
 duldsam{adj}/我慢強い[がまんづよい]/
-Duldung{f}/勘弁[かんべん]/許容[きょよう]/容認[ようにん]/
+Duldung{f}/容認[ようにん]/
 Dumdum{n}/ダムダム弾[だむだむだん]/
-dumm{adj}{adv}/バカ[ばか]/とんだ[とんだ]/馬鹿[ばか]/他愛もない[たわいもない]/下らない[くだらない]/どん[どん]/とんでもない[とんでもない]/心苦しい[こころぐるしい]/
+dumm{adj}{adv}/バカ[ばか]/
 dummerweise{adv}/折り悪しく[おりあしく]/
-Dummheit{f}/バカ[ばか]/馬鹿[ばか]/愚[ぐ]/愚か[おろか]/愚痴[ぐち]/不肖[ふしょう]/間違い[まちがい]/不明[ふめい]/
-Dummkopf{m}/バカ[ばか]/阿呆[あほ]/馬鹿[ばか]/二番[にばん]/痴漢[ちかん]/間抜け[まぬけ]/アホ[あほ]/
+Dummheit{f}/バカ[ばか]/(Unwissenheit) 無知[むち]/
+Dummkopf{m}/バカ[ばか]/
 Dummy{m}/ダミー[だみー]/
 Dung{m}/肥[こえ]/
-dunkel{adv}{adj}/くらい[くらい]/黒っぽい[くろっぽい]/黒い[くろい]/漠然[ばくぜん]/深い[ふかい]/暗い[くらい]/暗い[くらい]/
+dunkel{adv}{adj}/暗い[くらい]/
 dunkelbraun{adj}/とび色の[とびいろの]/
 Dunkelfeld{m}/暗視野[あんしや]/
 dunkelgrün{adj}/暗緑色の[あんりょくしょくの]/
-Dunkelheit{f}/闇[やみ]/濃密[のうみつ]/暗黒[あんこく]/灰色[はいいろ]/ダーク[だーく]/暗闇[くらやみ]/
+Dunkelheit{f}/暗闇[くらやみ]/
 Dunkelkammer{f}/暗室[あんしつ]/
 dunkelrot{adj}/赤黒い[あかぐろい]/
-Dunst{m}/煙[けむり]/霞[かすみ]/
-dunstig{adv}{adj}/モヤモヤ[もやもや]/もやもや[もやもや]/
-Duo{n}/デュオ[でゅお]/二人組[ふたりぐみ]/
+Dunst{m}/(Rauch) 煙[けむり]/(Nebel) 霞[かすみ]/
+dunstig{adv}{adj}/モヤモヤ[もやもや]/
+Duo{n}/二人組[ふたりぐみ]/
 Duodenalgeschwür{n}/十二指腸潰瘍[じゅうにしちょうかいよう]/
-Duplikat{n}/控え[ひかえ]/写し[うつし]/副[ふく]/
+Duplikat{n}/写し[うつし]/
 Dur{n}/長調[ちょうちょう]/
 Durban (Stadt in Südafrika)/ダーバン[だーばん]/
-durch{prp; +Akkusativ}{adv}/に[に]/介して[かいして]/ばっさり[ばっさり]/通じて[つうじて]/通じて[つうじて]/
+durch{prp; +Akkusativ}{adv}/(...zufolge) ...によって[...によって]/(hindurch) 中を通って[なかをかよって]/
 durch und durch{adv}/終始[しゅうし]/
 durch Zwischenrufe stören{vt}/野次る[やじる]/
-durchaus{adv}/断然[だんぜん]/断じて[だんじて]/根っから[ねっから]/
+durchaus{adv}/(vollständig) 完全に[かんぜんに]/
 Durchbiegung{f}/撓み[たわみ]/
 durchblättern{vt}/繰る[くる]/
-durchbohren{vt}/通す[とおす]/貫く[つらぬく]/
+durchbohren{vt}/貫く[つらぬく]/
 durchbrechen/生える[はえる]/
 Durchbrennen{n}/家出[いえで]/
 durchbrennen{vi}/焼き切る[やききる]/
-Durchbruch{m}/突破[とっぱ]/透かし[すかし]/打開[だかい]/
+Durchbruch{m}/突破[とっぱ]/
 durchdenken/踏み込む[ふみこむ]/
 durchdrehen{vi}/めちゃくちゃになる[めちゃくちゃになる]/
-durchdringen{vt}/通す[とおす]/入り込む[いりこむ]/貫く[つらぬく]/ばれる[ばれる]/
+durchdringen{vt}/通す[とおす]/
 durchdringend{adv}{adj}/ジーンと[じーんと]/
 Durchdringung{f}/浸透[しんとう]/
 Durchdringungszwilling{m}/貫入双晶[かんにゅうそうしょう]/
-durcheinander{adv}/汚い[きたない]/わや[わや]/口々に[くちぐちに]/ぐちゃぐちゃ[ぐちゃぐちゃ]/ごちゃごちゃ[ごちゃごちゃ]/無茶[むちゃ]/
-Durcheinander{n}/混乱[こんらん]/無茶苦茶[むちゃくちゃ]/てんやわんや[てんやわんや]/混沌[こんとん]/混迷[こんめい]/ちゃんぽん[ちゃんぽん]/散乱[さんらん]/ごっちゃ[ごっちゃ]/狂い[くるい]/混雑[こんざつ]/滅茶苦茶[めちゃくちゃ]/
+durcheinander{adv}/ごちゃごちゃ[ごちゃごちゃ]/(schmutzig) 汚ない[きたない]/
+Durcheinander{n}/混乱[こんらん]/
 durchfahren{vt}/突き破る[つきやぶる]/
-Durchfahrt{f}/通過[つうか]/通行[つうこう]/
+Durchfahrt{f}/通過[つうか]/
 Durchfall{m}/下痢[げり]/
-Durchfallen{n}/不合格[ふごうかく]/ダメ出し[だめだし]/
+Durchfallen{n}/不合格[ふごうかく]/
 durchfallen{vi}/落ちる[おちる]/
 durchfließen{vi}/貫流する[かんりゅうする]/
 Durchfluss{m}/フロー[ふろー]/
@@ -6497,14 +6496,14 @@ Durchflussmenge{f}/流量[りゅうりょう]/
 Durchflussmesser{m}/流量計[りゅうりょうけい]/
 durchführbar{adv}/現実的[げんじつてき]/
 Durchführbarkeit{f}/実際性[じっさいせい]/
-durchführen/使う[つかう]/下す[くだす]/とる[とる]/扱う[あつかう]/行う[おこなう]/行なう[おこなう]/貫く[つらぬく]/取り扱う[とりあつかう]/
-Durchführung{f}/実施[じっし]/演出[えんしゅつ]/成就[じょうじゅ]/遂行[すいこう]/貫徹[かんてつ]/執行[しっこう]/運用[うんよう]/敢行[かんこう]/
+durchführen/行う[おこなう]/
+Durchführung{f}/実施[じっし]/
 Durchführungsbeschluss{m}/期成[きせい]/
 Durchführungsbestimmung{f}/施行規則[しこうきそく]/
-Durchgang{m}/通過[つうか]/路地[ろじ]/一回り[ひとまわり]/通り道[とおりみち]/通行[つうこう]/
+Durchgang{m}/通過[つうか]/
 Durchgangszeit{f}/移動時間[いどうじかん]/
 durchgeben{vt}/通す[とおす]/
-durchgeführt werden/行われる[おこなわれる]/行なわれる[おこなわれる]/
+durchgeführt werden/行われる[おこなわれる]/
 durchgängig{adj}{adv}/一貫した[いっかんした]/
 durchhalten{vi}/乗り切る[のりきる]/
 Durchhaltevermögen{n}/忍耐力[にんたいりょく]/
