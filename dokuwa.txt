@@ -6510,7 +6510,7 @@ Durchhaltevermögen{n}/忍耐力[にんたいりょく]/
 durchkommen{vi}/滲み出る[にじみでる]/
 durchkreuzen{vt}/覆す[くつがえす]/
 durchkämmen{vt}/狩り出す[かりだす]/
-Durchlass{m}/アウトレット[あうとれっと]/木戸[きど]/
+Durchlass{m}/(Pforte) 木戸[きど]/
 durchlassen{vt}/通す[とおす]/
 Durchlaucht{f}/殿下[でんか]/
 Durchlauf{m}/実行[じっこう]/
@@ -6519,65 +6519,65 @@ Durchlauferhitzer{m}/瞬間湯沸かし器[しゅんかんゆわかしき]/
 durchleuchten{vt}{vi}/透視する[とうしする]/
 Durchleuchtung{f}/透視検査[とうしけんさ]/
 Durchlässigkeit{f}/透過[とうか]/
-Durchmesser{m}/直径[ちょっけい]/径[けい]/
+Durchmesser{m}/直径[ちょっけい]/
 durchnässen{vt}/濡らす[ぬらす]/
 durchnässt{adv}{adj}/水浸しの[みずびたしの]/
 durchnässt sein/しょぼたれる[しょぼたれる]/
 Durchreise{f}/通過[つうか]/
-durchreisen{vi}/越す[こす]/超す[こす]/
+durchreisen{vi}/越す[こす]/
 durchreisend/行きずりの[ゆきずりの]/
 Durchsatz{m}/スループット[するーぷっと]/
 durchschießen{vt}/射抜く[いぬく]/
-Durchschlag{m}/控え[ひかえ]/写し[うつし]/カーボン[かーぼん]/水切り[みずきり]/コピー[こぴー]/
+Durchschlag{m}/(Kopie) 写し[うつし]/
 Durchschlagfestigkeit{f}/誘電力[ゆうでんりょく]/
-durchschneiden{vt}/切る[きる]/斬る[きる]/
-Durchschnitt{m}/標準[ひょうじゅん]/断面[だんめん]/並み[なみ]/交差[こうさ]/平凡[へいぼん]/平均[へいきん]/
-durchschnittlich{adv}{adj}/尋常[じんじょう]/一端[いっぱし]/
+durchschneiden{vt}/切る[きる]/
+Durchschnitt{m}/平均[へいきん]/
+durchschnittlich{adv}{adj}/平均的な[へいきんてきな]/
 Durchschnittsalter{n}/平均年齢[へいきんねんれい]/
 Durchschnittsbetrag{m}/平均額[へいきんがく]/
 Durchschnittseinkommen{n}/平均所得[へいきんしょとく]/
 Durchschnittsgeschwindigkeit{f}/平均速度[へいきんそくど]/
 Durchschnittskurs{m}/平均株価[へいきんかぶか]/
-Durchschnittsmensch{m}/一般人[いっぱんにん]/凡人[ぼんじん]/
+Durchschnittsmensch{m}/凡人[ぼんじん]/
 Durchschnittsnote{f}/平均点[へいきんてん]/
 Durchschnittspreis{m}/平均価格[へいきんかかく]/
 Durchschnittswert{m}/平均値[へいきんち]/
 Durchschreibpapier{n}/炭酸紙[たんさんし]/
 Durchschrift{f}/引き写し[ひきうつし]/
 Durchschuss{m}/貫通[かんつう]/
-durchsetzen{vt}/通す[とおす]/貫く[つらぬく]/
-Durchsetzung{f}/実施[じっし]/強行[きょうこう]/貫徹[かんてつ]/
+durchsetzen{vt}/させる[させる]/
+Durchsetzung{f}/(Erzwingung) 強行[きょうこう]/
 Durchsetzungsvermögen{n}/自己主張[じこしゅちょう]/
 durchsichtig{adj}{adv}/白々しい[しらじらしい]/
 Durchsichtigkeit{f}/透明[とうめい]/透明度[とうめいど]/
 durchsickern{vi}/ばれる[ばれる]/
-durchstechen{vt}/貫く[つらぬく]/刺す[さす]/
+durchstechen{vt}/貫く[つらぬく]/
 Durchstich{m}/貫通[かんつう]/
 durchstoßen{vt}/突き抜ける[つきぬける]/
 durchstreichen{vt}/線を引いて消す[せんをひいてけす]/
 durchströmen/貫流する[かんりゅうする]/
 durchstöbern{vt}/物色する[ぶっしょくする]/
 durchsuchen{vt}/引っ掻き回す[ひっかきまわす]/
-Durchsuchung{f}/検査[けんさ]/捜索[そうさく]/捜査[そうさ]/
+Durchsuchung{f}/捜索[そうさく]/
 Durchsuchungsrecht{n}/捜索権[そうさくけん]/
 Durchtriebenheit{f}/狡猾[こうかつ]/
 durchwaten{vt}/徒渉する[としょうする]/
 durchwühlen{vt}/引っ掻き回す[ひっかきまわす]/
-durchziehen{vt}/過ぎる[すぎる]/貫く[つらぬく]/
+durchziehen{vt}/実現させる[じつげんさせる]/
 Durst{m}/渇き[かわき]/
 Dusche{f}/シャワー[しゃわー]/
 Duschkabine{f}/シャワー室[しゃわーしつ]/
 Duschkopf{m}/シャワー･ヘッド[しゃわーへっど]/
 Duschvorhang{m}/シャワーカーテン[しゃわーかーてん]/
 Dussel{m}/ドジ[どじ]/
-Dutzend{n}/十二[じゅうに]/ダース[だーす]/
+Dutzend{n}/(zwölf) 十二[じゅうに]/ダース[だーす]/
 DVD{f}/DVD[でぃーぶいでぃー]/
 Dyade{f}/二分染色体[にぶんせんしょくたい]/
-Dynamik{f}/力学[りきがく]/強弱[きょうじゃく]/
+Dynamik{f}/(Triebkraft) 原動力[げんどうりょく]/(Kinetik) 力学[りきがく]/
 Dynamikumfang{m}/ダイナミックレンジ[だいなみっくれんじ]/
-dynamisch{adj}{adv}/豪快[ごうかい]/動的[どうてき]/ダイナミック[だいなみっく]/
+dynamisch{adj}{adv}/動的な[どうてきな]/
 Dynamo{m}/発電機[はつでんき]/
-Dynastie{f}/朝[ちょう]/王朝[おうちょう]/
+Dynastie{f}/王朝[おうちょう]/
 Dysenterie{f}/赤痢[せきり]/
 Dysfunktion{f}/機能不全[きのうふぜん]/
 Dysmenorrhoe{f}/月経困難[げっけいこんなん]/
@@ -6587,8 +6587,8 @@ dämlich{adj}/間が抜けた[まがぬけた]/
 Dämmerstunde{f}/逢魔が時[おうまがとき]/
 Dämmerung{f}/黄昏[こうこん]/
 Dämmerzustand{m}/現つ[うつつ]/
-Dämon{m}/鬼[おに]/亡霊[ぼうれい]/魔神[まじん]/魔[ま]/悪魔[あくま]/魔物[まもの]/
-dämonisch{adj}{adv}/デモーニッシュ[でもーにっしゅ]/
+Dämon{m}/悪霊[あくりょう]/
+dämonisch{adj}{adv}/(unheimlich) 不気味な[ぶきみな]/
 dämpfen{vt}/蒸す[むす]/
 Dämpfer{m}/蒸し[ふかし]/
 Dämpfung{f}/減衰[げんすい]/
@@ -6607,7 +6607,7 @@ düngen{vt}/肥やす[こやす]/
 Dünger{m}/肥料[ひりょう]/
 Düngung{f}/施肥[せひ]/
 Dünkelhaftigkeit{f}/唯我独尊[ゆいがどくそん]/
-dünn{adj}{adv}/薄い[うすい]/細々[ほそぼそ]/薄っぺら[うすっぺら]/すんなり[すんなり]/
+dünn{adj}{adv}/薄い[うすい]/(schlank) 細い[ほそい]/
 Dünndarm{m}/小腸[しょうちょう]/
 Dünnheit{f}/希薄[きはく]/
 dünnhäutig{adj}/神経の鋭い[しんけいのするどい]/
@@ -6623,67 +6623,67 @@ Düsenantrieb{m}/噴射推進機関[ふんしゃすいしんきかん]/
 Düsenflugzeug{n}/ジェット[じぇっと]/
 Düsenjäger{m}/ジェット戦闘機[じぇっとせんとうき]/
 Düsentriebwerk{n}/噴射推進機関[ふんしゃすいしんきかん]/
-düster{adj}{adv}/くらい[くらい]/険しい[けわしい]/淡い[あわい]/黒い[くろい]/鬱陶しい[うっとうしい]/暗い[くらい]/暗い[くらい]/暗い[くらい]/
+düster{adj}{adv}/暗い[くらい]/
 Düsterkeit{f}/陰惨[いんさん]/
 E-Mail{f}{n}/電子メール[でんしめーる]/
 E-Mail-Adresse{f}/メールアドレス[めーるあどれす]/
 Ebbe{f}/潮干[しおひ]/
-Ebenbürtigkeit{f}/同等[どうとう]/互角[ごかく]/匹敵[ひってき]/負けず劣らず[まけずおとらず]/
-Ebene{f}/平野[へいや]/平原[へいげん]/レイヤー[れいやー]/平地[へいち]/野原[のはら]/平面[へいめん]/
-ebenfalls{adv}/又[また]/復[また]/同様に[どうように]/やっぱし[やっぱし]/
-Ebenheit{f}/フラット[ふらっと]/平ら[たいら]/平坦[へいたん]/プレーン[ぷれーん]/
+Ebenbürtigkeit{f}/同等[どうとう]/
+Ebene{f}/平野[へいや]/
+ebenfalls{adv}/同様に[どうように]/
+Ebenheit{f}/平ら[たいら]/
 Ebenholz{n}/黒木[くろき]/
-ebenso{adj}/も[も]/同様に[どうように]/同然[どうぜん]/同様[どうよう]/
+ebenso{adj}/同じようにして[おなじようにして]/
 Eber{m}/雄豚[おぶた]/
 Eberesche{f}/ナナカマド[ななかまど]/
 Ebonit{n}/エボナイト[えぼないと]/
 Echinokokkose{f}/エキノコッカス症[えきのこっかすしょう]/
-Echo{n}/響き[ひびき]/反響[はんきょう]/エコー[えこー]/響[ひびき]/こだま[こだま]/
+Echo{n}/エコー[えこー]/
 Echolot{n}/音響測深機[おんきょうそくしんき]/
-echt{adj}{adv}/本格的[ほんかくてき]/ピュア[ぴゅあ]/真の[しんの]/
-Echtheit{f}/本当[ほんとう]/生粋[きっすい]/本物[ほんもの]/純粋[じゅんすい]/真[しん]/純正[じゅんせい]/純[じゅん]/正真正銘[しょうしんしょうめい]/
+echt{adj}{adv}/純粋な[じゅんすいな]/
+Echtheit{f}/純粋[じゅんすい]/
 Echtzeitverarbeitung{f}/リアルタイム処理[りあるたいむしょり]/
 Eckball{m}/コーナーキック[こーなーきっく]/
-Ecke{f}/コーナー[こーなー]/隅[すみ]/曲がり角[まがりかど]/
+Ecke{f}/隅[すみ]/(Straßen~) コーナー[こーなー]/
 eckig{adv}/角張った[かくばった]/
 eckige Klammer{f}/ブラケット[ぶらけっと]/
 Eckstein{m}/礎[いしずえ]/
 Eckstoß{m}/コーナーキック[こーなーきっく]/
 Eckzahn{m}/牙[きば]/
 Eclair{n}/クリームパン[くりーむぱん]/
-edel{adv}/高い[たかい]/尊い[とうとい]/高[こう]/
+edel{adv}/尊い[とうとい]/
 Edelgas{n}/希ガス類[きがするい]/
 Edelmann{m}/貴公子[きこうし]/
 Edelmetall{n}/貴金属[ききんぞく]/
-Edelmut{m}/仁[じん]/伊達[だて]/太っ腹[ふとっぱら]/
+Edelmut{m}/太っ腹[ふとっぱら]/
 Edelreis{m}/接木[つぎき]/
 Edelstahl{m}/ステンレス[すてんれす]/
-Edelstein{m}/玉[たま]/石[いし]/球[たま]/宝石[ほうせき]/珠玉[しゅぎょく]/
+Edelstein{m}/宝石[ほうせき]/
 Edelweiß{n}/エーデルワイス[えーでるわいす]/
 Editor{m}/編集人[へんしゅうにん]/
 edle Gesinnung{f}/徳義心[とくぎしん]/
 Edutainment{n}/エデュテインメント[えでゅていんめんと]/
 Efeu{m}/アイビー[あいびー]/
 efeubewachsen{adj}/ツタにおおわれた[つたにおおわれた]/
-Effekt{m}/有効[ゆうこう]/上り[あがり]/影響[えいきょう]/験[しるし]/甲斐[かい]/応え[こたえ]/効[かい]/作用[さよう]/エフェクト[えふぇくと]/規模[きぼ]/実効[じっこう]/響き[ひびき]/響[ひびき]/出来[でき]/手応え[てごたえ]/効果[こうか]/効果[こうか]/効用[こうよう]/効力[こうりょく]/効き目[ききめ]/上がり[あがり]/
-Effekten{pl}/証券[しょうけん]/ボンド[ぼんど]/
+Effekt{m}/作用[さよう]/
+Effekten{pl}{ökon.}/有価証券[ゆうかしょうけん]/
 Effektendifferenzgeschäft{n}/空買い[からがい]/
 Effektenmakler{m}/ストックブローカー[すとっくぶろーかー]/
 Effekthascherei{f}/場当たり[ばあたり]/
-effektiv{adj}{adv}/良い[いい]/好い[いい]/効率的[こうりつてき]/
-Effektivität{f}/効果[こうか]/有効性[ゆうこうせい]/効き[きき]/効能[こうのう]/能率[のうりつ]/効用[こうよう]/効力[こうりょく]/
+effektiv{adj}{adv}/(effizient) 効率的[こうりつてき]/
+Effektivität{f}/効能[こうのう]/
 Effektivwert{m}/rms値[あーるえむえすち]/
 Effektor{m}/エフェクター[えふぇくたー]/
 effektvoll{adj}/効果的[こうかてき]/
-Effizienz{f}/効率[こうりつ]/能率[のうりつ]/
+Effizienz{f}/効率[こうりつ]/
 Effizienzsteigerung{f}/効率化[こうりつか]/
 Effloreszenz{f}/開花[かいか]/
 Effusivgestein{n}/火成岩[かせいがん]/
 Egalitarismus{m}/平等主義[びょうどうしゅぎ]/
 Egge{f}/馬鍬[まんが]/
-Egoismus{m}/勝手[かって]/自己中[じこちゅう]/個人主義[こじんしゅぎ]/自己中心[じこちゅうしん]/身勝手[みがって]/勝手気まま[かってきまま]/自分勝手[じぶんかって]/我儘[わがまま]/我侭[わがまま]/気まま[きまま]/自愛[じあい]/
+Egoismus{m}/自己中[じこちゅう]/
 Egoist{m}/エゴ[えご]/
-Egozentrik{f}/自分勝手[じぶんかって]/自己中心[じこちゅうしん]/
+Egozentrik{f}/自分勝手[じぶんかって]/
 egozentrisch{adj}/一方的[いっぽうてき]/
 Ehe{f}/結婚生活[けっこんせいかつ]/
 Eheberatung{f}/結婚相談[けっこんそうだん]/
@@ -6700,10 +6700,10 @@ Eheleute{pl}/夫婦[めおと]/
 ehelich{adj}{adv}/夫婦の[ふうふの]/
 Ehelosigkeit{f}/独身[どくしん]/
 ehemalig{adj}/古い[ふるい]/
-ehemals/元[もと]/故[もと]/以前に[いぜんに]/以前[いぜん]/旧[もと]/
-Ehemann{m}/夫[おっと]/主人[あるじ]/亭主[ていしゅ]/旦那[だんな]/配偶者[はいぐうしゃ]/
-Ehepaar{n}/夫婦[めおと]/カップル[かっぷる]/
-eher{adv}/予め[あらかじめ]/寧ろ[むしろ]/却って[かえって]/
+ehemals/昔[むかし]/
+Ehemann{m}/(Mein ~) 夫[おっと]/(Ihr ~) 主人[しゅじん]/
+Ehepaar{n}/夫婦[めおと]/
+eher{adv}/(früher) 予め[あらかじめ]/(lieber als) 寧ろ[むしろ]/
 Eherecht{n}/婚姻法[こんいんほう]/
 Ehering{m}/結婚指輪[けっこんゆびわ]/
 ehern{adj}{adv}/強固な[きょうこな]/
@@ -6713,7 +6713,7 @@ Ehestifter{m}/仲人[なこうど]/
 Ehestreit{m}/夫婦喧嘩[ふうふげんか]/
 Eheversprechen{n}/夫婦約束[ふうふやくそく]/
 ehrbar{adv}/光栄な[こうえいな]/
-Ehre{f}/光[こう]/面子[めんつ]/栄え[はえ]/人前[ひとまえ]/名誉[めいよ]/ひかり[ひかり]/栄[えい]/光栄[こうえい]/操[みさお]/栄光[えいこう]/栄誉[えいよ]/栄冠[えいかん]/
+Ehre{f}/名誉[めいよ]/
 ehren{vt}/敬う[うやまう]/
 Ehrenamt{n}/名誉職[めいよしょく]/
 ehrenamtlich{adj}/無給の[むきゅうの]/
@@ -6729,22 +6729,22 @@ Ehrentag{m}/光栄の日[こうえいのひ]/
 Ehrentitel{m}/尊称[そんしょう]/
 ehrenwert{adv}{adj}/恥ずかしからぬ[はずかしからぬ]/
 Ehrenwort{n}/宣誓[せんせい]/
-ehrerbietig{adv}/恐る恐る[おそるおそる]/謹んで[つつしんで]/
-Ehrerbietung{f}/尊敬[そんけい]/敬意[けいい]/
-Ehrfurcht{f}/恐れ[おそれ]/敬意[けいい]/
+ehrerbietig{adv}/謹んで[つつしんで]/
+Ehrerbietung{f}/(Achtung) 尊敬[そんけい]/
+Ehrfurcht{f}/敬意[けいい]/
 ehrfurchtgebietend{adj}/畏敬すべき[いけいすべき]/
 ehrfurchtslos{adj}/不遜な[ふそんな]/
 ehrfurchtsvoll{adj}/恐る恐る[おそるおそる]/
 Ehrgefühl{n}/廉恥心[れんちしん]/
-Ehrgeiz{m}/志[こころざし]/向上心[こうじょうしん]/抱負[ほうふ]/
+Ehrgeiz{m}/野心[やしん]/
 ehrgeizig{adv}{adj}/野心的[やしんてき]/
-ehrlich{adv}/実は[じつは]/素直[すなお]/正しい[ただしい]/真っ直ぐ[まっすぐ]/実に[じつに]/正しく[まさしく]/誠に[まことに]/
+ehrlich{adv}/誠実な[せいじつな]/
 ehrlich gesagt/率直に言って[そっちょくにいって]/
-Ehrlichkeit{f}/綺麗[きれい]/真面目[まじめ]/律儀[りちぎ]/忠実[ちゅうじつ]/誠実[せいじつ]/着実[ちゃくじつ]/真っ当[まっとう]/公正[こうせい]/誠[まこと]/奇麗[きれい]/正直[しょうじき]/公平[こうへい]/誠意[せいい]/
+Ehrlichkeit{f}/誠実[せいじつ]/
 ehrlos{adj}{adv}/不名誉な[ふめいよな]/
 Ehrlosigkeit{f}/破廉恥[はれんち]/
-ehrwürdig{adj}{adv}/堂々[どうどう]/尊い[とうとい]/尊い[とうとい]/
-Ei{n}/卵[たまご]/お玉[おたま]/玉子[たまご]/
+ehrwürdig{adj}{adv}/(würdevoll) 堂々[どうどう]/(verehrungswürdig) 尊い[とうとい]/
+Ei{n}/卵[たまご]/
 Eiche{f}/柏[かしわ]/
 Eichel{f}/団栗[どんぐり]/
 Eichelhäher{m}/カケス[かけす]/
@@ -6754,7 +6754,7 @@ Eidechse{f}/蜥蜴[とかげ]/
 Eidesformel{f}/宣誓文[せんせいもん]/
 Eidesleistung{f}/誓い[ちかい]/
 eidesstattliche Erklärung{f}/宣誓書[せんせいしょ]/
-Eier{pl}/玉[たま]/球[たま]/
+Eier{pl}/卵[たまご]/
 Eierbecher{m}/卵立て[たまごたて]/
 Eierkopf{m}/とがった顔[とがったかお]/
 Eierkuchen{m}/ホットケーキ[ほっとけーき]/
