@@ -6762,12 +6762,12 @@ Eierlikör{m}/卵酒[たまござけ]/
 Eierschale{f}/卵の殻[たまごのから]/
 Eierstock{m}/卵巣[らんそう]/
 Eierstockkrebs{m}/卵巣がん[らんそうがん]/
-Eifer{m}/勉強[べんきょう]/熱意[ねつい]/熱心[ねっしん]/意気込み[いきごみ]/意欲[いよく]/熱[ねつ]/懸命[けんめい]/勤勉[きんべん]/鋭意[えいい]/奮発[ふんぱつ]/
+Eifer{m}/熱意[ねつい]/
 Eifersucht{f}/嫉妬[しっと]/
-eifrig{adj}{adv}/盛ん[さかん]/頓[ひたすら]/意欲的[いよくてき]/躍起[やっき]/いそいそ[いそいそ]/鋭意[えいい]/
+eifrig{adj}{adv}/熱心な[ねっしんな]/
 eiförmig{adj}/倒卵形の[とうらんけいの]/
-Eigelb{n}/黄身[きみ]/卵黄[らんおう]/
-Eigenart{f}/質[しつ]/特殊[とくしゅ]/個性[こせい]/持ち前[もちまえ]/特色[とくしょく]/
+Eigelb{n}/黄身[きみ]/
+Eigenart{f}/特色[とくしょく]/
 Eigenbewegung{f}/自動[じどう]/
 Eigenbrötler{m}/変人[へんじん]/
 Eigenfinanzierung{f}/自前[じまえ]/
@@ -6781,59 +6781,59 @@ Eigeninteresse{n}/私心[ししん]/
 Eigenkapital{n}/自己資本[じこしほん]/
 Eigenkapitalquote{f}/自己資本比率[じこしほんひりつ]/
 Eigenliebe{f}/自愛[じあい]/
-Eigenlob{n}/自慢[じまん]/自賛[じさん]/自称[じしょう]/自画自賛[じがじさん]/
+Eigenlob{n}/自画自賛[じがじさん]/(Prahlerei) 自慢[じまん]/
 Eigenmächtigkeit{f}/専断[せんだん]/
 Eigenname{m}/固有名詞[こゆうめいし]/
-eigennützig{adj}/勝手に[かってに]/現金[げんきん]/
+eigennützig{adj}/(egoistisch) 利己的な[りこてきな]/
 Eigenreklame{f}/売名[ばいめい]/
-Eigenschaft{f}/資格[しかく]/性質[せいしつ]/持ち前[もちまえ]/
+Eigenschaft{f}/性質[せいしつ]/
 Eigenschaften{pl}/心立て[こころだて]/
-Eigensinn{m}/気まま[きまま]/意地[いじ]/我儘[わがまま]/我侭[わがまま]/
+Eigensinn{m}/(Sturheit) 強情[ごうじょう]/
 eigensinnig{adj}{adv}/頑として[がんとして]/
 eigenständig{adj}/一端の[いっぱしの]/
 Eigenständigkeit{f}/一端[いっぱし]/
 Eigentor{n}/オウンゴール[おうんごーる]/
-Eigentum{n}/物[もの]/持ち物[もちもの]/財産[ざいさん]/所持[しょじ]/モノ[もの]/所有権[しょゆうけん]/資産[しさん]/
+Eigentum{n}/所有物[しょゆうぶつ]/
 Eigentumsrecht{n}/所有権[しょゆうけん]/
 Eigentumswohnung{f}/コンドミニアム[こんどみにあむ]/
-Eigentümer{m}/主[ぬし]/所有者[しょゆうしゃ]/持ち主[もちぬし]/
+Eigentümer{m}/持ち主[もちぬし]/
 eigentümlich{adj}/独特[どくとく]/
-Eigentümlichkeit{f}/特徴[とくちょう]/特殊[とくしゅ]/固有[こゆう]/特異[とくい]/特有[とくゆう]/持ち前[もちまえ]/奇抜[きばつ]/
+Eigentümlichkeit{f}/特徴[とくちょう]/
 Eigenverantwortung{f}/自己責任[じこせきにん]/
 Eigenwechsel{m}/約束手形[やくそくてがた]/
-Eigenwille{m}/勝手[かって]/勝手気まま[かってきまま]/我儘[わがまま]/我侭[わがまま]/
+Eigenwille{m}/我意[がい]/
 eigenwillig{adj}/恣[ほしいまま]/
 Eigenwilligkeit{f}/驕恣[きょうし]/
-Eignung{f}/対応[たいおう]/適性[てきせい]/資格[しかく]/向き[むき]/
+Eignung{f}/適性[てきせい]/
 Eignungsprüfung{f}/スクリーニング[すくりーにんぐ]/
 Eignungstest{m}/適性検査[てきせいけんさ]/
 Eilbote{m}/飛脚[ひきゃく]/
 Eilbrief{m}/速達[そくたつ]/
-Eile{f}/急[きゅう]/駆け足[かけあし]/急行[きゅうこう]/急ぎ[いそぎ]/
+Eile{f}/急ぎ[いそぎ]/
 Eileiter{m}/卵管[らんかん]/
 eilen{vi}/急く[せく]/
 eilend{adv}/足早な[あしばやな]/
-eilends/急遽[きゅうきょ]/急きょ[きゅうきょ]/足早に[あしばやに]/
+eilends/急いで[いそいで]/
 Eilgang{m}/早送り[はやおくり]/
 Eilgut{n}/急行便[きゅうこうびん]/
-eilig{adv}/急に[きゅうに]/取り急ぎ[とりいそぎ]/早々[はやばや]/とっとと[とっとと]/急いで[いそいで]/さっさと[さっさと]/そそくさ[そそくさ]/
+eilig{adv}/急に[きゅうに]/
 eiligst/一目散に[いちもくさんに]/
 Eilmeldung{f}/速報[そくほう]/
 Eilzug{m}/急行[きゅうこう]/
 Eilzustellung{f}/速達[そくたつ]/
-Eimer{m}/バケツ[ばけつ]/オケ[おけ]/桶[おけ]/
-ein bisschen/少し[すこし]/ほんのり[ほんのり]/一抹[いちまつ]/何だか[なんだか]/少々[しょうしょう]/ちびちび[ちびちび]/幾分[いくぶん]/ちょこっと[ちょこっと]/ちょいと[ちょいと]/
+Eimer{m}/桶[おけ]/
+ein bisschen/少し[すこし]/
 ein Loch machen/穴を開ける[あなをあける]/
 ein Muss/欠くべからざるもの[かくべからざるもの]/
 ein neues Leben beginnen/魂を入れ替える[たましいをいれかえる]/
-einander/互い[たがい]/互いに[たがいに]/
+einander/互いに[たがいに]/
 einander ausschließend/選言的[せんげんてき]/
 einarbeiten/織り込む[おりこむ]/
 einarmig{adj}/隻手の[せきしゅの]/
-einatmen{vt}/飲む[のむ]/吸う[すう]/呑む[のむ]/
+einatmen{vt}/吸う[すう]/
 Einbahnstraße{f}/一方通行[いっぽうつうこう]/
 Einbalsamierung{f}/エンバーミング[えんばーみんぐ]/
-Einband{m}/表紙[ひょうし]/装丁[そうてい]/製本[せいほん]/
+Einband{m}/(Buchdeckel) 表紙[ひょうし]/
 einbauen{vt}/植え込む[うえこむ]/
 Einbauküche{f}/システムキッチン[しすてむきっちん]/
 Einbaum{m}/丸木舟[まるきぶね]/
@@ -6842,49 +6842,47 @@ Einberufung{f}/召集[しょうしゅう]/
 einbetten{vt}/埋め込む[うめこむ]/
 Einbettung{f}/定着[ていちゃく]/
 Einbeziehung{f}/内含[ないがん]/
-Einbildung{f}/夢[ゆめ]/鼻[はな]/想像[そうぞう]/夢想[むそう]/ファンシー[ふぁんしー]/空想[くうそう]/気のせい[きのせい]/
+Einbildung{f}/想像[そうぞう]/
 Einbildungskraft{f}/想像力[そうぞうりょく]/
 einbinden{vt}/表装する[ひょうそうする]/
 Einbinden{n}/表装[ひょうそう]/
 einblasen{vt}/吹き込む[ふきこむ]/
 einblenden{vt}/表示する[ひょうじする]/
 Einblendung{f}/フェードイン[ふぇーどいん]/
-Einblick{m}/明[めい]/見通し[みとおし]/洞察[どうさつ]/
+Einblick{m}/(Einsicht) 見通し[みとおし]/
 einbrechen{vi}/侵す[おかす]/
-Einbrecher{m}/泥棒[どろぼう]/曲者[くせもの]/
+Einbrecher{m}/泥棒[どろぼう]/
 Einbrecherbande{f}/集団強盗[しゅうだんごうとう]/
 einbrennen{vt}/焼き印を押す[やきいんをおす]/
 einbringen{vt}/盛り込む[もりこむ]/
-Einbringen{n}/提出[ていしゅつ]/提起[ていき]/
 Einbringung{f}/提出[ていしゅつ]/
-Einbruch{m}/泥棒[どろぼう]/侵入[しんにゅう]/落ち込み[おちこみ]/
+Einbruch{m}/(Diebstahl) 侵入[しんにゅう]/(Einsturz, z.B. eines Stollens) 陥没[かんぼつ]/
 Einbuchtung{f}/湾入[わんにゅう]/
-Einbuße{f}/損[そん]/引け[ひけ]/喪失[そうしつ]/減り[へり]/
+Einbuße{f}/損[そん]/
 einbürgern{vt}/帰化する[きかする]/
 Einbürgerung{f}/帰化[きか]/
-einbüßen{vt}/失う[うしなう]/無くす[なくす]/
+einbüßen{vt}/失う[うしなう]/
 einchecken{vi}/チェックインする[ちぇっくいんする]/
 Eindecker{m}/単葉機[たんようき]/
 eindeutig{adj}{adv}/きっぱり[きっぱり]/
 eindicken{vi}/濃厚にする[のうこうにする]/
 eindimensional{adj}/一次元の[いちじげんの]/
 eindringen{vi}/入り込む[いりこむ]/
-Eindringen{n}/突入[とつにゅう]/突っ込み[つっこみ]/
 eindringend{adj}/透徹した[とうてつした]/
 eindringlich{adv}/効果的[こうかてき]/
 Eindringling{m}/侵入者[しんにゅうしゃ]/
-Eindruck{m}/感じ[かんじ]/感[かん]/人当たり[ひとあたり]/印象[いんしょう]/感触[かんしょく]/感動[かんどう]/感想[かんそう]/インプレッション[いんぷれっしょん]/所感[しょかん]/
-eindrucksvoll{adv}/印象的[いんしょうてき]/著しい[いちじるしい]/印象深い[いんしょうぶかい]/
+Eindruck{m}/印象[いんしょう]/
+eindrucksvoll{adv}/印象的[いんしょうてき]/
 eindämmen{vt}/せきをする[せきをする]/
 Eindämmung{f}/築堤[ちくてい]/
 eine ganze Menge/あまた[あまた]/
 eine Maschine bedienen/機械を使う[きかいをつかう]/
-eine Menge/多く[おおく]/少なからず[すくなからず]/しこたま[しこたま]/千万[せんまん]/多分[たぶん]/多[た]/余程[よほど]/数々[かずかず]/わんさ[わんさ]/山ほど[やまほど]/
+eine Menge/(sehr viele) 多く[おおく]/
 eine Razzia durchführen{vt}/踏み込む[ふみこむ]/
 eine Rolle spielen/一役買う[ひとやくかう]/
 eine Strafe verhängen/科する[かする]/
 eine Wunde verbinden/傷口を縛る[きずぐちをしばる]/
-eine Zeitlang/暫く[しばらく]/暫し[しばし]/
+eine Zeitlang/しばらくの間[しばらくのあいだ]/
 Einebnung{f}/レベリング[れべりんぐ]/
 Einehe{f}/一夫一婦[いっぷいっぷ]/
 einen Anschlag machen/悪巧みをする[わるだくみをする]/
@@ -6896,32 +6894,33 @@ einen Termin einhalten/期日を守る[きじつをまもる]/
 einen tiefen Schlaf haben/眠りが深い[ねむりがふかい]/
 einengen{vt}/狭める[せばめる]/
 Einer{m}/一名[いちめい]/
-einer nach dem anderen/次々[つぎつぎ]/続々[ぞくぞく]/一つずつ[ひとつずつ]/別々に[べつべつに]/どしどし[どしどし]/相次いで[あいついで]/次々に[つぎつぎに]/次から次へと[つぎからつぎへと]/引き続き[ひきつづき]/ぞろぞろ[ぞろぞろ]/片っ端から[かたっぱしから]/
-einerseits{adv}/一つ[ひとつ]/一方[いっぽう]/一面[いちめん]/
-einfach{adv}/シンプル[しんぷる]/さっぱり[さっぱり]/イージー[いーじー]/単に[たんに]/軽々[かるがる]/軽い[かるい]/軽い[かるい]/流石[さすが]/粗末[そまつ]/お粗末[おそまつ]/難なく[なんなく]/するする[するする]/モノトーン[ものとーん]/あっさり[あっさり]/ばっちり[ばっちり]/安らか[やすらか]/一段[いちだん]/プレーン[ぷれーん]/訳ない[わけない]/
-Einfachheit{f}/簡単[かんたん]/簡潔[かんけつ]/楽[らく]/質素[しっそ]/無造作[むぞうさ]/素朴[そぼく]/手軽[てがる]/簡素[かんそ]/簡易[かんい]/易[い]/淡白[たんぱく]/単純[たんじゅん]/安易[あんい]/容易[ようい]/プレーン[ぷれーん]/
+einer nach dem anderen/一つずつ[ひとつずつ]/
+einerseits{adv}/一方では[いっぽうでは]/
+einfach{adv}/簡単な[かんたんな]/
+Einfachheit{f}/簡単[かんたん]/
 Einfahren{n}/乗り入れ[のりいれ]/
-Einfahrt{f}/入り口[いりぐち]/入口[いりぐち]/
-Einfall{m}/考え[かんがえ]/侵略[しんりゃく]/発案[はつあん]/侵攻[しんこう]/案[あん]/侵入[しんにゅう]/襲来[しゅうらい]/発想[はっそう]/
-einfallen{vi}/落ちる[おちる]/凹む[くぼむ]/思い浮かぶ[おもいうかぶ]/陥る[おちいる]/思い当たる[おもいあたる]/思いつく[おもいつく]/
+Einfahrt{f}/入口[いりぐち]/
+Einfall{m}/着想[ちゃくそう]/
+einfallen{vi}/落ちる[おちる]/
+einfallen{vt}/思いつく[おもいつく]/
 Einfallen{n}/想到[そうとう]/
 einfallslos{adj}{adv}/発想が貧しい[はっそうがまずしい]/
 Einfallsreichtum{m}/才覚[さいかく]/
 Einfallswinkel{m}/入射角[にゅうしゃかく]/
-Einfalt{f}/愚[ぐ]/浅はか[あさはか]/愚か[おろか]/
-Einfaltspinsel{m}/かも[かも]/痴漢[ちかん]/鴨[かも]/
+Einfalt{f}/(Dummheit) 愚か[おろか]/
+Einfaltspinsel{m}/おめでたい[おめでたい]/
 Einfamilienhaus{n}/独立家屋[どくりつかおく]/
 einfarbig{adj}/モノトーン[ものとーん]/
 Einfarbigkeit{f}/単彩[たんさい]/
 einfassen{vt}/囲む[かこむ]/
 Einfassung{f}/縁[ふち]/枠[わく]/
 einfließen{vi}/流れ込む[ながれこむ]/
-Einfluss{m}/関係[かんけい]/影響[えいきょう]/威勢[いせい]/押さえ[おさえ]/抑え[おさえ]/反響[はんきょう]/係り[かかわり]/ひかり[ひかり]/ひかり[ひかり]/フォース[ふぉーす]/伝[つて]/権力[けんりょく]/勢い[いきおい]/勢[いきおい]/力[ちから]/影響力[えいきょうりょく]/威力[いりょく]/感化[かんか]/響き[ひびき]/響[ひびき]/加減[かげん]/重き[おもき]/勢力[せいりょく]/押し[おし]/手引き[てびき]/関わり[かかわり]/有力[ゆうりょく]/
+Einfluss{m}/影響[えいきょう]/
 einflussreich{adj}{adv}/偉い[えらい]/
 einflößen{vt}/吹き込む[ふきこむ]/
 Einfriedung{f}/囲い[かこい]/
-Einfrieren{n}/冷凍[れいとう]/凍結[とうけつ]/封鎖[ふうさ]/フリーズ[ふりーず]/
-Einfuhr{f}/輸入[ゆにゅう]/移入[いにゅう]/
+Einfrieren{n}/(Kühlung) 冷凍[れいとう]/
+Einfuhr{f}/(Import) 輸入[ゆにゅう]/
 Einfuhrbeschränkung{f}/輸入制限[ゆにゅうせいげん]/
 Einfuhrhafen{m}/輸入港[ゆにゅうこう]/
 Einfuhrsperre{f}/輸入禁止[ゆにゅうきんし]/
@@ -6929,18 +6928,18 @@ Einfuhrverbot{n}/輸入禁止[ゆにゅうきんし]/
 einfältig{adv}{adj}/他愛もない[たわいもない]/
 Einfältigkeit{f}/たわいなさ[たわいなさ]/
 einfärben{vt}/染める[そめる]/
-einfügen{vt}/混ぜる[まぜる]/挟む[さしはさむ]/差し込む[さしこむ]/貼り付ける[はりつける]/
+einfügen{vt}/(einschieben) 挿入する[そうにゅうする]/
 Einfügung{f}/挿入[そうにゅう]/
-einführen{vt}/伝える[つたえる]/取り入れる[とりいれる]/導く[みちびく]/
-Einführung{f}/紹介[しょうかい]/ガイダンス[がいだんす]/移入[いにゅう]/入門[にゅうもん]/導入[どうにゅう]/解説[かいせつ]/手引き[てびき]/手引き[てびき]/前置き[まえおき]/
+einführen{vt}/(einschieben) 挿入する[そうにゅうする]/
+Einführung{f}/(Vorstellung) 紹介[しょうかい]/(Einschiebung) 挿入[そうにゅう]/
 einfüllen{vt}/注入する[ちゅうにゅうする]/
-Eingabe{f}/入力[にゅうりょく]/請求[せいきゅう]/インプット[いんぷっと]/給付[きゅうふ]/
+Eingabe{f}/(Computer) 入力[にゅうりょく]/(Gesuch) 請求[せいきゅう]/
 Eingabefehler{m}/入力ミス[にゅうりょくみす]/
 Eingabefeld{n}/入力フィールド[にゅうりょくふぃーるど]/
 Eingabegerät{n}/入力装置[にゅうりょくそうち]/
 Eingabesignal{m}/入力信号[にゅうりょくしんごう]/
 Eingabetaste{f}/エンターキー[えんたーきー]/
-Eingang{m}/玄関[げんかん]/出入り口[でいりぐち]/戸[と]/エントランス[えんとらんす]/門[と]/木戸[きど]/入口[いりぐち]/入り口[いりぐち]/
+Eingang{m}/入口[いりぐち]/
 Eingangshalle{f}/玄関[げんかん]/
 Eingangskontrolle{f}/検収[けんしゅう]/
 Eingangstür{f}/入り口の戸[いりぐちのと]/
@@ -6953,54 +6952,54 @@ Eingebung{f}/霊感[れいかん]/
 eingefallen{adj}/くぼんだ[くぼんだ]/
 eingehen{vi}/詰まる[つまる]/
 eingemeinden{vt}/組み入れる[くみいれる]/
-Eingemeindung{f}/合併[がっぺい]/編入[へんにゅう]/
+Eingemeindung{f}/合併[がっぺい]/
 eingeschaltet{adj}/オン[おん]/
 eingeschlossen{adj}{adv}/孤独癖の[こどくぐせの]/
 eingeschnappt sein/むっとする[むっとする]/
 eingeschneit sein{vi}/雪に降り込められる[ゆきにおりこめられる]/
 eingeschüchtert{adj}/いじいじ[いじいじ]/
-Eingeständnis{n}/告白[こくはく]/認知[にんち]/
-Eingeweide{n}/もつ[もつ]/内臓[ないぞう]/腸[はらわた]/ホルモン[ほるもん]/臓器[ぞうき]/腑[ふ]/胃腸[いちょう]/肝[きも]/
+Eingeständnis{n}/告白[こくはく]/
+Eingeweide{n}/内臓[ないぞう]/
 eingießen{vt}/差す[さす]/
 eingliedern{vt}/併呑する[へいどんする]/
 eingraben{vt}/埋め込む[うめこむ]/
 eingravieren{vt}/刻む[きざむ]/
 eingreifen{vi}/間にある[あいだにある]/
 Eingrenzung{f}/枠[わく]/
-Eingriff{m}/侵害[しんがい]/干渉[かんしょう]/
+Eingriff{m}/{med.}(Operation) 手術[しゅじゅつ]/
 einhalten{vt}/守る[まもる]/
 Einhandmischer{m}/シングルレバー混合水栓[しんぐるればーこんごうすいせん]/
 einheimisch{adj}/生え抜き[はえぬき]/
 Einheimische{m}{f}/地元民[じもとみん]/
-Einheit{f}/総合[そうごう]/装置[そうち]/部隊[ぶたい]/統一[とういつ]/団結[だんけつ]/アイテム[あいてむ]/単位[たんい]/ユニット[ゆにっと]/
-einheitlich/総合的[そうごうてき]/一概に[いちがいに]/
-Einheitlichkeit{f}/統一[とういつ]/同一[どういつ]/均一[きんいつ]/
+Einheit{f}/統一[とういつ]/
+einheitlich/統一的[とういつてき]/
+Einheitlichkeit{f}/統一[とういつ]/
 Einhorn{n}/ユニコーン[ゆにこーん]/
 einhändigen{vi}/渡す[わたす]/
-einhüllen{vt}/包む[くるむ]/覆う[おおう]/
-einige{pron}/多少[たしょう]/若干[じゃっかん]/幾つ[いくつ]/
-Einigung{f}/一致[いっち]/合意[ごうい]/収束[しゅうそく]/折り合い[おりあい]/
+einhüllen{vt}/(einwickeln) 包む[くるむ]/
+einige{pron}/いくつかの[いくつかの]/
+Einigung{f}/統一[とういつ]/
 einjährig{adj}/当歳の[とうさいの]/
 Einkammersystem{n}/一院制[いちいんせい]/
 einkassieren{vt}/取り立てる[とりたてる]/
-Einkauf{m}/購入[こうにゅう]/買収[ばいしゅう]/買い出し[かいだし]/買い[かい]/買い上げ[かいあげ]/仕入れ[しいれ]/買い物[かいもの]/買物[かいもの]/購買[こうばい]/
-einkaufen{vt}/買う[かう]/仕入れる[しいれる]/整える[ととのえる]/
+Einkauf{m}/買物[かいもの]/
+einkaufen{vt}/(etwas kaufen) 買う[かう]/(Einkäufe tätigen) 買い物する[かいものする]/
 Einkaufsabteilung{f}/購買部[こうばいぶ]/
 Einkaufsbeutel{m}/買い物袋[かいものぶくろ]/
 Einkaufskorb{m}/買い物カゴ[かいものかご]/
 Einkaufsnetz{n}/網袋[あみぶくろ]/
 Einkaufspreis{m}/原価[げんか]/
-Einkaufsstraße{f}/町[まち]/商店街[しょうてんがい]/街[まち]/アーケード[あーけーど]/
+Einkaufsstraße{f}/商店街[しょうてんがい]/
 Einkaufstasche{f}/買い物袋[かいものぶくろ]/
 Einkaufsviertel{n}/町[まち]/街[まち]/
 Einkaufswagen{m}/ショッピングカート[しょっぴんぐかーと]/
-Einkaufszentrum{n}/ショッピングセンター[しょっぴんぐせんたー]/ショッピングモール[しょっぴんぐもーる]/
+Einkaufszentrum{n}/ショッピングセンター[しょっぴんぐせんたー]/
 einkerben{vt}/切り込む[きりこむ]/
 Einkerbung{f}/欠刻[けっこく]/
 einkerkern{vt}/監禁する[かんきんする]/
 Einkerkerung{f}/監禁[かんきん]/
 einklammern{vt}/括弧に入れる[かっこにいれる]/
-Einklang{m}/適合[てきごう]/和音[わおん]/調和[ちょうわ]/協和[きょうわ]/
+Einklang{m}/(Übereinstimmung) 適合[てきごう]/
 einkleben{vt}/貼付する[ちょうふする]/
 Einklemmen{n}/挟み[はさみ]/
 einklemmen{vt}/挟み込む[はさみこむ]/
