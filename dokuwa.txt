@@ -7103,82 +7103,83 @@ einschärfen{vt}/厳達する[げんたつする]/
 Einschätzung{f}/(Bewertung) 評価[ひょうか]/
 einschüchtern{vt}/脅かす[おどかす]/
 einschüchternd/威嚇的[いかくてき]/
-Einschüchterung{f}/脅威[きょうい]/脅迫[きょうはく]/威嚇[いかく]/
+Einschüchterung{f}/威嚇[いかく]/
 einseitig{adj}{adv}/一方的[いっぽうてき]/
-Einseitigkeit{f}/不公平[ふこうへい]/偏向[へんこう]/
-Einsendeschluss{m}/締め切り[しめきり]/締切[しめきり]/〆切[しめきり]/
+Einseitigkeit{f}/不公平[ふこうへい]/
+Einsendeschluss{m}/締切[しめきり]/
 Einsenkung{f}/陥落[かんらく]/
-einsetzen{adj}{vi}/出す[だす]/替える[かえる]/繰り出す[くりだす]/入れる[いれる]/始まる[はじまる]/
+einsetzen{adj}{vi}/入れる[いれる]/(anfangen) 始まる[はじまる]/
 Einsetzung{f}/任用[にんよう]/
-Einsicht{f}/目[め]/見識[けんしき]/分別[ふんべつ]/判断力[はんだんりょく]/見通し[みとおし]/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/存知[ぞんち]/洞察[どうさつ]/眼[め]/理解[りかい]/ご存じ[ごぞんじ]/ご存知[ごぞんじ]/御存知[ごぞんじ]/読み[よみ]/覚悟[かくご]/
+Einsicht{f}/見識[けんしき]/
 einsichtig{adj}/思慮深い[しりょぶかい]/
 einsichtslos{adj}/思慮のない[しりょのない]/
 Einsickerung{f}/浸潤[しんじゅん]/
 Einsiedler{m}/仙人[せんにん]/
 Einsiedlerkrebs{m}/宿借り[やどかり]/
 einsilbig{adv}/無口の[むくちの]/
-einsinken{vi}/落ち込む[おちこむ]/凹む[くぼむ]/
+einsinken{vi}/落ち込む[おちこむ]/
 Einspannvorrichtung{f}/ジグ[じぐ]/
-einsparen{vt}/さく[さく]/詰める[つめる]/
+einsparen{vt}/削減する[さくげんする]/
 Einsparung{f}/緊縮[きんしゅく]/
 Einspeiseleitung{f}/饋電線[きでんせん]/
 einsperren{vt}/絡める[からめる]/
 Einsperren{n}/監禁[かんきん]/
 einspritzen{vt}/注入する[ちゅうにゅうする]/
 Einspritzung{f}/注入[ちゅうにゅう]/
-Einspruch{m}/反対[はんたい]/申し分[もうしぶん]/異論[いろん]/文句[もんく]/申し入れ[もうしいれ]/抗議[こうぎ]/異議[いぎ]/否や[いなや]/故障[こしょう]/不服[ふふく]/苦情[くじょう]/
+Einspruch{m}/{jur.} 異存[いぞん]/(Einwand) 申し分[もうしぶん]/
 Einspruchsrecht{n}/異議申し立て権[いぎもうしたてけん]/
 einspurig{adj}/単線的[たんせんてき]/
 Einstand{m}/就任[しゅうにん]/
 einstecken{vt}/挟む[さしはさむ]/
-einsteigen{vi}/入る[いる]/乗り込む[のりこむ]/
-einstellen{vt}/使う[つかう]/休む[やすむ]/入れる[いれる]/合わせる[あわせる]/
+einsteigen{vi}/乗る[のる]/
+einstellen{vt}/(jmd. anstellen) 雇い入れる[やといいれる]/(aufhören) 止める[やめる]/
 Einstellen{n}/チューニング[ちゅーにんぐ]/
-Einstellung{f}/目[め]/態勢[たいせい]/精神[せいしん]/態度[たいど]/休止[きゅうし]/ショット[しょっと]/心がけ[こころがけ]/設定[せってい]/考え方[かんがえかた]/中止[ちゅうし]/眼[め]/加減[かげん]/心構え[こころがまえ]/てい[てい]/求人[きゅうじん]/停止[ていし]/調節[ちょうせつ]/姿勢[しせい]/
+Einstellung{f}/(Haltung) 態度[たいど]/(Anstellung) 雇用[こよう]/
 Einstellvorrichtung{f}/コンディショナー[こんでぃしょなー]/
 Einstich{m}/刺し傷[さしきず]/
 Einstieg{m}/乗車口[じょうしゃぐち]/
 einstimmig{adv}{adj}/一斉に[いっせいに]/
-Einstimmigkeit{f}/一致[いっち]/一斉[いっせい]/
+Einstimmigkeit{f}/一致[いっち]/
 Einstufungstest{m}/格付け検査[かくづけけんさ]/
-Einsturz{m}/崩壊[ほうかい]/倒壊[とうかい]/
+Einsturz{m}/崩壊[ほうかい]/
 einstweilen{adv}/差し詰め[さしずめ]/
-einstweilig{adj}/臨時[りんじ]/仮に[かりに]/
+einstweilig{adj}/臨時[りんじ]/
 einstürmen{vi}/切り込む[きりこむ]/
-einstürzen{vi}/倒れる[たおれる]/潰れる[つぶれる]/
+einstürzen{vi}/倒れる[たおれる]/
 Eintagsfliege{f}/蜉蝣[ふゆう]/
 eintauchen/浸る[ひたる]/
-einteilen{vt}/分ける[わける]/配る[くばる]/
-einteilig{adj}/ワンピースの[わんぴーすの]/
-Eintopf{m}/煮込み[にこみ]/シチュー[しちゅー]/
-Eintracht{f}/平安[へいあん]/協調[きょうちょう]/協和[きょうわ]/和気[わき]/
-Eintrag{m}/エントリー[えんとりー]/見出し[みだし]/項目[こうもく]/項目[こうもく]/アイテム[あいてむ]/
+einteilen{vt}/分ける[わける]/
+einteilig{adj}/(Kleidung) ワンピースの[わんぴーすの]/
+Eintopf{m}/シチュー[しちゅー]/
+Eintracht{f}/平安[へいあん]/
+Eintrag{m}/記入[きにゅう]/
 eintragen{vt}/慣らす[ならす]/
-Eintragung{f}/登録[とうろく]/書き込み[かきこみ]/書込み[かきこみ]/記載[きさい]/記入[きにゅう]/登記[とうき]/
-eintreiben{vt}/集める[あつめる]/打ち込む[うちこむ]/
+Eintragung{f}/登録[とうろく]/
+eintreiben{vt}/(Geld ~) 取り立てる[とりたてる]/
 Eintreibung{f}/取立て[とりたて]/
-eintreten{vi}/入る[いる]/上がる[あがる]/踏み出す[ふみだす]/通る[とおる]/入り込む[いりこむ]/
+eintreten{vi}/(betreten) 入る[いる]/(beitreten) 加入する[かにゅうする]/
+eintreten{vt}/(z.B. eine Tür ~) 蹴破る[けやぶる]/
 Eintreten{n}/進入[しんにゅう]/
-Eintritt{m}/入場[にゅうじょう]/加入[かにゅう]/入団[にゅうだん]/立ち入り[たちいり]/入場料[にゅうじょうりょう]/入会[にゅうかい]/
+Eintritt{m}/加入[かにゅう]/
 Eintritt frei!/聴講無料[ちょうこうむりょう]/
 Eintritt verboten!/立ち入り禁止[たちいりきんし]/
 Eintrittsgeld{n}/入場料[にゅうじょうりょう]/
-Eintrittskarte{f}/チケット[ちけっと]/切符[きっぷ]/入場券[にゅうじょうけん]/
+Eintrittskarte{f}/チケット[ちけっと]/
 Eintrittspreis{m}/席料[せきりょう]/
 eintrudeln{vi}/転がり込む[ころがりこむ]/
 einträglich{adv}/ぼろい[ぼろい]/
 Einträglichkeit{f}/有益[ゆうえき]/
 eintunken{vt}/浸す[ひたす]/
-eintönig{adv}/坦々[たんたん]/味気ない[あじきない]/
-Eintönigkeit{f}/同一[どういつ]/単調[たんちょう]/
+eintönig{adv}/坦々[たんたん]/
+Eintönigkeit{f}/単調[たんちょう]/
 einundzwanzig{num}/二十一[にじゅういち]/
-Einvernehmen{n}/了解[りょうかい]/協調[きょうちょう]/提携[ていけい]/
+Einvernehmen{n}/了解[りょうかい]/
 einverstanden/釈然として[しゃくぜんとして]/
 einverstanden sein{vi}/同意する[どういする]/
-Einverständnis{n}/同意[どうい]/賛成[さんせい]/承認[しょうにん]/納得[なっとく]/含み[ふくみ]/許諾[きょだく]/了解[りょうかい]/承諾[しょうだく]/
+Einverständnis{n}/了解[りょうかい]/
 Einverständniserklärung{f}/同意書[どういしょ]/
 Einwahlverbindung{f}/ダイヤルアップ接続[だいやるあっぷせつぞく]/
-Einwand{m}/反対[はんたい]/申し分[もうしぶん]/異論[いろん]/文句[もんく]/抗議[こうぎ]/異議[いぎ]/言い分[いいぶん]/否や[いなや]/故障[こしょう]/不服[ふふく]/苦情[くじょう]/クレーム[くれーむ]/
+Einwand{m}/異議[いぎ]/
 Einwanderer{m}/入国者[にゅうこくしゃ]/
 Einwanderungsbehörde{f}/入国管理局[にゅうこくかんりきょく]/
 einwandfrei{adv}/申し分のない[もうしぶんのない]/
@@ -7186,18 +7187,18 @@ einweihen{vt}/伝える[つたえる]/
 Einweihung{f}/伝授[でんじゅ]/
 einwerfen{vt}/放り込む[ほうりこむ]/
 einwertig{adj}/一価の[いっかの]/
-einwickeln{vt}/巻く[まく]/包む[くるむ]/巻き込む[まきこむ]/包み込む[つつみこむ]/
+einwickeln{vt}/包む[くるむ]/{fig.} 丸め込む[まるめこむ]/
 Einwickelpapier{n}/包装紙[ほうそうし]/
 einwilligen{vi}/収まる[おさまる]/
-Einwilligung{f}/同意[どうい]/承知[しょうち]/だく[だく]/賛成[さんせい]/納得[なっとく]/許可[きょか]/許諾[きょだく]/了解[りょうかい]/許し[ゆるし]/承諾[しょうだく]/賛同[さんどう]/一致[いっち]/コンプライアンス[こんぷらいあんす]/
+Einwilligung{f}/同意[どうい]/
 einwirken{vi}/左右する[さゆうする]/
-Einwirkung{f}/関係[かんけい]/加減[かげん]/
-Einwohner{m}/住民[じゅうみん]/住人[じゅうにん]/
+Einwirkung{f}/影響[えいきょう]/
+Einwohner{m}/住民[じゅうみん]/
 Einwohnermeldeamt{n}/住民登録課[じゅうみんとうろくか]/
 Einwohnerzahl{f}/人口[じんこう]/
 Einwurf{m}/スローイン[すろーいん]/
 Einzahl{f}/単数[たんすう]/
-Einzahlung{f}/振込[ふりこみ]/振り込み[ふりこみ]/振込み[ふりこみ]/
+Einzahlung{f}/振り込み[ふりこみ]/
 Einzahlungsschein{m}/入金伝票[にゅうきんでんぴょう]/
 Einzelaktion{m}/単独行動[たんどくこうどう]/
 Einzelblatteinzug{m}/シートフィーダ[しーとふぃーだ]/
@@ -7205,15 +7206,15 @@ Einzelgänger{m}/一匹狼[いっぴきおおかみ]/
 Einzelhaft{f}/独房[どくぼう]/
 Einzelhandel{m}/小売[こうり]/
 Einzelhandelsgeschäft{n}/小売店[こうりてん]/
-Einzelheit{f}/詳細[しょうさい]/細部[さいぶ]/明細[めいさい]/
-Einzelheiten{pl}/経緯[いきさつ]/顛末[てんまつ]/
+Einzelheit{f}/委細[いさい]/
+Einzelheiten{pl}/委細[いさい]/
 Einzelhändler{m}/小売り業[こうりぎょう]/
 Einzelkaufmann{m}/個人商人[こじんしょうにん]/
 Einzelkind{n}/一人っ子[ひとりっこ]/
 Einzelkosten{pl}/直接費[ちょくせつひ]/
 Einzelkämpfer{m}/一匹狼[いっぴきおおかみ]/
 einzellig{adj}/単細胞の[たんさいぼうの]/
-einzeln{adj}{adv}/個別[こべつ]/ばらばら[ばらばら]/バラバラ[ばらばら]/別々[べつべつ]/一つずつ[ひとつずつ]/別々に[べつべつに]/一人一人[ひとりびとり]/一人ひとり[ひとりひとり]/別段[べつだん]/一つ一つ[ひとつひとつ]/単独で[たんどくで]/
+einzeln{adj}{adv}/個別[こべつ]/
 einzeln aufführen{vt}/書き上げる[かきあげる]/
 Einzelperson{f}/個人[こじん]/
 Einzelposten{m}/内訳[うちわけ]/
@@ -7222,7 +7223,7 @@ Einzelradaufhängung{f}/独立懸架[どくりつけんか]/
 Einzelstück{n}/単品[たんぴん]/
 Einzelunterricht{m}/マンツーマン[まんつーまん]/
 Einzelzelle{f}/独房[どくぼう]/
-Einzelzimmer{n}/シングル[しんぐる]/個室[こしつ]/
+Einzelzimmer{n}/個室[こしつ]/
 einziehen{vt}{vi}/集める[あつめる]/
 Einziehung{f}/没収[ぼっしゅう]/集金[しゅうきん]/
 einzigartig{adv}{adj}/偉い[えらい]/ユニーク[ゆにーく]/
