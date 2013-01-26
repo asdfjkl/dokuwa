@@ -7005,18 +7005,18 @@ Einklemmen{n}/挟み[はさみ]/
 einklemmen{vt}/挟み込む[はさみこむ]/
 einklinken{vt}/掛け金をかける[かけがねをかける]/
 einkochen{vt}/煮込む[にこむ]/
-Einkommen{n}/入り[いり]/所得[しょとく]/上り[あがり]/稼ぎ[かせぎ]/収入[しゅうにゅう]/上がり[あがり]/
+Einkommen{n}/所得[しょとく]/
 Einkommensquelle{f}/収入源[しゅうにゅうげん]/
 Einkommensverteilung{f}/所得配分[しょとくはいぶん]/
 Einkreisung{f}/非常線[ひじょうせん]/
 Einkristall{m}/単結晶[たんけっしょう]/
 Einkäufer{m}/購入者[こうにゅうしゃ]/
-Einkünfte{pl}/入り[いり]/所得[しょとく]/収入[しゅうにゅう]/
-Einladung{f}/誘い[さそい]/供[きょう]/招き[まねき]/お呼ばれ[およばれ]/招待[しょうたい]/
+Einkünfte{pl}/所得[しょとく]/
+Einladung{f}/招待[しょうたい]/
 Einladungsschreiben{n}/案内状[あんないじょう]/
 Einlage{f}/パッド[ぱっど]/余興[よきょう]/
 einlagern{vt}/囲む[かこむ]/
-Einlass{m}/入り口[いりぐち]/入場[にゅうじょう]/木戸[きど]/入口[いりぐち]/
+Einlass{m}/入場[にゅうじょう]/(Eingang) 入口[いりぐち]/
 Einlassrohr{n}/吸い込み管[すいこみかん]/
 Einlassung{f}/応訴[おうそ]/
 Einlassventil{n}/吸い込み弁[すいこみべん]/
@@ -7028,26 +7028,26 @@ einlegen{adj}/入れる[いれる]/
 Einlegesohle{f}/中敷き[なかじき]/
 einleiten{vt}/導入する[どうにゅうする]/
 einleitend{adv}/序の[じょの]/
-Einleitung{f}/始まり[はじまり]/イントロ[いんとろ]/導入[どうにゅう]/序曲[じょきょく]/手引き[てびき]/前置き[まえおき]/総論[そうろん]/序章[じょしょう]/
+Einleitung{f}/導入[どうにゅう]/
 einlochen{vt}/ボールをホールに入れる[ぼーるをほーるにいれる]/
 einlösen{vt}/果たす[はたす]/
 Einmachglas{n}/広口瓶[ひろくちびん]/
 Einmaleins{n}/九々[くく]/
 Einmalhandtuch{n}/使い捨てのタオル[つかいすてのたおる]/
-einmalig{adj}{adv}/ユニーク[ゆにーく]/単発[たんぱつ]/
+einmalig{adj}{adv}/又とない[またとない]/
 Einmalzahlung{f}/一時金[いちじきん]/
-Einmarsch{m}/入場[にゅうじょう]/進入[しんにゅう]/
+Einmarsch{m}/進入[しんにゅう]/{milit.} 進駐[しんちゅう]/
 einmarschieren{vi}/乗り込む[のりこむ]/
 einmeißeln{vt}/刻む[きざむ]/
-Einmischung{f}/邪魔[じゃま]/介入[かいにゅう]/お邪魔[おじゃま]/干渉[かんしょう]/侵害[しんがい]/ちょっかい[ちょっかい]/
+Einmischung{f}/干渉[かんしょう]/(Belästigung) 邪魔[じゃま]/
 einmünden{vi}/流れ込む[ながれこむ]/
 einmütig{adj}/睦まじい[むつまじい]/
 Einmütigkeit{f}/一致[いっち]/
-Einnahme{f}/攻略[こうりゃく]/収入[しゅうにゅう]/占領[せんりょう]/売り上げ[うりあげ]/売上げ[うりあげ]/売上[うりあげ]/摂取[せっしゅ]/
-Einnahmen{Ausgaben}{pl}/所得[しょとく]/水揚げ[みずあげ]/入金[にゅうきん]/
+Einnahme{f}/(Einkünfte) 収入[しゅうにゅう]/{milit.} 占領[せんりょう]/
+Einnahmen{Ausgaben}{pl}/(Einkünfte) 収入[しゅうにゅう]/
 Einnahmequelle{f}/財源[ざいげん]/
 einnebeln{vt}/煙に巻く[けむにまく]/
-einnehmen{vt}/入れる[いれる]/納める[おさめる]/しめる[しめる]/収める[おさめる]/落とす[おとす]/抜く[ぬく]/認める[したためる]/飲む[のむ]/呑む[のむ]/占める[しめる]/
+einnehmen{vt}/稼ぐ[かせぐ]/{milit.} 占領する[せんりょうする]/
 einnehmend{adj}/惚れ惚れ[ほれぼれ]/
 einordnen{vt}/綴る[つづる]/
 Einordnung{f}/整理[せいり]/
@@ -7064,13 +7064,13 @@ einreihen{vt}/組み込む[くみこむ]/
 Einreiseerlaubnis{f}/入国許可書[にゅうこくきょかしょ]/
 Einreiseformalitäten{pl}/CIQ[しーあいきゅー]/
 Einreisevisum{n}/入国査証[にゅうこくさしょう]/
-einrichten{vt}/整える[ととのえる]/仕掛ける[しかける]/備える[そなえる]/設ける[もうける]/設ける[もうける]/取り付ける[とりつける]/
-Einrichtung{f}/設定[せってい]/装置[そうち]/制度[せいど]/整頓[せいとん]/備品[びひん]/設備[せつび]/施設[しせつ]/機関[きかん]/設営[せつえい]/備え[そなえ]/取り付け[とりつけ]/取付[とりつけ]/調度[ちょうど]/
+einrichten{vt}/(Wohnung) 整える[ととのえる]/
+Einrichtung{f}/(Hausrat) 調度[ちょうど]/(Institution) 施設[しせつ]/
 einräumen{vt}/譲る[ゆずる]/
-eins{num}{einen überbekommen}/一[いち]/壱[いつ]/一個[いっこ]/一点[いってん]/
-einsam{adj}{adv}/寂しい[さみしい]/淋しい[さみしい]/
-Einsamkeit{f}/孤独[こどく]/孤立[こりつ]/一人ぼっち[ひとりぼっち]/
-Einsatz{m}/使用[しよう]/アタック[あたっく]/出撃[しゅつげき]/樹立[じゅりつ]/投入[とうにゅう]/配備[はいび]/
+eins{num}/一[いち]/一つ[ひとつ]/
+einsam{adj}{adv}/寂しい[さびしい]/
+Einsamkeit{f}/孤独[こどく]/
+Einsatz{m}/(Gebrauch) 使用[しよう]/(Anlage) 投入[とうにゅう]/{milit.} 配備[はいび]/
 Einsatzort{m}/作業現場[さぎょうげんば]/
 einsaugen{vt}/吸う[すう]/
 Einschalten{n}/投入[とうにゅう]/
@@ -7079,28 +7079,28 @@ Einschaltquote{f}/放送番組視聴率測定[ほうそうばんぐみしちょ�
 einschieben{vt}/挟み込む[はさみこむ]/
 Einschiebung{f}/挿入[そうにゅう]/
 Einschienenbahn{f}/モノレール[ものれーる]/
-einschlafen{vi}/眠る[ねむる]/眠りにつく[ねむりにつく]/
-Einschlag{m}/上げ[あげ]/揚げ[あげ]/
+einschlafen{vi}/眠る[ねむる]/
+Einschlag{m}/(Fall) 落下[らっか]/{forstwirt.} 伐採[ばっさい]/
 einschlagen{vt}/打ち込む[うちこむ]/
-einschließen{vt}/入れる[いれる]/囲む[かこむ]/含む[ふくむ]/止める[とめる]/含める[ふくめる]/取り巻く[とりまく]/
+einschließen{vt}/閉じ込める[とじこめる]/
 einschließlich{prp; +Genitiv}{adv}/網羅的な[もうらてきな]/
-Einschließung{f}/封鎖[ふうさ]/包囲[ほうい]/
+Einschließung{f}/(Umschließung) 包囲[ほうい]/(Blockade) 封鎖[ふうさ]/
 Einschluss{m}/缶詰[かんづめ]/
 Einschlussverbindung{f}/ガス･ハイドレート[がすはいどれーと]/
 einschläfern{vt}/あやして寝付かせる[あやしてねつかせる]/
 einschmelzen{vt}/潰す[つぶす]/
 einschneiden{vt}/切り込む[きりこむ]/
-Einschnitt{m}/一段落[いちだんらく]/刻み[きざみ]/切り口[きりくち]/切開[せっかい]/一区切り[ひとくぎり]/切り込み[きりこみ]/
+Einschnitt{m}/(Wendepunkt) 変わり目[かわりめ]/{med.} 切開[せっかい]/
 Einschnüren{n}/雁字搦め[がんじがらめ]/
 einschnüren{vt}/がんじがらめにする[がんじがらめにする]/
 Einschnürung{f}/括れ[くびれ]/
 Einschreiben{n}/記入[きにゅう]/
 Einschreibung{f}/登録[とうろく]/
-Einschränkung{f}/限定[げんてい]/不自由[ふじゆう]/規律[きりつ]/お断り[おことわり]/規制[きせい]/拘束[こうそく]/制限[せいげん]/制約[せいやく]/束縛[そくばく]/縮小[しゅくしょう]/
+Einschränkung{f}/制限[せいげん]/
 Einschuss{m}/横[よこ]/
 Einschussloch{n}/弾痕[だんこん]/
 einschärfen{vt}/厳達する[げんたつする]/
-Einschätzung{f}/相場[そうば]/見分け[みわけ]/
+Einschätzung{f}/(Bewertung) 評価[ひょうか]/
 einschüchtern{vt}/脅かす[おどかす]/
 einschüchternd/威嚇的[いかくてき]/
 Einschüchterung{f}/脅威[きょうい]/脅迫[きょうはく]/威嚇[いかく]/
