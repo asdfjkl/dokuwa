@@ -7225,10 +7225,10 @@ Einzelunterricht{m}/マンツーマン[まんつーまん]/
 Einzelzelle{f}/独房[どくぼう]/
 Einzelzimmer{n}/個室[こしつ]/
 einziehen{vt}{vi}/集める[あつめる]/
-Einziehung{f}/没収[ぼっしゅう]/集金[しゅうきん]/
-einzigartig{adv}{adj}/偉い[えらい]/ユニーク[ゆにーく]/
-Einzigartigkeit{f}/唯一[ゆいつ]/異色[いしょく]/ユニーク[ゆにーく]/無二[むに]/
-Einzug{m}/入場[にゅうじょう]/入居[にゅうきょ]/
+Einziehung{f}/(Beschlagnahme) 没収[ぼっしゅう]/
+einzigartig{adv}{adj}/無類の[むるいの]/
+Einzigartigkeit{f}/唯一[ゆいつ]/
+Einzug{m}/(~ in eine Wohnung) 入居[にゅうきょ]/
 Einzugsgebiet{n}/流域[りゅういき]/
 einzäunen{vt}/囲いをする[かこいをする]/
 Einzäunung{f}/柵[さく]/
@@ -7236,8 +7236,7 @@ Einäscherung{f}/火葬[かそう]/
 einäugig{adj}{adv}/独眼の[どくがんの]/
 Einöde{f}/枯野[かれの]/
 einölen{vt}/引く[ひく]/
-Eis{n}/アイス[あいす]/アイスクリーム[あいすくりーむ]/氷[こおり]/
-Eis am Stiel/アイスキャンディー[あいすきゃんでぃー]/
+Eis{n}/氷[こおり]/(~ am Stiel ) アイスキャンディー[あいすきゃんでぃー]/
 Eisbahn{f}/スケートリンク[すけーとりんく]/
 Eisbecher{m}/サンデー[さんでー]/
 Eisberg{m}/氷山[ひょうざん]/
@@ -7246,7 +7245,7 @@ Eisbrecher{m}/砕氷船[さいひょうせん]/
 Eisbär{m}/シロクマ[しろくま]/
 Eisdecke{f}/大陸氷河[たいりくひょうが]/
 Eisdiele{f}/氷屋[こおりや]/
-Eisen{n}/鉄[てつ]/アイアン[あいあん]/アイアン[あいあん]/
+Eisen{n}/鉄[てつ]/
 Eisenbahn{f}/鉄道[てつどう]/
 Eisenbahnnetz{n}/鉄道網[てつどうもう]/
 Eisenbahnschwelle{f}/枕木[まくらぎ]/
@@ -7271,15 +7270,15 @@ Eisenwaren{pl}/金物[かなもの]/
 Eisenwarenhandlung{f}/金物屋[かなものや]/
 Eisenwarenhändler{m}/金物屋[かなものや]/
 Eisenzeit{f}/鉄器時代[てっきじだい]/
-eisern{adj}/立派[りっぱ]/アイアン[あいあん]/
+eisern{adj}/(aus Eisen) 鉄の[てつの]/(eiserner Wille) 鉄の意志[てつのいし]/
 eisfrei{adj}/無氷の[むひょうの]/
-Eishockey{n}/アイス[あいす]/アイスホッケー[あいすほっけー]/
+Eishockey{n}/アイスホッケー[あいすほっけー]/
 Eishockeyspieler{m}/アイスホッケーの選手[あいすほっけーのせんしゅ]/
 eisig{adj}{adv}/氷のように冷たい[こおりのようにつめたい]/
 eiskalt{adj}/冷え冷え[ひえびえ]/
 Eiskappe{f}/アイス･キャップ[あいすきゃっぷ]/
 Eiskristall{m}/氷晶[ひょうしょう]/
-Eiskunstlauf{m}/フィギュア[ふぃぎゅあ]/フィギュアスケート[ふぃぎゅあすけーと]/
+Eiskunstlauf{m}/フィギュアスケート[ふぃぎゅあすけーと]/
 Eiskunstläufer{m}/フィギュアスケートの選手[ふぃぎゅあすけーとのせんしゅ]/
 Eisläufer{m}/アイス･スケーター[あいすすけーたー]/
 Eisschnelllauf{m}/スピードスケート[すぴーどすけーと]/
@@ -7287,36 +7286,36 @@ Eisscholle{f}/流氷[りゅうひょう]/
 Eisschrank{m}/冷蔵庫[れいぞうこ]/
 Eistee{m}/アイスティー[あいすてぃー]/
 Eistüte{f}/コーン[こーん]/
-Eisvogel{m}/カワセミ[かわせみ]/翡翠[ひすい]/
+Eisvogel{m}/翡翠[ひすい]/
 Eiswürfel{m}/氷[こおり]/
 Eiszapfen{m}/氷柱[ひょうちゅう]/
-eitel{adv}/儚い[はかない]/虚しい[むなしい]/
+eitel{adv}/虚栄心が強い[きょえいしんがつよい]/
 Eitelkeit{f}/自惚れ[うぬぼれ]/
 Eiter{n}/膿[のう]/
 Eiterflechte{f}/飛び火[とびひ]/
 eiternd{adj}/ただれた[ただれた]/
 eitrig{adv}/化膿した[かのうした]/
-Eiweiß{n}/白身[しろみ]/タンパク質[たんぱくしつ]/たんぱく質[たんぱくしつ]/
+Eiweiß{n}/白身[しろみ]/(Protein) タンパク質[たんぱくしつ]/
 Eizelle{f}/卵子[らんし]/
 Ejakulation{f}/射精[しゃせい]/
 Ekchymose{f}/皮下溢血[ひかいっけつ]/
-Ekel{m}/嫌い[きらい]/吐き気[はきけ]/嫌悪[けんお]/毛虫[けむし]/嫌悪感[けんおかん]/
+Ekel{m}/嫌悪感[けんおかん]/
 ekelhaft{adv}/汚い[きたない]/
 eklektisch{adj}/折衷の[せっちゅうの]/
 Eklektizismus{m}/折衷主義[せっちゅうしゅぎ]/
-eklig{adj}/嫌[いや]/厭[いや]/イヤ[いや]/
-Ekstase{f}/有頂天[うちょうてん]/無我[むが]/
+eklig{adj}/嫌な[いやな]/
+Ekstase{f}/有頂天[うちょうてん]/
 Ekzem{n}/湿疹[しっしん]/
 Elaboration{f}/彫琢[ちょうたく]/
 elaboriert{adj}/巧緻な[こうちな]/
-elastisch{adv}/柔らかい[やわらかい]/柔軟[じゅうなん]/柔らか[やわらか]/
-Elastizität{f}/反発[はんぱつ]/弾力[だんりょく]/柔軟性[じゅうなんせい]/
+elastisch{adv}/弾力のある[だんりょくのある]/
+Elastizität{f}/弾力[だんりょく]/
 Elastizitätsgrenze{f}/弾性限界[だんせいげんかい]/
 Elastizitätsmodul{n}{m}/弾性率[だんせいりつ]/
 Elastomer{n}/エラストマー[えらすとまー]/
 Elch{m}/ムース[むーす]/
 Elefant{m}/象[ぞう]/
-elegant{adj}{adv}/粋[すい]/尊[あて]/貴[あて]/スマート[すまーと]/シック[しっく]/乙[おつ]/エレガント[えれがんと]/洒落た[しゃれた]/スタイリッシュ[すたいりっしゅ]/渋い[しぶい]/
+elegant{adj}{adv}/優雅な[ゆうがな]/
 Eleganz{f}/微妙[びみょう]/風流[ふりゅう]/上品[じょうひん]/気品[きひん]/優雅[ゆうが]/雅[みやび]/優美[ゆうび]/お洒落[おしゃれ]/風情[ふぜい]/趣[おもむき]/品格[ひんかく]/
 Elegie{f}/哀歌[あいか]/
 Elektrifizierung{f}/電化[でんか]/
