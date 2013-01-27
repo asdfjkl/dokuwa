@@ -7316,7 +7316,7 @@ Elastomer{n}/エラストマー[えらすとまー]/
 Elch{m}/ムース[むーす]/
 Elefant{m}/象[ぞう]/
 elegant{adj}{adv}/優雅な[ゆうがな]/
-Eleganz{f}/微妙[びみょう]/風流[ふりゅう]/上品[じょうひん]/気品[きひん]/優雅[ゆうが]/雅[みやび]/優美[ゆうび]/お洒落[おしゃれ]/風情[ふぜい]/趣[おもむき]/品格[ひんかく]/
+Eleganz{f}/優雅[ゆうが]/
 Elegie{f}/哀歌[あいか]/
 Elektrifizierung{f}/電化[でんか]/
 Elektrik{f}/電気仕掛け[でんきしかけ]/
@@ -7363,24 +7363,24 @@ Elektroschock{m}/電撃[でんげき]/
 Elektrostatik{f}/静電[せいでん]/
 elektrostatisch{adj}{adv}/静電気の[せいでんきの]/
 Elektrotechnik{f}/電子工学[でんしこうがく]/
-Element{n}/アイテム[あいてむ]/要素[ようそ]/分子[ぶんし]/本領[ほんりょう]/
+Element{n}/要素[ようそ]/
 elementar{adj}{adv}/初等の[しょとうの]/
 Elementarschule{f}/初等数学[しょとうすうがく]/
 Elementarteilchen{n}/素粒子[そりゅうし]/
-elend{adj}{adv}/情けない[なさけない]/しがない[しがない]/痛々しい[いたいたしい]/
-Elend{n}/不幸[ふこう]/哀れ[あわれ]/惨め[みじめ]/悲惨[ひさん]/不肖[ふしょう]/
+elend{adj}{adv}/惨めな[みじめな]/
+Elend{n}/惨め[みじめ]/
 Elendsviertel{n}/裏町[うらまち]/
 Elevation{f}/エレベーション[えれべーしょん]/
 Elevationswinkel{m}/仰角[ぎょうかく]/
-elf{num}/イレブン[いれぶん]/十一[じゅういち]/
-Elfe{f}/妖精[ようせい]/フェアリー[ふぇありー]/
+elf{num}/十一[じゅういち]/
+Elfe{f}/妖精[ようせい]/
 Elfenbein{n}/アイボリー[あいぼりー]/
 Elfenbeinschnitzerei{f}/げ彫り[げぼり]/
 Elfenbeinturm{m}/象牙の塔[ぞうげのとう]/
 Elfmeter{m}/ペナルティキック[ぺなるてぃきっく]/
 Elimination{f}/消去法[しょうきょほう]/
-Eliminierung{f}/排除[はいじょ]/消去[しょうきょ]/
-Elite{f}/エリート[えりーと]/精鋭[せいえい]/精華[せいか]/
+Eliminierung{f}/(Löschung) 消去[しょうきょ]/(Mord) 殺人[さつじんき]/
+Elite{f}/精鋭[せいえい]/
 Eliteeinheit{f}/精鋭部隊[せいえいぶたい]/
 Elitismus{m}/選民思想[せんみんしそう]/
 Ellbogen{m}/肘[ひじ]/
@@ -7396,13 +7396,13 @@ Eltern-Kind-Beziehung{f}/親子関係[おやこかんけい]/
 Elternhaus{n}/実家[じっか]/
 elternlos{adj}/親のない[おやのない]/
 Elternschaft{f}/子持ち[こもち]/
-Elysium{n}/天国[てんごく]/楽園[らくえん]/
+Elysium{n}/(Himmelreich) 天国[てんごく]/
 Emaille{f}/エナメル[えなめる]/
 Emaillelack{m}/エナメルペイント[えなめるぺいんと]/
 Emanzipation{f}/解放[かいほう]/
 Emanzipationsbewegung{f}/ウーマンリブ[うーまんりぶ]/
 Embargo{n}/出港停止[しゅっこうていし]/
-Emblem{n}/章[しょう]/エンブレム[えんぶれむ]/記号[きごう]/
+Emblem{n}/(Abzeichen) 記章[きしょう]/{hist.} エンブレム[えんぶれむ]/
 Embolie{f}/塞栓[そくせん]/
 Embryo{n}/胎児[たいじ]/
 Embryologie{f}/発生学[はっせいがく]/
@@ -7412,15 +7412,15 @@ Emigration{f}/亡命[ぼうめい]/
 eminent{adv}/非凡な[ひぼんな]/
 Eminenz{f}/猊下[げいか]/
 Emirat{n}/首長国[しゅちょうこく]/
-Emission{f}/放出[ほうしゅつ]/放射[ほうしゃ]/
+Emission{f}/放射[ほうしゃ]/(Herausgabe, z.B. Aktien) 発行[はっこう]/
 Emissionsbank{f}/兌換銀行[だかんぎんこう]/
 Emissionshandel{m}/排出権取引[はいしゅつけんとりひき]/
 Emissionsvolumen{n}/発行額[はっこうがく]/
 Emittent{m}/発行者[はっこうしゃ]/
 emittieren{vt}/発行する[はっこうする]/
-Emoticon{n}/顔文字[かおもじ]/スマイリー[すまいりー]/
+Emoticon{n}/絵文字[えもじ]/
 Emotionalität{f}/多感[たかん]/
-Empfang{m}/受付[うけつけ]/待遇[たいぐう]/インフォメーション[いんふぉめーしょん]/受け取り[うけとり]/受け入れ[うけいれ]/聴取[ちょうしゅ]/引き取り[ひきとり]/応対[おうたい]/フロント[ふろんと]/受信[じゅしん]/出迎え[でむかえ]/受け付け[うけつけ]/ウェルカム[うぇるかむ]/接待[せったい]/
+Empfang{m}/(Rezeption) 受付[うけつけ]/(Feier) レセプション[れせぷしょん]/(Radio u.ä.) 受信[じゅしん]/
 Empfangsantenne{f}/受信アンテナ[じゅしんあんてな]/
 Empfangsbescheinigung{f}/受領書[じゅりょうしょ]/
 Empfangsbestätigung{f}/領収書[りょうしゅうしょ]/
@@ -7429,16 +7429,16 @@ Empfangsgerät{n}/受信機[じゅしんき]/
 Empfangshalle{f}/客殿[きゃくでん]/
 Empfangsquittung{f}/控え[ひかえ]/
 Empfangstag{m}/面会日[めんかいび]/
-Empfangszimmer{n}/座敷[ざしき]/書院[しょいん]/
+Empfangszimmer{n}/応接間[おうせつま]/
 empfehlen{vt}/勧める[すすめる]/
 empfehlenswert{adj}/推奨すべき[すいしょうすべき]/
-Empfehlung{f}/紹介[しょうかい]/勧め[すすめ]/薦め[すすめ]/お薦め[おすすめ]/推奨[すいしょう]/推薦[すいせん]/勧告[かんこく]/披露[ひろう]/手引き[てびき]/
+Empfehlung{f}/推薦[すいせん]/
 Empfehlungsschreiben{n}/紹介状[しょうかいじょう]/
 empfindlich{adv}{adj}/弱い[よわい]/
 empfindlich sein{vi}/神経が鋭い[しんけいがするどい]/
-Empfindlichkeit{f}/敏感[びんかん]/感度[かんど]/神経質[しんけいしつ]/
-Empfindsamkeit{f}/感情[かんじょう]/多感[たかん]/感受性[かんじゅせい]/感傷[かんしょう]/
-Empfindung{f}/感じ[かんじ]/感[かん]/心地[ここち]/腹[はら]/体感[たいかん]/印象[いんしょう]/感触[かんしょく]/意識[いしき]/感覚[かんかく]/感想[かんそう]/気味[きみ]/感情[かんじょう]/感知[かんち]/感性[かんせい]/
+Empfindlichkeit{f}/(Sensibilität) 敏感[びんかん]/(~ eines Instruments) 感度[かんど]/
+Empfindsamkeit{f}/感情[かんじょう]/
+Empfindung{f}/(Sinneswahrnehmung) 感覚[かんかく]/(Gefühl) 感情[かんじょう]/
 empfindungslos{adj}{adv}/無感覚な[むかんかくな]/
 Empfindungslosigkeit{f}/不感症[ふかんしょう]/
 Empfänger{m}/宛先[あてさき]/
@@ -7451,13 +7451,13 @@ Empiriker{m}/実験者[じっけんしゃ]/
 empirisch{adj}{adv}/経験的[けいけんてき]/
 Empirismus{m}/経験論[けいけんろん]/
 Empore{f}/高座[こうざ]/
-emporheben{vt}/高める[たかめる]/持ち上げる[もちあげる]/
-emporkommen{vi}/登る[のぼる]/上る[のぼる]/立てる[たてる]/昇る[のぼる]/
+emporheben{vt}/高める[たかめる]/
+emporkommen{vi}/(Karriere machen) 出世する[しゅっせする]/(in Erscheinung treten) 出現する[しゅつげんする]/
 Emporkömmling{m}/成金[なりきん]/
 emporragen{vi}/聳える[そびえる]/
 empört{adv}/憤然[ふんぜん]/
-Empörung{f}/暴動[ぼうどう]/憤り[いきどおり]/反乱[はんらん]/
-emsig{adv}/コツコツ[こつこつ]/せっせと[せっせと]/こつこつ[こつこつ]/
+Empörung{f}/憤り[いきどおり]/
+emsig{adv}/勤勉な[きんべんな]/
 Emsigkeit{f}/勤勉[きんべん]/
 Emulation{f}/エミュレーション[えみゅれーしょん]/
 Emulgator{n}/乳化剤[にゅうかざい]/
@@ -7466,14 +7466,14 @@ Emulsion{f}/乳剤[にゅうざい]/
 Enantiomer{n}/光学異性体[こうがくいせいたい]/
 Endbetrag{m}/合計[ごうけい]/
 Enddruck{m}/終尾圧力[しゅうびあつりょく]/
-Ende{n}/最後[さいご]/明け[あけ]/終末[しゅうまつ]/止め[とめ]/留め[とめ]/大詰め[おおづめ]/末期[まっき]/結末[けつまつ]/端[つま]/終[おわり]/段落[だんらく]/びり[びり]/決着[けっちゃく]/詰まり[つまり]/尻尾[しっぽ]/極め[きわめ]/落ち[おち]/極み[きわみ]/末端[まったん]/跳ね[はね]/最終[さいしゅう]/末[すえ]/果て[はて]/止まり[とまり]/エンド[えんど]/幕[まく]/先[さき]/限り[きり]/一区切り[ひとくぎり]/切り[きり]/ピリオド[ぴりおど]/終結[しゅうけつ]/一杯[いっぱい]/切り上げ[きりあげ]/終了[しゅうりょう]/区切り[くぎり]/詰め[つめ]/暮れ[くれ]/終わり[おわり]/終り[おわり]/仕舞い[しまい]/終い[しまい]/
+Ende{n}/終わり[おわり]/
 Endgerät{n}/端末[たんまつ]/
-endgültig{adv}/最終的[さいしゅうてき]/決定的[けっていてき]/
+endgültig{adv}/最終的[さいしゅうてき]/
 Endivie{f}/エンダイブ[えんだいぶ]/
 Endlauf{m}/優勝試合[ゆうしょうしあい]/
-endlich{adv}/やっと[やっと]/果ては[はては]/遂に[ついに]/漸く[ようやく]/
+endlich{adv}/やっと[やっと]/
 Endlinie{f}/エンドライン[えんどらいん]/
-endlos{adj}{adv}/延々[えんえん]/止まない[やまない]/極まりない[きわまりない]/エンドレス[えんどれす]/
+endlos{adj}{adv}/終わりのない[おわりのない]/
 Endlosigkeit{f}/エンドレス[えんどれす]/
 Endlospapier{n}/連続用紙[れんぞくようし]/
 Endlosschleife{f}/無限ループ[むげんるーぷ]/
@@ -7489,17 +7489,17 @@ Endpunkt{m}/終点[しゅうてん]/
 Endresultat{n}/最終結果[さいしゅうけっか]/
 Endrunde{f}/決勝トーナメント[けっしょうとーなめんと]/
 Endsilbe{f}/語尾[ごび]/
-Endspiel{n}/終盤[しゅうばん]/決勝戦[けっしょうせん]/
+Endspiel{n}/{Sport}(Finale) 決勝戦[けっしょうせん]/
 Endspurt{m}/ラストスパート[らすとすぱーと]/
 Endstadium{n}/末期[まっき]/
-Endstation{f}/行き先[いきさき]/止まり[とまり]/ターミナル[たーみなる]/終点[しゅうてん]/
+Endstation{f}/終点[しゅうてん]/
 Endstufe{f}/追い込み[おいこみ]/
 Endstück{n}/末端[まったん]/
 Endung{f}/語尾[ごび]/
 Endverbraucher{pl}/エンドユーザー[えんどゆーざー]/
 Endzeit{f}/末つ方[すえつかた]/
 Endziel{n}/究極原因[きゅうきょくげんいん]/
-Energie{f}/元気[げんき]/勇[いさみ]/気合い[きあい]/気合[きあい]/気力[きりょく]/勢い[いきおい]/勢[いきおい]/エナジー[えなじー]/精[せい]/エネルギー[えねるぎー]/
+Energie{f}/エネルギー[えねるぎー]/
 Energiebedarf{m}/エネルギー需要[えねるぎーじゅよう]/
 Energieindustrie{f}/電力業界[でんりょくぎょうかい]/
 Energienachfrage{f}/エネルギー需要[えねるぎーじゅよう]/
@@ -7509,11 +7509,12 @@ energiereich{adj}/高エネルギー[こうえねるぎー]/
 Energieressourcen{pl}/エネルギー資源[えねるぎーしげん]/
 Energieversorgung{f}/動力の供給[どうりょくのきょうきゅう]/
 Energiewirtschaft{f}/電力業界[でんりょくぎょうかい]/
-energisch{adv}{adj}/積極的[せっきょくてき]/活動的[かつどうてき]/活動的[かつどうてき]/エネルギッシュ[えねるぎっしゅ]/鋭意[えいい]/精力的[せいりょくてき]/
-eng{adv}/近い[ちかい]/きつい[きつい]/親しい[したしい]/狭い[せまい]/濃い[こい]/みっちり[みっちり]/密接[みっせつ]/固い[かたい]/堅い[かたい]/硬い[かたい]/
+energisch{adv}{adj}/活動的[かつどうてき]/
+eng{adv}/(Kleidung) きつい[きつい]/(vertraut) 親しい[したしい]/(schmal) 狭い[せまい]/
 eng verbunden sein{vi}/固く団結している[かたくだんけつしている]/
 Engagement{n}/雇用[こよう]/
-engagieren{vt}/入れる[いれる]/置く[おく]/呼ぶ[よぶ]/
+engagieren{vt}/(einstellen) 雇う[やとう]/
+engagieren{vi}/(sich beteiligen) 参加する[さんかする]/
 engagiert{adj}/専心して[せんしんして]/
 Enge{f}/喉[のど]/タイト[たいと]/密[みつ]/
 Engel{m}/天使[てんし]/エンゼル[えんぜる]/エンジェル[えんじぇる]/
