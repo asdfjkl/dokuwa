@@ -7516,40 +7516,40 @@ Engagement{n}/雇用[こよう]/
 engagieren{vt}/(einstellen) 雇う[やとう]/
 engagieren{vi}/(sich beteiligen) 参加する[さんかする]/
 engagiert{adj}/専心して[せんしんして]/
-Enge{f}/喉[のど]/タイト[たいと]/密[みつ]/
-Engel{m}/天使[てんし]/エンゼル[えんぜる]/エンジェル[えんじぇる]/
+Enge{f}/狭させまさ/
+Engel{m}/天使[てんし]/
 engelhaft{adv}/天使のような[てんしのような]/
 enger werden{vi}/狭まる[せばまる]/
-engherzig{adj}/狭い[せまい]/ちょこちょこ[ちょこちょこ]/
-England{n}/イギリス[いぎりす]/英国[えいこく]/
-Englisch{n}/英語[えいご]/英文[えいぶん]/イングリッシュ[いんぐりっしゅ]/
+engherzig{adj}/心の狭い[こころのせまい]/
+England{n}/イギリス[いぎりす]/
+Englisch{n}/英語[えいご]/
 englisch{adj}/英語の[えいごの]/
 Englischhorn{n}/イングリッシュホルン[いんぐりっしゅほるん]/
 Englischlehrer{m}/英語の教員[えいごのきょういん]/
 Englischunterricht{m}/英語教育[えいごきょういく]/
-Engländer{m}/イングリッシュ[いんぐりっしゅ]/イギリス人[いぎりすじん]/
+Engländer{m}/イギリス人[いぎりすじん]/
 engmaschig{adj}/目の詰んだ[めのつんだ]/
-Engpass{m}/廊下[ろうか]/ネック[ねっく]/
+Engpass{m}/隘路[あいろ]/
 engstirnig{adv}/大人げない[おとなげない]/
 Enkel{m}/孫[まご]/
 Enkelin{f}/孫[まご]/
 Enklave{f}/飛び地[とびち]/
-enorm{adv}{adj}/恐ろしい[おそろしい]/極[ごく]/でかい[でかい]/恐るべき[おそるべき]/格段[かくだん]/
+enorm{adv}{adj}/(riesig) 巨大な[きょだいな]/
 Ensemble{n}/アンサンブル[あんさんぶる]/
-Entartung{f}/堕落[だらく]/退化[たいか]/
+Entartung{f}/堕落[だらく]/
 entbehren{vt}/欠ける[かける]/
 Entbehrung{f}/耐乏[たいぼう]/
 entbinden{vt}/取り上げる[とりあげる]/
-Entbindung{f}/出産[しゅっさん]/お産[おさん]/分娩[ぶんべん]/
+Entbindung{f}/出産[しゅっさん]/
 Entbindungsbett{n}/産褥[さんじょく]/
 Entbindungsheim{n}/産院[さんいん]/
 Entbindungsklinik{f}/産院[さんいん]/
 entblößen{vt}/開ける[はだける]/
-Entblößung{f}/露出[ろしゅつ]/丸出し[まるだし]/
+Entblößung{f}/露出[ろしゅつ]/
 entbrennen{vi}/熾る[おこる]/
-entdecken{vt}/見つける[みつける]/見出す[みいだす]/割れる[われる]/
+entdecken{vt}/見つける[みつける]/
 Entdecker{m}/発見者[はっけんしゃ]/
-Entdeckung{f}/発見[はっけん]/探知[たんち]/発覚[はっかく]/
+Entdeckung{f}/発見[はっけん]/
 Ente{f}/かも[かも]/鴨[かも]/
 entehren{vt}/落とす[おとす]/
 entehrend{adv}{adj}/不見識な[ふけんしきな]/
