@@ -8603,23 +8603,23 @@ Fallstudie{f}/事例研究[じれいけんきゅう]/
 Falltür{f}/上げ蓋[あげぶた]/
 fallweise{adv}/ケースバイケースの[けーすばいけーすの]/
 Fallwind{m}/山嵐[やまあらし]/
-falsch{adj}{adv}/そら[そら]/不可[ふか]/可笑しい[おかしい]/
+falsch{adj}{adv}/間違った[まちがった]/(unwahr) 不実な[ふじつな]/
 falsch aussprechen{vt}/読み誤る[よみあやまる]/
 falsch verwenden{vt}/使い方を誤る[つかいかたをあやまる]/
 Falschaussage{f}/虚偽[きょぎ]/
 Falschgeld{n}/偽金[にせがね]/
-Falschheit{f}/曲[きょく]/偽[ぎ]/ガセ[がせ]/仮[かり]/表裏[ひょうり]/
+Falschheit{f}/(Lüge) 偽りい[つわり]/(Unrichtigkeit) 不実[ふじつ]//
 Falschmeldung{f}/嘘[うそ]/誤報[ごほう]/
 Falsifizierbarkeit{f}/反証可能性[はんしょうかのうせい]/
-Falte{f}/上げ[あげ]/断層[だんそう]/皺[しわ]/揚げ[あげ]/
-falten{vt}/合わせる[あわせる]/折る[おる]/
+Falte{f}/(Stirn~) 皺[しわ]/
+falten{vt}/折る[おる]/
 Faltengebirge{n}/褶曲山脈[しゅうきょくさんみゃく]/
 Faltenrock{m}/プリーツスカート[ぷりーつすかーと]/
 Falter{m}/鱗翅類[りんしるい]/
 faltig{adv}/しわしわ[しわしわ]/
 Falttür{f}/折戸[おりど]/
 Faltung{f}/折[おり]/折り[おり]/
-Familie{f}/ホーム[ほーむ]/氏[し]/妻子[さいし]/家[いえ]/血統[けっとう]/世帯[しょたい]/一筋[ひとすじ]/類[るい]/家族[かぞく]/ファミリー[ふぁみりー]/家系[かけい]/家庭[かてい]/
+Familie{f}/家族[かぞく]/
 Familienangehörige{m}{f}/係累[けいるい]/
 Familienbesitz{m}/家産[かさん]/
 Familienbetrieb{m}/家族経営[かぞくけいえい]/
@@ -8639,25 +8639,24 @@ Familienvorstand{m}/家長[かちょう]/
 Familienzusammenführung{f}/家族再会[かぞくさいかい]/
 familiär{adj}/家庭的[かていてき]/
 Famulus{m}/書生[しょせい]/
-Fan{m}/愛好家[あいこうか]/愛好者[あいこうしゃ]/
+Fan{m}/ファン[ふぁん]/
 Fanal{n}/狼煙[のろし]/
-Fanatiker{m}/オタク[おたく]/お宅[おたく]/ヲタク[おたく]/
+Fanatiker{m}/狂信者[きょうしんしゃ]/
 fanatisch{adj}{adv}/狂信的[きょうしんてき]/
 Fanatismus{m}/熱狂[ねっきょう]/
 Fanfare{f}/ファンファーレ[ふぁんふぁーれ]/
-Fang{m}/幸[さち]/獲物[えもの]/水揚げ[みずあげ]/キャッチ[きゃっち]/漁[りょう]/釣果[ちょうか]/牙[きば]/
+Fang{m}/捕獲[ほかく]/
 Fangfrage{f}/落とし穴[おとしあな]/
-Fanghandschuh{m}/グローブ[ぐろーぶ]/ミット[みっと]/グラブ[ぐらぶ]/
 Fangschaltung{f}/逆探知装置[ぎゃくたんちそうち]/
 Fangzahn{m}/牙[きば]/
-Fantasie{f}/想像[そうぞう]/ビジョン[びじょん]/夢想[むそう]/夢幻[むげん]/ファンタジー[ふぁんたじー]/ファンタジー[ふぁんたじー]/空想[くうそう]/想像力[そうぞうりょく]/幻想[げんそう]/
+Fantasie{f}/空想[くうそう]/
 fantasieren{vi}/夢想する[むそうする]/
 Fantast{m}/夢想家[むそうか]/
-fantastisch{adj}/素敵[すてき]/幻想的[げんそうてき]/ファンタスティック[ふぁんたすてぃっく]/とんでもない[とんでもない]/
+fantastisch{adj}/(großartig) 素晴らしい[すばらしい]/
 Farbband{n}/リボン[りぼん]/
 Farbbild{n}/彩色画[さいしきかく]/
 Farbdrucker{m}/カラー･プリンター[からーぷりんたー]/
-Farbe{f}/色[いろ]/色合い[いろあい]/色彩[しきさい]/ペイント[ぺいんと]/色気[いろけ]/塗料[とりょう]/染め[そめ]/絵の具[えのぐ]/
+Farbe{f}/色[いろ]/(zum Anstreichen) ペンキ[ぺんき]/
 farbenblind{adj}/色盲の[しきもうの]/
 Farbenblindheit{f}/色盲[しきもう]/
 farbenfreudig{adv}/華やか[はなやか]/
@@ -8677,10 +8676,10 @@ farblos{adj}{adv}/グレー[ぐれー]/
 Farblosigkeit{f}/無色[むしょく]/
 Farbmuster{n}/染め模様[そめもよう]/
 Farbstift{m}/色鉛筆[いろえんぴつ]/
-Farbstoff{m}/絵の具[えのぐ]/色素[しきそ]/
+Farbstoff{m}/色素[しきそ]/
 Farbsystem{n}/表色系[ひょうしょくけい]/
 Farbtafel{f}/カラーチャート[からーちゃーと]/
-Farbton{m}/色[いろ]/色合い[いろあい]/色気[いろけ]/
+Farbton{m}/色気[いろけ]/
 Farbwechsel{f}/体色変化[たいしょくへんか]/
 Farce{f}/喜劇[きげき]/
 Farm{f}/ファーム[ふぁーむ]/
@@ -8691,28 +8690,28 @@ Fasching{m}/カーニバル[かーにばる]/
 Faschismus{m}/ファシズム[ふぁしずむ]/
 Faschist{m}/ファシスト[ふぁしすと]/
 faschistisch{adj}{adv}/ファッショ的な[ふぁっしょてきな]/
-Faser{f}/繊維[せんい]/織り[おり]/織[おり]/維[い]/ファイバー[ふぁいばー]/
+Faser{f}/繊維[せんい]/
 faserig{adj}{adv}/繊維から成る[せんいからなる]/
 Faseroptik{f}/繊維光学[せんいこうがく]/
 Faserpflanze{f}/繊維植物[せんいしょくぶつ]/
 Faserplatte{f}/繊維板[せんいばん]/
-Fass{n}/たる[たる]/バレル[ばれる]/樽[たる]/
-Fassade{f}/正面[しょうめん]/前面[ぜんめん]/
+Fass{n}/樽[たる]/
+Fassade{f}/正面[しょうめん]/
 fassbar/理解できる[りかいできる]/
 Fassen{n}/把握[はあく]/
-fassen{vt}/入れる[いれる]/捉える[つかまえる]/取る[とる]/握る[にぎる]/捕まえる[つかまえる]/上げる[あげる]/掴む[つかむ]/
-Fassung{f}/冷静[れいせい]/落着[おちつき]/落ち着き[おちつき]/観念[かんねん]/
-Fassungskraft{f}/悟り[さとり]/覚[さとり]/
+fassen{vt}/(greifen) 取る[とる]/(festnehmen) 捕まえる[つかまえる]/(festhalten) 掴む[つかむ]/
+Fassung{f}/{fig.} 落ち着き[おちつき]/
+Fassungskraft{f}/(Auffassungsgabe) 悟り[さとり]/
 fassungslos{adj}/どぎまぎ[どぎまぎ]/
 Fassungslosigkeit{f}/狼狽[ろうばい]/
 Fassungsvermögen{n}/容量[ようりょう]/
-Fasten{n}/精進[しょうじん]/断食[だんじき]/
+Fasten{n}/断食[だんじき]/
 Fastenkur{f}/絶食療法[ぜっしょくりょうほう]/
 Fastenzeit{f}/受難節[じゅなんせつ]/
 Fastfood{n}/ファーストフード[ふぁーすとふーど]/
 Fastnacht{f}/謝肉祭[しゃにくさい]/
 Faszikel{n}/線維束[せんいそく]/
-Faszination{f}/魅惑[みわく]/魅了[みりょう]/
+Faszination{f}/魅了[みりょう]/
 faszinierend{adj}{adv}/魅力的[みりょくてき]/
 Fatalismus{m}/運命論[うんめいろん]/
 Fatalist{m}/運命論者[うんめいろんしゃ]/
@@ -8722,11 +8721,11 @@ faul{adj}{adv}/のらりくらり[のらりくらり]/
 faulenzen{vi}/ごろごろ[ごろごろ]/
 Faulenzer{m}/怠け者[なまけもの]/
 Faulenzerei{f}/ぐうたら[ぐうたら]/
-Faulheit{f}/怠惰[たいだ]/怠慢[たいまん]/不精[ぶしょう]/
+Faulheit{f}/怠惰[たいだ]/
 Faulpelz{m}/怠け者[なまけもの]/
 Faultier{n}/物臭[ものぐさ]/
 Fauna{f}/動物誌[どうぶつし]/
-Faust{f}/拳[こぶし]/鉄拳[てっけん]/
+Faust{f}/拳[こぶし]/
 Fausthandschuh{m}/ミトン[みとん]/
 Faustkampf{m}/ボクシング[ぼくしんぐ]/
 Faustkeil{m}/クー･ド･ポアン[くーどぽあん]/
@@ -8741,12 +8740,12 @@ Faxgerät{n}/ファクシミリ[ふぁくしみり]/
 Fazialislähmung{f}/顔面麻ひ[がんめんまひ]/
 Fazialisparese{f}/顔面麻ひ[がんめんまひ]/
 Feature{n}/フィーチャー[ふぃーちゃー]/
-Fechten{n}/殺陣[さつじん]/フェンシング[ふぇんしんぐ]/
-fechten{vi}/戦う[たたかう]/闘う[たたかう]/
+Fechten{n}/フェンシング[ふぇんしんぐ]/
+fechten{vi}/フェンシングをする[ふぇんしんぐをする]/
 Fechter{m}/剣士[けんし]/
 Fechtkunst{f}/剣術[けんじゅつ]/
 Fechtmeister{m}/剣客[けんきゃく]/
-Feder{f}/毛[け]/スプリング[すぷりんぐ]/羽[は]/羽根[はね]/羽毛[うもう]/
+Feder{f}/羽根[はね]/
 Federball{m}/バドミントン[ばどみんとん]/
 Federhalter{m}/軸[じく]/
 Federkernmatratze{f}/スプリング入りのマットレス[すぷりんぐいりのまっとれす]/
@@ -8757,23 +8756,23 @@ Federung{f}/サスペンション[さすぺんしょん]/
 Federvieh{n}/鳥類[ちょうるい]/
 Federwaage{f}/ばね秤[ばねばかり]/
 Federzeichnung{f}/ペン画[ぺんが]/
-Fee{f}/妖精[ようせい]/フェアリー[ふぇありー]/
+Fee{f}/妖精[ようせい]/
 Fegefeuer{n}/煉獄[れんごく]/
-Fehde{f}/戦[いくさ]/葛藤[かっとう]/争い[あらそい]/確執[かくしつ]/軍[いくさ]/
+Fehde{f}/私闘[しとう]/{hist.} フェーデ[ふぇーで]/
 Fehlbesetzung{f}/ミスキャスト[みすきゃすと]/
 Fehlbetrag{m}/赤字[あかじ]/
 Fehldiagnose{f}/誤診[ごしん]/
 Fehleinschätzung{f}/ミスジャッジ[みすじゃっじ]/
-Fehlen{n}/休み[やすみ]/欠如[けつじょ]/欠場[けつじょう]/欠席[けっせき]/欠落[けつらく]/不在[ふざい]/
+Fehlen{n}/欠席[けっせき]/
 fehlend{adj}/不在の[ふざいの]/
 Fehlentscheidung{f}/誤審[ごしん]/
-Fehler{m}/間違い[まちがい]/不覚[ふかく]/所為[せい]/エラー[えらー]/過ち[あやまち]/錯誤[さくご]/怪我[けが]/あら[あら]/癖[くせ]/そつ[そつ]/誤り[あやまり]/ミス[みす]/欠陥[けっかん]/過失[かしつ]/科[とが]/難点[なんてん]/非[ひ]/釈迦[しゃか]/傷[きず]/傷[きず]/難[なん]/誤差[ごさ]/黒星[くろぼし]/欠点[けってん]/故障[こしょう]/欠け[かけ]/失態[しったい]/罪[つみ]/罪[つみ]/短所[たんしょ]/
+Fehler{m}/間違い[まちがい]/
 fehlerfrei{adj}{adv}/言い分のない[いいぶんのない]/
 fehlerhaft{adv}{adj}/欠陥のある[けっかんのある]/
 fehlerhafter Sektor/不良セクター[ふりょうせくたー]/
 Fehlerhaftigkeit{f}/不正確[ふせいかく]/
 fehlerlos{adv}/確か[たしか]/
-Fehlerlosigkeit{f}/確か[たしか]/完璧[かんぺき]/無傷[むきず]/
+Fehlerlosigkeit{f}/完璧[かんぺき]/
 Fehlermeldung{f}/エラーメッセージ[えらーめっせーじ]/
 Fehlerprüfung{f}/エラーチェック[えらーちぇっく]/
 fehlertolerant{adj}/フォールトトレラントな[ふぉーるととれらんとな]/
@@ -8787,40 +8786,40 @@ fehlschlagen{vi}/被る[かぶる]/
 Fehlschluss{m}/的外れ[まとはずれ]/
 Fehlschuss{m}/空発[くうはつ]/
 Fehlstart{m}/フライング[ふらいんぐ]/
-Fehltritt{m}/間違い[まちがい]/過ち[あやまち]/過失[かしつ]/
+Fehltritt{m}/(Fehler) 過ち[あやまち]/
 Fehlurteil{n}/誤審[ごしん]/
 Fehlwurf{m}/投球のエラー[とうきゅうのえらー]/
 fehlzünden{vi}/逆火を起こす[さかびをおこす]/
 Fehlzündung{f}/不発[ふはつ]/
-Feier{f}/式[しき]/式典[しきてん]/祝い[いわい]/祝[いわい]/祝賀会[しゅくがかい]/お祝い[おいわい]/お祭り[おまつり]/挙式[きょしき]/祭典[さいてん]/祭り[まつり]/祭[まつり]/
+Feier{f}/お祝い[おいわい]/
 Feierabend{m}/引け[ひけ]/
 Feierabend machen/お開きにする[おひらきにする]/
 feierlich{adj}{adv}/華やか[はなやか]/
-Feierlichkeit{f}/儀式[ぎしき]/荘厳[そうごん]/厳しさ[いかめしさ]/厳重[げんじゅう]/儀[ぎ]/
-feiern{vt}{vi}/行う[おこなう]/行なう[おこなう]/祝う[いわう]/
-Feiertag{m}/休日[きゅうじつ]/ホリデー[ほりでー]/祝日[しゅくじつ]/祭日[さいじつ]/
+Feierlichkeit{f}/儀式[ぎしき]/
+feiern{vt}{vi}/祝う[いわう]/
+Feiertag{m}/祝日[しゅくじつ]/
 Feige{f}/イチジク[いちじく]/
 feige{adv}{adj}/汚い[きたない]/
 Feigenbaum{m}/イチジク[いちじく]/
-Feigheit{f}/小心[しょうしん]/不覚[ふかく]/弱気[よわき]/卑怯[ひきょう]/臆病[おくびょう]/
-Feigling{m}/小心者[しょうしんもの]/怖がり[こわがり]/弱虫[よわむし]/
+Feigheit{f}/臆病[おくびょう]/
+Feigling{m}/小心者[しょうしんもの]/
 Feile{f}/鑢[やすり]/
 feilen{vt}/削る[けずる]/
-Feilschen{n}/取引[とりひき]/駆け引き[かけひき]/
-fein{adj}{adv}/小さな[ちいさな]/ファイン[ふぁいん]/尊[あて]/優しい[やさしい]/粋[すい]/貴[あて]/細かい[こまかい]/小さい[ちいさい]/細かく[こまかく]/
+feilschen{vi}/値切る[ねぎる]/
+fein{adj}{adv}/(dünn) 細い[ほそい]/(edel) 高貴な[こうきな]/
 Feinabstimmung{f}/微調整[びちょうせい]/
 Feinblech{n}/延金[のべがね]/
-Feind{m}/敵[てき]/仇[かたき]/
+Feind{m}/敵[てき]/
 feindlich{adv}/仲が悪い[なかがわるい]/
 Feindlichkeit{f}/反目[はんもく]/
-Feindschaft{f}/不快[ふかい]/反感[はんかん]/憎しみ[にくしみ]/確執[かくしつ]/
+Feindschaft{f}/反感[はんかん]/
 feindselig{adv}/仲が悪い[なかがわるい]/
 Feindseligkeit{f}/敵対[てきたい]/
 Feineinstellung{f}/微調整[びちょうせい]/
 Feinfühligkeit{f}/デリカシー[でりかしー]/
-Feingefühl{n}/目[め]/繊細[せんさい]/敏感[びんかん]/眼[め]/
+Feingefühl{n}/繊細[せんさい]/
 Feingehalt{m}/純分度[じゅんぶんど]/
-Feinheit{f}/微妙[びみょう]/精密[せいみつ]/上品[じょうひん]/優雅[ゆうが]/繊細[せんさい]/細め[ほそめ]/華奢[きゃしゃ]/趣[おもむき]/品格[ひんかく]/緻密[ちみつ]/密[みつ]/
+Feinheit{f}/(Eleganz) 微妙[びみょう]/
 feinhörig{adj}/早耳の[はやみみの]/
 Feinkorn{n}/微粒子[びりゅうし]/
 feinkörnig{adj}/きめの細かい[きめのこまかい]/
@@ -8831,7 +8830,7 @@ Feinstaub{m}/細じん[さいじん]/
 Feinsäge{f}/ほぞのこぎり[ほぞのこぎり]/
 Feinvakuum{n}/中真空[ちゅうしんくう]/
 feist{adj}/むちむち[むちむち]/
-Feld{n}/目[め]/場[ば]/畑[はたけ]/野[や]/田畑[たはた]/小野[おの]/戦場[せんじょう]/眼[め]/野外[やがい]/野原[のはら]/領域[りょういき]/分野[ぶんや]/野良[のら]/野中[のなか]/フィールド[ふぃーるど]/
+Feld{n}/畑[はたけ]/
 Feldarbeit{f}/耕作[こうさく]/
 Feldbreite{f}/フィールド幅[ふぃーるどはば]/
 Feldeffekttransistor{m}/電界効果トランジスター[でんかいこうかとらんじすたー]/
@@ -8840,7 +8839,7 @@ Feldforschung{f}/フィールドワーク[ふぃーるどわーく]/
 Feldherr{m}/武将[ぶしょう]/
 Feldkanone{f}/野戦砲[やせんほう]/
 Feldküche{f}/炊事場[すいじば]/
-Feldlager{n}/陣[じん]/陣営[じんえい]/
+Feldlager{n}/陣営[じんえい]/
 Feldlazarett{n}/遊動病院[ゆうどうびょういん]/
 Feldlerche{f}/ひばり[ひばり]/
 Feldmaus{f}/野鼠[のねずみ]/
@@ -8852,11 +8851,11 @@ Feldstudie{f}/現地調査[げんちちょうさ]/
 Feldwebel{m}/軍曹[ぐんそう]/
 Feldweg{m}/農道[のうどう]/
 Feldwicklung{f}/界磁巻き線[かいじまきせん]/
-Feldzug{m}/戦[いくさ]/軍[いくさ]/遠征[えんせい]/
-Felge{f}/縁[ふち]/リム[りむ]/
-Fell{n}/毛[け]/革[かわ]/毛皮[けがわ]/スキン[すきん]/皮[かわ]/
+Feldzug{m}/{milit.} 遠征[えんせい]/
+Felge{f}/リム[りむ]/
+Fell{n}/毛皮[けがわ]/
 Fellatio{f}/尺八[しゃくはち]/
-Fels{m}/ロック[ろっく]/岩[いわ]/巌[いわお]/
+Fels{m}/岩[いわ]/
 Felsanker{m}/ロック･ボルト[ろっくぼると]/
 Felsblock{m}/岩[いわ]/
 felsenfest{adj}/怖めず臆せず[おめずおくせず]/
@@ -8873,26 +8872,26 @@ Femme fatale{f}/悪女[あくじょ]/
 Femur{m}/大腿骨[だいたいこつ]/
 Fenchel{m}/茴香[ういきょう]/
 Fender{m}/フェンダー[ふぇんだー]/
-Fenster{n}/窓[まど]/ウィンドウ[うぃんどう]/ウィンドウ[うぃんどう]/ゲート[げーと]/ウインドウ[ういんどう]/
+Fenster{n}/窓[まど]/
 Fensterbank{f}/窓台[まどだい]/
 Fensterbriefumschlag{m}/窓付き封筒[まどつきふうとう]/
 Fensterglas{n}/窓ガラス[まどがらす]/
 Fensterladen{m}/シャッター[しゃったー]/
 Fensterplatz{m}/窓際の席[まどぎわのせき]/
-Fensterrahmen{m}/枠[わく]/額縁[がくぶち]/
+Fensterrahmen{m}/窓枠[まどわく]/
 Fensterscheibe{f}/窓ガラス[まどがらす]/
 Fenstersims{m}/窓台[まどだい]/
 Fenstertür{f}/フランス窓[ふらんすまど]/
 Fensterumschlag{m}/窓付き封筒[まどつきふうとう]/
-Ferien{pl}/お休み[おやすみ]/休館[きゅうかん]/バケーション[ばけーしょん]/休暇[きゅうか]/
+Ferien{pl}/お休み[おやすみ]/
 Ferienhaus{n}/別荘[べっそう]/
 Ferienjob{m}/バイト[ばいと]/
 Ferienranch{f}/観光牧場[かんこうぼくじょう]/
 Ferkel{n}/子豚[こぶた]/
 fern{prp; +Dativ}{adv}/遠い[とおい]/
 Fernbedienung{f}/リモートコントロール[りもーとこんとろーる]/
-Ferne{f}/遠く[とおく]/遠方[おちかた]/
-ferner/以外[いがい]/且つ[かつ]/又[また]/復[また]/更[さら]/その上[そのうえ]/更に[さらに]/
+Ferne{f}/遠く[とおく]/
+ferner/その上[そのうえ]/
 Fernerkundung{f}/リモートセンシング[りもーとせんしんぐ]/
 Fernfahrer{m}/トラック運送業者[とらっくうんそうぎょうしゃ]/
 Ferngespräch{n}/長距離電話[ちょうきょりでんわ]/
@@ -8909,12 +8908,12 @@ Fernrohr{n}/望遠鏡[ぼうえんきょう]/
 Fernschreiber{m}/テレタイプ[てれたいぷ]/
 Fernsehapparat{m}/受像機[じゅぞうき]/
 Fernsehempfang{m}/受像[じゅぞう]/
-Fernsehen{n}/テレビ[てれび]/視聴[しちょう]/
+Fernsehen{n}/テレビ[てれび]/
 Fernsehfilm{m}/テレビ映画[てれびえいが]/
 Fernsehkamera{f}/テレビカメラ[てれびかめら]/
 Fernsehkanal{m}/チャンネル[ちゃんねる]/
 Fernsehprogramm{n}/テレビ番組[てれびばんぐみ]/
-Fernsehsender{m}/放送局[ほうそうきょく]/テレビ局[てれびきょく]/
+Fernsehsender{m}/テレビ局[てれびきょく]/
 Fernsehsendung{f}/テレビ放送[てれびほうそう]/
 Fernsehserie{f}/連続テレビドラマ[れんぞくてれびどらま]/
 Fernsehteilnehmer{m}/聴視者[ちょうししゃ]/
@@ -8923,27 +8922,27 @@ Fernsehwerbung{f}/テレビ広告[てれびこうこく]/
 Fernsehzuschauer{m}/視聴者[しちょうしゃ]/
 fernsteuern{vt}/遠隔制御する[えんかくせいぎょする]/
 Fernsteuerung{f}/ラジコン[らじこん]/
-Fernstraße{f}/街道[かいどう]/ハイウェイ[はいうぇい]/
+Fernstraße{f}/幹線道路[かんせんどうろ]/
 Fernstudium{n}/通信教育[つうしんきょういく]/
 Fernuniversität{f}/公開大学[こうかいだいがく]/
-Fernunterricht{m}/通信教育[つうしんきょういく]/通信講座[つうしんこうざ]/
+Fernunterricht{m}/通信教育[つうしんきょういく]/
 Fernverkehrsstraße{f}/幹線道路[かんせんどうろ]/
 Fernweh{f}/旅心[たびごころ]/
 Fernwirkung{f}/遠隔作用[えんかくさよう]/
 Ferrit{m}{n}/フェライト[ふぇらいと]/
 Ferromangan{n}/マンガン鉄[まんがんてつ]/
-Ferse{f}/ヒール[ひーる]/踵[きびす]/
+Ferse{f}/踵[きびす]/
 Fersenbein{n}/しょう骨[しょうこつ]/
 fertig{adv}{adj}/くたくた[くたくた]/
 fertig bringen{vt}/成し遂げる[なしとげる]/
-fertig machen{vt}/片付ける[かたづける]/仕上がる[しあがる]/済ませる[すませる]/済ます[すます]/仕上げる[しあげる]/
+fertig machen{vt}/仕上がる[しあがる]/
 Fertigbeton{m}/生コンクリート[なまこんくりーと]/
 Fertigfabrikat{n}/既製品[きせいひん]/
 Fertiggericht{n}/即席料理[そくせきりょうり]/
-Fertigkeit{f}/手際[てぎわ]/熟練[じゅくれん]/技量[ぎりょう]/
+Fertigkeit{f}/熟練[じゅくれん]/
 Fertigprodukt{n}/加工品[かこうひん]/
-Fertigstellung{f}/完成[かんせい]/出来上がり[できあがり]/仕上がり[しあがり]/完了[かんりょう]/既成[きせい]/竣工[しゅんこう]/
-Fertigung{f}/製作[せいさく]/加工[かこう]/製造[せいぞう]/
+Fertigstellung{f}/完成[かんせい]/
+Fertigung{f}/製作[せいさく]/
 Fertigungskontrolle{f}/工程管理[こうていかんり]/
 Fertigungstechnik{f}/生産技術[せいさんぎじゅつ]/
 Fertigungsverfahren{n}/製造工程[せいぞうこうてい]/
@@ -8954,36 +8953,36 @@ fesseln{vt}/奪う[うばう]/
 Fesseln{pl}{n}/足かせ[あしかせ]/
 fesselnd{adj}{adv}/魅惑的な[みわくてきな]/
 Fesselung{f}/束縛[そくばく]/
-Fest{n}/祭り[まつり]/宴[えん]/式典[しきてん]/祝い[いわい]/祝[いわい]/節句[せっく]/祝賀会[しゅくがかい]/お祝い[おいわい]/お祭り[おまつり]/宴会[えんかい]/祭典[さいてん]/行事[ぎょうじ]/祭[まつり]/
-fest{adv}{adj}/確か[たしか]/大丈夫[だいじょうぶ]/強い[つよい]/みっちり[みっちり]/ぎゅっと[ぎゅっと]/固い[かたい]/堅い[かたい]/硬い[かたい]/ぐっと[ぐっと]/びっしり[びっしり]/じっと[じっと]/タフ[たふ]/ハード[はーど]/ぴったり[ぴったり]/
+Fest{n}/祭[まつり]/
+fest{adv}{adj}/(solide) 堅い[かたい]/(genau passen) ぴったり合う[ぴったりあう]/
 fest entschlossen/敢然と[かんぜんと]/
 fest verbunden{adj}/がっぷり[がっぷり]/
 fest verwurzelt{adj}/根差しの堅い[ねざしのかたい]/
 Feste{f}/城塞[じょうさい]/
 feste Nahrung{f}/固形物[こけいぶつ]/
-Festessen{n}/祝[いわい]/祝い[いわい]/宴会[えんかい]/ご馳走[ごちそう]/
+Festessen{n}/(Bankett) 祝宴[しゅくえん]/
 Festgeld{n}/定期預金[ていきよきん]/
 festgesetzt{adv}/確か[たしか]/
 Festhalle{f}/式場[しきじょう]/
-Festhalten{n}/ホールド[ほーるど]/固執[こしゅう]/遵守[じゅんしゅ]/
-festhalten{vi}{vt}/持つ[もつ]/止める[とめる]/結ぶ[むすぶ]/押さえる[おさえる]/抑える[おさえる]/掴む[つかむ]/
-festhalten an{vi}/言い張る[いいはる]/
-Festigkeit{f}/確か[たしか]/固形[こけい]/頑な[かたくな]/毅然[きぜん]/強固[きょうこ]/堅実[けんじつ]/固さ[かたさ]/硬さ[かたさ]/頑丈[がんじょう]/がっちり[がっちり]/
+Festhalten{n}/(Beharren) 固執[こしゅう]/
+festhalten{vi}{vt}/持つ[もつ]/
+festhalten an{vi}/(auf etwas beharren) 言い張る[いいはる]/
+Festigkeit{f}/安定度[あんていど]/
 Festigung{f}/固結[こけつ]/
 Festivität{f}/宴楽[えんらく]/
 Festkleid{n}/式服[しきふく]/
 Festkörper{m}/固体[こたい]/
 Festkörperphysik{f}/物性物理学[ぶっせいぶつりがく]/
 Festkörperschaltkreis{m}/ソリッドステート回路[そりっどすてーとかいろ]/
-Festland{n}/大陸[たいりく]/本土[ほんど]/内地[ないち]/
-festlegen{vt}/選ぶ[えらぶ]/設ける[もうける]/
-Festlegung{f}/確定[かくてい]/固定[こてい]/査定[さてい]/一定[いってい]/
-Festlichkeit{f}/儀式[ぎしき]/儀[ぎ]/
-festmachen{vt}/止める[とめる]/付ける[つける]/固める[かためる]/着ける[つける]/繋ぐ[つなぐ]/
-Festmahl{n}/宴会[えんかい]/宴[えん]/ご馳走[ごちそう]/
+Festland{n}/大陸[たいりく]/
+festlegen{vt}/(auswählen) 選ぶ[えらぶ]/
+Festlegung{f}/(Entscheidung) 確定[かくてい]/
+Festlichkeit{f}/(Feierlichkeit) 儀式[ぎしき]/
+festmachen{vt}/(befestigen) 付ける[つける]/
+Festmahl{n}/(Bankett) 祝宴[しゅくえん]/
 Festmeter{m}/立米[りゅうべい]/
 festnageln{vt}/釘付けにする[くぎづけけにする]/
-Festnahme{f}/逮捕[たいほ]/縄[なわ]/
+Festnahme{f}/逮捕[たいほ]/
 Festordner{m}/幹事[かんじ]/
 Festplatte{f}/ハードディスク[はーどでぃすく]/
 Festplattenlaufwerk{n}/ハードディスクドライブ[はーどでぃすくどらいぶ]/
