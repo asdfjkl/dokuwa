@@ -7565,11 +7565,11 @@ Enterbung{f}/勘当[かんどう]/
 Enterich{m}/雄ガモ[おがも]/
 Enteritis{f}/腸炎[ちょうえん]/
 Entertainer{m}/エンターテイナー[えんたーていなー]/
-Entfaltung{f}/展開[てんかい]/開発[かいはつ]/進展[しんてん]/発揮[はっき]/発展[はってん]/
-entfernen{vt}/落とす[おとす]/離す[はなす]/取り除く[とりのぞく]/抜く[ぬく]/下げる[さげる]/
+Entfaltung{f}/発展[はってん]/
+entfernen{vt}/遠ざける[とおざける]/
 Entfernen{n}/疎外[そがい]/
 entfernt{adj}{adv}/程遠い[ほどとおい]/
-Entfernung{f}/間[あいだ]/道程[みちのり]/行程[こうてい]/法[のり]/撤去[てっきょ]/距離[きょり]/排除[はいじょ]/道のり[みちのり]/
+Entfernung{f}/(Abstand) 距離[きょり]/
 Entfernungsmesser{m}/距離計[きょりけい]/
 Entfernungsmessung{f}/テレメータリング[てれめーたりんぐ]/
 Entfernungstabelle{f}/里程表[りていひょう]/
@@ -7577,16 +7577,16 @@ entfesseln{vt}/縛めを解く[いましめをとく]/
 entfetten{vt}/脂肪を取る[しぼうをとる]/
 Entfeuchter{m}/乾燥器[かんそうき]/
 Entfeuchtung{f}/除湿[じょしつ]/
-Entfremdung{f}/阻害[そがい]/乖離[かいり]/疎遠[そえん]/
+Entfremdung{f}/疎遠[そえん]/
 entfärben{vt}/脱色する[だっしょくする]/
 Entfärben{n}/脱色[だっしょく]/
 entführen{vt}/連れ出す[つれだす]/
 Entführer{m}/誘拐犯[ゆうかいはん]/
 Entführung{f}/誘拐[ゆうかい]/
 Entgasung{f}/脱気[だっき]/
-entgegen{prp; +Dativ}/…に向かって[…にむかって]/
+entgegen{prp; +Dativ}/に向かって[にむかって]/
 entgegengehen{vi}/迎える[むかえる]/
-entgegengesetzt{adv}{adj}/逆に[ぎゃくに]/リバース[りばーす]/
+entgegengesetzt{adv}{adj}/逆に[ぎゃくに]/
 Entgegenkommen{n}/儀礼[ぎれい]/
 entgegenkommen{vi}/迎える[むかえる]/
 entgegenkommend{adj}/快く[こころよく]/
@@ -7598,20 +7598,21 @@ Entgraten{n}/鋳はだ掃除[いはだそうじ]/
 enthalten/含む[ふくむ]/
 enthalten sein{vi}/含まる[ふくまる]/
 enthaltsam{adv}{adj}/禁欲的[きんよくてき]/
-Enthaltsamkeit{f}/控えめ[ひかえめ]/控え目[ひかえめ]/禁酒[きんしゅ]/
+Enthaltsamkeit{f}/禁酒[きんしゅ]/
 Enthaltung{f}/不得手[ふえて]/
 Enthauptung{f}/斬[ざん]/
 entheiligen{vt}/汚す[けがす]/
 Enthusiast{m}/愛好者[あいこうしゃ]/
-enthüllen{vt}/表す[あらわす]/暴く[あばく]/現す[あらわす]/
-Enthüllung{f}/発覚[はっかく]/露呈[ろてい]/暴露[ばくろ]/摘発[てきはつ]/
+enthüllen{vt}/(offenbaren) 打ち明ける[うちあける]/(ein Denkmal ~) 除幕する[じょまくする]/
+Enthüllung{f}/(Aufdeckung) 暴露[ばくろ]/
 entjungfern{vt}/水揚げする[みずあげする]/
 Entkalkung{f}/石灰質除去[せっかいしつじょきょ]/
 Entkarbonisierung{f}/脱炭[だったん]/
 entkernen{vt}/芯を取る[しんをとる]/
 Entkerner{m}/芯取り器[しんどりき]/
 Entkohlung{f}/脱炭[だったん]/
-Entkommen{n}/脱出[だっしゅつ]/逃亡[とうぼう]/
+Entkommen{n}/脱出[だっしゅつ]/
+entkommen{vi}/逃れる[のがれる]/
 entkorken{vt}/口を開ける[くちをあける]/
 entkräften{vt}/消滅させる[しょうめつさせる]/
 Entkräftung{f}/衰弱[すいじゃく]/
@@ -7622,14 +7623,14 @@ entlang{prp; +Akkusativ; +Dativ; +Genitiv}/就いて[ついて]/
 entlangfahren{vi}/通る[とおる]/
 entlanggehen{vi}/通る[とおる]/
 entlassen{vt}/手放す[てばなす]/
-Entlassung{f}/暇[いとま]/御免[ごめん]/退職[たいしょく]/釈放[しゃくほう]/解任[かいにん]/解雇[かいこ]/許し[ゆるし]/追放[ついほう]/退社[たいしゃ]/辞職[じしょく]/
+Entlassung{f}/解雇[かいこ]/
 Entlassungsgesuch{n}/辞表[じひょう]/
 Entlassungsschreiben{n}/解雇通知[かいこつうち]/
 Entlastung{f}/軽減[けいげん]/
 Entlaubungsmittel{n}/枯葉剤[かれはざい]/
 entlaufen{vi}/逃げ出す[にげだす]/
 entleeren{vt}/排せつする[はいせつせつする]/
-Entleerung{f}/枯渇[こかつ]/排泄[はいせつ]/
+Entleerung{f}/(Erschöpfung, z.B. von Ressourcen) 枯渇[こかつ]/(Ausscheidung) 排泄[はいせつ]/
 Entlegenheit{f}/遠隔[えんかく]/
 Entleiher{m}/借主[かりぬし]/
 entlocken{vt}/聞き出す[ききだす]/
@@ -7646,7 +7647,7 @@ Entmilitarisierung{f}/非武装[ひぶそう]/
 Entmischung{f}/偏析[へんせき]/
 entmutigen{vt}/挫く[くじく]/
 entmutigend{adv}/張り合いのない[はりあいのない]/
-Entmutigung{f}/挫折[ざせつ]/落胆[らくたん]/
+Entmutigung{f}/落胆[らくたん]/
 Entmündigung{f}/禁治産[きんじさん]/
 entnazifizieren{vt}/ナチス組織を解体する[なちすそしきをかいたいする]/
 entnehmen{vt}/引っ張り出してくる[ひっぱりだしてくる]/
@@ -7659,56 +7660,55 @@ Entriegelung{f}/解錠[かいじょう]/
 Entropie{f}/エントロピー[えんとろぴー]/
 enträtseln{vt}/汲み取る[くみとる]/
 Entrückung{f}/三昧[ざんまい]/
-entsagen{vi}/捨てる[すてる]/諦める[あきらめる]/
-Entsagung{f}/覚悟[かくご]/諦め[あきらめ]/放棄[ほうき]/思いっきり[おもいっきり]/思い切り[おもいきり]/断念[だんねん]/
+entsagen{vi}/{vt} 諦める[あきらめる]/
+Entsagung{f}/諦め[あきらめ]/
 entsalzen{vt}/脱塩する[だつえんする]/
 Entsalzung{f}/淡水化[たんすいか]/
 Entsalzungsanlage{f}/淡水化プラント[たんすいかぷらんと]/
 Entsatz{m}/救援[きゅうえん]/
-entscheiden{vt}/極める[きわめる]/定める[さだめる]/
-entscheidend{adv}/決定的[けっていてき]/本質的[ほんしつてき]/
-entscheidender Moment/危機[きき]/正念場[しょうねんば]/
-Entscheidung{f}/決定[けってい]/確定[かくてい]/解決[かいけつ]/判決[はんけつ]/判断[はんだん]/審判[しんぱん]/決着[けっちゃく]/定め[さだめ]/決め[きめ]/断[だん]/ジャッジ[じゃっじ]/断定[だんてい]/決心[けっしん]/議決[ぎけつ]/思いっきり[おもいっきり]/決断[けつだん]/決まり[きまり]/決[けつ]/思い切り[おもいきり]/決意[けつい]/判定[はんてい]/
+entscheiden{vt}/決める[きめる]/
+entscheidend{adv}/本質的[ほんしつてき]/
+entscheidender Moment/危機[きき]/
+Entscheidung{f}/決定[けってい]/
 Entscheidungsbefugnis{f}/裁決権[さいけつけん]/
 Entscheidungsfindung{f}/意思決定[いしけってい]/
 Entscheidungsschlacht{f}/決戦[けっせん]/
 Entscheidungsspiel{n}/決戦[けっせん]/
 Entscheidungstheorie{f}/決定理論[けっていりろん]/
 Entscheidungsträger{m}/決め手[きめて]/
-entschieden{adv}/決まって[きまって]/ずばり[ずばり]/断固[だんこ]/断じて[だんじて]/きっぱり[きっぱり]/手強い[てごわい]/断然[だんぜん]/思い切って[おもいきって]/はっきり[はっきり]/固い[かたい]/堅い[かたい]/硬い[かたい]/
-Entschiedenheit{f}/決断[けつだん]/強硬[きょうこう]/果敢[かかん]/確固[かっこ]/
+entschieden{adv}/断固[だんこ]/
+Entschiedenheit{f}/決断[けつだん]/
 Entschließungsentwurf{m}/決議案[けつぎあん]/
-entschlossen{adv}/思い切って[おもいきって]/断固[だんこ]/手強い[てごわい]/断然[だんぜん]/固い[かたい]/堅い[かたい]/硬い[かたい]/敢えて[あえて]/
+entschlossen{adv}/断固[だんこ]/
 entschlossen sein/思い込む[おもいこむ]/
-Entschlossenheit{f}/覚悟[かくご]/気合い[きあい]/気合[きあい]/強硬[きょうこう]/毅然[きぜん]/一心[いっしん]/果敢[かかん]/確固[かっこ]/
-Entschluss{m}/覚悟[かくご]/発起[ほっき]/断[だん]/決心[けっしん]/思いっきり[おもいっきり]/決断[けつだん]/思い切り[おもいきり]/決意[けつい]/踏切[ふみきり]/
+Entschlossenheit{f}/(mit entschlossener Haltung) 決然たる態度で[けつぜんたるたいどで]/
+Entschluss{m}/決心[けっしん]/
 entschlüsseln{vt}/暗号文を解く[あんごうぶんをとく]/
 Entschlüsselung{f}/暗号解読[あんごうかいどく]/
 entschuldbar{adv}/無理のない[むりのない]/
-Entschuldigen Sie bitte!/済みません[すみません]/
-Entschuldigung{f}/挨拶[あいさつ]/申し訳[もうしわけ]/詫び[わび]/釈明[しゃくめい]/お断り[おことわり]/理屈[りくつ]/言い訳[いいわけ]/謝罪[しゃざい]/言い分[いいぶん]/許し[ゆるし]/謝り[あやまり]/断り[ことわり]/弁明[べんめい]/お詫び[おわび]/
+Entschuldigung{f}/言い訳[いいわけ]/(Entschuldigen Sie bitte!) 済みません[すみません]/
 Entschuldigungsschreiben{n}/詫び状[わびじょう]/
 entschwefeln{vt}/脱硫する[だつりゅうする]/
 Entschwefelung{f}/脱硫[だつりゅう]/
 Entschwefelungsanlage{f}/脱硫装置[だつりゅうそうち]/
-Entschädigung{f}/報酬[ほうしゅう]/代償[だいしょう]/入れ替え[いれかえ]/損害賠償[そんがいばいしょう]/賠償[ばいしょう]/補償[ほしょう]/
+Entschädigung{f}/損害賠償[そんがいばいしょう]/
 entschärfen{vt}/信管を取り除く[しんかんをとりのぞく]/
 entsenden{vt}/遣わす[つかわす]/
 Entsendung{f}/差遣[さけん]/
-Entsetzen{n}/ホラー[ほらー]/驚愕[きょうがく]/
-entsetzlich{adv}/凄い[すごい]/酷い[ひどい]/恐ろしい[おそろしい]/怖い[こわい]/恐い[こわい]/凄まじい[すさまじい]/恐るべき[おそるべき]/とんでもない[とんでもない]/
+Entsetzen{n}/驚愕[きょうがく]/
+entsetzlich{adv}/恐ろしい[おそろしい]/
 Entsetzlichkeit{f}/凄絶[せいぜつ]/
 entsetzt{adj}/愕然[がくぜん]/
 Entsorgung{f}/処理[しょり]/
 Entsorgungsanlage{f}/処理場[しょりじょう]/
 entspannt{adj}/ゆったり[ゆったり]/
-Entspannung{f}/リラックス[りらっくす]/憩い[いこい]/息抜き[いきぬき]/静養[せいよう]/リラクゼーション[りらくぜーしょん]/
+Entspannung{f}/静養[せいよう]/
 Entspannungsmittel{n}/緩和剤[かんわざい]/
-entsprechend{adj}{prp; +Dativ}{adv}/適当[てきとう]/相応しい[ふさわしい]/
-Entsprechung{f}/対応[たいおう]/相応[そうおう]/見合い[みあい]/適切[てきせつ]/
-entspringen{vi}/始まる[はじまる]/発する[はっする]/
-entstehen{vi}/出る[でる]/生じる[しょうじる]/起こる[おこる]/起きる[おきる]/出来る[できる]/成り立つ[なりたつ]/始まる[はじまる]/
-Entstehung{f}/誕生[たんじょう]/成り立ち[なりたち]/発生[はっせい]/起源[きげん]/起こり[おこり]/発端[ほったん]/発祥[はっしょう]/生成[せいせい]/生み[うみ]/成立[せいりつ]/
+entsprechend{adj}{prp; +Dativ}{adv}/相応しい[ふさわしい]/
+Entsprechung{f}/対応[たいおう]/
+entspringen{vi}/発する[はっする]/
+entstehen{vi}/生じる[しょうじる]/
+Entstehung{f}/発生[はっせい]/
 Entstehungsgeschichte{f}/縁起[えんぎ]/
 Entstehungsort{m}/発祥地[はっしょうち]/
 entstellen{vt}/曲げる[まげる]/
@@ -7716,18 +7716,18 @@ Entstellung{f}/曲解[きょっかい]/
 entthronen{vt}/追い落とす[おいおとす]/
 enttäuschen{vt}/裏切る[うらぎる]/
 enttäuschend{adv}/残念な[ざんねんな]/
-Enttäuschung{f}/残念[ざんねん]/失望[しつぼう]/拍子抜け[ひょうしぬけ]/落胆[らくたん]/
+Enttäuschung{f}/失望[しつぼう]/
 Entvölkerung{f}/過疎[かそ]/
 entwachsen{vi}/卒業する[そつぎょうする]/
 entwaffnen{vt}/武装解除する[ぶそうかいじょする]/
 Entwaffnung{f}/武装解除[ぶそうかいじょ]/
-entweichen{vi}/抜ける[ぬける]/逃れる[のがれる]/
+entweichen{vi}/(z.B. Gas) 抜ける[ぬける]/
 entweihen{vt}/汚す[けがす]/
 Entweihung{f}/冒涜[ぼうとく]/
 entwerfen{vt}/立てる[たてる]/
 Entwertung{f}/低下[ていか]/
 Entwickler{m}/開発者[かいはつしゃ]/
-Entwicklung{f}/成長[せいちょう]/発生[はっせい]/進展[しんてん]/進歩[しんぽ]/経過[けいか]/進化[しんか]/進み[すすみ]/発達[はったつ]/発展[はってん]/現象[げんしょう]/経路[けいろ]/向上[こうじょう]/現像[げんぞう]/運び[はこび]/養成[ようせい]/展開[てんかい]/育ち[そだち]/
+Entwicklung{f}/発展[はってん]/
 Entwicklungsabteilung{f}/商品開発部[しょうひんかいはつぶ]/
 Entwicklungsgeschichte{f}/沿革[えんかく]/
 Entwicklungshilfe{f}/海外援助[かいがいえんじょ]/
@@ -7742,7 +7742,7 @@ Entwicklungsstufe{f}/発達段階[はったつだんかい]/
 Entwicklungsumgebung{f}/開発環境[かいはつかんきょう]/
 Entwicklungszeit{f}/形成期[けいせいき]/
 entwirren{vt}/解きほぐす[ときほぐす]/
-Entwurf{m}/作成[さくせい]/構図[こうず]/原稿[げんこう]/計画[けいかく]/ドラフト[どらふと]/下書き[したがき]/工夫[くふう]/考案[こうあん]/作製[さくせい]/案[あん]/設計[せっけい]/稿[こう]/趣向[しゅこう]/意匠[いしょう]/プラン[ぷらん]/草案[そうあん]/構想[こうそう]/企画[きかく]/立案[りつあん]/
+Entwurf{m}/構想[こうそう]/
 entwurzeln{vt}/根を抜く[ねをぬく]/
 entwässern{vt}/涸らす[からす]/
 Entwässerung{f}/脱水[だっすい]/
@@ -7758,19 +7758,19 @@ entziehen{vt}/取り上げる[とりあげる]/
 Entzifferung{f}/判読[はんどく]/
 Entzug{m}/禁断[きんだん]/
 Entzugserscheinung{f}/退薬症状[たいやくしょうじょう]/
-entzweibrechen{vi}/壊れる[こわれる]/壊す[こわす]/
+entzweibrechen{vi}/壊れる[こわれる]/
 Entzweiung{f}/隔て[へだて]/
-Entzücken{n}/快感[かいかん]/悦[えつ]/
-entzückend{adv}/可愛い[かわいい]/美しい[うつくしい]/愛らしい[あいらしい]/愛くるしい[あいくるしい]/可愛らしい[かわいらしい]/
+Entzücken{n}/快感[かいかん]/
+entzückend{adv}/魅力的な[みりょくてきな]/
 entzückt{adv}/うっとり[うっとり]/
 entzündbar{adv}/引火性の[いんかせいの]/
 Entzündbarkeit{f}/可燃性[かねんせい]/
 entzünden{vt}/熾す[おこす]/
-Entzündung{f}/炎症[えんしょう]/点火[てんか]/
+Entzündung{f}/炎症[えんしょう]/
 Enzephalitis{f}/脳炎[のうえん]/
 Enzian{m}/竜胆[りんどう]/
 Enzyklika{f}/回勅[かいちょく]/
-Enzyklopädie{f}/事典[じてん]/百科事典[ひゃっかじてん]/
+Enzyklopädie{f}/百科事典[ひゃっかじてん]/
 Enzym{n}/酵素[こうそ]/
 Epidemie{f}/疫病[えきびょう]/
 Epidemiologie{f}/疫学[えきがく]/
@@ -7788,37 +7788,37 @@ Epiphanias{n}/公現祭[こうげんさい]/
 Epiphänomen{n}/副現象[ふくげんしょう]/
 Episiotomie{f}/会陰切開[えいんせっかい]/
 Episkopalkirche{f}/監督教会[かんとくきょうかい]/
-Episode{f}/物語[ものがたり]/逸話[いつわ]/エピソード[えぴそーど]/
+Episode{f}/エピソード[えぴそーど]/
 episodisch{adv}/挿話的な[そうわてきな]/
 Epistel{f}/使徒書簡[しとしょかん]/
 Epistemologie{f}/認識論[にんしきろん]/
 Epizentrum{n}/震源[しんげん]/
-Epoche{f}/朝[ちょう]/時代[じだい]/年代[ねんだい]/
+Epoche{f}/時代[じだい]/
 Epos{n}/エピック[えぴっく]/
 Epoxidharz{n}/エポキシ樹脂[えぽきしじゅし]/
-er{ppron}/向こう[むこう]/あの人[あのひと]/あの人[あのひと]/此方[こなた]/その方[そのかた]/向う[むこう]/某氏[ぼうし]/先方[せんぽう]/あの方[あのかた]/
-Erbarmen{n}/同情[どうじょう]/哀れ[あわれ]/慈悲[じひ]/
+er{ppron}/彼[かれ]/(jene Person) あの人[あのひと]/
+Erbarmen{n}/(Mitleid) 同情[どうじょう]/
 erbauen{vt}/建てる[たてる]/
 Erbauer{m}/建設者[けんせつしゃ]/
 Erbauung{f}/啓発[けいはつ]/
 Erbberechtigung{f}/相続権[そうぞくけん]/
-Erbe{m}{n}/遺産[いさん]/後継者[こうけいしゃ]/遺跡[いせき]/後継[こうけい]/跡[あと]/
-erben{vt}/継ぐ[つぐ]/引き継ぐ[ひきつぐ]/
+Erbe{m}{n}/遺産[いさん]/
+erben{vt}/相続する[そうぞくする]/
 erbeuten{vt}/獲る[える]/
 Erbfeind{m}/宿敵[しゅくてき]/
 Erbfolge{f}/相続[そうぞく]/
 erbittert{adv}/烈烈[れつれつ]/
-Erbitterung{f}/怒り[いかり]/憤慨[ふんがい]/鬱憤[うっぷん]/
+Erbitterung{f}/立腹[りっぷく]/
 Erbkrankheit{f}/遺伝病[いでんびょう]/
 erblich{adv}/遺伝的の[いでんてきの]/
 Erblichkeit{f}/遺伝性[いでんせい]/
-erblicken{vt}/見る[みる]/見かける[みかける]/
+erblicken{vt}/見つける[みつける]/
 Erblindung{f}/失明[しつめい]/
 Erbmasse{f}/相続財産[そうぞくざいさん]/
 erbrechen{vi}/上げる[あげる]/
 Erbrechen{n}/おう吐[おうと]/
 Erbrecht{n}/相続権[そうぞくけん]/
-Erbschaft{f}/遺産[いさん]/相続[そうぞく]/
+Erbschaft{f}/相続[そうぞく]/
 Erbschaftssteuer{f}/相続税[そうぞくぜい]/
 Erbse{f}/豌豆[えんどう]/
 Erbsenstein{m}/豆石[まめいし]/
@@ -7826,7 +7826,7 @@ Erbstück{n}/遺品[いひん]/
 Erbsünde{f}/原罪[げんざい]/
 Erbteil{n}/相続分[そうぞくぶん]/
 erbärmlich{adv}/情けない[なさけない]/
-Erbärmlichkeit{f}/不便[ふびん]/不憫[ふびん]/可憐[かれん]/
+Erbärmlichkeit{f}/不憫[ふびん]/
 Erdachse{f}/地軸[ちじく]/
 Erdanker{m}/アース･アンカー[あーすあんかー]/
 Erdarbeiten{pl}/土工[どこう]/
@@ -7839,13 +7839,13 @@ erdbebensicher{adj}/耐震性の[たいしんせいの]/
 Erdbebensicherheit{f}/耐震[たいしん]/
 Erdbebenstärke{f}/震度[しんど]/
 Erdbebenwelle{f}/地震波[じしんは]/
-Erdbeere{f}/苺[いちご]/ストロベリー[すとろべりー]/
+Erdbeere{f}/苺[いちご]/
 Erdbeschleunigung{f}/重力加速度[じゅうりょくかそくど]/
 Erdbohrer{m}/アース･オーガー[あーすおーがー]/
 Erddamm{m}/土手[どて]/
 Erddrossel{f}/トラツグミ[とらつぐみ]/
 Erddruck{m}/土圧[どあつ]/
-Erde{f}/土[つち]/地[じ]/土壌[どじょう]/地中[ちちゅう]/天下[てんか]/地面[じめん]/大地[だいち]/地球[ちきゅう]/アース[あーす]/アース[あーす]/世界[せかい]/
+Erde{f}/土[つち]/(Erdkugel) 地球[ちきゅう]/
 erden{vt}/アースする[あーすする]/
 Erderwärmung{f}/地球温暖化[ちきゅうおんだんか]/
 erdfarben{adj}/土色の[つちいろの]/
@@ -7858,7 +7858,7 @@ Erdkern{m}/地心[ちしん]/
 Erdkruste{f}/地殻[ちかく]/
 Erdkugel{f}/世界[せかい]/地球[ちきゅう]/
 Erdmantel{m}/マントル[まんとる]/
-Erdnuss{f}/ピーナッツ[ぴーなっつ]/落花生[らっかせい]/
+Erdnuss{f}/ピーナッツ[ぴーなっつ]/
 Erdnussbutter{f}/ピーナツバター[ぴーなつばたー]/
 Erdoberfläche{f}/地面[じめん]/
 erdrosseln{vt}/絞め殺す[しめころす]/
@@ -7872,60 +7872,59 @@ Erdungseinrichtung{f}/接地装置[せっちそうち]/
 Erdwall{m}/土手[どて]/
 Erdwärme{f}/地熱[じねつ]/
 Erdwärmekraftwerk{n}/地熱発電所[じねつはつでんしょ]/
-Erdöl{n}/原油[げんゆ]/石油[せきゆ]/
+Erdöl{n}/石油[せきゆ]/
 Erdölerzeugnis{n}/石油製品[せきゆせいひん]/
 Erdölfirma{f}/石油会社[せきゆがいしゃ]/
 Erdöllagerstätte{f}/石油鉱床[せきゆこうしょう]/
 Erdölraffinerie{f}/石油精錬所[せきゆせいれんじょ]/
-Ereignis{n}/事[こと]/出来事[できごと]/現象[げんしょう]/事件[じけん]/現像[げんぞう]/事象[じしょう]/変わり[かわり]/事変[じへん]/行事[ぎょうじ]/
-ereignislos{adj}{adv}/坦々[たんたん]/変わりなく[かわりなく]/
+Ereignis{n}/出来事[できごと]/
+ereignislos{adj}{adv}/坦々[たんたん]/
 ereignisorientiert{adj}/イベント駆動型の[いべんとくどうがたの]/
 ereignisreich{adv}/多事多端な[たじたたんな]/
 Erektion{f}/勃起[ぼっき]/
 Eremit{m}/仙人[せんにん]/
 ererbt{adj}{adv}/伝来の[でんらいの]/
-erfahren{vt}{adj}{adv}/見る[みる]/慣れた[なれた]/耳にする[みみにする]/接する[せっする]/分かる[わかる]/分る[わかる]/判る[わかる]/解る[わかる]/舐める[なめる]/会う[あう]/逢う[あう]/味わう[あじわう]/伺う[うかがう]/知る[しる]/知る[しる]/
+erfahren{vt}/経験する[けいけんする]/
+erfahren{adj}{adv}/熟練した[じゅくれんした]/
 Erfahrenheit{f}/経験[けいけん]/
-Erfahrung{f}/目[め]/味[あじ]/見聞[けんぶん]/経験[けいけん]/眼[め]/慣れ[なれ]/事[こと]/キャリア[きゃりあ]/心得[こころえ]/見聞き[みきき]/
+Erfahrung{f}/経験[けいけん]/
 Erfahrungsbericht{m}/体験談[たいけんだん]/
 erfahrungsgemäß{adj}{adv}/経験的[けいけんてき]/
-erfassen{vt}/握る[にぎる]/掴む[つかむ]/
+erfassen{vt}/(begreifen) 把握する[はあくする]/
 Erfassen{n}/把握[はあく]/
 Erfassung{f}/リストアップ[りすとあっぷ]/
 erfinden{vt}/作り上げる[つくりあげる]/
-Erfinder{m}/元祖[がんそ]/生みの親[うみのおや]/
+Erfinder{m}/発明者[はつめいしゃ]/
 erfinderisch/独創的[どくそうてき]/
-Erfindung{f}/創作[そうさく]/発明[はつめい]/虚構[きょこう]/考案[こうあん]/捏造[ねつぞう]/
-Erfolg{m}/結果[けっか]/験[しるし]/甲斐[かい]/出来栄え[できばえ]/得意[とくい]/実績[じっせき]/効[かい]/当たり[あたり]/当り[あたり]/勝利[しょうり]/実効[じっこう]/サクセス[さくせす]/成果[せいか]/成功[せいこう]/出来[でき]/効果[こうか]/繁盛[はんじょう]/盛況[せいきょう]/効力[こうりょく]/効き目[ききめ]/成績[せいせき]/
-Erfolg haben{vi}/なる[なる]/当たる[あたる]/当る[あたる]/当てる[あてる]/
-erfolgen/起こる[おこる]/至る[いたる]/
-erfolglos{adv}{adj}/ダメ[だめ]/虚しい[むなしい]/駄目[だめ]/
-Erfolglosigkeit{f}/ダメ[だめ]/駄目[だめ]/
-erfolgreich{adj}{adv}/効果的[こうかてき]/旨く[うまく]/盛ん[さかん]/まんまと[まんまと]/
+Erfindung{f}/発明[はつめい]/
+Erfolg{m}/成功[せいこう]/
+erfolgen/(passieren) 起こる[おこる]/
+erfolglos{adv}{adj}/不成功の[ふせいこうの]/
+Erfolglosigkeit{f}/(Misserfolg) 不成功[ふせいこう]/
+erfolgreich{adj}{adv}/成功した[せいこうした]/
 Erfolgsaussicht{f}/勝算[しょうさん]/
 Erfolgshonorar{n}/成功報酬[せいこうほうしゅう]/
 Erfolgsrate{f}/成功率[せいこうりつ]/
 erforderlich{adj}{adv}/入用な[にゅうような]/
-Erfordernis{n}/必要[ひつよう]/要請[ようせい]/所用[しょよう]/要求[ようきゅう]/
-erforschen{vt}/調べる[しらべる]/探る[さぐる]/
+Erfordernis{n}/(Notwendigkeit) 必要[ひつよう]/
+erforschen{vt}/研究する[けんきゅうする]/
 Erforscher{m}/探究者[たんきゅうしゃ]/
-Erforschung{f}/研究[けんきゅう]/鑑[かん]/調べ[しらべ]/探査[たんさ]/探究[たんきゅう]/見極め[みきわめ]/探検[たんけん]/
+Erforschung{f}/研究[けんきゅう]/
 erfreuen{vt}/喜ばす[よろこばす]/
-erfreulich{adj}{adv}/楽しい[たのしい]/ナイス[ないす]/微笑ましい[ほおえましい]/好ましい[このましい]/愉しい[たのしい]/喜ばしい[よろこばしい]/
-erfreut{adv}/嬉しい[うれしい]/嬉しそう[うれしそう]/いそいそ[いそいそ]/
+erfreulich{adj}{adv}/喜ばしい[よろこばしい]/
+erfreut{adv}/嬉しい[うれしい]/
 erfrieren{vi}/凍え死ぬ[こごえしぬ]/
 Erfrierung{f}/凍死[とうし]/
 erfrischen{vt}/いきいきさせる[いきいきさせる]/
-Erfrischung{f}/爽快[そうかい]/息抜き[いきぬき]/
-Erfrischungsraum{m}/休憩室[きゅうけいしつ]/休憩所[きゅうけいじょ]/
+Erfrischung{f}/(~getränk) 清涼飲料[せいりょういんりょう]/
 erfroren{adj}/霜焼けにかかった[しもやけにかかった]/
 erfunden{adj}/根拠のない[こんきょのない]/
-erfüllen{vt}/行う[おこなう]/踏む[ふむ]/ふむ[ふむ]/応える[こたえる]/行なう[おこなう]/叶う[かなう]/果たす[はたす]/満たす[みたす]/満たす[みたす]/
+erfüllen{vt}/(eine Bitte ~) 叶える[かなえる]/
 erfüllt{adv}/満ち足りた[みちたりた]/
-Erfüllung{f}/実行[じっこう]/成就[じょうじゅ]/本望[ほんもう]/
-ergeben{adv}/登る[のぼる]/上る[のぼる]/昇る[のぼる]/
+Erfüllung{f}/(Verwirklichung) 実現[じつげん]/
+ergeben{adv}/(hingebungsvoll) 献身的な[けんしんてきな]/
 Ergebenheit{f}/従順[じゅうじゅん]/
-Ergebnis{n}/後[あと]/実[み]/果[か]/結末[けつまつ]/産物[さんぶつ]/甲斐[かい]/出来栄え[できばえ]/結果[けっか]/決着[けっちゃく]/実績[じっせき]/効[かい]/落ち[おち]/仕上げ[しあげ]/業績[ぎょうせき]/成果[せいか]/出来[でき]/効果[こうか]/答え[こたえ]/答[こたえ]/成績[せいせき]/
+Ergebnis{n}/結果[けっか]/
 ergebnislos{adj}{adv}/から[から]/
 Ergebung{f}/諦め[あきらめ]/
 ergiebig{adv}{adj}/豊か[ゆたか]/
@@ -7933,23 +7932,23 @@ Ergiebigkeit{f}/能率[のうりつ]/
 Ergonomie{f}/人間工学[にんげんこうがく]/
 Ergotherapie{f}/作業療法[さぎょうりょうほう]/
 Ergotismus{m}/麦角中毒[ばっかくちゅうどく]/
-ergreifen{vt}/とる[とる]/捉える[つかまえる]/取る[とる]/握る[にぎる]/握る[にぎる]/捕まえる[つかまえる]/掴む[つかむ]/
-ergreifend{adv}/可哀想[かわいそう]/可哀相[かわいそう]/
-Ergriffenheit{f}/感動[かんどう]/感激[かんげき]/
+ergreifen{vt}/(greifen) 掴む[つかむ]/
+ergreifend{adv}/感動的な[かんどうてきな]/
+Ergriffenheit{f}/感動[かんどう]/
 Erguss{m}/流露[りゅうろ]/
 Ergussgestein{n}/火成岩[かせいがん]/
-ergänzen{vt}/変える[かえる]/回す[まわす]/補う[おぎなう]/継ぐ[つぐ]/揃える[そろえる]/満たす[みたす]/
+ergänzen{vt}/補う[おぎなう]/
 ergänzend{adj}/補足の[ほそくの]/
-Ergänzung{f}/追加[ついか]/補足[ほそく]/補欠[ほけつ]/補完[ほかん]/加筆[かひつ]/補充[ほじゅう]/補給[ほきゅう]/サプリメント[さぷりめんと]/足し[たし]/
+Ergänzung{f}/補足[ほそく]/
 Ergötzen{n}/悦楽[えつらく]/
-erhaben{adj}{adv}/高[こう]/堂々[どうどう]/
-Erhabenheit{f}/至高[しこう]/威厳[いげん]/尊厳[そんげん]/荘厳[そうごん]/威風[いふう]/
+erhaben{adj}{adv}/荘厳な[そうごんな]/
+Erhabenheit{f}/荘厳[そうごん]/
 Erhalt{m}/入手[にゅうしゅ]/
-erhalten{vt}{vi}/受ける[うける]/保つ[たもつ]/手に入れる[てにいれる]/食らう[くらう]/喰らう[くらう]/貰う[もらう]/受け取る[うけとる]/頂く[いただく]/繋ぐ[つなぐ]/
-Erhaltung{f}/保持[ほじ]/保全[ほぜん]/保有[ほゆう]/維持[いじ]/保護[ほご]/保守[ほしゅ]/整備[せいび]/保存[ほぞん]/
+erhalten{vt}/受ける[うける]/
+Erhaltung{f}/維持[いじ]/
 erheben{vt}/集める[あつめる]/
-erheblich{adj}/大分[だいぶん]/いい加減[いいかげん]/多大[ただい]/遥かに[はるかに]/遥か[はるか]/
-Erhebung{f}/丘[おか]/徴収[ちょうしゅう]/うねり[うねり]/高所[こうしょ]/岡[おか]/小山[こやま]/
+erheblich{adj}/多大の[ただいの]/
+Erhebung{f}/(Hügel) 丘[おか]/(Umfrage) アンケート[あんけーと]/
 erheitern{vt}/引き立てる[ひきたてる]/
 Erheiterung{f}/法楽[ほうらく]/
 erhellen{vt}/輝かす[かがやかす]/
@@ -7957,46 +7956,46 @@ erhitzen{vt}/加熱する[かねつする]/
 Erhitzen{n}/加熱[かねつ]/
 erhoffen{vt}/期す[きす]/
 erholsam{adj}/慰安的[いあんてき]/
-Erholung{f}/戻り[もどり]/休養[きゅうよう]/息抜き[いきぬき]/再起[さいき]/静養[せいよう]/リラクゼーション[りらくぜーしょん]/保養[ほよう]/気晴らし[きばらし]/
+Erholung{f}/休養[きゅうよう]/
 Erholungsgebiet{n}/娯楽地[ごらくち]/
 Erholungsheim{n}/保養所[ほようしょ]/
 Erholungsort{m}/リゾート[りぞーと]/
 Erholungspause{f}/休憩時間[きゅうけいじかん]/
 Erholungszentrum{n}/レクリエーション･センター[れくりえーしょんせんたー]/
 Erhängen{n}/絞殺[こうさつ]/
-erhöhen{vt}/上げる[あげる]/増やす[ふやす]/増す[ます]/高める[たかめる]/加える[くわえる]/
-Erhöhung{f}/アップ[あっぷ]/盛り上がり[もりあがり]/高地[こうち]/引き上げ[ひきあげ]/高台[たかだい]/
+erhöhen{vt}/上げる[あげる]/
+Erhöhung{f}/(Zunahme) 増加[ぞうか]/
 erinnern{vt}/記す[きす]/
-Erinnerung{f}/記憶[きおく]/思い出[おもいで]/想い出[おもいで]/回想[かいそう]/メモリー[めもりー]/記念品[きねんひん]/想起[そうき]/脳裏[のうり]/回顧[かいこ]/記念[きねん]/メモリ[めもり]/覚え[おぼえ]/追憶[ついおく]/警告[けいこく]/
+Erinnerung{f}/思い出[おもいで]/
 Erinnerungslücke{f}/記憶の空白[きおくのくうはく]/
 Erinnerungsvermögen{n}/記憶力[きおくりょく]/
 erkennbar{adv}{adj}/目に見えて[めにみえて]/
-erkennen{vt}/分かる[わかる]/分る[わかる]/判る[わかる]/解る[わかる]/察する[さっする]/割れる[われる]/
-erkenntlich{adj}/有難い[ありがたい]/有り難い[ありがたい]/
-Erkenntlichkeit{f}/感謝[かんしゃ]/恩返し[おんがえし]/
-Erkenntnis{f}/認識[にんしき]/見識[けんしき]/見分け[みわけ]/宣告[せんこく]/認知[にんち]/
+erkennen{vt}/悟る[さとる]/
+erkenntlich{adj}/(sich erkenntlich zeigen; seine Dankbarkeit zum Ausdruck bringen) 感謝の意を表する[かんしゃのいをひょうする]/
+Erkenntlichkeit{f}/感謝[かんしゃ]/
+Erkenntnis{f}/認識[にんしき]/
 Erkenntnistheorie{f}/認識論[にんしきろん]/
 Erkennung{f}/鑑識[かんしき]/
 Erkennungsmarke{f}/認識票[にんしきひょう]/
 Erkennungszeichen{n}/認識票[にんしきひょう]/
 Erkerfenster{n}/出窓[でまど]/
 erklingen lassen{vt}/響き渡る[ひびきわたる]/
-erklären{vt}/言う[いう]/説く[とく]/明らかにする[あきらかにする]/教える[おしえる]/含める[ふくめる]/言い聞かせる[いいきかせる]/云う[いう]/
+erklären{vt}/教える[おしえる]/
 erklärend{adj}/説明的な[せつめいてきな]/
-Erklärung{f}/説明[せつめい]/申し訳[もうしわけ]/議論[ぎろん]/演説[えんぜつ]/釈明[しゃくめい]/キー[きー]/メッセージ[めっせーじ]/言い訳[いいわけ]/言い訳[いいわけ]/解明[かいめい]/宣告[せんこく]/宣言[せんげん]/説明文[せつめいぶん]/申告[しんこく]/布告[ふこく]/解釈[かいしゃく]/解説[かいせつ]/弁明[べんめい]/表明[ひょうめい]/
+Erklärung{f}/説明[せつめい]/
 Erkrankung{f}/発病[はつびょう]/
 erkunden{vt}/質す[ただす]/
-Erkundung{f}/調査[ちょうさ]/偵察[ていさつ]/
-Erkältung{f}/風邪[かぜ]/カゼ[かぜ]/
-erlangen{vt}/上げる[あげる]/達する[たっする]/
-Erlangung{f}/獲得[かくとく]/入手[にゅうしゅ]/
-Erlass{m}/達[たっし]/達し[たっし]/通達[つうたつ]/免除[めんじょ]/布告[ふこく]/許し[ゆるし]/
+Erkundung{f}/調査[ちょうさ]/
+Erkältung{f}/風邪[かぜ]/
+erlangen{vt}/獲得する[かくとくする]/
+Erlangung{f}/獲得[かくとく]/
+Erlass{m}/布告[ふこく]/
 Erlassung{f}/免除[めんじょ]/
-Erlaubnis{f}/挨拶[あいさつ]/御免[ごめん]/承知[しょうち]/認可[にんか]/許容[きょよう]/許可[きょか]/許諾[きょだく]/免許[めんきょ]/許し[ゆるし]/承諾[しょうだく]/断り[ことわり]/
+Erlaubnis{f}/承知[しょうち]/
 erlaubt{adj}{adv}/公許を受けた[こうきょをうけた]/
-erleben{vt}/味わう[あじわう]/接する[せっする]/舐める[なめる]/
-erledigen{vt}/扱う[あつかう]/済ませる[すませる]/済ます[すます]/片付ける[かたづける]/終える[おえる]/
-erledigt{adj}/決まって[きまって]/済み[すみ]/
+erleben{vt}/体験する[たいけんする]/
+erledigen{vt}/済ませる[すませる]/
+erledigt{adj}/(Fertig!; Geschafft!) できた[できた]/{ugs.}(erschöpft) 疲れた[つかれた]/
 Erledigung{f}/処理[しょり]/始末[しまつ]/結末[けつまつ]/お使い[おつかい]/
 erleichtern{vt}/容易にする[よういにする]/
 erleichtert aufatmen{vi}/息をつく[いきをつく]/
