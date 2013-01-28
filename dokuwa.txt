@@ -7996,67 +7996,67 @@ erlaubt{adj}{adv}/公許を受けた[こうきょをうけた]/
 erleben{vt}/体験する[たいけんする]/
 erledigen{vt}/済ませる[すませる]/
 erledigt{adj}/(Fertig!; Geschafft!) できた[できた]/{ugs.}(erschöpft) 疲れた[つかれた]/
-Erledigung{f}/処理[しょり]/始末[しまつ]/結末[けつまつ]/お使い[おつかい]/
+Erledigung{f}/処理[しょり]/
 erleichtern{vt}/容易にする[よういにする]/
 erleichtert aufatmen{vi}/息をつく[いきをつく]/
 erleichtert sein/撫で下ろす[なでおろす]/
-Erleichterung{f}/楽[らく]/リリーフ[りりーふ]/安心[あんしん]/緩和[かんわ]/安堵[あんど]/便利さ[べんりさ]/便利[べんり]/
-erleiden{vt}/受ける[うける]/会う[あう]/逢う[あう]/味わう[あじわう]/
+Erleichterung{f}/安心[あんしん]/
+erleiden{vt}/受ける[うける]/
 Erlesenheit{f}/精妙[せいみょう]/
 erleuchten{vt}/輝かす[かがやかす]/
-Erleuchtung{f}/悟り[さとり]/啓蒙[けいもう]/覚[さとり]/
+Erleuchtung{f}/着想[ちゃくそう]/
 erliegen{vi}/陥る[おちいる]/
 Erlkönig{m}/試作車[しさくしゃ]/
-erläutern{vt}/述べる[のべる]/説く[とく]/
+erläutern{vt}/説く[とく]/
 erläuternd{adv}/説明的な[せつめいてきな]/
-Erläuterung{f}/説明[せつめい]/解明[かいめい]/説明文[せつめいぶん]/解釈[かいしゃく]/解説[かいせつ]/
-Erlös{m}/売り上げ[うりあげ]/収益[しゅうえき]/売上げ[うりあげ]/売上[うりあげ]/
+Erläuterung{f}/説明[せつめい]/
+Erlös{m}/収益[しゅうえき]/
 erlöschen{vi}/消える[きえる]/
-Erlöschen{n}/消滅[しょうめつ]/滅亡[めつぼう]/断絶[だんぜつ]/終焉[しゅうえん]/
+Erlöschen{n}/消滅[しょうめつ]/
 erlösen{vt}/救う[すくう]/
 Erlöser{m}/救世主[きゅうせいしゅ]/
-Erlösung{f}/救い[すくい]/救済[きゅうさい]/
-ermahnen{vt}/教える[おしえる]/言い聞かせる[いいきかせる]/
-Ermahnung{f}/警告[けいこく]/戒め[いましめ]/忠告[ちゅうこく]/苦言[くげん]/談義[だんぎ]/
+Erlösung{f}/救済[きゅうさい]/
+ermahnen{vt}/警告する[けいこくする]/
+Ermahnung{f}/警告[けいこく]/
 ermatten{vi}/疲れる[つかれる]/
 ermattet{adv}/所労の[しょろうの]/
-Ermattung{f}/疲れ[つかれ]/困憊[こんぱい]/
-Ermessen{n}/判断[はんだん]/裁量[さいりょう]/
+Ermattung{f}/(Erschöpfung) 疲れ[つかれ]/
+Ermessen{n}/評価[ひょうか]/
 Ermessensfreiheit{f}/自由裁量権[じゆうさいりょうけん]/
-ermitteln/調べる[しらべる]/求める[もとめる]/
+ermitteln/(untersuchen) 調べる[しらべる]/(recherchieren) 捜査する[そうさする]/
 Ermittler{m}/捜査官[そうさかん]/
-Ermittlung{f}/捜査[そうさ]/調べ[しらべ]/検察[けんさつ]/
+Ermittlung{f}/捜査[そうさ]/
 Ermordung{f}/殺人[さつじん]/
-ermutigen{vt}/勧める[すすめる]/励ます[はげます]/
-Ermutigung{f}/気合[きあい]/奮起[ふんき]/勇[いさみ]/気合い[きあい]/励み[はげみ]/奨励[しょうれい]/激励[げきれい]/
+ermutigen{vt}/励ます[はげます]/
+Ermutigung{f}/励み[はげみ]/
 Ermächtigung{f}/委任[いにん]/
 Ermächtigungsgesetz{n}/授権法[じゅけんぽう]/
 ermäßigen{vt}/割り引く[わりびく]/
-Ermäßigung{f}/引き[ひき]/値引き[ねびき]/減額[げんがく]/割引[わりびき]/
+Ermäßigung{f}/割引[わりびき]/
 ermöglichen{vt}/繰り合わせる[くりあわせる]/
 ermüden{vi}/疲れる[つかれる]/
 ermüdend{adj}{adv}/しんどい[しんどい]/
 ermüdet/げんなり[げんなり]/
-Ermüdung{f}/疲れ[つかれ]/困憊[こんぱい]/疲労[ひろう]/疲弊[ひへい]/
+Ermüdung{f}/疲れ[つかれ]/
 Ermüdungsbruch{m}/疲労骨折[ひろうこっせつ]/
-ernennen{vt}/置く[おく]/招く[まねく]/
-Ernennung{f}/採用[さいよう]/起用[きよう]/指名[しめい]/任命[にんめい]/
+ernennen{vt}/任命する[にんめいする]/ 
+Ernennung{f}/任命[にんめい]/
 Ernennungsurkunde{f}/辞令[じれい]/
 erneuerbar{adj}/更新できる[こうしんできる]/
 Erneuerer{m}/改革者[かいかくしゃ]/
 erneuern{vt}/切り替える[きりかえる]/
-Erneuerung{f}/更新[こうしん]/維新[いしん]/切り替え[きりかえ]/切替[きりかえ]/リフレッシュ[りふれっしゅ]/リニューアル[りにゅーある]/革新[かくしん]/一新[いっしん]/改革[かいかく]/改革[かいかく]/近代化[きんだいか]/改装[かいそう]/継続[けいぞく]/新陳代謝[しんちんたいしゃ]/
+Erneuerung{f}/更新[こうしん]/
 Erneuerungsschein{m}/利札引替券[りふだひきかえけん]/
-erneut{adj}/再び[ふたたび]/今更[いまさら]/今さら[いまさら]/新しく[あたらしく]/
+erneut{adj}/新た[あらた]/
 erniedrigen{vt}/落とす[おとす]/
 erniedrigend{adv}{adj}/屈辱的[くつじょくてき]/
 Erniedrigung{f}/屈辱[くつじょく]/
-ernst{adv}/大変[たいへん]/重い[おもい]/厳しい[きびしい]/大事[だいじ]/でかい[でかい]/重たい[おもたい]/まじ[まじ]/マジ[まじ]/みっちり[みっちり]/大した[たいした]/危ない[あぶない]/固い[かたい]/堅い[かたい]/硬い[かたい]/偉い[えらい]/本格的[ほんかくてき]/シリアス[しりあす]/シビア[しびあ]/
-Ernst{m}/本気[ほんき]/真面目[まじめ]/深刻[しんこく]/厳しさ[いかめしさ]/重大[じゅうだい]/厳重[げんじゅう]/鋭意[えいい]/
+ernst{adv}/(gewissenhaft) まじめな[まじめな]/(furchtbar) 大変[たいへん]/
+Ernst{m}/真面目[まじめ]/
 Ernstfall{m}/いざという時[いざというとき]/
-ernsthaft{adv}/マジ[まじ]/重い[おもい]/重たい[おもたい]/まじ[まじ]/みっちり[みっちり]/本格的[ほんかくてき]/シリアス[しりあす]/
-Ernsthaftigkeit{f}/急[きゅう]/真面目[まじめ]/重厚[じゅうこう]/深刻[しんこく]/本腰[ほんごし]/真剣[しんけん]/真っ当[まっとう]/一筋[ひとすじ]/重大[じゅうだい]/本気[ほんき]/真摯[しんし]/
-Ernte{f}/作[さく]/上り[あがり]/実り[みのり]/出来高[できだか]/収穫[しゅうかく]/取り入れ[とりいれ]/出来[でき]/農作物[のうさくぶつ]/作物[さくもつ]/上がり[あがり]/
+ernsthaft{adv}/まじめな[まじめな]/
+Ernsthaftigkeit{f}/真面目[まじめ]/
+Ernte{f}/収穫[しゅうかく]/
 Ernteausfall{m}/秋落ち[あきおち]/
 Erntedankfest{n}/感謝祭[かんしゃさい]/
 Ernteertrag{m}/出来高[できだか]/
@@ -8065,23 +8065,23 @@ Erntemaschine{f}/刈取機[かりとりき]/
 Ernten{n}/取り入れ[とりいれ]/
 Ernteversicherung{f}/収穫保険[しゅうかくほけん]/
 Erntezeit{f}/収穫期[しゅうかくき]/
-ernähren{vt}/育む[はぐくむ]/養う[やしなう]/
+ernähren{vt}/(füttern) 育む[はぐくむ]/(für den Unterhalt sorgen) 扶養する[ふようする]/
 Ernährer{m}/働き手[はたらきて]/
-Ernährung{f}/栄養[えいよう]/扶養[ふよう]/食生活[しょくせいかつ]/
+Ernährung{f}/栄養[えいよう]/
 Ernährungsstörung{f}/異栄養症[いえいようしょう]/
 Ernährungstherapie{f}/栄養療法[えいようりょうほう]/
 Ernährungswissenschaft{f}/栄養学[えいようがく]/
 Ernährungszustand{m}/栄養状態[えいようじょうたい]/
 Ernüchterung{f}/失望[しつぼう]/
 Eroberer{m}/征服者[せいふくしゃ]/
-Eroberung{f}/攻略[こうりゃく]/侵略[しんりゃく]/征服[せいふく]/制覇[せいは]/奪取[だっしゅ]/
+Eroberung{f}/攻略[こうりゃく]/
 Erosion{f}/侵食[しんしょく]/
-Erotik{f}/ピンク[ぴんく]/エロ[えろ]/
-erotisch{adj}{adv}/セクシー[せくしー]/色っぽい[いろっぽい]/
+Erotik{f}/エロ[えろ]/
+erotisch{adj}{adv}/色っぽいの[いろっぽいの]/
 Erpel{m}/雄ガモ[おがも]/
 erpressen{vt}/脅かす[おどかす]/
 Erpresser{m}/たかり[たかり]/
-Erpressung{f}/強要[きょうよう]/脅し[おどし]/無心[むしん]/脅迫[きょうはく]/
+Erpressung{f}/強要[きょうよう]/
 erprobt{adj}/老巧な[ろうこうな]/
 Erprobung{f}/試金石[しきんせき]/
 Erquickung{f}/慰謝[いしゃ]/
@@ -8092,16 +8092,16 @@ erregend{adv}/悩ましい[なやましい]/
 Erreger{m}/ばい菌[ばいきん]/
 Erregerstrom{m}/励磁電流[れいじでんりゅう]/
 Erregerwicklung{f}/界磁巻き線[かいじまきせん]/
-erregt{adv}/感情的[かんじょうてき]/慌しい[あわただしい]/慌ただしい[あわただしい]/ぷりぷり[ぷりぷり]/プリプリ[ぷりぷり]/
-Erregung{f}/興奮[こうふん]/炎[ほのお]/挑発[ちょうはつ]/激動[げきどう]/スリル[すりる]/動揺[どうよう]/沸騰[ふっとう]/
-Erreichen{n}/達成[たっせい]/及び[および]/追及[ついきゅう]/
+erregt{adv}/(aufgeregt)　興奮して[こうふんして]/
+Erregung{f}/興奮[こうふん]/
+Erreichen{n}/(Einholen) 追及[ついきゅう]/
 Erreichung{f}/入手[にゅうしゅ]/
 erretten{vt}/救い出す[すくいだす]/
-Errichtung{f}/開設[かいせつ]/制定[せいてい]/樹立[じゅりつ]/創設[そうせつ]/建設[けんせつ]/設置[せっち]/建築[けんちく]/設営[せつえい]/創建[そうけん]/構築[こうちく]/確立[かくりつ]/創始[そうし]/設立[せつりつ]/
+Errichtung{f}/(Gründung) 開設[かいせつ]/
 Errungenschaft{f}/業績[ぎょうせき]/
 Erröten{n}/紅潮[こうちょう]/
 erröten{vi}/輝く[かがやく]/
-Ersatz{m}/代[だい]/リリーフ[りりーふ]/報[むくい]/予備[よび]/替え[かえ]/換え[かえ]/見返り[みかえり]/補助[ほじょ]/代替[だいたい]/補欠[ほけつ]/影[かげ]/代用[だいよう]/補償[ほしょう]/補充[ほじゅう]/継投[けいとう]/報い[むくい]/交換[こうかん]/代わり[かわり]/替わり[かわり]/
+Ersatz{m}/代用[だいよう]/(anstatt ...) 代わりに[かわりに]/
 Ersatzdarsteller{m}/スタンドイン[すたんどいん]/
 Ersatzdienst{m}/代役[だいやく]/
 Ersatzinvestition{f}/置換投資[ちかんとうし]/
@@ -8115,67 +8115,67 @@ ersatzweise{adv}/代わりの[かわりの]/
 ersaufen{vi}/溺れる[おぼれる]/
 Erschaffung{f}/創造[そうぞう]/
 erschauern{vi}/戦慄する[せんりつする]/
-Erscheinen{n}/出現[しゅつげん]/輩出[はいしゅつ]/顔出し[かおだし]/台頭[たいとう]/
-erscheinen/出る[でる]/載る[のる]/上がる[あがる]/見える[みえる]/現れる[あらわれる]/顔を出す[かおをだす]/浮かぶ[うかぶ]/見せる[みせる]/
-Erscheinung{f}/姿[すがた]/発生[はっせい]/形相[けいそう]/風貌[ふうぼう]/表れ[あらわれ]/現れ[あらわれ]/見てくれ[みてくれ]/装い[よそおい]/見た目[みため]/出現[しゅつげん]/幻影[げんえい]/現像[げんぞう]/外観[がいかん]/表面[ひょうめん]/事象[じしょう]/
+Erscheinen{n}/出現[しゅつげん]/
+erscheinen/現れる[あらわれる]/
+Erscheinung{f}/(Phänomen) 現象[げんしょう]/
 Erscheinungsbild{n}/面相[めんそう]/
 Erscheinungstag{m}/発行日[はっこうび]/
 erschießen{vt}/仕留める[しとめる]/
 Erschießung{f}/銃殺[じゅうさつ]/
 erschlaffen{vi}/萎える[なえる]/
-erschlagen{vt}/殺す[ころす]/潰す[つぶす]/倒す[たおす]/
+erschlagen{vt}/(totschlagen) 殴り殺す[なぐりころす]/
 erschließen{vt}/開く[ひらく]/
 Erschließungskosten{pl}/開発費[かいはつひ]/
-Erschrecken{n}/ビックリ[びっくり]/驚愕[きょうがく]/喝[かつ]/吃驚[びっくり]/驚き[おどろき]/
-erschrecken/怖い[こわい]/驚く[おどろく]/怖がる[こわがる]/恐い[こわい]/脅かす[おどかす]/減る[へる]/
+Erschrecken{n}/びっくり[びっくり]/
+erschrecken/びっくりする[びっくりする]/
 erschreckend{adv}{adj}/どきっと[どきっと]/
 erschrocken{adj}/愕然[がくぜん]/
 erschweren{vt}/加重する[かじゅうする]/
-erschöpfen{vt}/央[おう]/尽くす[つくす]/
+erschöpfen{vt}(aufbrauchen) 尽くす[つくす]/
 erschöpfend{adj}{adv}/懇切な[こんせつな]/
-erschöpft{adj}/疲れた[つかれた]/ぐったり[ぐったり]/がっかり[がっかり]/
-Erschöpfung{f}/疲れ[つかれ]/困憊[こんぱい]/疲労[ひろう]/疲弊[ひへい]/
+erschöpft{adj}/疲れた[つかれた]/
+Erschöpfung{f}/疲れ[つかれ]/
 erschüttern/動かす[うごかす]/響く[ひびく]/
-erschütternd{adj}/ぞっと[ぞっと]/ゾッと[ぞっと]/
-Erschütterung{f}/感動[かんどう]/感激[かんげき]/激動[げきどう]/動揺[どうよう]/響き[ひびき]/響[ひびき]/
+erschütternd{adj}/(schockierend) 衝撃的な[しょうげきてきな]/
+Erschütterung{f}/(Beben) 震動[しんどう]/{fig.} 感動[かんどう]/
 ersehen{vt}/待望する[たいぼうする]/
 ersehnen/待つ[まつ]/
-ersetzen{vt}/回す[まわす]/替える[かえる]/補う[おぎなう]/入れ替わる[いれかわる]/
-Ersetzung{f}/交換[こうかん]/代償[だいしょう]/補欠[ほけつ]/補充[ほじゅう]/
+ersetzen{vt}/替える[かえる]/
+Ersetzung{f}/(Austausch) 交換[こうかん]/
 ersichtlich{adj}/歴然[れきぜん]/
 Ersitzung{f}/取得時効[しゅとくじこう]/
 Ersparnis{f}/積立金[つみたてきん]/
-erst{adv}/上[じょう]/つい[つい]/
+erst{adv}/(zuerst) 先ず[まず]/(endlich) やっと[やっと]/
 erstarren{vi}/固まる[かたまる]/
-Erstarrung{f}/麻痺[まひ]/痺れ[しびれ]/硬直[こうちょく]/
+Erstarrung{f}/硬直[こうちょく]/
 Erstauflage{f}/初版[しょはん]/
-Erstaunen{n}/ビックリ[びっくり]/感嘆[かんたん]/驚愕[きょうがく]/驚異[きょうい]/吃驚[びっくり]/驚き[おどろき]/唖然[あぜん]/
-erstaunlich{adj}{adv}/とんでもない[とんでもない]/とんだ[とんだ]/驚異的[きょういてき]/凄まじい[すさまじい]/恐るべき[おそるべき]/偉い[えらい]/
+Erstaunen{n}/驚愕[きょうがく]/
+erstaunlich{adj}{adv}/(überraschend) 驚くべき[おどろくべき]/
 erstaunlicherweise{adv}/呆れるほど[あきれるほど]/
 erstaunt{adv}/憮然[ぶぜん]/
 Erstausgabe{f}/初版[しょはん]/
 erste/初…[うい]/
 Erste Hilfe{f}/応急手当[おうきゅうてあて]/
 Erstellung{f}/工作[こうさく]/
-erster Rang/冠[かん]/一階[いっかい]/一流[いちりゅう]/
+erster Rang/一流[いちりゅう]/
 Erstgeburtsrecht{n}/長子相続法[ちょうしそうぞくほう]/
 ersticken{vt}{vi}/消す[けす]/
 erstickend{adj}{adv}/むせっぽい[むせっぽい]/
 Erstickung{f}/窒息[ちっそく]/
 Erstickungstod{m}/窒息死[ちっそくし]/
-erstklassig{adj}/この上ない[このうえない]/最上[さいじょう]/一等[いっとう]/
+erstklassig{adj}/この上ない[このうえない]/
 Erstklässler{m}/初学者[しょがくしゃ]/
 Erstkommunion{f}/初聖体[はつせいたい]/
 Erstling{m}/走り[はしり]/
 Erstlingswerk{n}/処女作[しょじょさく]/
-erstmalig{adj}/今更[いまさら]/今さら[いまさら]/
+erstmalig{adj}/初めて[はじめて]/
 erstrangig{adv}/トップレベルの[とっぷれべるの]/
 erstreben{vt}/目指す[めざす]/
 Erstschlag{m}/第一撃[だいいちげき]/
 erstürmen{vt}/陥れる[おとしいれる]/
 ersuchen{vt}/頼む[たのむ]/乞う[こう]/
 Erteilung{f}/付与[ふよ]/
-Ertrag{m}/上がり[あがり]/上り[あがり]/上り[あがり]/儲け[もうけ]/出来高[できだか]/収益[しゅうえき]/出来[でき]/売り上げ[うりあげ]/売上げ[うりあげ]/売上[うりあげ]/利[り]/採算[さいさん]/収率[しゅうりつ]/
+Ertrag{m}/収益[しゅうえき]/
 Ertragen{n}/堪忍[かんにん]/
 ertragfähig{adj}/有利な[ゆうりな]/
 ertragsarm{adj}/収穫率の低い[しゅうかくりつのひくい]/
@@ -8185,35 +8185,35 @@ erträglich{adv}/無難な[ぶなんな]/
 ertönen{vi}/鳴る[なる]/
 Ertüchtigung{f}/錬磨[れんま]/
 Eruktation{f}/おくび[おくび]/
-Erwachen{n}/目覚め[めざめ]/覚醒[かくせい]/
+Erwachen{n}/目覚め[めざめ]/
 erwachsen{adj}{adv}/年頃[としごろ]/
 Erwachsenenbildung{f}/成人教育[せいじんきょういく]/
 Erwachsenenwelt{f}/おとなの世界[おとなのせかい]/
 Erwachsenwerden{n}/成長[せいちょう]/
-erwarten{vt}/思う[おもう]/待つ[まつ]/控える[ひかえる]/望む[のぞむ]/想う[おもう]/
-Erwartung{f}/予定[よてい]/積もり[つもり]/期待[きたい]/観測[かんそく]/宛[あて]/見込み[みこみ]/予想[よそう]/予想通り[よそうどおり]/希望[きぼう]/当て[あて]/宛て[あて]/望み[のぞみ]/予期[よき]/思惑[おもわく]/目処[めど]/
+erwarten{vt}/期待する[きたいする]/
+Erwartung{f}/期待[きたい]/
 erwartungsgemäß{adv}/案の定[あんのじょう]/
 Erwartungswert{m}/期待値[きたいち]/
 Erweichungspunkt{m}/軟化点[なんかてん]/
 Erweiterbarkeit{f}/展延性[てんえんせい]/
-erweitern{vt}/広げる[ひろげる]/広める[ひろめる]/
-Erweiterung{f}/拡張[かくちょう]/膨張[ぼうちょう]/拡充[かくじゅう]/
+erweitern{vt}/広げる[ひろげる]/
+Erweiterung{f}/拡張[かくちょう]/
 erweiterungsfähig{adj}/拡張性のある[かくちょうせいのある]/
 Erweiterungsfähigkeit{f}/拡張性[かくちょうせい]/
 Erweiterungskarte{f}/拡張ボード[かくちょうぼーど]/
-Erwerb{m}/買収[ばいしゅう]/営み[いとなみ]/
+Erwerb{m}/(Kauf) 購入[こうにゅう]/(Brot~) 生業[せいぎょう]/
 Erwerber{m}/取得者[しゅとくしゃ]/
 Erwerbssteuer{f}/収得税[しゅうとくぜい]/
-Erwerbstätigkeit{f}/生業[なりわい]/稼業[かぎょう]/
+Erwerbstätigkeit{f}/生業[なりわい]/
 Erwerbsunfähigkeitsrente{f}/疾病年金[しっぺいねんきん]/
-Erwerbung{f}/獲得[かくとく]/入手[にゅうしゅ]/
-erwidern{vt}/答える[こたえる]/応える[こたえる]/応じる[おうじる]/返す[かえす]/
-Erwiderung{f}/挨拶[あいさつ]/反響[はんきょう]/返答[へんとう]/返事[へんじ]/レスポンス[れすぽんす]/応答[おうとう]/回答[かいとう]/答え[こたえ]/答[こたえ]/お返し[おかえし]/答弁[とうべん]/
+Erwerbung{f}/(Anschaffung) 取得[しゅとく]/
+erwidern{vt}/答える[こたえる]/
+Erwiderung{f}/返事[へんじ]/
 erwischen{vt}/見つける[みつける]/
 erworben{adj}/後天的[こうてんてき]/
 erwägen{vt}/考える[かんがえる]/
 Erwählung{f}/当選[とうせん]/
-erwähnen/触れる[ふれる]/及ぶ[およぶ]/述べる[のべる]/口にする[くちにする]/
+erwähnen/言及する[げんきゅうする]/
 Erwähnen{n}/言挙げ[ことあげ]/
 Erwähnung{f}/言及[げんきゅう]/
 Erwärmung{f}/発熱[はつねつ]/
@@ -8226,33 +8226,33 @@ Erzbischof{m}/大司教[だいしきょう]/
 Erzbistum{n}/大司教管区[だいしきょうかんく]/
 Erzdiözese{f}/大主教管区[だいしゅきょうかんく]/
 Erzengel{m}/大天使[だいてんし]/
-erzeugen/作る[つくる]/生じる[しょうじる]/産む[うむ]/生む[うむ]/造る[つくる]/創る[つくる]/
+erzeugen/(produzieren) 生産する[せいさんする]/(machen) 作る[つくる]/
 Erzeuger{m}/生産者[せいさんしゃ]/
-Erzeugnis{n}/製品[せいひん]/産物[さんぶつ]/生産[せいさん]/物産[ぶっさん]/
-Erzeugung{f}/製作[せいさく]/発生[はっせい]/製造[せいぞう]/
+Erzeugnis{n}/製品[せいひん]/
+Erzeugung{f}/製作[せいさく]/
 Erzfeind{m}/宿敵[しゅくてき]/
 Erzieher{m}/教育者[きょういくしゃ]/
 erzieherisch{adv}/教育的[きょういくてき]/
-Erziehung{f}/教育[きょういく]/育成[いくせい]/生い立ち[おいたち]/躾[しつけ]/教養[きょうよう]/仕立て[したて]/育ち[そだち]/
-Erziehungsberechtigte{m}{f}/保護者[ほごしゃ]/父兄[ふけい]/
+Erziehung{f}/教育[きょういく]/
+Erziehungsberechtigte{m}{f}/保護者[ほごしゃ]/
 Erziehungsheim{n}/少年院[しょうねんいん]/
 Erzrivale{m}/宿敵[しゅくてき]/
 erzwingen{vt}/迫る[せまる]/
-erzählen{vt}/言う[いう]/語る[かたる]/物語る[ものがたる]/教える[おしえる]/話す[はなす]/云う[いう]/申す[もうす]/申し上げる[もうしあげる]/
+erzählen{vt}/物語る[ものがたる]/
 erzählend{adv}/説話的な[せつわてきな]/
-Erzähler{m}/語り[かたり]/小説家[しょうせつか]/
-Erzählung{f}/話[はなし]/小説[しょうせつ]/語り[かたり]/話し[はなし]/物語[ものがたり]/
+Erzähler{m}/語り手[かたりて]/
+Erzählung{f}/物語[ものがたり]/
 erzürnen{vt}/怒らす[いからす]/
 eröffnen{vt}/入る[いる]/始める[はじめる]/置く[おく]/開く[ひらく]/
-Eröffnung{f}/開始[かいし]/開口[かいこう]/発足[ほっそく]/開館[かいかん]/開設[かいせつ]/オープン[おーぷん]/オープニング[おーぷにんぐ]/皮切り[かわきり]/冒頭[ぼうとう]/開場[かいじょう]/
+Eröffnung{f}/(Geschäfts~) 開場[かいじょう]/
 Eröffnungsfeier{f}/開会式[かいかいしき]/
 Eröffnungsspiel{n}/開幕戦[かいまくせん]/
 erörtern{vt}/論じる[ろんじる]/
-Erörterung{f}/論[ろん]/審議[しんぎ]/論議[ろんぎ]/提唱[ていしょう]/
+Erörterung{f}/詳論[しょうろん]/
 Escape-Taste{f}/エスケープキー[えすけーぷきー]/
 Eschatologie{f}/終末観[しゅうまつかん]/
 Esche{f}/アオダモ[あおだも]/
-Esel{m}/バカ[ばか]/馬鹿[ばか]/ドンキー[どんきー]/ロバ[ろば]/
+Esel{m}/ロバ[ろば]/{ugs.} 馬鹿[ばか]/
 Eselsbrücke{f}/安直[あんちょこ]/
 Eselsohr{n}/耳[みみ]/
 Eskalation{f}/エスカレート[えすかれーと]/
@@ -8262,13 +8262,12 @@ Esperanto{n}/エスペラント[えすぺらんと]/
 Esplanade{f}/広場[ひろば]/
 Espresso{m}/エスプレッソ[えすぷれっそ]/
 Esprit{m}/エスプリ[えすぷり]/
-Essay{n}/文章[ぶんしょう]/論[ろん]/雑文[ざつぶん]/エッセー[えっせー]/論文[ろんぶん]/随筆[ずいひつ]/エッセイ[えっせい]/論説[ろんせつ]/
-essbar{adj}/食用の[しょくようの]/
+Essay{n}/文章[ぶんしょう]/
 Esse{f}/鍛工炉[たんこうろ]/
-Essen{n}/食[しょく]/頂戴[ちょうだい]/食事[しょくじ]/ダイニング[だいにんぐ]/食べ物[たべもの]/食物[しょくもつ]/ご飯[ごはん]/御飯[ごはん]/食い物[くいもの]/フード[ふーど]/
+Essen{n}/食物[しょくもつ]/(Mahlzeit) ご飯[ごはん]/
 Essensreste{pl}/食い残し[くいのこし]/
 Essenszeit{f}/食事時[しょくじどき]/
-Essenz{f}/肝心[かんじん]/エキス[えきす]/要領[ようりょう]/精華[せいか]/粋[すい]/本質[ほんしつ]/エッセンス[えっせんす]/真髄[しんずい]/
+Essenz{f}/(Extrakt) エキス[えきす]/(Wesen;Kern) 本質[ほんしつ]/
 Essgeschirr{n}/食器[しょっき]/
 Essgewohnheit{f}/食性[しょくせい]/
 Essig{m}/酢[す]/
@@ -8287,12 +8286,12 @@ Esszimmer{n}/ダイニング[だいにんぐ]/
 Establishment{n}/エスタブリッシュメント[えすたぶりっしゅめんと]/
 Estrich{m}/土間[どま]/
 etabliert{adj}/既成の[きせいの]/
-Etablierung{f}/創業[そうぎょう]/樹立[じゅりつ]/
+Etablierung{f}/樹立[じゅりつ]/
 Etablissement{n}/風俗店[ふうぞくてん]/
 Etappe{f}/兵站[へいたん]/
 Etat{m}/予算[よさん]/
 Ethanol{n}/エタノール[えたのーる]/
-Ethik{f}/倫理[りんり]/道徳[どうとく]/
+Ethik{f}/倫理[りんり]/
 Ethiker{m}/倫理学者[りんりがくしゃ]/
 ethisch{adj}{adv}/倫理的[りんりてき]/
 ethnisch{adj}/エスニック[えすにっく]/
@@ -8302,9 +8301,9 @@ Ethologie{f}/動物行動学[どうぶつこうどうがく]/
 Ethos{n}/エートス[えーとす]/
 Ethylalkohol{m}/エチルアルコール[えちるあるこーる]/
 Ethylen{n}/エチレン[えちれん]/
-Etikett{n}/マーク[まーく]/札[ふだ]/レッテル[れってる]/張り紙[はりがみ]/レーベル[れーべる]/レーベル[れーべる]/
-Etikette{f}/礼[れい]/礼儀[れいぎ]/作法[さほう]/
-Etui{n}/ケース[けーす]/入れ物[いれもの]/サック[さっく]/
+Etikett{n}/マーク[まーく]/
+Etikette{f}/礼儀[れいぎ]/
+Etui{n}/ケース[けーす]/
 etw. aufgeben/手放す[てばなす]/
 etw. auslösen{vt}/…の口火になる[…のくちびになる]/
 etw. ausprobieren{vt}/試しにやってみる[ためしにやってみる]/
@@ -8328,14 +8327,14 @@ etw. Wertloses/糸瓜[へちま]/
 etw. wiedergutmachen{vt}/取り返しがつく[とりかえしがつく]/
 etw. zünden{vt}/…の口火になる[…のくちびになる]/
 etw. übertreiben/やり過ごす[やりすごす]/
-etwa{adv}/ものの[ものの]/粗[ほぼ]/物の[ものの]/ざっと[ざっと]/約[やく]/程[ほど]/
-etwas{pron}{adv}{jemandem habhaft werden}/何[なに]/何かしら[なにかしら]/若干[じゃっかん]/少し[すこし]/少々[しょうしょう]/何様[なにさま]/どれか[どれか]/多少[たしょう]/何物[なにもの]/何事[なにごと]/ちょこっと[ちょこっと]/ちょいと[ちょいと]/
+etwa{adv}/(ungefähr) ぐらい[ぐらい]/(circa) 凡そ[およそ]/
+etwas{pron}{adv}/何か[なにか]/(ein wenig) 少し[すこし]/
 Etymologie{f}/語源[ごげん]/
 Etüde{f}/練習曲[れんしゅうきょく]/
 Eugenik{f}/優生[ゆうせい]/
 eugenisch{adj}{adv}/優生学上[ゆうせいがくじょう]/
 Eukalyptus{m}/ユーカリ[ゆーかり]/
-Eule{f}/フクロウ[ふくろう]/梟[ふくろう]/
+Eule{f}/梟[ふくろう]/
 Eunuch{m}/宦官[かんがん]/
 Euphemismus{m}/美称[びしょう]/
 euphemistisch{adv}/婉曲[えんきょく]/
@@ -8344,7 +8343,7 @@ Euphorie{f}/幸福感[こうふくかん]/
 Eurasien{n}/ユーラシア[ゆーらしあ]/
 Eurasier{m}/ユーラシア人[ゆーらしあじん]/
 eurasisch{adj}/ユーラシアの[ゆーらしあの]/
-Europa{n}/ヨーロッパ[よーろっぱ]/欧州[おうしゅう]/西欧[せいおう]/
+Europa{n}/ヨーロッパ[よーろっぱ]/
 Europaparlament{n}/欧州議会[おうしゅうぎかい]/
 Europarat{m}/欧州理事会[おうしゅうりじかい]/
 Europäer{m}/西洋人[せいようじん]/
@@ -8364,21 +8363,21 @@ Evakuierung{f}/避難[ひなん]/
 Evaluation{f}/考課[こうか]/
 evangelisch{adj}{adv}/プロテスタントの[ぷろてすたんとの]/
 Evangelist{m}/伝道師[でんどうし]/
-Evangelium{n}/ゴスペル[ごすぺる]/福音[ふくいん]/
+Evangelium{n}/福音書[ふくいんしょ]/
 Eventualität{f}/偶然[ぐうぜん]/
 Eventualverbindlichkeit{f}/偶発債務[ぐうはつさいむ]/
-eventuell/かも知れない[かもしれない]/或いは[あるいは]/
+eventuell/(je nach Umständen) 場合によって[ばあいによって]/(...kann sein) かも知れない[かもしれない]/
 Evergreen{m}/なつメロ[なつめろ]/
 Evolution{f}/進化[しんか]/進展[しんてん]/
 Evolutionist{m}/進化論者[しんかろんしゃ]/
 Evolutionstheorie{f}/進化論[しんかろん]/
 Evolvente{f}/インボリュート[いんぼりゅーと]/
-ewig{adj}{adv}/長の[ながの]/いつまで経っても[いつまでたっても]/永久に[えいきゅうに]/
-Ewigkeit{f}/永遠[えいえん]/無限[むげん]/永久[とこしえ]/恒久[こうきゅう]/万歳[ばんざい]/悠久[ゆうきゅう]/
+ewig{adj}{adv}/いつまで経っても[いつまでたっても]/
+Ewigkeit{f}/永遠[えいえん]/
 Ex-Freund{m}/元カレ[もとかれ]/
 Ex-Freundin{m}/元彼女[もとかのじょ]/
-exakt{adv}/良く[よく]/きっちり[きっちり]/きちんと[きちんと]/きちっと[きちっと]/丁度[ちょうど]/しっくり[しっくり]/
-Exaktheit{f}/正確[せいかく]/精密[せいみつ]/的確[てっかく]/明確[めいかく]/緻密[ちみつ]/厳密[げんみつ]/
+exakt{adv}/正確な[せいかくな]/
+Exaktheit{f}/正確[せいかく]/
 Examen{n}/試験[しけん]/
 examinieren{vt}/試問する[しもんする]/
 examinierte Krankenschwester{f}/正看[せいかん]/
@@ -8391,9 +8390,9 @@ exerzieren{vi}/鍛える[きたえる]/
 Exerzierplatz{m}/練兵場[れんぺいじょう]/
 Exhibitionist{m}/露出狂[ろしゅつきょう]/
 exhumieren{vt}/暴く[あばく]/
-Exil{n}/追放[ついほう]/亡命[ぼうめい]/
+Exil{n}/亡命[ぼうめい]/
 Existentialismus{m}/エグジスタンシアリスム[えぐじすたんしありすむ]/
-Existenz{f}/生活[せいかつ]/現存[げんそん]/実在[じつざい]/生存[せいぞん]/存在[そんざい]/既存[きそん]/生命[せいめい]/
+Existenz{f}/存在[そんざい]/
 Existenzberechtigung{f}/生存権[せいぞんけん]/
 Existenzquantor{m}/存在作用素[そんざいさようそ]/
 exklusiv{adj}/専属[せんぞく]/
@@ -8403,7 +8402,7 @@ Exkommunikation{f}/破門[はもん]/
 exkommunizieren{vt}/破門する[はもんする]/
 Exkrement{n}/大便[だいべん]/
 Exkurs{m}/余談[よだん]/
-Exkursion{f}/旅行[りょこう]/遠足[えんそく]/
+Exkursion{f}/遠足[えんそく]/
 Exlibris{n}/蔵書票[ぞうしょひょう]/
 Exorzismus{m}/祓い[はらい]/
 Exorzist{m}/エクソシスト[えくそしすと]/
@@ -8411,21 +8410,21 @@ Exotik{f}/外国風[がいこくふう]/
 exotisch{adj}{adv}/エキゾチック[えきぞちっく]/
 Exotismus{m}/異国情緒[いこくじょうしょ]/
 Expander{m}/エキスパンダー[えきすぱんだー]/
-Expansion{f}/発展[はってん]/膨張[ぼうちょう]/拡充[かくじゅう]/
+Expansion{f}/膨張[ぼうちょう]/
 Expansionspolitik{f}/拡張政策[かくちょうせいさく]/
-Expedition{f}/遠征[えんせい]/探検隊[たんけんたい]/探検[たんけん]/
+Expedition{f}/探検[たんけん]/
 Expeditionskorps{n}/派遣軍[はけんぐん]/
 Expektorans{n}/去痰薬[きょたんやく]/
-Experiment{n}/経験[けいけん]/試行[しこう]/実験[じっけん]/試験[しけん]/試み[こころみ]/試作[しさく]/
+Experiment{n}/実験[じっけん]/
 Experimentalphysik{f}/実験物理学[じっけんぶつりがく]/
 experimentell{adj}/実験的[じっけんてき]/
-Experte{m}/通[つう]/名人[めいじん]/名手[めいしゅ]/専門家[せんもんか]/エキスパート[えきすぱーと]/猛者[もさ]/スペシャリスト[すぺしゃりすと]/ベテラン[べてらん]/達人[たつじん]/本職[ほんしょく]/玄人[くろうと]/マイスター[まいすたー]/
+Experte{m}/専門家[せんもんか]/
 Expertengremium{n}/ブレイン[ぶれいん]/
 Expertenkommission{f}/シンクタンク[しんくたんく]/
 Expertensystem{n}/エキスパートシステム[えきすぱーとしすてむ]/
 explizit{adj}/明示的[めいじてき]/
 explodieren{vi}/炸裂する[さくれつする]/
-Explosion{f}/爆発[ばくはつ]/爆破[ばくは]/爆裂[ばくれつ]/発散[はっさん]/破裂[はれつ]/炸裂[さくれつ]/
+Explosion{f}/爆発[ばくはつ]/
 Explosionszentrum{n}/爆心[ばくしん]/
 Explosivität{f}/爆発性[ばくはつせい]/
 Exponent{m}/指数[しすう]/
@@ -8445,44 +8444,43 @@ Exsikkator{m}/乾燥器[かんそうき]/
 Exsudat{n}/滲出物[しんしゅつぶつ]/
 Extension{f}/外延[がいえん]/
 extern{adj}/学外[がくがい]/
-Extrablatt{n}/号外[ごうがい]/番外[ばんがい]/
+Extrablatt{n}/号外[ごうがい]/
 extrafein{adj}{adv}/上乗[じょうじょう]/
 extrahieren{vt}/取り出す[とりだす]/
-Extrakt{m}/抄[しょう]/エキス[えきす]/
+Extrakt{m}/エキス[えきす]/
 Extrapolation{f}/外挿[そとそう]/
 Extrasystole{f}/期外収縮[きがいしゅうしゅく]/
-Extrem{n}/極端[きょくたん]/極め[きわめ]/ぎりぎり[ぎりぎり]/極み[きわみ]/極度[きょくど]/
+Extrem{n}/極端[きょくたん]/
 Extremist{m}/極端論者[きょくたんろんじゃ]/
 Extremum{n}/極値[きょくち]/
 Extremwert{m}/極値[きょくち]/
 Exzenter{m}/傍心[ぼうしん]/
-Exzentriker{m}/変人[へんじん]/変わり者[かわりもの]/
+Exzentriker{m}/変わり者[かわりもの]/
 exzentrisch{adv}/エキセントリック[えきせんとりっく]/
-Exzentrizität{f}/物好き[ものずき]/偏屈[へんくつ]/
+Exzentrizität{f}/物好き[ものずき]/
 exzerpieren{vt}/抄録する[しょうろくする]/
 Exzess{m}/過剰[かじょう]/
 Exzision{f}/切除[せつじょ]/
-Fabel{f}/物語[ものがたり]/比喩[ひゆ]/例え[たとえ]/
-fabelhaft{adv}/素敵[すてき]/素晴らしい[すばらしい]/凄い[すごい]/
-Fabeltier{n}/怪獣[かいじゅう]/怪物[かいぶつ]/
-Fabrik{f}/工場[こうじょう]/ファクトリー[ふぁくとりー]/製作所[せいさくじょ]/
-Fabrikant{m}/業者[ぎょうしゃ]/製作者[せいさくしゃ]/
+Fabel{f}/寓話[ぐうわ]/
+fabelhaft{adv}/素晴らしい[すばらしい]/
+Fabrik{f}/工場[こうじょう]/
+Fabrikant{m}/業者[ぎょうしゃ]/
 Fabrikarbeit{f}/工場労働[こうじょうろうどう]/
 Fabrikarbeiter{m}/工員[こういん]/
-Fabrikat{n}/製品[せいひん]/産物[さんぶつ]/
-Fabrikation{f}/製作[せいさく]/製造[せいぞう]/
+Fabrikat{n}/製品[せいひん]/
+Fabrikation{f}/製作[せいさく]/
 Fabrikbesitzer{m}/工場主[こうじょうぬし]/
 fabrizieren{vt}/調製する[ちょうせいする]/
 Facette{f}/切子[きりこ]/
 Facettenauge{n}/複眼[ふくがん]/
-Fach{n}/専門[せんもん]/専攻[せんこう]/科目[かもく]/専業[せんぎょう]/部門[ぶもん]/学科[がっか]/分野[ぶんや]/本領[ほんりょう]/
+Fach{n}/専門[せんもん]/
 Facharbeiter{m}/技工[ぎこう]/
 Facharzt{m}/専門医[せんもんい]/
 Fachausbildung{f}/専門教育[せんもんきょういく]/
-Fachausdruck{m}/用語[ようご]/専門用語[せんもんようご]/
-Fachbereich{m}/学部[がくぶ]/学科[がっか]/
+Fachausdruck{m}/専門用語[せんもんようご]/
+Fachbereich{m}/学部[がくぶ]/
 Fachbuch{n}/専門書[せんもんしょ]/
-Fachgebiet{n}/道[みち]/専攻[せんこう]/科目[かもく]/畑[はたけ]/専門分野[せんもんぶんや]/専門[せんもん]/路[みち]/領域[りょういき]/
+Fachgebiet{n}/専門[せんもん]/
 Fachgeschäft{n}/専門店[せんもんてん]/
 Fachhochschule{f}/専門大学[せんもんだいがく]/
 Fachhändler{m}/専門業者[せんもんぎょうしゃ]/
@@ -8491,8 +8489,8 @@ Fachjargon{m}/通り言葉[とおりことば]/
 Fachkenntnisse{pl}/専門の知識[せんもんのちしき]/
 Fachkurs{m}/専科[せんか]/
 Fachlehrer{m}/専門の教師[せんもんのきょうし]/
-fachlich{adj}/テクニカル[てくにかる]/専門的[せんもんてき]/
-Fachmann{m}/専門家[せんもんか]/ベテラン[べてらん]/本職[ほんしょく]/玄人[くろうと]/
+fachlich{adj}/専門的[せんもんてき]/
+Fachmann{m}/専門家[せんもんか]/
 Fachmesse{f}/専門見本[せんもんみほん]/
 fachmännisch{adj}/専門的[せんもんてき]/
 Fachschule{f}/専門学校[せんもんがっこう]/
@@ -8504,7 +8502,7 @@ Fackel{f}/トーチ[とーち]/
 Fackellauf{m}/トーチリレー[とーちりれー]/
 Fackelzug{m}/松明行列[たいまつぎょうれつ]/
 fad{adj}{adv}/風味のない[ふうみのない]/
-Faden{m}/糸[いと]/緒[お]/紐[ひも]/繊維[せんい]/
+Faden{m}/糸[いと]/
 fadenförmig{adj}/糸状の[しじょうの]/
 Fadenkreuz{n}/十字線[じゅうじせん]/
 Fadennudeln{pl}/素麺[そうめん]/
@@ -8515,35 +8513,35 @@ Fagott{n}/ファゴット[ふぁごっと]/
 Fagottist{m}/ファゴット奏者[ふぁごっとそうしゃ]/
 fahl{adj}/淡い[あわい]/
 Fahlheit{f}/土気色[つちけいろ]/
-fahnden{vi}/探す[さがす]/捜す[さがす]/
-Fahndung{f}/捜査[そうさ]/手配[てはい]/
+fahnden{vi}/探索する[たんさくする]/
+Fahndung{f}/捜査[そうさ]/
 Fahndungsfoto{n}/手配写真[てはいしゃしん]/
-Fahne{f}/旗[はた]/フラグ[ふらぐ]/
+Fahne{f}/旗[はた]/
 Fahnenträger{m}/旗手[きしゅ]/
 Fahrbahn{f}/車道[しゃどう]/
 Fahrbahnmarkierung{f}/車線区分線[しゃせんくぶんせん]/
 Fahrbibliothek{f}/移動図書館[いどうとしょかん]/
 Fahrdienstleiter{m}/配車係[はいしゃがかり]/
 Fahrdraht{m}/トロリー線[とろりーせん]/
-Fahren{n}/運転[うんてん]/乗り入れ[のりいれ]/
-fahren{vi}{vt}/行く[いく]/いく[いく]/向かう[むかう]/召す[めす]/馳せる[はせる]/運ぶ[はこぶ]/駆けつける[かけつける]/
-Fahrer{m}/ライダー[らいだー]/ドライバー[どらいばー]/ドライバ[どらいば]/運転手[うんてんしゅ]/
+Fahren{n}/運転[うんてん]/
+fahren{vi}{vt}/行く[いく]/(transportieren) 運ぶ[はこぶ]/
+Fahrer{m}/運転手[うんてんしゅ]/
 Fahrerflucht{f}/ひき逃げ[ひきにげ]/
 Fahrerkabine{f}/運転手室[うんてんしゅしつ]/
 Fahrersitz{m}/運転席[うんてんせき]/
-Fahrgast{m}/客[きゃく]/旅客[りょきゃく]/乗客[じょうきゃく]/
+Fahrgast{m}/乗客[じょうきゃく]/
 Fahrgefühl{n}/乗り心地[のりごこち]/
 Fahrgeld{n}/運賃[うんちん]/
 Fahrgeschwindigkeit{f}/対水速力[たいすいそくりょく]/
 Fahrgestell{n}/脚[きゃく]/
-Fahrkarte{f}/切符[きっぷ]/乗車券[じょうしゃけん]/
+Fahrkarte{f}/乗車券[じょうしゃけん]/
 Fahrkartenautomat{m}/券売機[けんばいき]/
 Fahrkartenschalter{m}/窓口[まどぐち]/
 Fahrlehrer{m}/運転教習所の教師[うんてんきょうしゅうじょのきょうし]/
 Fahrleitung{f}/電車線路[でんしゃせんろ]/
 fahrlässig{adj}/容易い[たやすい]/
-Fahrlässigkeit{f}/不覚[ふかく]/怠慢[たいまん]/過失[かしつ]/ずぼら[ずぼら]/ズボラ[ずぼら]/
-Fahrplan{m}/時刻表[じこくひょう]/ダイア[だいあ]/
+Fahrlässigkeit{f}/(Unaufmerksamkeit) 不注意[ふちゅうい]/(Pflichtvernachlässigung) 怠慢[たいまん]/
+Fahrplan{m}/時刻表[じこくひょう]/
 Fahrprüfung{f}/運転試験[うんてんしけん]/
 Fahrrad{n}/自転車[じてんしゃ]/
 Fahrradanhänger{m}/リヤカー[りやかー]/
@@ -8552,10 +8550,10 @@ Fahrradpumpe{f}/自転車のポンプ[じてんしゃのぽんぷ]/
 Fahrradständer{m}/自転車置き場[じてんしゃおきば]/
 Fahrradverleih{m}/レンタサイクル[れんたさいくる]/
 Fahrrinne{f}/澪[みお]/
-Fahrschule{f}/教習所[きょうしゅうじょ]/自動車学校[じどうしゃがっこう]/
+Fahrschule{f}/自動車学校[じどうしゃがっこう]/
 Fahrspur{f}/車線[しゃせん]/
 Fahrstrecke{f}/航程[こうてい]/
-Fahrt{f}/道[みち]/ドライブ[どらいぶ]/渡航[とこう]/路[みち]/走行[そうこう]/運行[うんこう]/
+Fahrt{f}/走行[そうこう]/
 Fahrtdauer{f}/航続時間[こうぞくじかん]/
 Fahrtenbuch{n}/運転日誌[うんてんにっし]/
 Fahrtenschreiber{m}/ドライビング･レコーダー[どらいびんぐれこーだー]/
@@ -8563,29 +8561,28 @@ Fahrtrichtungsanzeiger{f}/インジケーター[いんじけーたー]/
 Fahrtunterbrechung{f}/途中下車[とちゅうげしゃ]/
 Fahrweise{f}/ハンドリング[はんどりんぐ]/
 Fahrwerk{n}/着陸装置[ちゃくりくそうち]/
-Fahrzeug{n}/車両[しゃりょう]/車輌[しゃりょう]/乗り物[のりもの]/
+Fahrzeug{n}/乗り物[のりもの]/
 Fahrzeugführer{m}/操縦士[そうじゅうし]/
 Fahrzeugpark{m}/鉄道車両[てつどうしゃりょう]/
 fair/正々堂々[せいせいどうどう]/
-Fairness{f}/綺麗[きれい]/フェア[ふぇあ]/奇麗[きれい]/公明[こうめい]/公平[こうへい]/
+Fairness{f}/公平[こうへい]/
 Fakir{m}/行者[ぎょうじゃ]/
 Faksimile{n}/写し[うつし]/
 faktisch{adv}/実際に[じっさいに]/
-Faktor{m}/材料[ざいりょう]/ファクター[ふぁくたー]/要素[ようそ]/
+Faktor{m}/(wesentlicher ~) 要因[よういん]/
 Faktorenanalyse{f}/因子分析[いんしぶんせき]/
 Faktorisierung{f}/因数分解[いんすうぶんかい]/
 Faktotum{n}/便利屋[べんりや]/
-Fakultät{f}/部[ぶ]/学部[がくぶ]/
+Fakultät{f}/学部[がくぶ]/
 Falafel{pl}/ファラーフェル[ふぁらーふぇる]/
 Falke{m}/鷹[たか]/
 Falkenjagd{f}/鷹野[たかの]/
 Falkner{m}/鷹匠[たかじょう]/
 Falknerei{f}/鷹野[たかの]/
-Fall{m}{n}/時[とき]/倒れ[たおれ]/陥落[かんらく]/降下[こうか]/患者[かんじゃ]/訳[わけ]/案件[あんけん]/落下[らっか]/墜落[ついらく]/ケース[けーす]/転落[てんらく]/事例[じれい]/場合[ばあい]/儀[ぎ]/症例[しょうれい]/事案[じあん]/沙汰[さた]/騒ぎ[さわぎ]/
+Fall{m}{n}/{phys.} 落下[らっか]/(Gelegenheit) 場合[ばあい]/
 Fallbeispiel{n}/事例[じれい]/
-Falle{f}/罠[わな]/落とし穴[おとしあな]/落とし穴[おとしあな]/落[おとし]/トラップ[とらっぷ]/
-fallen{vi}/死ぬ[しぬ]/倒れる[たおれる]/降りる[おりる]/下りる[おりる]/転がる[ころがる]/落ちる[おちる]/転ぶ[まろぶ]/下がる[さがる]/
-fallen lassen/置く[おく]/落とす[おとす]/口にする[くちにする]/
+Falle{f}/罠[わな]/
+fallen{vi}/(umkippen;um~) 倒れる[たおれる]/(herunterfallen) 転がる[ころがる]/(abstürzen) 落ちる[おちる]/(~ lassen) 落とす[おとす]/
 fallend{adj}/どかっと[どかっと]/
 Fallgrube{f}/落とし穴[おとしあな]/
 Fallhammer{m}/ドロップ･ハンマー[どろっぷはんまー]/
