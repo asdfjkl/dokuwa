@@ -8996,17 +8996,17 @@ Festschrift{f}/記念論文集[きねんろんぶんしゅう]/
 festsitzen{vi}/手詰まりになる[てづまりになる]/
 feststecken{vt}/ずぶずぶ深みにはまる[ずぶずぶふかみにはまる]/
 feststehend{adj}/変化のない[へんかのない]/
-Feststellung{f}/確認[かくにん]/検出[けんしゅつ]/検証[けんしょう]/確立[かくりつ]/判定[はんてい]/
-Festtag{m}/祭り[まつり]/祝日[しゅくじつ]/祭日[さいじつ]/祭[まつり]/
+Feststellung{f}/確認[かくにん]/
+Festtag{m}/祝日[しゅくじつ]/
 festtreten{vt}/固める[かためる]/
 Festumzug{m}/ページェント[ぺーじぇんと]/
-Festung{f}/台場[だいば]/塁[とりで]/砦[とりで]/要塞[ようさい]/
+Festung{f}/要塞[ようさい]/
 Festwerden{n}/凝固[ぎょうこ]/
-Fete{f}/パーティー[ぱーてぃー]/コンパ[こんぱ]/
+Fete{f}/パーティー[ぱーてぃー]/
 Fetisch{m}/フェティッシュ[ふぇてぃっしゅ]/
 Fetischismus{m}/フェティシズム[ふぇてぃしずむ]/
 Fetischist{m}/拝物教徒[はいぶつきょうと]/
-fett{adj}{adv}/太い[ふとい]/こってり[こってり]/太った[ふとった]/
+fett{adj}{adv}/{ugs.}(dick) 太い[ふとい]/(Essen) 脂っこい[あぶらっこい]/
 Fett{n}/脂肪[しぼう]/
 fett machen{vt}/肥やす[こやす]/
 Fettdruck{m}/ボールド[ぼーるど]/
@@ -9023,16 +9023,16 @@ Fettsucht{f}/肥満症[ひまんしょう]/
 Fettsäure{f}/脂肪酸[しぼうさん]/
 Fettuccine{pl}/フェットチーネ[ふぇっとちーね]/
 Fetzen{m}{pl}/おんぼろ[おんぼろ]/
-feucht{adv}{adj}/しっとり[しっとり]/湿った[しめった]/じめじめ[じめじめ]/ウェット[うぇっと]/ウエット[うえっと]/
+feucht{adv}{adj}/湿った[しめった]/
 Feuchte{f}/潤い[うるおい]/
-Feuchtigkeit{f}/湿度[しつど]/湿気[しっけ]/水気[みずけ]/潤い[うるおい]/
+Feuchtigkeit{f}/湿度[しつど]/
 feuchtigkeitsfest{adj}/耐湿性の[たいしつせいの]/
 Feuchtigkeitsschutz{m}/防湿[ぼうしつ]/
 feudal{adj}{adv}/貴族的[きぞくてき]/
 Feudalherr{m}/殿様[とのさま]/
 Feudalismus{m}/封建[ほうけん]/
 feudalistisch/封建的[ほうけんてき]/
-Feuer{n}/火[ひ]/意気込み[いきごみ]/ファイア[ふぁいあ]/ファイヤー[ふぁいやー]/火事[かじ]/火災[かさい]/
+Feuer{n}/火[ひ]/
 Feueralarm{m}/出火警報[しゅっかけいほう]/
 Feuerbestattung{f}/火葬[かそう]/
 feuerfest{adj}/防炎の[ぼうえんの]/
@@ -9070,9 +9070,9 @@ Feuerzeug{n}/ライター[らいたー]/
 Feuerzeugbenzin{n}/ライター･オイル[らいたーおいる]/
 Feuilleton{n}/文芸欄[ぶんげいらん]/
 Feuilletonist{m}/ナンパ[なんぱ]/
-feurig{adv}{adj}/激しい[はげしい]/熱烈[ねつれつ]/きつい[きつい]/猛烈[もうれつ]/
+feurig{adv}{adj}/(rot glühend) 赤熱の[せきねつの]/(~ scharf) 辛い[からい]/
 Fiale{f}/尖塔[せんとう]/
-Fiasko{n}/失敗[しっぱい]/大失敗[だいしっぱい]/外れ[はずれ]/
+Fiasko{n}/大失敗[だいしっぱい]/
 Fibel{f}/襟留め[えりどめ]/
 Fiberglas{n}/繊維ガラス[せんいがらす]/
 Fibrose{f}/線維症[せんいしょう]/
@@ -9088,17 +9088,17 @@ Fiebermittel{n}/解熱剤[げねつざい]/
 Fieberthermometer{n}/体温計[たいおんけい]/
 fiebrig{adj}/熱っぽい[ねつっぽい]/
 fies{adj}/胸くその悪い[むなくそのわるい]/
-Figur{f}/なり[なり]/絵[え]/体型[たいけい]/容姿[ようし]/人物[じんぶつ]/像[ぞう]/形容[けいよう]/柄[がら]/フィギュア[ふぃぎゅあ]/形状[けいじょう]/格好[かっこう]/スタイル[すたいる]/体格[たいかく]/姿[すがた]/
-Fiktion{f}/嘘[うそ]/仮想[かそう]/虚構[きょこう]/フィクション[ふぃくしょん]/架空[かくう]/
+Figur{f}/(Aussehen) 容姿[ようし]/(Puppe) 人形[にんぎょう]/
+Fiktion{f}/フィクション[ふぃくしょん]/
 fiktiv{adv}/小説的[しょうせつてき]/
 Filament{n}/花糸[かし]/
 Filet{n}/ヒレ[ひれ]/
 filetieren{vt}/三枚におろす[さんまいにおろす]/
-Filiale{f}/支部[しぶ]/出店[でみせ]/支店[してん]/支社[ししゃ]/
+Filiale{f}/支店[してん]/
 Filialleiter{m}/支店長[してんちょう]/
 Filigran{n}/細金細工[さいきんざいく]/
 Filipino{m}/フィリピン人[ふぃりぴんじん]/
-Film{m}{f}{Buch über die Vorgeschichte eines erfolgreichen Films}/映画[えいが]/フィルム[ふぃるむ]/ムービー[むーびー]/活動[かつどう]/銀幕[ぎんまく]/フイルム[ふいるむ]/動画[どうが]/膜[まく]/スクリーン[すくりーん]/
+Film{m}{f}/(Spiel~) 映画[えいが]/(Kamera) フィルム[ふぃるむ]/
 Filmarchiv{n}/フィルムライブラリー[ふぃるむらいぶらりー]/
 Filmatelier{n}/撮影所[さつえいじょ]/
 Filmdiva{f}/映画スター[えいがすたー]/
@@ -9109,7 +9109,7 @@ Filmkamera{f}/撮影機[さつえいき]/
 Filmkritiker{m}/映画評論家[えいがひょうろんか]/
 Filmmusik{f}/映画音楽[えいがおんがく]/
 Filmprojektor{m}/映写機[えいしゃき]/
-Filmregisseur{m}/ディレクター[でぃれくたー]/映画監督[えいがかんとく]/
+Filmregisseur{m}/映画監督[えいがかんとく]/
 Filmstar{m}/映画スター[えいがすたー]/
 Filmstudio{n}/映画製作所[えいがせいさくしょ]/
 Filmvorführer{m}/映写技師[えいしゃぎし]/
@@ -9130,7 +9130,7 @@ Filz{m}/フェルト[ふぇると]/
 Filzhut{m}/中折れ[なかおれ]/
 Filzlaus{f}/毛ジラミ[けじらみ]/
 Filzstift{m}/サインペン[さいんぺん]/
-Finale{n}/急[きゅう]/追い込み[おいこみ]/フィナーレ[ふぃなーれ]/決勝戦[けっしょうせん]/決勝[けっしょう]/ファイナル[ふぁいなる]/
+Finale{n}/(Ende) 終局[しゅうきょく]/{Sport} 決勝戦[けっしょうせん]/
 Finalist{m}/決勝戦出場者[けっしょうせんしゅつじょうしゃ]/
 Finanzamt{n}/署[しょ]/税務署[ぜいむしょ]/
 Finanzausgleich{m}/財政調整[ざいせいちょうせい]/
@@ -9139,12 +9139,12 @@ Finanzberater{m}/財政顧問[ざいせいこもん]/
 Finanzbericht{m}/決算報告[けっさんほうこく]/
 Finanzbuchhalter{m}/帳元[ちょうもと]/
 Finanzbuchhaltung{f}/帳元[ちょうもと]/
-Finanzen{pl}/経済[けいざい]/会計[かいけい]/財務[ざいむ]/ファイナンス[ふぁいなんす]/懐[かい]/財政[ざいせい]/金融[きんゆう]/
+Finanzen{pl}/財政[ざいせい]/
 Finanzhaushalt{m}/財政予算[ざいせいよさん]/
 finanziell{adj}{adv}/経済的[けいざいてき]/
 Finanzier{m}/財界人[ざいかいじん]/
 finanzieren{vt}/資する[しする]/
-Finanzierung{f}/金融[きんゆう]/ファイナンス[ふぁいなんす]/融資[ゆうし]/
+Finanzierung{f}/融資[ゆうし]/
 Finanzkapital{n}/金融資本[きんゆうしほん]/
 Finanzkrise{f}/金融危機[きんゆうきき]/
 Finanzlage{f}/財政状態[ざいせいじょうたい]/
@@ -9156,21 +9156,21 @@ Finanzpolitik{f}/金融政策[きんゆうせいさく]/
 Finanzprodukt{n}/金融商品[きんゆうしょうひん]/
 Finanzreform{f}/財政改革[ざいせいかいかく]/
 Finanzverwaltung{f}/税務行政[ぜいむぎょうせい]/
-Finanzwesen{n}/金融[きんゆう]/財務[ざいむ]/財政[ざいせい]/
+Finanzwesen{n}/財政[ざいせい]/
 Finanzwirtschaft{f}/財務[ざいむ]/
 Findelkind{n}/捨て子[すてご]/
 Finder{m}/発見者[はっけんしゃ]/
 findig{adv}/機敏な[きびんな]/
-Findigkeit{f}/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/
+Findigkeit{f}/(Schlagfertigkeit) 機知[きち]/(Listenreichtum) 才略[さいりゃく]/
 Findling{m}/捨て子[すてご]/
 Finesse{f}/技巧[ぎこう]/
 Finger{m}/フィンガー[ふぃんがー]/
 Fingerabdruck{m}/指紋[しもん]/
-Fingerfertigkeit{f}/工[たくみ]/巧み[たくみ]/
+Fingerfertigkeit{f}/巧み[たくみ]/
 Fingerhut{m}/指貫き[ゆびぬき]/
 Fingerling{m}/指サック[ゆびさっく]/
-Fingernagel{m}/爪[つめ]/ツメ[つめ]/ネイル[ねいる]/
-Fingerspitze{f}/指先[ゆびさき]/手先[てさき]/
+Fingernagel{m}/爪[つめ]/
+Fingerspitze{f}/指先[ゆびさき]/
 Fingerspitzengefühl{n}/勘[かん]/
 Fingerzeig{m}/指摘[してき]/
 fingieren{vt}/でっち上げる[でっちあげる]/
@@ -9178,35 +9178,35 @@ Fink{m}/フィンチ[ふぃんち]/
 Finne{f}{m}/ぼつぼつ[ぼつぼつ]/
 finnisch{adj}/フィンランドの[ふぃんらんどの]/
 Finnwal{m}/ナガスクジラ[ながすくじら]/
-finster{adj}{adv}/険しい[けわしい]/鬱陶しい[うっとうしい]/
+finster{adj}{adv}/(dunkel) 暗い[くらい]/(trübe;trostlos) 陰鬱に[いんうつに]/(hinterlistig) 陰険な[いんけんな]/
 finster blickend{adv}/悪相の[あくそうの]/
-Finsternis{f}/闇[やみ]/暗黒[あんこく]/ダーク[だーく]/暗闇[くらやみ]/
+Finsternis{f}/暗闇[くらやみ]/
 Finte{f}/フェイント[ふぇいんと]/
 Firewall{n}/ファイアウォール[ふぁいあうぉーる]/
 Firlefanz{m}/安ぴか物[やすぴかもの]/
-Firma{f}/会社[かいしゃ]/事業所[じぎょうしょ]/メーカー[めーかー]/カンパニー[かんぱにー]/商社[しょうしゃ]/
-Firmament{n}/天[あめ]/大空[おおぞら]/
+Firma{f}/会社[かいしゃ]/
+Firmament{n}/大空[おおぞら]/
 Firmenanwalt{m}/顧問弁護士[こもんべんごし]/
 Firmenchef{m}/社長[しゃちょう]/
 Firmenimage{n}/企業イメージ[きぎょういめーじ]/
 Firmenkultur{f}/社風[しゃふう]/
 Firmenkunde{m}/法人顧客[ほうじんこかく]/
 Firmenkundengeschäft{n}/コーポレートバンキング[こーぽれーとばんきんぐ]/
-Firmenname{m}/屋号[やごう]/会社名[かいしゃめい]/社名[しゃめい]/
+Firmenname{m}/屋号[やごう]/
 Firmenrente{f}/企業年金[きぎょうねんきん]/
-Firmenschild{n}/看板[かんばん]/表札[ひょうさつ]/
+Firmenschild{n}/看板[かんばん]/
 Firmware{f}/ファームウェア[ふぁーむうぇあ]/
-Firnis{n}/塗り[ぬり]/ニス[にす]/塗[ぬり]/
+Firnis{n}/塗り[ぬり]/ニ
 Firstbalken{m}/棟木[むなぎ]/
 Firstziegel{m}/棟瓦[むながわら]/
-Fisch{m}/魚[さかな]/フィッシュ[ふぃっしゅ]/
+Fisch{m}/魚[さかな]/
 Fischadler{m}/ミサゴ[みさご]/
 Fischblase{f}/気胞[きほう]/
 Fischbrut{f}/幼魚[ようぎょ]/
 Fischcremesuppe{f}/ビスク[びすく]/
 Fischdampfer{m}/漁船[ぎょせん]/
 Fische{pl}/魚類[ぎょるい]/
-Fischen{n}/漁[りょう]/魚釣り[うおつり]/採取[さいしゅ]/
+Fischen{n}/魚釣り[うおつり]/
 Fischer{m}/漁師[りょうし]/
 Fischerboot{n}/漁船[ぎょせん]/
 Fischerdorf{n}/漁村[ぎょそん]/
@@ -9214,7 +9214,7 @@ Fischereihafen{m}/漁港[ぎょこう]/
 Fischereiindustrie{f}/水産業[すいさんぎょう]/
 Fischereirecht{n}/漁業権[ぎょぎょうけん]/
 Fischernetz{n}/漁網[ぎょもう]/
-Fischfang{m}/漁[りょう]/魚釣り[うおつり]/漁業[ぎょぎょう]/
+Fischfang{m}/魚釣り[うおつり]/
 Fischfangflotte{f}/出漁船団[しゅつりょうせんだん]/
 Fischfangquote{f}/漁獲割当量[ぎょかくわりあてりょう]/
 Fischgericht{n}/魚料理[さかなりょうり]/
@@ -9240,34 +9240,34 @@ Fischwilderei{f}/密漁[みつりょう]/
 Fischzucht{f}/養魚[ようぎょ]/
 Fiskus{m}/国庫[こっこ]/
 Fistelstimme{f}/裏声[うらごえ]/
-Fitness{f}/健康[けんこう]/健やか[すこやか]/フィットネス[ふぃっとねす]/
+Fitness{f}/(Gesundheit) 健康[けんこう]/{Sport} フィットネス[ふぃっとねす]/
 Fitnessstudio{n}/ヘルスクラブ[へるすくらぶ]/
 Fixierbad{n}/定着浴[ていちゃくよく]/
 fixieren{vt}/決める[きめる]/
 Fixiermittel{n}/定着剤[ていちゃくざい]/
-Fixierung{f}/固定[こてい]/定着[ていちゃく]/
+Fixierung{f}/{med.} 固定[こてい]/定着[ていちゃく]/
 Fixkosten{pl}/固定費[こていひ]/
 Fixpunkt{m}/定点[ていてん]/
 Fixstern{m}/恒星[こうせい]/
 Fixum{n}/固定給[こていきゅう]/
 Fjord{m}/フィヨルド[ふぃよるど]/
-flach{adv}/低い[ひくい]/坦々[たんたん]/フラット[ふらっと]/薄っぺら[うすっぺら]/浅い[あさい]/プレーン[ぷれーん]/
+flach{adv}/低い[ひくい]/
 Flachbildschirm{m}/平面パネル型ディスプレー[へいめんぱねるがたでぃすぷれー]/
 flachbrüstig{adj}/胸のぺちゃんこな[むねのぺちゃんこな]/
 Flachdach{n}/デッキ[でっき]/
 Flachdruck{m}/平版[へいはん]/
 Flachglas{n}/板ガラス[いたがらす]/
-Flachheit{f}/フラット[ふらっと]/浅見[せんけん]/平坦[へいたん]/プレーン[ぷれーん]/
-Flachland{n}/平野[へいや]/平地[へいち]/
+Flachheit{f}/{fig.}(Oberflächlichkeit) 浅見[せんけん]/(Ebenheit) 平坦[へいたん]/
+Flachland{n}/平野[へいや]/
 Flachrelief{n}/薄肉[うすにく]/
 Flachs{m}/亜麻[あま]/
 flachsfarben{adj}/亜麻色の[あまいろの]/
-Flachwasser{n}/州[す]/洲[す]/
+Flachwasser{n}/(Flachwasser;Sandbank) 洲[す]/
 Flachzange{f}/やっとこ[やっとこ]/
 Flackern{n}/明滅[めいめつ]/
 flackern/揺らぐ[ゆらぐ]/
 Flag{n}/フラグ[ふらぐ]/
-Flagge{f}/旗[はた]/フラグ[ふらぐ]/フラッグ[ふらっぐ]/
+Flagge{f}/旗[はた]/
 Flaggenposten{m}/旗振り[はたふり]/
 Flaggschiff{m}/旗艦[きかん]/
 Flair{n}/息吹[いぶき]/
@@ -9275,7 +9275,7 @@ Flak{f}/高射砲[こうしゃほう]/
 Flame{m}/フレミッシュ[ふれみっしゅ]/
 Flamenco{m}/フラメンコ[ふらめんこ]/
 Flamingo{m}/フラミンゴ[ふらみんご]/
-Flamme{f}/火[ひ]/炎[ほのお]/
+Flamme{f}/火[ひ]/
 flammend{adv}/めらめら[めらめら]/
 Flammenmeer{m}/火の海[ひのうみ]/
 Flammentod{m}/焼死[しょうし]/
@@ -9284,13 +9284,13 @@ Flammpunkt{m}/引火点[いんかてん]/
 Flammschutzmittel{n}/難燃剤[なんねんざい]/
 Flanell{m}/フランネル[ふらんねる]/
 Flanellhose{f}/フラノのズボン[ふらののずぼん]/
-Flanke{f}/横[よこ]/翼[よく]/側面[そくめん]/
+Flanke{f}/{milit.} 翼[よく]/(Körper) 横腹[よこばら]/{Sport} センタリング[せんたりんぐ]/
 Flankenangriff{m}/側面攻撃[そくめんこうげき]/
 Flankenschutz{m}/側面援助[そくめんえんじょ]/
 Flansch{m}/鐔[つば]/
 Flanschkupplung{f}/フランジ継手[ふらんじつぎて]/
 Flanschverbindung{f}/フランジ継手[ふらんじつぎて]/
-Flasche{f}/瓶[びん]/ボトル[ぼとる]/
+Flasche{f}/瓶[びん]/
 Flaschenbier{n}/瓶詰めのビール[びんづめのびーる]/
 Flaschenhals{m}/ネック[ねっく]/
 Flaschenhalter{m}/びん受け[びんうけ]/
@@ -9303,23 +9303,23 @@ Flatterhaftigkeit{f}/尻軽[しりがる]/
 Flattern{n}/フラッター[ふらったー]/
 flattern/舞う[まう]/
 Flattersatz{m}/がた組[がたぐみ]/
-Flaum{m}/ダウン[だうん]/羽毛[うもう]/毛[け]/
+Flaum{m}/綿毛[わたげ]/
 flaumig{adj}/フワフワ[ふわふわ]/
 Flaute{f}/凪[なぎ]/
 Flechte{f}/地衣[ちい]/
 Flechten{n}/編組[へんそ]/
 Flechtwerk{n}/網代[あじろ]/
-Fleck{m}/点[てん]/汚れ[よごれ]/星[ほし]/箇所[かしょ]/
+Fleck{m}/(Schmutz~) 汚れ[よごれ]/(Ort) 箇所[かしょ]/
 fleckenlos{adj}/汚点のない[おてんのない]/
 fleckig{adj}{adv}/染みだらけの[しみだらけの]/
 Fledermaus{f}/蝙蝠[こうもり]/
 Flegel{m}/野人[やじん]/
 Flegelalter{n}/いたずら盛り[いたずらざかり]/
-flehen{vi}/頼む[たのむ]/乞う[こう]/祈る[いのる]/
+flehen{vi}/嘆願する[たんがんする]/
 Flehen{n}/庶幾[しょき]/
 flehend{adv}/哀願的の[あいがんてきの]/
 flehentlich{adj}/切々[せつせつ]/
-Fleisch{n}/身[み]/肉体[にくたい]/肉[にく]/
+Fleisch{n}/肉[にく]/
 Fleischbrühe{f}/肉汁[にくじゅう]/
 Fleischer{m}/肉屋[にくや]/
 Fleischerei{f}/精肉店[せいにくてん]/
@@ -9335,23 +9335,23 @@ Fleischkost{f}/肉食[にくじき]/
 fleischlich{adj}{adv}/肉感的[にっかんてき]/
 Fleischpastete{f}/ミート･パイ[みーとぱい]/
 Fleischwolf{m}/ひき肉器[ひきにくき]/
-Fleiß{m}/勉強[べんきょう]/熱心[ねっしん]/懸命[けんめい]/勤勉[きんべん]/鋭意[えいい]/
-fleißig{adv}/せっせと[せっせと]/意欲的[いよくてき]/みっちり[みっちり]/
+Fleiß{m}/熱心[ねっしん]/
+fleißig{adv}/熱心な[ねっしんな]/
 flektieren{vt}/活用する[かつようする]/
 flexibel{adv}/柔軟[じゅうなん]/
-Flexibilität{f}/弾力[だんりょく]/融通[ゆうずう]/柔軟性[じゅうなんせい]/
-Flexion{f}/変化[へんか]/活用[かつよう]/屈折[くっせつ]/
+Flexibilität{f}/(Elastizität) 弾力[だんりょく]/(Anpassungsfähigkeit) 柔軟性[じゅうなんせい]/
+Flexion{f}/{gramm.} 変化[へんか]/
 Flexionsform{f}/活用形[かつようけい]/
 Flexodruck{m}/アニリン印刷[あにりんいんさつ]/
 Flickarbeit{f}/繕い物[つくろいもの]/
 Flicken{m}/色紙[しきし]/
-flicken{vt}/綴る[つづる]/継ぐ[つぐ]/
+flicken{vt}/繕う[つくろう]/
 Flickwerk{n}/弥縫[びほう]/
 Flickzeug{n}/修繕用具[しゅうぜんどうぐ]/
-Flieder{m}/リラ[りら]/ライラック[らいらっく]/
-Fliege{f}/はい[はい]/ハイ[はい]/
-fliegen{vi}/行く[いく]/飛ぶ[とぶ]/舞う[まう]/空を飛ぶ[そらをとぶ]/いく[いく]/向かう[むかう]/駆けつける[かけつける]/
-Fliegen{n}/航空[こうくう]/飛翔[ひしょう]/飛行[ひこう]/
+Flieder{m}/ライラック[らいらっく]/
+Fliege{f}/ハエ[はえ]/
+fliegen{vi}/飛ぶ[とぶ]/
+Fliegen{n}/航空[こうくう]/
 Fliegenfenster{n}/網戸[あみど]/
 Fliegenfischen{n}/フライフィッシング[ふらいふぃっしんぐ]/
 Fliegengewicht{n}/フェザー級[ふぇざーきゅう]/
@@ -9367,17 +9367,17 @@ Fliesenlegen{n}/タイル張り[たいるばり]/
 Fließband{n}/コンベア[こんべあ]/
 Fließbandarbeiter{m}/組み立て工[くみたてこう]/
 Fließbandfertigung{f}/流れ作業[ながれさぎょう]/
-Fließen{n}/で[で]/出[で]/
+fließen{n}/流れる[ながれる]/
 fließend{adj}{adv}/すらすら[すらすら]/
 Fließheck{n}/ファーストバック[ふぁーすとばっく]/
 Flimmern{n}/フリッカー[ふりっかー]/
-flink{adv}/早く[はやく]/鋭い[するどい]/身軽[みがる]/さっさと[さっさと]/いち早く[いちはやく]/素早い[すばやい]/速く[はやく]/ひらり[ひらり]/
+flink{adv}/(schnell) 早く[はやく]/機敏な[きびんな]/
 Flinkheit{f}/軽快[けいかい]/
-Flinte{f}/砲[つつ]/鉄砲[てっぽう]/
+Flinte{f}/鉄砲[てっぽう]/
 Flintglas{n}/フリントガラス[ふりんとがらす]/
 Flipchart{f}/フリップ[ふりっぷ]/
 Flipflop{n}/フリップフロップ[ふりっぷふろっぷ]/
-Flirt{m}/戯れ[たわむれ]/媚[こび]/
+Flirt{m}/(Liebesaffäre) 情事[じょうじ]/
 flirten{vi}/媚びる[こびる]/
 flirtend{adv}/いちゃいちゃ[いちゃいちゃ]/
 Flittchen{n}/売春婦[ばいしゅんふ]/
@@ -9385,9 +9385,9 @@ Flitterwochen{pl}/新婚旅行[しんこんりょこう]/
 Flitzer{m}/ストリーカー[すとりーかー]/
 Flocke{f}/一ひら[ひとひら]/
 flockig{adj}/フワフワ[ふわふわ]/
-Floh{m}/のみ[のみ]/ノミ[のみ]/
+Floh{m}/ノミ[のみ]/
 Flohbiss{m}/ノミに食われた跡[のみにくわれたあと]/
-Flohmarkt{m}/フリマ[ふりま]/フリーマーケット[ふりーまーけっと]/
+Flohmarkt{m}/フリーマーケット[ふりーまーけっと]/
 Flohpulver{n}/のみ取り粉[のみとりこ]/
 Flohzirkus{m}/ノミのサーカス[のみのさーかす]/
 Flop{m}/不発[ふはつ]/
@@ -9397,41 +9397,40 @@ Florettseide{f}/真綿[まわた]/
 Florfliege{f}/草蜉蝣[くさかげろう]/
 Floskel{f}/常套句[じょうとうく]/
 Flosse{f}/フィン[ふぃん]/
-flott{adj}{adv}/早く[はやく]/味な[あじな]/すいすい[すいすい]/ウキウキ[うきうき]/さっさと[さっさと]/速く[はやく]/どんどん[どんどん]/
+flott{adj}{adv}/(schnell) 早く[はやく]/軽快な[けいかいな]/
 Flotte{f}/戦隊[せんたい]/
 Flottenschau{f}/観艦式[かんかんしき]/
-Flottille{f}/戦隊[せんたい]/艦隊[かんたい]/
+Flottille{f}/戦隊[せんたい]/
 Flottmachen{n}/浮き上げ[うきあげ]/
 Floß{n}/筏[いかだ]/
-Fluch{m}/呪い[のろい]/呪[のろい]/
+Fluch{m}/呪い[のろい]/
 fluchen{vi}/呪う[のろう]/
-Flucht{f}/脱出[だっしゅつ]/退散[たいさん]/逃亡[とうぼう]/亡命[ぼうめい]/逃げ[にげ]/脱走[だっそう]/逃走[とうそう]/逃避[とうひ]/
+Flucht{f}/逃亡[とうぼう]/
 Fluchtpunkt{m}/消失点[しょうしつてん]/
 Fluchtweg{m}/逃げ道[にげみち]/
-Flug{m}/飛行[ひこう]/飛翔[ひしょう]/フライト[ふらいと]/
+Flug{m}/飛行[ひこう]/
 Flugabwehrrakete{f}/対空ミサイル[たいくうみさいる]/
 Flugasche{f}/煙灰[えんばい]/
 Flugbahn{f}/軌道[きどう]/
-Flugball{m}/フライ[ふらい]/ボレー[ぼれー]/
 Flugbenzin{n}/航空ガソリン[こうくうがそりん]/
-Flugblatt{n}/チラシ[ちらし]/ビラ[びら]/
+Flugblatt{n}/(Handzettel) ビラ[びら]/
 Flugboot{n}/飛行艇[ひこうてい]/
 Flugdauer{m}/滞空時間[たいくうじかん]/
 Fluggast{m}/旅客[りょきゃく]/
 Fluggastbrücke{f}/フィンガー[ふぃんがー]/
 Fluggeschwindigkeit{f}/飛行速度[ひこうそくど]/
 Fluggesellschaft{f}/航空会社[こうくうがいしゃ]/
-Flughafen{m}/空港[くうこう]/飛行場[ひこうじょう]/
+Flughafen{m}/空港[くうこう]/
 Flughund{m}/オオコウモリ[おおこうもり]/
 Flughöhe{f}/飛行高度[ひこうこうど]/
 Flugkapitän{m}/機長[きちょう]/
 Fluglinie{f}/エアライン[えあらいん]/
 Fluglotse{m}/管制官[かんせいかん]/
 Flugplan{m}/時刻表[じこくひょう]/
-Flugplatz{m}/空港[くうこう]/飛行場[ひこうじょう]/
+Flugplatz{m}/飛行場[ひこうじょう]/
 Flugpreis{m}/航空運賃[こうくううんちん]/
 Flugreise{f}/空の旅[そらのたび]/
-Flugschein{m}/切符[きっぷ]/航空券[こうくうけん]/
+Flugschein{m}/(Flugticket) 航空券[こうくうけん]/
 Flugschreiber{m}/フライトレコーダー[ふらいとれこーだー]/
 Flugschrift{f}/檄[げき]/
 Flugschule{f}/航空学校[こうくうがっこう]/
@@ -9445,7 +9444,7 @@ Flugunfall{m}/航空事故[こうくうじこ]/
 Flugverbotszone{f}/飛行禁止空域[ひこうきんしくういき]/
 Flugwetter{n}/航空気象[こうくうきしょう]/
 Flugzeit{f}/飛行時間[ひこうじかん]/
-Flugzeug{n}/飛行機[ひこうき]/航空機[こうくうき]/
+Flugzeug{n}/飛行機[ひこうき]/
 Flugzeugbau{m}/航空工学[こうくうこうがく]/
 Flugzeugentführer{m}/乗っ取り犯人[のっとりはんにん]/
 Flugzeugentführung{f}/スカイジャック[すかいじゃっく]/
@@ -9453,18 +9452,18 @@ Flugzeughalle{f}/格納庫[かくのうこ]/
 Flugzeugrumpf{m}/胴体[どうたい]/
 Flugzeugträger{m}/航空母艦[こうくうぼかん]/
 Flugzeugunglück{pl}/飛行機事故[ひこうきじこ]/
-Fluke{f}/尾びれ[おびれ]/
-Fluktuation{f}/移動[いどう]/上り下り[あがりさがり]/増減[ぞうげん]/変動[へんどう]/激変[げきへん]/波[なみ]/
+Fluke{f}/{biol.} 尾びれ[おびれ]/
+Fluktuation{f}/変動[へんどう]/
 fluktuieren{vi}/狂う[くるう]/
 Flunke{f}/アンカー爪[あんかーつめ]/
 Flunkerei{f}/嘘[うそ]/
 Fluor{n}/フリュオリネ[ふりゅおりね]/
 Fluorid{n}/フッ化物[ふっかぶつ]/
 Fluoridierung{f}/フッ化[ふっか]/
-Flur{f}/玄関[げんかん]/小野[おの]/農地[のうち]/廊下[ろうか]/野原[のはら]/
+Flur{f}/廊下[ろうか]/
 Flurbereinigung{f}/耕地整理[こうちせいり]/
 Fluse{f}/糸くず[いとくず]/
-Fluss{m}/川[かわ]/河[かわ]/フロー[ふろー]/流れ[ながれ]/
+Fluss{m}/川[かわ]/
 Flussarm{m}/支流[しりゅう]/
 Flussbau{m}/河川工学[かせんこうがく]/
 Flussbett{n}/河川敷[かせんしき]/
@@ -9481,21 +9480,21 @@ Flussregulierung{f}/治水[ちすい]/
 Flussschiffer{m}/荷足り乗り[にたりのり]/
 Flusstal{n}/川の流れている谷[かわのながれているたに]/
 Flussterrasse{f}/河岸段丘[かがんだんきゅう]/
-Flussufer{n}/岸[きし]/水辺[みずべ]/川端[かわばた]/川岸[かわぎし]/川沿い[かわぞい]/
-Flut{f}/水[みず]/洪水[こうずい]/波[なみ]/
+Flussufer{n}/川端[かわばた]/
+Flut{f}/上げ潮[あげしお]/
 Flutkatastrophe{f}/水難[すいなん]/
 Flutlicht{n}/投光器[とうこうき]/
 Flutopfer{n}/洪水の被災者[こうずいのひさいしゃ]/
 Fluttor{n}/防潮水門[ぼうちょうすいもん]/
-Fläche{f}/広さ[ひろさ]/平原[へいげん]/平ら[たいら]/平地[へいち]/面積[めんせき]/平面[へいめん]/
+Fläche{f}/(Ausdehnung) 広さ[ひろさ]/(das flache Feld) 平原[へいげん]/(Ober~) 平面[へいめん]/
 Flächeninhalt{m}/面積[めんせき]/
 Flächennutzung{f}/土地利用[とちりよう]/
 Fläschchen{n}/小瓶[こびん]/
-Flöte{f}/笛[ふえ]/フルート[ふるーと]/
+Flöte{f}/フルート[ふるーと]/
 Flötist{m}/フルート奏者[ふるーとそうしゃ]/
 Flößer{m}/いかだ流し[いかだながし]/
 flüchten{vi}/逃れる[のがれる]/
-flüchtig{adj}{adv}/淡い[あわい]/ちらりと[ちらりと]/儚い[はかない]/ざっと[ざっと]/大まか[おおまか]/
+flüchtig{adj}{adv}/素早い[すばやい]/(auf der Flucht sein) 逃走中である[とうそうちゅうである]/
 flüchtig sehen/見かける[みかける]/
 flüchtiger Blick/一瞥[いちべつ]/
 Flüchtigkeit{f}/無常[むじょう]/
