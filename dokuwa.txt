@@ -19,9 +19,9 @@ Abakus{m}/算盤[そろばん]/
 Abart{f}/異種[いしゅ]/
 Abartigkeit{f}/狂乱[きょうらん]/
 abbalgen{vt}/剥がす[はがす]/
-Abbau{m}/(Demontierung) 解体[かいたい]/(Bergbau: Förderung) 採掘[さいくつ]/
+Abbau{m}/(Demontierung) 解体[かいたい]/{Bergbau} (Förderung) 採掘[さいくつ]/
 Abbaubarkeit{f}/分解性[ぶんかいせい]/
-abbauen{vt}/(Bergbau: Förderung) 採掘する[さいくつする]/(köperlich ~) 体力が衰える[たいりょくがおとろえる]/(demontieren) 解体する[かいたいする]/
+abbauen{vt}/{Bergbau} (fördern) 採掘する[さいくつする]/(köperlich ~) 体力が衰える[たいりょくがおとろえる]/(demontieren) 解体する[かいたいする]/
 Abbauprodukt{n}/分解産物[ぶんかいさんぶつ]/
 abbeißen{vt}/食いちぎる[くいちぎる]/
 abberufen{vt}/召還する[しょうかんする]/
@@ -10015,7 +10015,7 @@ Fußballplatz{m}/蹴球場[しゅうきゅうじょう]/
 Fußballspieler{m}/サッカー選手[さっかーせんしゅ]/
 Fußballstadion{n}/サッカー･スタジアム[さっかーすたじあむ]/
 Fußbank{f}/踏み台[ふみだい]/
-Fußboden{m}/床[ゆか]/フロアー[ふろあー]/フローリング[ふろーりんぐ]/フロア[ふろあ]/
+Fußboden{m}/床[ゆか]/
 Fußbodenbelag{m}/フローリング[ふろーりんぐ]/
 Fußbodenheizung{f}/床暖房[ゆかだんぼう]/
 Fußbremse{f}/フット･ブレーキ[ふっとぶれーき]/
@@ -10032,24 +10032,24 @@ Fußpilz{m}/水虫[みずむし]/
 Fußplatte{f}/足盤[そくばん]/
 Fußpunkt{m}/天底[てんてい]/
 Fußrücken{m}/足の甲[あしのこう]/
-Fußsohle{f}/足の裏[あしのうら]/足裏[あしうら]/
-Fußspur{f}/足跡[そくせき]/跡[あと]/
-Fußstapfen{m}/足跡[そくせき]/跡[あと]/
+Fußsohle{f}/{anat.} 足裏[あしうら]/
+Fußspur{f}/足跡[そくせき]/
+Fußstapfen{m}/足跡[そくせき]/
 Fußstütze{f}/足台[あしだい]/
 Fußtritt{m}/踏み台[ふみだい]/
 Fußweg{m}/歩道[ほどう]/
 Fußzeile{f}/ページの脚部[ぺーじのきゃくぶ]/
 fächeln{vt}/扇ぐ[あおぐ]/
-Fächer{m}/ファン[ふぁん]/扇[おうぎ]/扇子[せんす]/
+Fächer{m}/扇子[せんす]/
 fächerartig{adj}/扇状の[せんじょうの]/
 fächerförmig{adj}/扇状の[せんじょうの]/
 fähig{adj}/強い[つよい]/
-Fähigkeit{f}/力[ちから]/才能[さいのう]/人材[じんざい]/甘み[うまみ]/技能[ぎのう]/効き[きき]/腕前[うでまえ]/資格[しかく]/技[わざ]/能[のう]/才[さい]/敏腕[びんわん]/手腕[しゅわん]/働き[はたらき]/有能[ゆうのう]/旨味[うまみ]/旨み[うまみ]/機能[きのう]/勢力[せいりょく]/能力[のうりょく]/技量[ぎりょう]/
-Fähre{f}/渡り[わたり]/フェリー[ふぇりー]/渡し[わたし]/
+Fähigkeit{f}/能力[のうりょく]/
+Fähre{f}/フェリー[ふぇりー]/
 Fährhafen{m}/渡船場[とせんば]/
 Fährmann{m}/渡し守[わたしもり]/
 Fährschiff{n}/渡し[わたし]/
-Fährte{f}/跡[あと]/手がかり[てがかり]/
+Fährte{f}/(Fußspur) 足跡[あしあと]/
 Fäkalien{pl}/フン[ふん]/
 Fällen{n}/析出[せきしゅつ]/
 fällig werden/期限が来る[きげんがくる]/
@@ -10061,61 +10061,60 @@ Fällungsmittel{n}/沈殿剤[ちんでんざい]/
 Fällungstitration{f}/沈殿滴定[ちんでんてきてい]/
 Fälscher{m}/偽金造り[にせがねづくり]/
 fälschlich{adv}/有らぬ[あらぬ]/
-Fälschung{f}/創作[そうさく]/偽[ぎ]/ガセ[がせ]/天ぷら[てんぷら]/偽物[ぎぶつ]/改ざん[かいざん]/
-Fänger{m}/キャッチャー[きゃっちゃー]/捕手[ほしゅ]/
+Fälschung{f}/(Gegenstand) 偽造品[ぎぞうひん]/(Sachverhalt) 偽造[ぎぞう]/
+Fänger{m}/{Sport}(Baseball) キャッチャー[きゃっちゃー]/
 Färbemittel{n}/着色料[ちゃくしょくりょう]/
 färben{vt}/彩る[いろどる]/染める[そめる]/
 Färberdistel{f}/紅花[べにばな]/
 Färberei{f}/紺屋[こんや]/
-Färbung{f}/色[いろ]/色合い[いろあい]/彩り[いろどり]/色彩[しきさい]/色気[いろけ]/彩色[さいしき]/染め[そめ]/
-Fässchen{n}/たる[たる]/樽[たる]/
+Färbung{f}/(Farbton) 色合い[いろあい]/
+Fässchen{n}/樽[たる]/
 Fäulnis{f}/腐敗[ふはい]/
 Fäulnisbakterie{f}/腐敗菌[ふはいきん]/
 Fäustling{m}/手袋[てぶくろ]/
 Föderalismus{m}/連邦制度[れんぽうせいど]/
-Föderation{f}/連邦[れんぽう]/合衆国[がっしゅうこく]/
+Föderation{f}/連邦[れんぽう]/
 Föhn{m}/ドライヤー[どらいやー]/
 Förderband{n}/コンベア[こんべあ]/
 Förderer{m}/発起人[ほっきにん]/
-fördern{vt}/進める[すすめる]/運ぶ[はこぶ]/
+fördern{vt}/促進する[そくしんする]/{Bergbau} 掘り出す[ほりだす]/
 Förderschule{f}/養護学校[ようごがっこう]/
 Fördersystem{n}/輸送システム[ゆそうしすてむ]/
-Förderung{f}/引き[ひき]/増進[ぞうしん]/主催[しゅさい]/振興[しんこう]/向上[こうじょう]/奨励[しょうれい]/促進[そくしん]/助長[じょちょう]/採取[さいしゅ]/
+Förderung{f}/促進[そくしん]/{Berbau} 採掘[さいくつ]/
 Förderungsmaßnahmen{pl}/促進施策[そくしんしさく]/
 Förderwagen{m}/トロッコ[とろっこ]/
 förmlich{adj}/フォーマル[ふぉーまる]/
-Förmlichkeit{f}/公式[こうしき]/申し訳[もうしわけ]/窮屈[きゅうくつ]/正式[せいしき]/公然[こうぜん]/
+Förmlichkeit{f}/正式[せいしき]/
 Förster{m}/林務官[りんむかん]/
 Fötus{m}/胎児[たいじ]/
 Fügen{n}/泣き寝入り[なきねいり]/
 Fügsamkeit{f}/従順[じゅうじゅん]/
-Fügung{f}/因縁[いんねん]/摂理[せつり]/
+Fügung{f}/因縁[いんねん]/
 Fühlen{n}/懐抱[かいほう]/
 fühlend{adv}/有情の[うじょうの]/
 Fühler{m}/触手[しょくしゅ]/
 führend{adj}/主立った[おもだった]/
-Führer{m}/案内[あんない]/道案内[みちあんない]/指導者[しどうしゃ]/栞[しおり]/先達[せんだつ]/指針[ししん]/リーダー[りーだー]/親分[おやぶん]/指揮官[しきかん]/キャップ[きゃっぷ]/首長[しゅちょう]/指揮者[しきしゃ]/運転手[うんてんしゅ]/キャプテン[きゃぷてん]/ガイド[がいど]/
-Führerschein{m}/免許[めんきょ]/免許証[めんきょしょう]/運転免許証[うんてんめんきょしょう]/
+Führer{m}/指導者[しどうしゃ]/
+Führerschein{m}/運転免許証[うんてんめんきょしょう]/
 Führerscheinentzug{m}/運転免許取消[うんてんめんきょとりけし]/
 Führerstand{m}/運転台[うんてんだい]/
-Führung{f}/先[さき]/ガイダンス[がいだんす]/引率[いんそつ]/操縦[そうじゅう]/誘導[ゆうどう]/導き[みちびき]/道案内[みちあんない]/主導[しゅどう]/運営[うんえい]/指揮[しき]/リーディング[りーでぃんぐ]/指導[しどう]/支配[しはい]/リーダーシップ[りーだーしっぷ]/案内[あんない]/幹部[かんぶ]/主宰[しゅさい]/先導[せんどう]/手引き[てびき]/管理[かんり]/風靡[ふうび]/
+Führung{f}/{fig.} 指導[しどう]/(geführte Besichtigung) ガイドに先導されて見学[がいどにせんどうされてけんがく]/
 Führungsbahn{f}/案内面[あんないめん]/
 Führungskraft{f}/指導力[しどうりょく]/
 Führungsposition{f}/指導的地位[しどうてきちい]/
 Führungsqualitäten{pl}/指導性[しどうせい]/
 Führungsspitze{f}/最高指導者[さいこうしどうしゃ]/
 Führungsstärke{f}/統率力[とうそつりょく]/
-Fülle{f}/充実[じゅうじつ]/充満[じゅうまん]/豊富[ほうふ]/
-Füllen{n}/馬[うま]/小馬[こうま]/
-füllen{vt}/入れる[いれる]/詰める[つめる]/満たす[みたす]/
+Fülle{f}/(Überfluss) 豊富[ほうふ]/(große Menge) 大量[たいりょう]/
+füllen{vt}/詰める[つめる]/
 Füller{m}/万年筆[まんねんひつ]/
 Füllfederhalter{m}/万年筆[まんねんひつ]/
 Füllhorn{n}/コルヌコピア[こるぬこぴあ]/
 Füllmasse{f}/充填剤[じゅうてんざい]/
 Füllsel{n}/ファース[ふぁーす]/
-Füllung{f}/スタッフ[すたっふ]/詰まり[つまり]/中身[なかみ]/中味[なかみ]/
+Füllung{f}/{med.}(Zahn~) 充填[じゅうてん]/(Inhalt;das Innere) 中身[なかみ]/
 Füllwort{n}/冗語[じょうご]/
-fünf{num}/五[ご]/片手[かたて]/ファイブ[ふぁいぶ]/
+fünf{num}/五[ご]/五つ[いつつ]/
 Fünfeck{n}/五角形[ごかっけい]/
 fünfeckig{adj}{adv}/五辺形の[ごへんけいの]/
 fünffach/五重の[ごじゅうの]/
@@ -10126,21 +10125,21 @@ fünfmal{adj}/5倍[ごばい]/
 fünfzehn{num}/十五[じゅうご]/
 fünfzig{num}/五十[い]/
 Fünkchen{n}/小火花[こひばな]/
-für{prp; +Akkusativ}/之[の]/対する[たいする]/対して[たいして]/
+für{prp; +Akkusativ}/(um ... zu tun) ...のために[...のために]/(als Ersatz ~) ...の代わりに[のかわりに]/
 für den Verkehr freigeben/開通する[かいつうする]/
 Fürbitte{f}/祈願[きがん]/
-fürchten{vt}/思う[おもう]/恐れる[おそれる]/想う[おもう]/
-fürchterlich{adv}/素晴らしい[すばらしい]/凄い[すごい]/きつい[きつい]/恐ろしい[おそろしい]/怖い[こわい]/恐い[こわい]/凄まじい[すさまじい]/恐るべき[おそるべき]/散々[さんざん]/大した[たいした]/
+fürchten{vt}/恐れる[おそれる]/
+fürchterlich{adv}/恐ろしい[おそろしい]/
 Fürchterlichkeit{f}/せいそう[せいそう]/
-Fürsorge{f}/世話[せわ]/心がけ[こころがけ]/生活保護[せいかつほご]/気配り[きくばり]/
+Fürsorge{f}/世話[せわ]/
 Fürsorgeamt{n}/福祉事務所[ふくしじむしょ]/
 Fürsprecher{m}/論者[ろんしゃ]/
-Fürst{m}/公[こう]/殿様[とのさま]/
+Fürst{m}/殿様[とのさま]/
 Fürstentum{n}/公国[こうこく]/
 fürstlich{adj}/盛大[せいだい]/
 Fütterung{f}/芯地[しんじ]/
-Gabe{f}/旦那[だんな]/寄贈[きぞう]/給[きゅう]/贈り物[おくりもの]/賜物[たまわりもの]/頂き物[いただきもの]/
-Gabel{f}/フォーク[ふぉーく]/ホーク[ほーく]/
+Gabe{f}/(Almosen;Spende) 喜捨[きしゃ]/(intellektuelle ~) 才能[さいのう]/
+Gabel{f}/フォーク[ふぉーく]/
 Gabelschaft{m}/梶棒[かじぼう]/
 Gabelschlüssel{m}/引掛けスパナ[びきかけすぱな]/
 Gabelstapler{m}/フォークリフト[ふぉーくりふと]/
