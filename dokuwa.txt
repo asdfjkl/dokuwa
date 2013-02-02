@@ -10143,7 +10143,7 @@ Gabel{f}/フォーク[ふぉーく]/
 Gabelschaft{m}/梶棒[かじぼう]/
 Gabelschlüssel{m}/引掛けスパナ[びきかけすぱな]/
 Gabelstapler{m}/フォークリフト[ふぉーくりふと]/
-Gabelung{f}/交差[こうさ]/分岐点[ぶんきてん]/分岐[ぶんき]/
+Gabelung{f}/分岐[ぶんき]/
 gackern{vi}/鳴く[なく]/
 Gaffelsegel{n}/スパンカー[すぱんかー]/
 Gaffer{m}/野次馬[やじうま]/
@@ -10153,9 +10153,9 @@ Gala{f}/正装[せいそう]/
 galant{adj}{adv}/凛々しい[りりしい]/
 Galanterie{f}/伊達[だて]/
 Galauniform{f}/大礼服[だいれいふく]/
-Galaxie{f}/天の川[あまのがわ]/銀河[ぎんが]/
+Galaxie{f}/銀河[ぎんが]/
 Galeere{f}/ガレー[がれー]/
-Galerie{f}/美術館[びじゅつかん]/回廊[かいろう]/ギャラリー[ぎゃらりー]/画廊[がろう]/廊下[ろうか]/
+Galerie{f}/画廊[がろう]/
 Galgen{m}/処刑台[しょけいだい]/
 Galionsfigur{f}/お飾り[おかざり]/
 Gallapfel{m}/五倍子[ふし]/
@@ -10166,12 +10166,12 @@ Gallenstein{m}/胆石[たんせき]/
 Gallone{f}/ガロン[がろん]/
 Gallwespe{f}/タマバチ[たまばち]/
 Galopp{n}/駆け足[かけあし]/
-galoppieren{vi}/馳せる[はせる]/駆ける[かける]/
+galoppieren{vi}/(Pferd) 駆ける[かける]/
 galvanisieren/電気めっきする[でんきめっきする]/
 Galvanisierung{f}/電気めっき[でんきめっき]/
 Galvanometer{n}/電流計[でんりゅうけい]/
 Gamasche{f}/脛当て[すねあて]/
-Gang{m}/通り[とおり]/歩行[ほこう]/ギア[ぎあ]/歩み[あゆみ]/運び[はこび]/足元[あしもと]/動き[うごき]/ギャング[ぎゃんぐ]/運転[うんてん]/歩き方[あるきかた]/
+Gang{m}/{KFZ} ギア[ぎあ]/(Schrittweise) 歩み[あゆみ]/
 Gangart{f}/足つき[あしつき]/
 Ganglion{n}/ガングリオン[がんぐりおん]/
 Gangster{m}/ギャング[ぎゃんぐ]/
@@ -10179,18 +10179,18 @@ Gangsterbande{f}/暴力団[ぼうりょくだん]/
 Gangsterbraut{f}/姉御[あねご]/
 Gangway{f}/タラップ[たらっぷ]/
 Gans{f}/鵞鳥[がちょう]/
-ganz{adv}{völlig weggetreten sein; nicht ganz richtig im Kopf sein (abwesend und verwirrt) | Er ist völlig weggetreten.}/全て[すべて]/挙げて[あげて]/至極[しごく]/正しい[ただしい]/頓[ひたすら]/何となく[なにとなく]/土台[どだい]/充分[じゅうぶん]/すっかり[すっかり]/殆[ほとほと]/幾[ほとほと]/丸ごと[まるごと]/余程[よほど]/全く[まったく]/随分[ずいぶん]/総て[すべて]/すっぽり[すっぽり]/一杯[いっぱい]/一切[いっさい]/ぴったり[ぴったり]/
+ganz{adv}/(alle;alles) 全部の[ぜんぶの]/迚も[とても]/
 ganz allgemein{adv}/あいまいな言葉で[あいまいなことばで]/
 ganz und gar nicht/更[さら]/更に[さらに]/
 ganze Zahl{f}/整数[せいすう]/
 ganzjährig{adj}/周年の[しゅうねんの]/
 Ganzton{m}/全音[ぜんおん]/
 Ganzzahl{f}/整数[せいすう]/
-gar nichts/一切[いっさい]/何でもない[なんでもない]/何にも[なんにも]/
-Garage{f}/ガレージ[がれーじ]/車庫[しゃこ]/
+gar nichts/何でもない[なんでもない]/
+Garage{f}/ガレージ[がれーじ]/
 Garagentor{n}/揚げ戸[あげど]/
-Garant{m}/証人[しょうにん]/保証人[ほしょうにん]/
-Garantie{f}/証[しょう]/保障[ほしょう]/ギャラ[ぎゃら]/担保[たんぽ]/保証[ほしょう]/
+Garant{m}/(Bürge) 保証人[ほしょうにん]/
+Garantie{f}/保証[ほしょう]/
 garantieren{vt}/引き受ける[ひきうける]/
 garantiert/極め付きの[きわめつきの]/
 Garantieschein{m}/保証書[ほしょうしょ]/
@@ -10198,7 +10198,7 @@ Garantiezeit{f}/保証期間[ほしょうきかん]/
 Garbe{f}/ノコギリソウ[のこぎりそう]/
 Garde{f}/近衛連隊[このえれんたい]/
 Gardenie{f}/クチナシ[くちなし]/
-Garderobe{f}{pl}/衣装[いしょう]/衣裳[いしょう]/楽屋[がくや]/
+Garderobe{f}{pl}/衣装[いしょう]/
 Garderobenmarke{m}/合札[あいふだ]/
 Gardine{f}/カーテン[かーてん]/
 Gardinenstange{f}/カーテンのつり棒[かーてんのつりぼう]/
@@ -10206,11 +10206,11 @@ Garn{n}/糸[いと]/
 Garnele{f}/エビ[えび]/海老[えび]/
 Garnierung{f}/妻[つま]/
 Garnison{f}/駐屯地[ちゅうとんち]/
-Garnitur{f}/セット[せっと]/組[くみ]/組み[くみ]/揃い[そろい]/
+Garnitur{f}/(Möbel) セット[せっと]/
 garstig{adj}{adv}/いけず[いけず]/
 Garstigkeit{f}/汚濁[おだく]/
-Garten{m}/庭[にわ]/園[その]/苑[その]/庭園[ていえん]/ガーデン[がーでん]/
-Gartenarbeit{f}/ガーデニング[がーでにんぐ]/庭仕事[にわしごと]/
+Garten{m}/庭[にわ]/
+Gartenarbeit{f}/庭仕事[にわしごと]/
 Gartenarchitekt{m}/園芸家[えんげいか]/
 Gartenbau{m}/園芸[えんげい]/
 Gartenbaukünstler{m}/庭師[にわし]/
@@ -10222,7 +10222,7 @@ Gartenschere{f}/花鋏[はなばさみ]/
 Gartenteich{m}/泉水[せんすい]/
 Gartentraktor{m}/ガーデン･トラクター[がーでんとらくたー]/
 Gartenzwerg{m}/小人の人形[こびとのひとがた]/
-Gas{n}{Rauch}/ガス[がす]/アクセル[あくせる]/
+Gas{n}{Rauch}/ガス[がす]/
 gasartig{adj}/ガス状の[がすじょうの]/
 Gasbeton{m}/気泡コンクリート[きほうこんくりーと]/
 Gasblase{f}/ブローホール[ぶろーほーる]/
@@ -10244,17 +10244,17 @@ Gasmaske{f}/ガスマスク[がすますく]/
 Gasmotor{m}/ガス機関[がすきかん]/
 Gasofen{n}/ガスストーブ[がすすとーぶ]/
 Gaspedal{n}/アクセル[あくせる]/
-Gasse{f}/道[みち]/路地[ろじ]/小路[こうじ]/路[みち]/
+Gasse{f}/路地[ろじ]/
 Gassi gehen{vi}/犬をひいて運動させる[いぬをひいてうんどうさせる]/
-Gast{m}/お客様[おきゃくさま]/訪問者[ほうもんしゃ]/客[きゃく]/ビジター[びじたー]/来賓[らいひん]/来客[らいきゃく]/お客さん[おきゃくさん]/ゲスト[げすと]/お客さま[おきゃくさま]/
+Gast{m}/客[きゃく]/
 Gastarbeiter{m}/外国人労働者[がいこくじんろうどうしゃ]/
 Gastfamilie{f}/ホストファミリー[ほすとふぁみりー]/
 gastfreundlich{adj}{adv}/愛想のいい[あいそのいい]/
-Gastfreundschaft{f}/風情[ふぜい]/優待[ゆうたい]/
+Gastfreundschaft{f}/優待[ゆうたい]/
 Gastgeberin{f}/ホステス[ほすてす]/
 Gastgeberland{n}/開催国[かいさいこく]/
-Gasthaus{n}/レストラン[れすとらん]/寮[りょう]/
-Gasthof{m}/宿[やど]/どや[どや]/
+Gasthaus{n}/レストラン[れすとらん]/
+Gasthof{m}/旅館[りょかん]/
 Gastlichkeit{f}/歓待[かんたい]/
 Gastmahl{n}/振る舞い[ふるまい]/
 Gastmannschaft{f}/遠征軍[えんせいぐん]/
@@ -10267,16 +10267,16 @@ Gastroskop{n}/胃鏡[いきょう]/
 Gastspiel{n}{m}/ロードゲーム[ろーどげーむ]/
 Gaststättengewerbe{n}/飲食店業[いんしょくてんぎょう]/
 Gasturbine{f}/ガスタービン[がすたーびん]/
-Gastwirt{m}/主人[あるじ]/亭主[ていしゅ]/
+Gastwirt{m}/主人[しゅじん]/
 Gasuhr{f}/ガスメーター[がすめーたー]/
 Gasversorgung{f}/ガス供給[がすきょうきゅう]/
 Gaszustand{m}/ガス体[がすたい]/
 Gaszähler{m}/ガスメーター[がすめーたー]/
 Gateway{n}/ゲートウェイ[げーとうぇい]/
-Gatte{m}/主[ぬし]/主人[あるじ]/具[ぐ]/配偶者[はいぐうしゃ]/
-Gatter{n}/ゲート[げーと]/格子[こうし]/垣[かき]/
-Gattin{f}/室[しつ]/夫人[ふじん]/配偶者[はいぐうしゃ]/妻[つま]/
-Gattung{f}/種類[しゅるい]/部類[ぶるい]/類[るい]/類[るい]/属[ぞく]/種目[しゅもく]/ジャンル[じゃんる]/種族[しゅぞく]/
+Gatte{m}{veraltet}(=> Ehemann)/(eigener ~) 夫[おっと]/(~ einer anderen Frau) ご主人[ごしゅじん]/
+Gatter{n}/格子[こうし]/
+Gattin{f}{veraltet}(=> Ehefrau)/(eigene ~) 妻[つま]/(~ eines anderen Mann)  奥さん[おくさん]/
+Gattung{f}/種類[しゅるい]/
 Gattungsbegriff{m}/類概念[るいがいねん]/
 Gattungsname{m}/総称[そうしょう]/
 Gaukelei{f}/魔術[まじゅつ]/
@@ -10293,14 +10293,14 @@ Gaze{f}/ガーゼ[がーぜ]/
 Gazelle{f}/ガゼル[がぜる]/
 gebaut/出来る[できる]/
 Gebeine{pl}/骨[こつ]/
-geben{vt}/与える[あたえる]/下す[くだす]/下す[くだす]/配る[くばる]/挙げる[あげる]/下さる[くださる]/掛ける[かける]/給[きゅう]/発する[はっする]/降りる[おりる]/下りる[おりる]/上げる[あげる]/持たせる[もたせる]/下げる[さげる]/
-Geber{m}/親[おや]/施主[せしゅ]/
-Gebet{n}/祈り[いのり]/祈願[きがん]/願い事[ねがいごと]/祈念[きねん]/祈祷[きとう]/
+geben{vt}/(von mir zu jmd.) あげる[あげる]/(von jmd. zu mir) くれる[くれる]/
+Geber{m}/(Spender) 施主[せしゅ]/
+Gebet{n}/祈り[いのり]/
 Gebetbuch{n}/祈祷書[きとうしょ]/
 Gebetshalle{f}/祈祷堂[きとうどう]/
 Gebetsmühle{f}/輪蔵[りんぞう]/
-Gebiet{n}/方[ほう]/範囲[はんい]/方面[ほうめん]/方面[ほうめん]/場[ば]/地区[ちく]/一帯[いったい]/部門[ぶもん]/裾野[すその]/域[いき]/圏[けん]/エリア[えりあ]/地帯[ちたい]/その道[そのみち]/領域[りょういき]/領域[りょういき]/分野[ぶんや]/地域[ちいき]/区[く]/国土[こくど]/
-Gebieter{m}/主[ぬし]/覇者[はしゃ]/
+Gebiet{n}/(Gegend) 地域[ちいき]/(Fach) 分野[ぶんや]/
+Gebieter{m}/覇者[はしゃ]/
 gebieterisch{adj}{adv}/権柄ずくで[けんぺいずくで]/
 Gebietshoheit{f}/領土権[りょうどけん]/
 Gebilde{n}/形容[けいよう]/
@@ -10309,16 +10309,16 @@ Gebimmel{n}/ちりんちりん[ちりんちりん]/
 Gebinde{n}/花束[はなたば]/
 Gebirge{n}/山[やま]/
 Gebirgskamm{m}/山稜[さんりょう]/
-Gebirgskette{f}/山脈[さんみゃく]/連峰[れんぽう]/
+Gebirgskette{f}/山脈[さんみゃく]/
 Gebiss{n}/くち[くち]/
 Gebläse{n}/送風機[そうふうき]/
 gebogen{adv}/曲がった[まがった]/
 geboren{adj}/根っから[ねっから]/
 Geborgenheit{f}/安心立命[あんじんりゅうめい]/
-Gebot{n}/法[のり]/規律[きりつ]/命令[めいれい]/掟[おきて]/入札[にゅうさつ]/戒[かい]/
+Gebot{n}/(religiöse Vorschrift) 戒律[かいりつ]/(Befehl) 命令[めいれい]/
 Gebotsschild{n}/指示標識[しじひょうしき]/
-Gebrauch{m}/使い方[つかいかた]/使い道[つかいみち]/行使[こうし]/使用[しよう]/用途[ようと]/利用[りよう]/用[よう]/効用[こうよう]/活用[かつよう]/
-Gebrauchsanweisung{f}/使い方[つかいかた]/説明書[せつめいしょ]/
+Gebrauch{m}/使用[しよう]/
+Gebrauchsanweisung{f}/説明書[せつめいしょ]/
 Gebrauchsgegenstand{m}/什器[じゅうき]/
 Gebrauchsgüter{pl}/耐久消費財[たいきゅうしょうひざい]/
 Gebrauchsmuster{n}/実用新案[じつようしんあん]/
@@ -10334,7 +10334,7 @@ Gebräu{n}/醸造酒[じょうぞうしゅ]/
 Gebräuchlichkeit{f}/普通[ふつう]/通用[つうよう]/
 Gebrüll{n}/叫び声[さけびごえ]/
 gebunden{adj}/綴じて[とじて]/
-Geburt{f}/生まれ[うまれ]/お産[おさん]/誕生[たんじょう]/産[さん]/発端[ほったん]/生れ[うまれ]/分娩[ぶんべん]/出生[しゅっしょう]/出産[しゅっさん]/生誕[せいたん]/生み[うみ]/
+Geburt{f}/出産[しゅっさん]/
 Geburtenbeschränkung{f}/人口抑制[じんこうよくせい]/
 Geburtenkontrolle{f}/産児制限[さんじせいげん]/
 Geburtenrate{f}/出生率[しゅっしょうりつ]/
@@ -10344,36 +10344,36 @@ Geburtshilfe{f}/助産[じょさん]/産科[さんか]/
 Geburtsjahr{n}/生まれ年[うまれどし]/
 Geburtskanal{m}/産道[さんどう]/
 Geburtsland{n}/祖国[そこく]/
-Geburtsort{m}/国[くに]/故郷[こきょう]/生まれ故郷[うまれこきょう]/生地[せいち]/出身地[しゅっしんち]/本場[ほんば]/
+Geburtsort{m}/出生地】[しゅっしょうち]/
 Geburtsrecht{n}/家督[かとく]/
-Geburtstag{m}/誕生日[たんじょうび]/バースデイ[ばーすでい]/バースデー[ばーすでー]/
+Geburtstag{m}/誕生日[たんじょうび]/
 Geburtstagsfeier{f}/誕生パーティー[たんじょうぱーてぃー]/
 Geburtstagsgeschenk{n}/誕生祝い[たんじょういわい]/
 Geburtstagskuchen{m}/誕生日のお祝いのケーキ[たんじょうびのおいわいのけーき]/
 Geburtsurkunde{f}/出生証明書[しゅっしょうしょうめいしょ]/
 Geburtswehen{pl}/陣痛[じんつう]/
 Geburtszange{f}/鑷子剪刀[せっしはさみ]/
-Gebäck{n}/菓子[かし]/洋菓子[ようがし]/クッキー[くっきー]/お菓子[おかし]/焼き菓子[やきがし]/
+Gebäck{n}/クッキー[くっきー]/
 Gebälk{n}/骨組み[ほねぐみ]/
-Gebärde{f}/思い入れ[おもいいれ]/手振り[てぶり]/動作[どうさ]/ジェスチャー[じぇすちゃー]/
+Gebärde{f}/手振り[てぶり]/
 Gebärdensprache{f}/手話[しゅわ]/
 Gebärmutter{f}/子宮[しきゅう]/
 Gebärmutterhals{m}/子宮頸[しきゅうけい]/
 Gebärmutterhalskrebs{m}/子宮けいがん[しきゅうけいがん]/
-Gebäude{n}/家[いえ]/棟[とう]/ハウス[はうす]/建築[けんちく]/舎[しゃ]/建物[たてもの]/
+Gebäude{n}/建物[たてもの]/
 Gebäudereinigung{f}/ビル清掃[びるせいそう]/
 gebückt{adj}/かがんで[かがんで]/
 gebückt gehen{vi}/かがんで歩く[かがんであるく]/
-Gebühr{f}/手数料[てすうりょう]/チャージ[ちゃーじ]/代金[だいきん]/
+Gebühr{f}/手数料[てすうりょう]/
 Gebühren{pl}/料金[りょうきん]/
 gebührenfrei{adj}/無代で[むだいで]/
 gebührenpflichtig{adj}/有料の[ゆうりょうの]/
-Gebüsch{n}/ブッシュ[ぶっしゅ]/草むら[くさむら]/藪[やぶ]/
+Gebüsch{n}/藪[やぶ]/
 Geck{m}/伊達男[だておとこ]/
 geckenhaft{adj}/だてな[だてな]/
 Gecko{m}/守宮[やもり]/
-Gedanke{m}/思い[しい]/考え[かんがえ]/考え[かんがえ]/考え[かんがえ]/意[い]/念[ねん]/発案[はつあん]/案[あん]/感想[かんそう]/思惑[おもわく]/意思[いし]/思考[しこう]/思想[しそう]/
-Gedanken{pl}/考え事[かんがえごと]/所感[しょかん]/
+Gedanke{m}/考え[かんがえ]/
+Gedanken{pl}/考え[かんがえ]/
 Gedankenaustausch{m}/思想の交換[しそうのこうかん]/
 Gedankenexperiment{n}/思考実験[しこうじっけん]/
 Gedankenfreiheit{f}/思想の自由[しそうのじゆう]/
@@ -10390,38 +10390,38 @@ Gedankenverbrecher{m}/思想犯[しそうはん]/
 gedankenvoll{adj}{adv}/思慮深い[しりょぶかい]/
 Gedankenübertragung{f}/以心伝心[いしんでんしん]/
 Gedeck{n}/定食[ていしょく]/
-gedeihen{vi}/流行る[はやる]/賑わう[にぎわう]/
+gedeihen{vi}/賑わう[にぎわう]/
 gedenken{vi}/想起する[そうきする]/
 Gedenkfeier{f}/記念式典[きねんしきてん]/
 Gedenkmarke{f}/記念切手[きねんきって]/
 Gedenkrede{f}/追悼演説[ついとうえんぜつ]/
-Gedenkstein{m}/メモリアル[めもりある]/石碑[せきひ]/記念碑[きねんひ]/
+Gedenkstein{m}/記念碑[きねんひ]/
 Gedenkstätte{f}/記念館[きねんかん]/
 Gedenktag{m}/記念日[きねんび]/
-Gedicht{n}/歌[うた]/唄[うた]/詩[し]/句[く]/ポエム[ぽえむ]/
+Gedicht{n}/詩[し]/
 Gedichtband{m}/詩篇[しへん]/
 gediegen{adj}/確り[しっかり]/
 Gediegenheit{f}/気韻[きいん]/
-Gedränge{n}/人数[にんず]/スクランブル[すくらんぶる]/人出[ひとで]/人だかり[ひとだかり]/混雑[こんざつ]/人混み[ひとごみ]/人ごみ[ひとごみ]/殺到[さっとう]/
+Gedränge{n}/人だかり[ひとだかり]/
 Gedrängtheit{f}/簡約[かんやく]/
-Geduld{f}/我慢[がまん]/忍[にん]/根気[こんき]/勘弁[かんべん]/辛抱[しんぼう]/根[こん]/忍耐[にんたい]/
+Geduld{f}/我慢[がまん]/
 geduldig{adv}/じっと[じっと]/
 Geduldsprobe{f}/根競べ[こんくらべ]/
-Gedächtnis{n}/記憶[きおく]/メモリー[めもりー]/想起[そうき]/記念[きねん]/メモリ[めもり]/覚え[おぼえ]/念頭[ねんとう]/記憶力[きおくりょく]/
+Gedächtnis{n}/記憶[きおく]/
 Gedächtniskunst{f}/記憶術[きおくじゅつ]/
 Gedächtnisschwund{m}/健忘症[けんぼうしょう]/
 Gedächtnisstörung{f}/健忘症[けんぼうしょう]/
 Gedächtnisstütze{f}/備忘[びぼう]/
 Gedärm{n}/もつ[もつ]/
-geeignet{adv}/宜しく[よろしく]/適宜[てきぎ]/適当[てきとう]/相応しい[ふさわしい]/
+geeignet{adv}/適宜[てきぎ]/
 geeignet sein{vi}/向いている[むいている]/
-Gefahr{f}/急[きゅう]/冒険[ぼうけん]/脅威[きょうい]/恐れ[おそれ]/ハザード[はざーど]/
+Gefahr{f}/危険[きけん]/
 Gefahrenbereich{m}/危険エリア[きけんえりあ]/
 Gefahrenstelle{f}/悪所[あくしょ]/
 Gefahrenzone{f}/危険地帯[きけんちたい]/
 Gefahrgut{n}/危険物[きけんぶつ]/
 gefahrlos{adj}/大丈夫[だいじょうぶ]/
-Gefahrlosigkeit{f}/安全[あんぜん]/無難[ぶなん]/
+Gefahrlosigkeit{f}/安全[あんぜん]/
 Gefallen{m}/寵愛[ちょうあい]/
 gefallen{adj}/気に入る[きにいる]/
 Gefallsucht{f}/媚[こび]/
@@ -10430,10 +10430,10 @@ Gefangenenlager{n}/キャンプ[きゃんぷ]/
 Gefangenenwärter{m}/看守[かんしゅ]/
 Gefangenschaft{f}/拘留[こうりゅう]/
 gefasst{adv}{adj}/しずしず[しずしず]/
-Gefecht{n}/戦[いくさ]/戦闘[せんとう]/衝突[しょうとつ]/軍[いくさ]/戦い[たたかい]/闘い[たたかい]/戦争[せんそう]/
+Gefecht{n}/戦闘[せんとう]/(Wort~) 口論[こうろん]/
 Gefechtskopf{m}/弾頭[だんとう]/
 gefestigt{adj}/確たる[かくたる]/
-Gefieder{n}/羽根[はね]/羽毛[うもう]/
+Gefieder{n}/羽毛[うもう]/
 gefiedert{adj}{adv}/羽のある[はねのある]/
 gefleckt{adj}/はん点のある[はんてんのある]/
 geflissentlich{adj}{adv}/殊更[ことさら]/
@@ -10441,9 +10441,9 @@ Geflügel{n}/鶏肉[とりにく]/
 geflügelt{adj}/翼のある[よくのある]/
 Geflügelzucht{f}/養鶏[ようけい]/
 Geflüster{n}/囁き[ささやき]/
-Gefolge{n}/付き添い[つきそい]/伴[とも]/子分[こぶん]/護衛[ごえい]/
+Gefolge{n}/(Begleiter) 付き添い[つきそい]/(Geleitschutz) 護衛[ごえい]/(Anhänger) 取り巻き[とりまき]/
 Gefolgschaft{f}/身内[みうち]/
-Gefolgsmann{m}/伴[とも]/臣[しん]/子分[こぶん]/
+Gefolgsmann{m}/(Unterstützer) 支持者[しじしゃ]/
 Gefrieren{n}/フリーズ[ふりーず]/
 Gefrierfach{n}/冷凍室[れいとうしつ]/
 Gefrierfleisch{n}/冷凍肉[れいとうにく]/
@@ -10452,54 +10452,54 @@ Gefrierpunkt{m}/氷点[ひょうてん]/
 Gefrierschrank{m}/フリーザー[ふりーざー]/
 Gefriertrocknen{n}/フリーズドライ[ふりーずどらい]/
 gefräßig{adv}{adj}/卑しい[いやしい]/
-Gefräßigkeit{f}/食いしん坊[くいしんぼう]/貪欲[どんよく]/食い意地[くいいじ]/大食い[おおぐい]/
+Gefräßigkeit{f}/大食[たいしょく]/
 gefährden{vt}/危険におとしいれる[きけんにおとしいれる]/
-gefährlich{adv}/やばい[やばい]/恐ろしい[おそろしい]/恐るべき[おそるべき]/危うい[あやうい]/危なく[あぶなく]/危ない[あぶない]/
-Gefährlichkeit{f}/危険[きけん]/物騒[ぶっそう]/危険性[きけんせい]/
-Gefälle{n}/格差[かくさ]/傾斜[けいしゃ]/落差[らくさ]/勾配[こうばい]/下り[くだり]/
+gefährlich{adv}/危ない[あぶない]/
+Gefährlichkeit{f}/危険[きけん]/
+Gefälle{n}/勾配[こうばい]/
 gefällig{adv}/折角[せっかく]/
 Gefälligkeit{f}/親切[しんせつ]/
 gefälligst{adv}/どうか[どうか]/
 gefälscht{adj}/犬[いぬ]/
-Gefängnis{n}/刑務所[けいむしょ]/監獄[かんごく]/
+Gefängnis{n}/刑務所[けいむしょ]/
 Gefängnisausbruch{m}/脱獄[だつごく]/
 Gefängnisinsasse{m}/服役囚[ふくえきしゅう]/
 Gefängnisstrafe{f}/拘留[こうりゅう]/
 Gefängniswärter{m}/看守[かんしゅ]/
-Gefäß{n}/器[うつわ]/入れ物[いれもの]/容器[ようき]/
+Gefäß{n}/(Behälter) 容器[ようき]/{med.}(Blut~) 血管[けっかん]/
 Gefäßleiden{n}/アンギオパチー[あんぎおぱちー]/
 Gefäßpflanze{f}/維管束植物[いかんそくしょくぶつ]/
-Gefüge{n}/構成[こうせい]/機構[きこう]/組織[そしき]/仕組み[しくみ]/
+Gefüge{n}/(Zusammensetzung) 構成[こうせい]/
 gefügig{adj}{adv}/聞分けのよい[ききわけのよい]/
-Gefühl{n}/感じ[かんじ]/情緒[じょうしょ]/心情[しんじょう]/感[かん]/心地[ここち]/腹[はら]/哀れ[あわれ]/意[い]/念[ねん]/感触[かんしょく]/肌触り[はだざわり]/涙[なみだ]/泪[なみだ]/気配[けはい]/感覚[かんかく]/気持ち[きもち]/気持[きもち]/感想[かんそう]/気味[きみ]/そら[そら]/感情[かんじょう]/
+Gefühl{n}/感じ[かんじ]/
 gefühllos{adj}{adv}/冷ややか[ひややか]/
-Gefühllosigkeit{f}/鋭い[するどい]/痺れ[しびれ]/冷酷[れいこく]/無情[むじょう]/鈍感[どんかん]/非情[ひじょう]/麻痺[まひ]/
+Gefühllosigkeit{f}/(Mitleidslosigkeit) 無情[むじょう]/(Unsensibilität) 無神経[むしんけい]/
 Gefühlsausbruch{m}/癇癪[かんしゃく]/
 gefühlsmäßig{adj}{adv}/感情的[かんじょうてき]/
 Gefühlsregung{f}/感情の動き[かんじょうのうごき]/
 Gefühlsäußerung{f}/流露[りゅうろ]/
-gefühlvoll{adv}/ウェット[うぇっと]/ウエット[うえっと]/
+gefühlvoll{adv}/多感な[たかんな]/
 gegabelt{adj}/叉になった[またになった]/
 gegebenenfalls{adv}/必要ならば[ひつようならば]/
-Gegebenheit{f}/現実[げんじつ]/事実[じじつ]/
-gegen{prp; +Akkusativ}/と[と]/対する[たいする]/対して[たいして]/
+Gegebenheit{f}/現実[げんじつ]/
+gegen{prp; +Akkusativ}/...に対して[...にたいして]/
 gegen etw. verstoßen/たがう[たがう]/
 gegen etw. vorgehen/追討する[ついとうする]/
-Gegenangriff{m}/逆襲[ぎゃくしゅう]/反撃[はんげき]/
+Gegenangriff{m}/逆襲[ぎゃくしゅう]/
 Gegenantrag{m}/対案[たいあん]/
 Gegenargument{n}/反対論[はんたいろん]/
 Gegenbeispiel{n}/反例[はんれい]/
 Gegenbesuch{m}/お返し[おかえし]/
 Gegenbewegung{f}/反対運動[はんたいうんどう]/
 Gegenbeweis{m}/反証[はんしょう]/
-Gegend{f}/方[ほう]/一帯[いったい]/部位[ぶい]/界隈[かいわい]/辺り[ほとり]/辺[ほとり]/土地[とち]/そら[そら]/地域[ちいき]/方位[ほうい]/
+Gegend{f}/地域[ちいき]/
 Gegendruck{m}/背圧[はいあつ]/
 Gegendruckturbine{f}/衝動タービン[しょうどうたーびん]/
-gegeneinander{adv}/互いに[たがいに]/お互いに[おたがいに]/
+gegeneinander{adv}/お互いに[おたがいに]/
 Gegenerklärung{f}/抗言[こうげん]/
 Gegenfahrbahn{f}/対向車線[たいこうしゃせん]/
 Gegenfrage{f}/反問[はんもん]/
-Gegengeschenk{n}/返し[かえし]/お返し[おかえし]/
+Gegengeschenk{n}/お返し[おかえし]/
 Gegengift{n}/毒消し[どっけし]/
 Gegeninduktion{f}/相互誘導[そうごゆうどう]/
 Gegeninduktivität{f}/相互インダクタンス[そうごいんだくたんす]/
