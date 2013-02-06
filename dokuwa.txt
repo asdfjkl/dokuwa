@@ -11112,26 +11112,26 @@ Geschmeidigkeit{f}/柔軟性[じゅうなんせい]/
 Geschnatter{n}/があがあ[があがあ]/
 Geschoss{n}/(Projektil) 弾丸[だんがん]/(Stockwerk) 階[かい]/
 Geschosshagel{m}/弾丸の雨[だんがんのあめ]/
-Geschrei{n}/叫び[さけび]/喧騒[けんそう]/叫び声[さけびごえ]/
-Geschwader{n}/戦隊[せんたい]/艦隊[かんたい]/
+Geschrei{n}/叫び声[さけびごえ]/
+Geschwader{n}/(Flotte) 戦隊[せんたい]/(Verband) 編隊[へんたい]/
 Geschwafel{n}/口任せ[くちまかせ]/
-Geschwindigkeit{f}/調子[ちょうし]/早[はやさ]/速さ[はやさ]/速[はやさ]/ピッチ[ぴっち]/速度[そくど]/急速[きゅうそく]/
+Geschwindigkeit{f}/早さ[はやさ]/
 Geschwindigkeitsbegrenzung{f}/スピード制限[すぴーどせいげん]/
 Geschwindigkeitskontrolle{f}/スピード違反取締り[すぴーどいはんとりしまり]/
 Geschwindigkeitsüberschreitung{f}/スピード違反[すぴーどいはん]/
-Geschwister{pl}/姉妹[きょうだい]/姉弟[きょうだい]/同胞[はらから]/兄弟姉妹[きょうだいしまい]/
+Geschwister{pl}/兄弟[きょうだい]/
 geschwisterlich{adj}/兄弟の[きょうだいの]/
 Geschwistermord{m}/兄弟殺し[きょうだいごろし]/
 geschwollen{adv}{adj}/ぶくぶく[ぶくぶく]/
 geschwungen{adj}/丸い[まるい]/
-Geschwätz{n}/話[はなし]/話し[はなし]/お喋り[おしゃべり]/世間話[せけんばなし]/閑話[かんわ]/
+Geschwätz{n}/無駄話[むだばなし]/
 geschwätzig{adj}{adv}/べらべら[べらべら]/
 Geschwätzigkeit{f}/多弁[たべん]/
-Geschäft{n}/事[こと]/町[まち]/商業[しょうぎょう]/仕事[しごと]/商店[しょうてん]/商売[しょうばい]/事務[じむ]/店[たな]/取引[とりひき]/企業[きぎょう]/業務[ぎょうむ]/行為[こうい]/実績[じっせき]/稼業[かぎょう]/用事[ようじ]/実業[じつぎょう]/売買[ばいばい]/街[まち]/事業[じぎょう]/営み[いとなみ]/用[よう]/所用[しょよう]/ストア[すとあ]/ビジネス[びじねす]/営業[えいぎょう]/店舗[てんぽ]/用達[ようたし]/実務[じつむ]/用件[ようけん]/勤め先[つとめさき]/商用[しょうよう]/販売店[はんばいてん]/
+Geschäft{n}/(Laden) 店[みせ]/(Handel) 取引[とりひき]/
 Geschäfte{pl}/出来高[できだか]/
-Geschäftigkeit{f}/活躍[かつやく]/激務[げきむ]/
+Geschäftigkeit{f}/活躍[かつやく]/
 geschäftlich{adj}/職業的[しょくぎょうてき]/
-Geschäftsaufgabe{f}/閉店[へいてん]/廃業[はいぎょう]/
+Geschäftsaufgabe{f}/廃業[はいぎょう]/
 Geschäftsbedingungen{pl}/業務約款[ぎょうむやっかん]/
 Geschäftsbereich{m}/営業範囲[えいぎょうはんい]/
 Geschäftsbericht{m}/営業報告書[えいぎょうほうこくしょ]/
@@ -11142,7 +11142,7 @@ Geschäftsfeld{n}/営業畑[えいぎょうばたけ]/
 Geschäftsfrau{f}/事業者[じぎょうしゃ]/
 Geschäftsfreund{m}/取引先[とりひきさき]/
 Geschäftsfähigkeit{f}/行為能力[こういのうりょく]/
-Geschäftsführer{m}/経営者[けいえいしゃ]/番頭[ばんとう]/幹事[かんじ]/管理者[かんりしゃ]/
+Geschäftsführer{m}/業務執行者[ぎょうむしっこうしゃ]/
 Geschäftsführung{f}/管理[かんり]/
 Geschäftsgeheimnis{n}/企業秘密[きぎょうひみつ]/
 Geschäftsgeist{m}/商才[しょうさい]/
