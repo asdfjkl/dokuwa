@@ -11508,8 +11508,8 @@ glatt{adj}{adv}/(sanft) 滑らかな[なめらかな]/(günstig) 順調な[じ�
 Glatteis{n}/アイスバーン[あいすばーん]/
 Glattheit{f}/滑らか[なめらか]/
 Glatze{f}/坊主[ぼうず]/
-Glaube{m}/宗教[しゅうきょう]/信仰[しんこう]/信念[しんねん]/信[しん]/思い込み[おもいこみ]/信条[しんじょう]/所信[しょしん]/
-glauben{vi}/思う[おもう]/考える[かんがえる]/信じる[しんじる]/想う[おもう]/
+Glaube{m}/信仰[しんこう]/
+glauben{vi}/(denken) 思う[おもう]/(Glauben schenken) 信じる[しんじる]/
 Glaubensbekenntnis{n}/信条[しんじょう]/
 Glaubenssatz{m}/信条[しんじょう]/
 Glauberit{m}/石灰芒硝[せっかいぼうしょう]/
@@ -11519,34 +11519,34 @@ Glaubhaftigkeit{f}/信憑性[しんぴょうせい]/
 glaubwürdig{adj}{adv}/信ずべき[しんずべき]/
 Glaubwürdigkeit{f}/信憑性[しんぴょうせい]/
 Glaukom{n}/緑内障[りょくないしょう]/
-gleich{adj}{adv}/同じ[おなじ]/同じく[おなじく]/直[じき]/線上[せんじょう]/その内[そのうち]/即刻[そっこく]/イコール[いこーる]/速い[はやい]/同然[どうぜん]/直ぐ[すぐ]/一気に[いっきに]/同様[どうよう]/直ぐに[すぐに]/等しい[ひとしい]/間もなく[まもなく]/今に[いまに]/
+gleich{adj}{adv}/(dasselbe) 同じ[おなじ]/(sofort) 直ぐに[すぐに]/
 gleich stark{adj}/互角の[ごかくの]/
 gleich weit entfernt{adv}/等距離の[とうきょりの]/
-Gleichartigkeit{f}/一緒[いっしょ]/一様[いちよう]/同一[どういつ]/
+Gleichartigkeit{f}/同一[どういつ]/
 Gleichbehandlung{f}/等し並み[ひとしなみ]/
 gleichberechtigt{adj}/対等の[たいとうの]/
-Gleichberechtigung{f}/平等[びょうどう]/均等[きんとう]/同等[どうとう]/対等[たいとう]/
+Gleichberechtigung{f}/同権[どうけん]/
 gleichermaßen{adv}/等しく[ひとしく]/
 gleicherweise{adv}/等しく[ひとしく]/
 gleichförmig{adv}/一様の[いちようの]/
-Gleichförmigkeit{f}/均一[きんいつ]/一様[いちよう]/
+Gleichförmigkeit{f}/均一[きんいつ]/
 gleichgeschlechtlich{adj}/同性の[どうせいの]/
 Gleichgesinnte{m}{f}/一類[いちるい]/
 Gleichgestellte{m}{f}/自分と対等の仲間[じぶんとたいとうのなかま]/
-Gleichgewicht{n}/中心[ちゅうしん]/均衡[きんこう]/見合い[みあい]/バランス[ばらんす]/平均[へいきん]/
+Gleichgewicht{n}/均衡[きんこう]/
 Gleichgewichtssinn{m}/平衡感覚[へいこうかんかく]/
 Gleichgewichtsstörung{f}/平衡感覚障害[へいこうかんかくしょうがい]/
-gleichgültig{adv}/淡々[たんたん]/のほほんと[のほほんと]/
-Gleichgültigkeit{f}/平気[へいき]/無関心[むかんしん]/無頓着[むとんちゃく]/
-Gleichheit{f}/一般[いっぱん]/平等[びょうどう]/均等[きんとう]/お揃い[おそろい]/一様[いちよう]/同等[どうとう]/一律[いちりつ]/同一[どういつ]/対等[たいとう]/無差別[むさべつ]/
+gleichgültig{adv}/無関心な[むかんしんな]/
+Gleichgültigkeit{f}/無関心[むかんしん]/
+Gleichheit{f}/同等[どうとう]/
 Gleichheitszeichen{n}/等号[とうごう]/
-gleichkommen{vi}/若く[しく]/及ぶ[およぶ]/如く[しく]/
+gleichkommen{vi}/(gleich sein) 相等しい[あいひとしい]/
 gleichlaufend{adj}/平行の[へいこうの]/
 Gleichlaufschwankung{f}/フラッター[ふらったー]/
 Gleichmut{m}/心の平静[こころのへいせい]/
 gleichmäßig{adv}/等しく[ひとしく]/
 gleichnamig{adj}/同姓[どうせい]/
-Gleichnis{n}/例え[たとえ]/比喩[ひゆ]/
+Gleichnis{n}/比喩[ひゆ]/
 gleichrichten{vt}/整流する[せいりゅうする]/
 Gleichrichter{m}/整流器[せいりゅうき]/
 Gleichrichtung{f}/整流[せいりゅう]/
@@ -11554,18 +11554,18 @@ Gleichschaltung{f}/統制[とうせい]/
 Gleichschritt{m}/歩調[ほちょう]/
 Gleichsetzung{f}/同一視[どういつし]/
 Gleichstand{m}/ドロー[どろー]/
-Gleichstellung{f}/同等[どうとう]/均等[きんとう]/
+Gleichstellung{f}/同等[どうとう]/
 Gleichstrom{m}/直流[ちょくりゅう]/
 Gleichstromkreis{m}/直流回路[ちょくりゅうかいろ]/
-Gleichung{f}/式[しき]/方程式[ほうていしき]/
+Gleichung{f}/{math.} 方程式[ほうていしき]/
 gleichwertig{adv}/対等の[たいとうの]/
 Gleichwertigkeit{f}/対等[たいとう]/
 gleichwinklig/等角の[とうかくの]/
-gleichzeitig{adv}{adj}/とも[とも]/一緒に[いっしょに]/それでいて[それでいて]/一斉に[いっせいに]/共[とも]/同時に[どうじに]/一度に[いちどに]/
-Gleichzeitigkeit{f}/一緒[いっしょ]/一斉[いっせい]/
-Gleis{n}/線[せん]/軌道[きどう]/レール[れーる]/線路[せんろ]/跡[あと]/
+gleichzeitig{adv}{adj}/同時に[どうじに]/
+Gleichzeitigkeit{f}/(gleiche Zeit) 同時[どうじ]/
+Gleis{n}/線路[せんろ]/
 gleiten{vi}/滑る[すべる]/
-Gleiten{n}/滑り[すべり]/滑走[かっそう]/
+Gleiten{n}/滑走[かっそう]/
 gleitend{adj}/するり[するり]/
 Gleiter{m}/滑空機[かっくうき]/
 Gleitflug{m}/滑空[かっくう]/
@@ -11576,9 +11576,9 @@ Gleitschalung{f}/スライディング･フォーム[すらいでぃんぐふ�
 Gleitzeit{f}/フレックスタイム[ふれっくすたいむ]/
 Gletscher{m}/氷河[ひょうが]/
 Gletscherspalte{f}/クレバス[くればす]/
-Glied{n}/輪[わ]/環[わ]/
+Glied{n}/(Gliedmaße) 手足[てあし]/(Penis) ペニス[ぺにす]/
 Gliedermaßstab{m}/ヤード尺[やーどしゃく]/
-Gliederung{f}/組織[そしき]/系列[けいれつ]/配置[はいち]/
+Gliederung{f}/(Klassifikation) 区分[くぶん]/
 Gliederungspunkt{m}/項目[こうもく]/
 Gliedmaßen{pl}/手足[てあし]/
 Glimmentladung{f}/グロー放電[ぐろーほうでん]/
@@ -11586,8 +11586,8 @@ Glimmer{m}/ひかり[ひかり]/
 Glimmergneis{m}/雲母片麻岩[うんもへんまがん]/
 Glimmlampe{f}/グローランプ[ぐろーらんぷ]/
 Glitzern{n}/一閃[いっせん]/
-glitzernd{adj}/きらきら[きらきら]/ぴかぴか[ぴかぴか]/輝かしい[かがやかしい]/
-global{adj}{adv}/世界的[せかいてき]/グローバル[ぐろーばる]/
+glitzernd{adj}/きらきら[きらきら]/
+global{adj}{adv}/グローバル[ぐろーばる]/
 Globalisierung{f}/グローバル化[ぐろーばるか]/
 Globetrotter{m}/世界漫遊をする人[せかいまんゆうをするひと]/
 Globus{m}/世界[せかい]/
@@ -11597,7 +11597,7 @@ Glockenrock{m}/フレアースカート[ふれあーすかーと]/
 Glockenspiel{n}/チャイム[ちゃいむ]/
 Glockenturm{m}/鐘楼[しゅろう]/
 glorreich{adv}/華々しい[はなばなしい]/
-Glossar{n}/用語集[ようごしゅう]/語彙[ごい]/
+Glossar{n}/用語集[ようごしゅう]/
 Glosse{f}/評釈[ひょうしゃく]/
 Glubschaugen{pl}/団栗眼[どんぐりまなこ]/
 Glucksen{n}/ゴクゴク[ごくごく]/
@@ -11610,12 +11610,12 @@ Glutaminsäure{f}/グルタミン酸[ぐるたみんさん]/
 Glykogen{n}/グリコーゲン[ぐりこーげん]/
 Glykol{n}/グリコール[ぐりこーる]/
 Glyzerin{n}/グリセリン[ぐりせりん]/
-Glyzinie{f}/フジ[ふじ]/藤[ふじ]/
-glänzen{vi}/輝く[かがやく]/光る[ひかる]/光り輝く[ひかりかがやく]/映える[はえる]/
-glänzend{adj}{adv}/立派[りっぱ]/鮮やか[あざやか]/ぴかぴか[ぴかぴか]/輝かしい[かがやかしい]/華やか[はなやか]/つるつる[つるつる]/きらきら[きらきら]/
+Glyzinie{f}/{bot.} 藤[ふじ]/
+glänzen{vi}/輝く[かがやく]/
+glänzend{adj}{adv}/{fig.} 輝かしい[かがやかしい]/(~ poliert) 光沢のある[こうたくのある]/
 gläsern{adj}{adv}/玻璃質の[はりしつの]/
-Glätte{f}/ひかり[ひかり]/光沢[こうたく]/艶[つや]/円滑[えんかつ]/円満[えんまん]/
-glätten{vt}/伸ばす[のばす]/磨く[みがく]/
+Glätte{f}/(Glanz;Politur) 光沢[こうたく]/(Glatteis) 氷結[ひょうけつ]/
+glätten{vt}/(glatt machen) 滑らかにする[なめらかにする]/
 Gläubiger{m}/信者[しんじゃ]/教徒[きょうと]/信徒[しんと]/
 Glöckner{m}/鐘楼守[しょうろうもり]/
 Glück{n}/楽しみ[たのしみ]/紛れ[まぐれ]/愉しみ[たのしみ]/幸せ[しあわせ]/青い鳥[あおいとり]/幸[さち]/歓喜[かんき]/得意[とくい]/ツキ[つき]/幸福[こうふく]/吉[きつ]/福[ふく]/成功[せいこう]/幸い[さいわい]/強運[きょううん]/運勢[うんせい]/付き[つき]/ハッピー[はっぴー]/寿[ことぶき]/幸運[こううん]/運[うん]/
