@@ -11342,13 +11342,13 @@ Gewichtsklasse{f}/ウエイト[うえいと]/
 Gewindebohrer{m}/タップ[たっぷ]/
 Gewindebolzen{m}/植込みボルト[うえこみぼると]/
 Gewindeschneiden{n}/螺子切り[ねじきり]/
-Gewinn{m}/得[とく]/プラス[ぷらす]/儲け[もうけ]/獲得[かくとく]/益[えき]/収益[しゅうえき]/潤い[うるおい]/売り上げ[うりあげ]/売上げ[うりあげ]/売上[うりあげ]/営利[えいり]/率[りつ]/利[り]/黒字[くろじ]/採算[さいさん]/勝ち[かち]/圧倒[あっとう]/
+Gewinn{m}/利益[りえき]/
 Gewinnanteil{m}/歩合高[ぶあいだか]/
 Gewinnbeteiligung{f}/利益配当[りえきはいとう]/
-gewinnbringend{adv}/甘い[うまい]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/
+gewinnbringend{adv}/(vorteilhaft) 有益な[ゆうえきな]/
 Gewinnchancen{pl}/勝勢[しょうせい]/
-gewinnen/出来る[できる]/得する[とくする]/付く[つく]/納める[おさめる]/売る[うる]/当たる[あたる]/当る[あたる]/勝つ[かつ]/収める[おさめる]/儲ける[もうける]/得る[える]/稼ぐ[かせぐ]/加わる[くわわる]/
-Gewinner{m}/勝者[しょうしゃ]/ビクター[びくたー]/
+gewinnen/(siegen) 勝つ[かつ]/
+Gewinner{m}/(Sieger) 勝者[しょうしゃ]/
 Gewinnmarge{f}/利幅[りはば]/
 Gewinnmaximierung{f}/利潤最大化[りじゅんさいだいか]/
 Gewinnmitnahme{f}/利食い[りぐい]/
@@ -11359,40 +11359,40 @@ Gewinnsucht{f}/強欲[ごうよく]/
 gewinnsüchtig{adj}{adv}/算盤高い[そろばんたかい]/
 Gewinnung{f}/採取[さいしゅ]/
 Gewirr{n}/縺れ[もつれ]/
-Gewissen{n}/良心[りょうしん]/本心[ほんしん]/
+Gewissen{n}/良心[りょうしん]/
 gewissenhaft{adj}{adv}/良心的[りょうしんてき]/
-Gewissenhaftigkeit{f}/着実[ちゃくじつ]/綿密[めんみつ]/丹念[たんねん]/
+Gewissenhaftigkeit{f}/(Redlichkeit) 着実[ちゃくじつ]/(Sorgfalt) 綿密[めんみつ]/
 gewissenlos{adv}/良心のない[りょうしんのない]/
 Gewissenlosigkeit{f}/破廉恥[はれんち]/
 Gewissensbisse{pl}/後悔[こうかい]/
 Gewissensfrage{f}/良心の問題[りょうしんのもんだい]/
 Gewissensfreiheit{f}/良心の自由[りょうしんのじゆう]/
 gewissermaßen{adv}/言わば[いわば]/
-Gewissheit{f}/確か[たしか]/確実[かくじつ]/
-Gewitter{n}/嵐[あらし]/雷雨[らいう]/
+Gewissheit{f}/確実[かくじつ]/
+Gewitter{n}/雷雨[らいう]/
 Gewitterregen{m}/雷雨[らいう]/
 Gewitterwolke{f}/雷雲[かみなりぐも]/
-Gewohnheit{f}/様[ためし]/慣らし[ならし]/慣習[かんしゅう]/癖[くせ]/恒例[こうれい]/風俗[ふうぞく]/例[ためし]/常[つね]/慣れ[なれ]/決まり[きまり]/習慣[しゅうかん]/習性[しゅうせい]/習い[ならい]/
+Gewohnheit{f}/習慣[しゅうかん]/
 gewohnheitsmäßig{adv}/決まりきった[きまりきった]/
 Gewohnheitsrecht{n}/慣習法[かんしゅうほう]/
 Gewohnheitstrinker{m}/酒飲み[さけのみ]/
 Gewohnheitsverbrecher{m}/常習犯[じょうしゅうはん]/
 gewohnt{adj}{adv}/お定りの[おさだめりの]/
-gewunden{adj}{adv}/曲がった[まがった]/くねくね[くねくね]/
+gewunden{adj}{adv}/くねくね[くねくね]/
 Gewundenheit{f}/羊腸[ようちょう]/
-Gewächshaus{n}/ハウス[はうす]/温室[おんしつ]/
+Gewächshaus{n}/温室[おんしつ]/
 Gewähr{f}/保障[ほしょう]/
-gewähren{vt}/下さる[くださる]/下す[くだす]/叶える[かなえる]/
+gewähren{vt}/(anerkennen) 承認する[しょうにんする]/(eine Bitte erfüllen) 叶える[かなえる]/
 Gewährsmann{m}/請け人[うけにん]/
 Gewährung{f}/支給[しきゅう]/
 Gewässer{n}/水域[すいいき]/
-gewöhnlich{adv}/良く[よく]/俗に[ぞくに]/一般に[いっぱんに]/常々[つねづね]/尋常[じんじょう]/大方[おおかた]/普段[ふだん]/大体[たいてい]/当たり前[あたりまえ]/俗[ぞく]/決まって[きまって]/大抵[たいてい]/例の[れいの]/一般的[いっぱんてき]/
-Gewöhnung{f}/免疫[めんえき]/慣らし[ならし]/
+gewöhnlich{adv}/普通の[ふつうの]/
+Gewöhnung{f}/順応[じゅんのう]/
 Gewölbe{n}/アーチ[あーち]/
 Gewölbewirkung{f}/アーチ作用[あーちさよう]/
 gewölbt{adj}/凸円の[とつえんの]/
 Gewühl{n}/混雑[こんざつ]/
-Gewürz{n}/調味料[ちょうみりょう]/香料[こうりょう]/スパイス[すぱいす]/薬味[やくみ]/香辛料[こうしんりょう]/
+Gewürz{n}/薬味[やくみ]/
 Gewürznelke{f}/クローブ[くろーぶ]/
 gewürzt{adj}/薬味の利いた[やくみのきいた]/
 Geyserit{m}/湯の花[ゆのはな]/
@@ -11403,8 +11403,8 @@ Gezeitenkraftwerk{n}/潮力発電所[ちょうりょくはつでんしょ]/
 Gezeitenströmung{f}/潮流[ちょうりゅう]/
 Gezeter{n}/叫喚[きょうかん]/
 Geziertheit{f}/気障[きざ]/
-gezwungen{adv}/苦しい[くるしい]/強いて[しいて]/
-gezwungenermaßen{adv}/仕方ない[しかたない]/仕方が無い[しかたがない]/仕方がない[しかたがない]/
+gezwungen{adv}/(zwingend) 余儀なく[よぎなく]/(jmdn. zu ... zwingen)  強いて...させる[しいて...させる]/
+gezwungenermaßen{adv}/(zwingend) 余儀なく[よぎなく]/
 Gezänk{n}/悶着[もんちゃく]/
 Ghanaer{m}/ガーナ人[がーなじん]/
 ghanaisch{adj}/ガーナ人の[がーなじんの]/
@@ -11414,14 +11414,14 @@ Gicht{f}/痛風[つうふう]/
 Giebel{m}/端[つま]/
 Giebeldach{n}/切り妻屋根[きりづまやね]/
 Giebelwand{f}/妻壁[つまかべ]/
-Gier{f}/欲[よく]/貪欲[どんよく]/欲張り[よくばり]/
+Gier{f}/(heftiges Verlangen) 渇望[かつぼう]/(Hab~) 欲張り[よくばり]/
 gierig{adv}/現金[げんきん]/
-gießen{vt}/吹く[ふく]/注ぐ[つぐ]/掛ける[かける]/差す[さす]/
+gießen{vt}/注ぐ[そそぐ]/
 Gießen{n}/鋳造[ちゅうぞう]/
 Gießer{m}/鋳物師[いものし]/
 Gießerei{f}/鋳物工場[いものこうじょう]/
 Gießkanne{f}/如雨露[じょうろ]/
-Gift{n}/毒[どく]/どく[どく]/
+Gift{n}/毒[どく]/
 Giftdrüse{f}/毒腺[どくせん]/
 Giftgas{n}/毒ガス[どくがす]/
 giftig{adj}{adv}/毒々しい[どくどくしい]/
@@ -11434,18 +11434,18 @@ Giftschlange{f}/毒蛇[どくじゃ]/
 Giftstoff{m}/毒素[どくそ]/
 Giftzahn{m}/毒牙[どくが]/
 Gigabyte{n}/ギガバイト[ぎがばいと]/
-Gigant{m}/巨人[きょじん]/ジャイアント[じゃいあんと]/
-gigantisch{adj}/大きな[おおきな]/でかい[でかい]/でっかい[でっかい]/大きい[おおきい]/巨大[きょだい]/
-Gigolo{m}/紐[ひも]/ホスト[ほすと]/
-Gilde{f}/座[ざ]/ギルド[ぎるど]/
+Gigant{m}/(Riese) 巨人[きょじん]/
+gigantisch{adj}/巨大な[きょだいな]/
+Gigolo{m}/ジゴロ[じごろ]/
+Gilde{f}/ギルド[ぎるど]/
 Gilling{m}/船尾突出部[せんびとっしゅつぶ]/
-Gimpel{m}/かも[かも]/鴨[かも]/
+Gimpel{m}/{Vogelk.} 鷽[うそ]/
 Gin{m}/ジン[じん]/
 Gingivitis{m}/歯肉炎[しにくえん]/
-Ginkgobaum{m}/銀杏[いちょう]/イチョウ[いちょう]/
+Ginkgobaum{m}/銀杏[いちょう]/
 Ginseng{m}/朝鮮人参[ちょうせんにんじん]/
 Ginster{m}/エニシダ[えにしだ]/
-Gipfel{m}/頂き[いただき]/絶頂[ぜっちょう]/峰[みね]/峯[みね]/サミット[さみっと]/真っ盛り[まっさかり]/盛り[さかり]/嶺[みね]/岳[たけ]/頂上[ちょうじょう]/山場[やまば]/頂点[ちょうてん]/頂[いただき]/峠[とうげ]/
+Gipfel{m}/(~ eines Berges) 頂上[ちょうじょう]/(Höhepunkt;Zenit) 頂点[ちょうてん]/
 Gipfelkonferenz{f}/サミット[さみっと]/
 Gipfelpunkt{m}/頂上[ちょうじょう]/
 Gipfeltreffen{n}/首脳会合[しゅのうかいごう]/
@@ -11455,12 +11455,12 @@ Gipser{m}/左官[しゃかん]/
 Gipsfigur{f}/塑像[そぞう]/
 Gipsform{f}/石膏型[せっこうがた]/
 Gipsverband{m}/ギブス[ぎぶす]/
-Giraffe{f}/キリン[きりん]/麒麟[きりん]/
+Giraffe{f}/{Zool.} 麒麟[きりん]/
 Girokonto{n}/普通預金[ふつうよきん]/
 Gischt{f}/水しぶき[みずしぶき]/
 Gitarre{f}/ギター[ぎたー]/
 Gitarrensaite{f}/ギターの弦[ぎたーのげん]/
-Gitter{n}/棚[たな]/格子[こうし]/
+Gitter{n}/格子[こうし]/
 Gitterdefekt{m}/格子欠陥[こうしけっかん]/
 Gitterfenster{n}/格子窓[こうしまど]/
 Gitterkonstante{f}/格子定数[こうしていすう]/
@@ -11473,14 +11473,14 @@ Gladiator{m}/グラディエーター[ぐらでぃえーたー]/
 Gladiole{f}/グラジオラス[ぐらじおらす]/
 Glamourgirl{n}/グラマー[ぐらまー]/
 glamourös{adj}/グラマラス[ぐらまらす]/
-Glanz{m}/さん[さん]/照り[てり]/栄え[はえ]/光沢[こうたく]/ひかり[ひかり]/艶[つや]/華麗[かれい]/輝き[かがやき]/映え[はえ]/グロリア[ぐろりあ]/潤い[うるおい]/
+Glanz{m}/輝き[かがやき]/
 Glanzkohle{f}/無煙炭[むえんたん]/
 Glanzlack{m}/クリアー･ラッカー[くりあーらっかー]/
 Glanzleistung{f}/奇功[きこう]/
 Glanznummer{f}/光一[ぴかいち]/
 Glanzpapier{n}/つや紙[つやがみ]/
-Glanzstück{n}/力作[りきさく]/名品[めいひん]/
-Glas{n}/杯[さかずき]/コップ[こっぷ]/盃[さかずき]/
+Glanzstück{n}/名品[めいひん]/
+Glas{n}/(Material) ガラス[がらす]/(Trinkgefäß) グラス[ぐらす]/
 Glasauge{n}/義眼[ぎがん]/
 Glasbaustein{m}/ガラスブロック[がらすぶろっく]/
 Glasbläser{m}/ガラス職人[がらすしょくにん]/
@@ -11502,11 +11502,11 @@ Glasschneider{m}/ガラス切り[がらすきり]/
 Glasschrank{m}/キャビネット[きゃびねっと]/
 Glassplitter{m}/ガラスの破片[がらすのはへん]/
 Glastafel{f}/ガラス板[がらすいた]/
-Glasur{f}/薬[くすり]/照り[てり]/
+Glasur{f}/上薬[うわぐすり]/
 Glaswolle{f}/グラスウール[ぐらすうーる]/
-glatt{adj}{adv}/ぽん[ぽん]/事無く[ことなく]/坦々[たんたん]/スムース[すむーす]/とんとん[とんとん]/すんなり[すんなり]/するする[するする]/つるつる[つるつる]/スムーズ[すむーず]/
+glatt{adj}{adv}/(sanft) 滑らかな[なめらかな]/(günstig) 順調な[じゅんちょうな]/(rutschig) 滑りやすい[すべりやすい]/
 Glatteis{n}/アイスバーン[あいすばーん]/
-Glattheit{f}/好調[こうちょう]/平ら[たいら]/円滑[えんかつ]/円満[えんまん]/滑らか[なめらか]/
+Glattheit{f}/滑らか[なめらか]/
 Glatze{f}/坊主[ぼうず]/
 Glaube{m}/宗教[しゅうきょう]/信仰[しんこう]/信念[しんねん]/信[しん]/思い込み[おもいこみ]/信条[しんじょう]/所信[しょしん]/
 glauben{vi}/思う[おもう]/考える[かんがえる]/信じる[しんじる]/想う[おもう]/
