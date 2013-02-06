@@ -10995,7 +10995,7 @@ geringfügig{adv}/些細な[ささいな]/
 Geringfügigkeit{f}/些細[ささい]/
 geringschätzig{adv}/卑しむべき[いやしむべき]/
 Geringschätzung{f}/軽視[けいし]/
-gerinnen{vi}/固まる[かたまる]/凍る[こおる]/
+gerinnen{vi}/凝固する[ぎょうこする]/(Blut) 凍る[こおる]/
 Gerinnen{n}/凝結[ぎょうけつ]/
 Gerinnung{f}/凝固[ぎょうこ]/
 Gerippe{n}{f}/骨格[こっかく]/
@@ -11003,14 +11003,14 @@ gerippt{adj}/畝のある[うねのある]/
 gerissen{adv}/狡い[こすい]/
 Gerissenheit{f}/老獪[ろうかい]/
 Germane{m}/ゲルマン[げるまん]/
-gern{adv}/快く[こころよく]/好んで[このんで]/
+gern{adv}/好んで[このんで]/
 Gerontokratie{f}/ジェロントクラシー[じぇろんとくらしー]/
 Gerontologie{f}/長寿学[ちょうじゅがく]/
 Gerste{f}/麦[むぎ]/
 Gerstenkorn{n}/麦粒腫[ばくりゅうしゅ]/
 Gerte{f}/枝[えだ]/
 gertenschlank{adj}/たわやか[たわやか]/
-Geruch{m}/香り[かおり]/匂い[におい]/臭み[くさみ]/薫り[かおり]/
+Geruch{m}/香り[かおり]/
 geruchlos{adj}/臭気のない[しゅうきのない]/
 Geruchlosigkeit{f}/無臭[むしゅう]/
 Geruchsnerv{m}/嗅神経[きゅうしんけい]/
@@ -11019,25 +11019,25 @@ Geruchsverschluss{m}/防臭弁[ぼうしゅうべん]/
 geruhsam{adj}/長閑[のどか]/
 gerundet{adj}/無慮[むりょ]/
 Gerundium{n}/動名詞[どうめいし]/
-Gerät{n}/セット[せっと]/装置[そうち]/機器[きき]/ギア[ぎあ]/デバイス[でばいす]/道具[どうぐ]/機材[きざい]/手段[しゅだん]/器具[きぐ]/機械[きかい]/器[うつわ]/
+Gerät{n}/(Werkzeug) 道具[どうぐ]/(Maschine) 機械[きかい]/
 geräteabhängig{adj}/デバイス依存の[でばいすいぞんの]/
 Gerätetreiber{m}/デバイス･ドライバー[でばいすどらいばー]/
 Geräteturnen{n}/器械体操[きかいたいそう]/
 geräteunabhängig{adj}/デバイス依存でない[でばいすいぞんでない]/
 geräuchert{adj}/スモーク[すもーく]/
-geräumig{adv}{adj}/広い[ひろい]/広々[ひろびろ]/
+geräumig{adv}{adj}/広い[ひろい]/
 Geräumigkeit{f}/広闊さ[こうかつさ]/
-Geräusch{n}/騒ぎ[さわぎ]/物音[ものおと]/音響[おんきょう]/鳴り[なり]/雑音[ざつおん]/ノイズ[のいず]/爆音[ばくおん]/
+Geräusch{n}/物音[ものおと]/
 geräuschlos{adv}{adj}/ひっそりと[ひっそりと]/
 Geröll{n}/石ころ[いしころ]/
-Gerücht{n}/話[はなし]/話し[はなし]/評判[ひょうばん]/説[せつ]/噂[うわさ]/噂話[うわさばなし]/
-Gerümpel{n}/我楽多[がらくた]/ポンコツ[ぽんこつ]/
-Gerüst{n}/構造[こうぞう]/櫓[やぐら]/枠組み[わくぐみ]/
+Gerücht{n}/噂[うわさ]/
+Gerümpel{n}/我楽多[がらくた]/
+Gerüst{n}/(Struktur) 構造[こうぞう]/(Bau~) 足場[あしば]/
 Gerüstbauer{m}/鳶職人[とびしょくにん]/
-gesamt{adj}/全て[すべて]/何となく[なにとなく]/延べ[のべ]/総て[すべて]/一切[いっさい]/
+gesamt{adj}/全体の[ぜんたいの]/
 Gesamtansicht{f}/全景[ぜんけい]/
 Gesamtausgabe{f}/全集[ぜんしゅう]/
-Gesamtbetrag{m}/合計[ごうけい]/集計[しゅうけい]/総額[そうがく]/累計[るいけい]/延べ[のべ]/全額[ぜんがく]/トータル[とーたる]/
+Gesamtbetrag{m}/総計[そうけい]/
 Gesamtbevölkerung{f}/総人口[そうじんこう]/
 Gesamtbilanz{f}/総決算[そうけっさん]/
 Gesamtbild{n}/全貌[ぜんぼう]/
@@ -11045,7 +11045,7 @@ Gesamteinkommen{n}/総収入[そうしゅうにゅう]/
 Gesamtfläche{f}/建坪[たてつぼ]/
 Gesamtgewicht{n}/総量[そうりょう]/
 Gesamtgewinn{m}/総利益[そうりえき]/
-Gesamtheit{f}/全体[ぜんたい]/一通[ひととおり]/全般[ぜんぱん]/一通り[ひととおり]/
+Gesamtheit{f}/全体[ぜんたい]/
 Gesamthöhe{f}/全高[ぜんこう]/
 Gesamtkatalog{m}/総目録[そうもくろく]/
 Gesamtkosten{pl}/総費用[そうひよう]/
@@ -11053,39 +11053,39 @@ Gesamtlage{f}/大局[たいきょく]/
 Gesamtlänge{f}/全長[ぜんちょう]/
 Gesamtmenge{f}/全量[ぜんりょう]/
 Gesamtstärke{f}/総勢[そうぜい]/
-Gesamtsumme{f}/合計[ごうけい]/集計[しゅうけい]/総額[そうがく]/累計[るいけい]/全額[ぜんがく]/締め[しめ]/シメ[しめ]/〆[しめ]/トータル[とーたる]/
+Gesamtsumme{f}/総計[そうけい]/
 Gesamtwirtschaft{f}/総合経済[そうごうけいざい]/
-Gesamtzahl{f}/定員[ていいん]/総数[そうすう]/延べ[のべ]/総勢[そうぜい]/
+Gesamtzahl{f}/総数[そうすう]/
 Gesamtüberblick{m}/総覧[そうらん]/
-Gesang{m}/歌[うた]/鳴き声[なきごえ]/声楽[せいがく]/唄[うた]/歌声[うたごえ]/歌唱[かしょう]/歌謡[かよう]/
+Gesang{m}/歌唱[かしょう]/
 Gesangbuch{n}/聖歌集[せいかしゅう]/
-geschehen{vi}/出来る[できる]/生じる[しょうじる]/起こる[おこる]/目覚める[めざめる]/
-Geschehen{n}/現象[げんしょう]/消息[しょうそく]/現像[げんぞう]/事象[じしょう]/
-gescheit{adj}{adv}/賢い[かしこい]/味な[あじな]/
-Gescheitheit{f}/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/利口[りこう]/
-Geschenk{n}/プレゼント[ぷれぜんと]/使い物[つかいもの]/志[こころざし]/ギフト[ぎふと]/土産[みやげ]/与え[あたえ]/届け物[とどけもの]/差し入れ[さしいれ]/祝い[いわい]/祝[いわい]/手土産[てみやげ]/贈り物[おくりもの]/賜物[たまわりもの]/献上[けんじょう]/頂き物[いただきもの]/礼[れい]/土産物[みやげもの]/
+geschehen{vi}/起こる[おこる]/
+Geschehen{n}/(Ereignis) 出来事[できごと]/
+gescheit{adj}{adv}/利口な[りこうな]/
+Gescheitheit{f}/利口[りこう]/
+Geschenk{n}/プレゼント[ぷれぜんと]/
 Geschenkartikel{pl}/贈答品[ぞうとうひん]/
 Geschenkgutschein{m}/ギフトカード[ぎふとかーど]/
 Geschenkpackung{f}/詰め合わせ[つめあわせ]/
 Geschenkpapier{n}/熨斗紙[のしがみ]/
-Geschichte{f}/話[はなし]/小説[しょうせつ]/始末[しまつ]/史[し]/縁起[えんぎ]/話し[はなし]/物語[ものがたり]/由緒[ゆいしょ]/事柄[ことがら]/由来[ゆらい]/ストーリー[すとーりー]/歴史[れきし]/
+Geschichte{f}/(Erzählung) 話[はなし]/{hist.} 歴史[れきし]/(Sage;Roman) 物語[ものがたり]/
 Geschichtenerzählen{n}/講釈[こうしゃく]/
 geschichtet{adj}/層状の[そうじょうの]/
 Geschichtsbuch{n}/史[し]/
 Geschichtsschreibung{f}/史料編纂[しりょうへんさん]/
 Geschichtswissenschaft{f}/歴史学[れきしがく]/
-Geschick{n}/さえ[さえ]/腕前[うでまえ]/巧妙[こうみょう]/運命[うんめい]/定数[ていすう]/運気[うんき]/運勢[うんせい]/冴[さえ]/因果[いんが]/運[うん]/
-Geschicklichkeit{f}/さえ[さえ]/熟練[じゅくれん]/甘み[うまみ]/技能[ぎのう]/腕前[うでまえ]/技[わざ]/敏腕[びんわん]/得意[とくい]/手腕[しゅわん]/妙[みょう]/巧妙[こうみょう]/旨味[うまみ]/旨み[うまみ]/匠[たくみ]/器用[きよう]/スキル[すきる]/手際[てぎわ]/冴[さえ]/技量[ぎりょう]/
-geschickt{adv}{adj}/良く[よく]/鮮やか[あざやか]/ナイス[ないす]/甘い[うまい]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/スマート[すまーと]/強い[つよい]/旨く[うまく]/クリーン[くりーん]/まんまと[まんまと]/
-Geschicktheit{f}/器用[きよう]/工[たくみ]/巧み[たくみ]/
+Geschick{n}/手腕[しゅわん]/
+Geschicklichkeit{f}/手腕[しゅわん]/
+geschickt{adv}{adj}/器用な[きような]/
+Geschicktheit{f}/器用[きよう]/
 geschieden{adj}/個別[こべつ]/
 Geschiedene{m}{f}/行き戻り[いきもどり]/
-Geschirr{n}/器[うつわ]/道具[どうぐ]/器具[きぐ]/食器[しょっき]/
+Geschirr{n}/食器[しょっき]/
 Geschirrschrank{m}/食器棚[しょっきだな]/
 Geschirrspülmaschine{f}/食器洗い機[しょっきあらいき]/
 Geschirrtuch{n}/布巾[ふきん]/
 geschlagen/敗れた[やぶれた]/
-Geschlecht{n}/セックス[せっくす]/血統[けっとう]/部族[ぶぞく]/家系[かけい]/ジェンダー[じぇんだー]/
+Geschlecht{n}/性別[せいべつ]/
 geschlechtlich{adj}{adv}/性的[せいてき]/
 Geschlechtsakt{m}/性行為[せいこうい]/
 geschlechtsangleichende Operation{f}/性転換手術[せいてんかんしゅじゅつ]/
@@ -11095,22 +11095,22 @@ Geschlechtshormon{n}/性ホルモン[せいほるもん]/
 Geschlechtskrankheit{f}/性病[せいびょう]/
 Geschlechtsleben{n}/性生活[せいせいかつ]/
 geschlechtslos{adj}{adv}/無性の[むせいの]/
-Geschlechtslosigkeit{f}/無性[むせい]/中性[ちゅうせい]/
+Geschlechtslosigkeit{f}/無性[むせい]/
 Geschlechtsorgan{n}/セックス[せっくす]/
-Geschlechtstrieb{m}/セックス[せっくす]/性欲[せいよく]/
+Geschlechtstrieb{m}/性欲[せいよく]/
 Geschlechtsumwandlung{f}/性転換[せいてんかん]/
-Geschlechtsverkehr{m}/関係[かんけい]/営み[いとなみ]/セックス[せっくす]/
+Geschlechtsverkehr{m}/性交[せいこう]/
 geschlossen{adj}/クローズド[くろーずど]/
 geschlossen werden{vi}/塞がる[ふさがる]/
 Geschlossenheit{f}/団結[だんけつ]/
-Geschmack{m}/好き[すき]/風流[ふりゅう]/塩梅[あんばい]/味わい[あじわい]/味わい[あじわい]/味[あじ]/味[あじ]/趣味[しゅみ]/口当たり[くちあたり]/雅[みやび]/愛好[あいこう]/嗜好[しこう]/お好み[おこのみ]/フレーバー[ふれーばー]/味覚[みかく]/センス[せんす]/風情[ふぜい]/趣[おもむき]/向き[むき]/テイスト[ていすと]/好み[このみ]/
+Geschmack{m}/(Essen) 味[あじ]/(Vorliebe) 好み[このみ]/
 geschmacklos{adj}{adv}/俗っぽい[ぞくっぽい]/
-Geschmacklosigkeit{f}/乾燥[かんそう]/悪趣味[あくしゅみ]/
-geschmackvoll{adj}{adv}/粋[すい]/洒落た[しゃれた]/渋い[しぶい]/
-geschmeidig{adv}/スムーズ[すむーず]/柔軟[じゅうなん]/スムース[すむーす]/すんなり[すんなり]/
+Geschmacklosigkeit{f}/悪趣味[あくしゅみ]/
+geschmackvoll{adj}{adv}/上品な[じょうひんな]/
+geschmeidig{adv}/(biegsam) しなやかな[しなやかな]/
 Geschmeidigkeit{f}/柔軟性[じゅうなんせい]/
 Geschnatter{n}/があがあ[があがあ]/
-Geschoss{n}/弾[たま]/フロアー[ふろあー]/球[たま]/フロア[ふろあ]/銃弾[じゅうだん]/玉[たま]/弾丸[だんがん]/
+Geschoss{n}/(Projektil) 弾丸[だんがん]/(Stockwerk) 階[かい]/
 Geschosshagel{m}/弾丸の雨[だんがんのあめ]/
 Geschrei{n}/叫び[さけび]/喧騒[けんそう]/叫び声[さけびごえ]/
 Geschwader{n}/戦隊[せんたい]/艦隊[かんたい]/
