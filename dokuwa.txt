@@ -11616,59 +11616,59 @@ glänzend{adj}{adv}/{fig.} 輝かしい[かがやかしい]/(~ poliert) 光沢�
 gläsern{adj}{adv}/玻璃質の[はりしつの]/
 Glätte{f}/(Glanz;Politur) 光沢[こうたく]/(Glatteis) 氷結[ひょうけつ]/
 glätten{vt}/(glatt machen) 滑らかにする[なめらかにする]/
-Gläubiger{m}/信者[しんじゃ]/教徒[きょうと]/信徒[しんと]/
+Gläubiger{m}/債権者[さいけんしゃ]/
 Glöckner{m}/鐘楼守[しょうろうもり]/
-Glück{n}/楽しみ[たのしみ]/紛れ[まぐれ]/愉しみ[たのしみ]/幸せ[しあわせ]/青い鳥[あおいとり]/幸[さち]/歓喜[かんき]/得意[とくい]/ツキ[つき]/幸福[こうふく]/吉[きつ]/福[ふく]/成功[せいこう]/幸い[さいわい]/強運[きょううん]/運勢[うんせい]/付き[つき]/ハッピー[はっぴー]/寿[ことぶき]/幸運[こううん]/運[うん]/
+Glück{n}/(Glückseligkeit) 幸福[こうふく]/(glücklicher Zufall) 幸運[こううん]/
 glücken{vt}/成功する[せいこうする]/
-glücklich{adj}{adv}/楽しい[たのしい]/嬉しい[うれしい]/良い[いい]/好い[いい]/愉しい[たのしい]/旨く[うまく]/楽しげ[たのしげ]/ラッキー[らっきー]/
-glücklicherweise{adv}/丁度[ちょうど]/運良く[うんよく]/運よく[うんよく]/
+glücklich{adj}{adv}/幸せな[しあわせな]/
+glücklicherweise{adv}/運良く[うんよく]/
 glücklos{adj}/薄幸の[はっこうの]/
 glückselig{adj}{adv}/幸福な[こうふくな]/
-Glückseligkeit{f}/幸せ[しあわせ]/幸福[こうふく]/
+Glückseligkeit{f}/幸福[こうふく]/
 Glücksfall{m}/怪我[けが]/
 Glücksgefühl{n}/幸福感[こうふくかん]/
 Glückskind{n}/幸せ者[しあわせもの]/
 Glückspilz{m}/幸せ者[しあわせもの]/
 Glücksrad{n}/回転式抽選器[かいてんしきちゅうせんき]/
 Glücksritter{m}/風雲児[ふううんじ]/
-Glücksspiel{n}/勝負[しょうぶ]/博打[ばくち]/ギャンブル[ぎゃんぶる]/
+Glücksspiel{n}/ギャンブル[ぎゃんぶる]/
 Glücksstern{m}/幸運な星[こううんなほし]/
 Glückssträhne{f}/有卦[うけ]/
 Glückstag{m}/吉日[きつじつ]/
-Glückwunsch{m}/祝[いわい]/祝い[いわい]/お祝い[おいわい]/寿[ことぶき]/
+Glückwunsch{m}/お祝い[おいわい]/
 Glückwunschschreiben{n}/賀状[がじょう]/
-Glühbirne{f}/玉[たま]/バルブ[ばるぶ]/球[たま]/電球[でんきゅう]/
+Glühbirne{f}/電球[でんきゅう]/
 Glühen{n}/かっか[かっか]/
-glühend{adj}{adv}/激しい[はげしい]/熱烈[ねつれつ]/せつ[せつ]/切に[せつに]/切[せつ]/
+glühend{adj}{adv}/{fig.}(feurig) 激しい[はげしい]/(~ heiß) 灼熱の[しゃくねつの]/
 glühend heiß{adj}/灼熱の[しゃくねつの]/
 glühende Hitze{f}/酷暑[こくしょ]/
 Glühkatode{f}/熱陰極[ねついんきょく]/
 Glühlampe{f}/電球[でんきゅう]/
 Glühstrumpf{m}/マントル[まんとる]/
 Glühwein{m}/グリュー･ワイン[ぐりゅーわいん]/
-Glühwürmchen{n}/ホタル[ほたる]/蛍[ほたる]/
-Gnade{f}/恵み[めぐみ]/恩恵[おんけい]/恩[おん]/
+Glühwürmchen{n}/蛍[ほたる]/
+Gnade{f}/恩寵[おんちょう]/
 Gnadenbrot{n}/飼い殺し[かいごろし]/
 Gnadenfrist{f}/猶予期間[ゆうよきかん]/
 gnadenlos{adj}/容赦のない[ようしゃのない]/
 Gnom{m}/地の精[ちのせい]/
 Gnu{n}/ヌー[ぬー]/
-gnädig{adv}/厚い[あつい]/有り難い[ありがたい]/有難い[ありがたい]/
-gnädige Frau{f}/奥さん[おくさん]/奥様[おくさま]/
+gnädig{adv}/(nachsichtig) 寛大な[かんだいな]/
+gnädige Frau{f}/奥様[おくさま]/
 Gobelin{m}/ゴブラン[ごぶらん]/
 Gobelingewebe{n}/タペストリー[たぺすとりー]/
-Gold{n}/ゴールド[ごーるど]/黄金[こうきん]/
+Gold{n}/黄金[こうきん]/
 Goldader{f}/金脈[きんみゃく]/
 Goldauflage{f}/ギルト[ぎると]/
 Goldbarren{m}/金塊[きんかい]/
 golden{adj}/ゴールデン[ごーるでん]/
-Goldfarbe{f}/金色[きんいろ]/黄金色[こがねいろ]/
+Goldfarbe{f}/金色[きんいろ]/
 Goldfasan{m}/錦鶏[きんけい]/
 Goldfisch{m}/金魚[きんぎょ]/
 Goldgrube{f}/ドル箱[どるばこ]/
 Goldgräber{m}/砂金掘り[さきんぼり]/
 Goldhamster{m}/ゴールデン･ハムスター[ごーるでんはむすたー]/
-goldig{adj}/スイート[すいーと]/スウィート[すうぃーと]/愛くるしい[あいくるしい]/
+goldig{adj}/{fig.}(niedlich) 愛くるしい[あいくるしい]/(golden) 金色の[きんいろの]/
 Goldklumpen{m}/金塊[きんかい]/
 Goldkorn{n}/細金[さいきん]/
 Goldmedaille{f}/金メダル[きんめだる]/
@@ -11683,11 +11683,11 @@ Goldschnitt{m}/金縁[きんぶち]/
 Goldstandard{m}/金本位[きんほんい]/
 Goldstaub{m}/金粉[きんこ]/
 Goldwährung{f}/金本位[きんほんい]/
-Golf{m}{n}/ゴルフ[ごるふ]/湾岸[わんがん]/湾[わん]/入江[いりえ]/
+Golf{m}{n}/{Sport} ゴルフ[ごるふ]/(Bucht) 湾[わん]/
 Golfball{m}/ゴルフ･ボール[ごるふぼーる]/
-Golfkrieg-Syndrom{n}/湾岸戦争症候群[わんがんせんそうしょうこうぐん]/
+Golfkrieg-Syndrom{n}/{med.} 湾岸戦争症候群[わんがんせんそうしょうこうぐん]/
 Golfplatz{m}/ゴルフ場[ごるふじょう]/
-Golfschläger{m}/クラブ[くらぶ]/ゴルフクラブ[ごるふくらぶ]/
+Golfschläger{m}/ゴルフ場[ごるふじょう]/
 Golfspieler{m}/ゴルファー[ごるふぁー]/
 Golfstrom{m}/湾流[わんりゅう]/
 Golfwagen{m}/ゴルフ･カート[ごるふかーと]/
@@ -11699,41 +11699,41 @@ Gorilla{m}/ゴリラ[ごりら]/
 Gospel{m}/ゴスペル[ごすぺる]/
 Gosse{f}/溝[みぞ]/
 Gotik{f}/ゴシック[ごしっく]/
-Gott{m}/神[かみ]/デウス[でうす]/ゴッド[ごっど]/神様[かみさま]/
+Gott{m}/神様[かみさま]/
 Gott sei Dank!/やれやれ[やれやれ]/
 Gottesanbeterin{f}/カマキリ[かまきり]/
-Gottesdienst{m}/勤め[つとめ]/神事[しんじ]/務め[つとめ]/お勤め[おつとめ]/
+Gottesdienst{m}/礼拝[れいはい]/
 Gottesfurcht{f}/信心[しんじん]/
 Gotteshaus{n}/教会[きょうかい]/
-Gottheit{f}/神[かみ]/神様[かみさま]/
+Gottheit{f}/神様[かみさま]/
 gottlos{adj}{adv}/極悪非道の[ごくあくひどうの]/
 Gottlosigkeit{f}/極悪[ごくあく]/
 gottverlassen{adj}/物寂しい[ものさびしい]/
 Gouache{f}/ガッシュ[がっしゅ]/
 Gouverneur{m}/国守[こくしゅ]/
-Grab{n}/穴[あな]/孔[あな]/塚[つか]/墓[はか]/
+Grab{n}/墓[はか]/
 Grabbeigaben{pl}/副葬品[ふくそうひん]/
 Grabegabel{f}/フォーク[ふぉーく]/
-Graben{m}/堀[ほり]/溝[みぞ]/
+Graben{m}/堀[ほり]/
 Grabesstimme{f}/胴間声[どうまごえ]/
 Grabgesang{m}/追悼歌[ついとうか]/
-Grabhügel{m}/小山[こやま]/古墳[こふん]/塚[つか]/陵[りょう]/
+Grabhügel{m}/小山[こやま]/
 Grabinschrift{f}/銘[めい]/
-Grabmal{n}/石碑[せきひ]/墓石[ぼせき]/
+Grabmal{n}/石碑[せきひ]/
 Grabrede{f}/弔辞[ちょうじ]/
-Grabstein{m}/石碑[せきひ]/墓石[ぼせき]/
+Grabstein{m}/墓石[ぼせき]/
 Grabstichel{f}/鑽[たがね]/
-Grad{m}{n}/位[くらい]/域[いき]/グレード[ぐれーど]/加減[かげん]/程度[ていど]/程[ほど]/度合い[どあい]/
+Grad{m}{n}/程度[ていど]/(zehn Grad Celsius) 摂氏十度[せっしじゅうど]/
 Gradation{f}/グラデーション[ぐらでーしょん]/
 Gradeinteilung{f}/目盛り[めもり]/
 Gradient{m}/傾斜度[けいしゃど]/
-Graf{m}/伯[はく]/伯爵[はくしゃく]/
+Graf{m}/伯爵[はくしゃく]/
 Graffiti{n}/落書き[らくがき]/
-Grafik{f}/表[ひょう]/グラフィック[ぐらふぃっく]/
+Grafik{f}/(Abbildung) 図[ず]/
 Grafiker{m}/画家[がか]/
 Grafikkarte{f}/ビデオカード[びでおかーど]/
 grafische Kunst{f}/グラフィックアート[ぐらふぃっくあーと]/
-Gramm{n}/…グラム[…ぐらむ]/
+Gramm{n}/グラム[ぐらむ]/
 Grammatik{f}/文法[ぶんぽう]/
 grammatikalisch{adv}/文法的[ぶんぽうてき]/
 Grammatiker{m}/文法家[ぶんぽうか]/
@@ -11754,11 +11754,11 @@ Graphit{m}/黒鉛[こくえん]/
 Graphologe{m}/筆跡鑑定家[ひっせきかんていか]/
 grapschen{vi}/引っつかむ[ひっつかむ]/
 Grapscher{m}/痴漢[ちかん]/
-Gras{n}/草[くさ]/芝生[しばふ]/牧草[ぼくそう]/
+Gras{n}/草[くさ]/
 grasgrün{adj}/青草色の[あおくさいろの]/
 Grasplatz{m}/グラスコート[ぐらすこーと]/
 grassieren{vi}/猖獗する[しょうけつする]/
-Grat{m}/尾根[おね]/稜線[りょうせん]/
+Grat{m}/(Gebirgskamm) 尾根[おね]/
 Gratifikation{f}/ボーナス[ぼーなす]/
 gratis{adv}/唯々[ただただ]/
 Gratulant{m}/参賀者[さんがしゃ]/
@@ -11773,9 +11773,9 @@ grauhaarig{adj}/グレー[ぐれー]/
 Graukopfkiebitz{m}/けり[けり]/
 Graupel{m}/雪あられ[ゆきあられ]/
 Graurücken-Leierschwanz{m}/琴鳥[ことどり]/
-grausam{adj}{adv}/酷い[ひどい]/可哀相[かわいそう]/可哀想[かわいそう]/
-Grausamkeit{f}/残酷[ざんこく]/残虐[ざんぎゃく]/冷酷[れいこく]/無残[むざん]/凶悪[きょうあく]/殺伐[さつばつ]/非道[ひどう]/凶暴[きょうぼう]/
-grausig{adv}/恐ろしい[おそろしい]/恐るべき[おそるべき]/
+grausam{adj}{adv}/酷い[ひどい]/
+Grausamkeit{f}/残虐[ざんぎゃく]/
+grausig{adv}/恐ろしい[おそろしい]/
 Grauskala{f}/グレースケール[ぐれーすけーる]/
 Grauwal{m}/克鯨[こくくじら]/
 Grauzone{f}/グレーゾーン[ぐれーぞーん]/
@@ -11791,17 +11791,17 @@ Gravität{f}/威厳[いげん]/
 Gravur{f}/刻印[こくいん]/
 Greif{m}/グリフォン[ぐりふぉん]/
 greifbar{adv}/ありあり[ありあり]/
-greifen{vt}/握る[にぎる]/掴む[つかむ]/
+greifen{vt}/掴む[つかむ]/
 Greifer{m}/グラブ･バケット[ぐらぶばけっと]/
-Greis{m}/高齢者[こうれいしゃ]/翁[おきな]/年寄り[としより]/
+Greis{m}/高齢者[こうれいしゃ]/
 Greisenalter{n}/高齢[こうれい]/
-Greisin{f}/年寄り[としより]/ばば[ばば]/
-grell{adj}{adv}/黄色い[きいろい]/しつこい[しつこい]/輝かしい[かがやかしい]/眩しい[まぶしい]/
+Greisin{f}/高齢者[こうれいしゃ]/
+grell{adj}{adv}/眩しい[まぶしい]/
 Grelle{n}/派手[はで]/
 Grellheit{f}/映り込み[うつりこみ]/
 Gremium{n}/コミッション[こみっしょん]/
-Grenze{f}/程[ほど]/範囲[はんい]/境目[さかいめ]/界[さかい]/極端[きょくたん]/限度[げんど]/境[きょう]/国境[くにざかい]/極め[きわめ]/リミット[りみっと]/極み[きわみ]/果て[はて]/制限[せいげん]/限界[げんかい]/際[きわ]/程度[ていど]/ボーダー[ぼーだー]/
-grenzenlos{adj}{adv}/極まりない[きわまりない]/洋洋[ようよう]/
+Grenze{f}/界[さかい]/(Landesgrenze) 国境[くにざかい]/
+grenzenlos{adj}{adv}/極まりない[きわまりない]/
 Grenzenlosigkeit{f}/悠々[ゆうゆう]/
 Grenzfläche{f}/界面[かいめん]/
 Grenzflächenspannung{f}/界面張力[かいめんちょうりょく]/
@@ -11809,7 +11809,7 @@ Grenzfrequenz{f}/遮断周波数[しゃだんしゅうはすう]/
 Grenzgebiet{n}/国境地帯[こっきょうちたい]/
 Grenzkosten{pl}/限界費用[げんかいひよう]/
 Grenzlehre{f}/限界ゲージ[げんかいげーじ]/
-Grenzlinie{f}/界[さかい]/境目[さかいめ]/境界線[きょうかいせん]/輪郭[りんかく]/
+Grenzlinie{f}/境界線[きょうかいせん]/
 Grenznutzen{m}/限界効用[げんかいこうよう]/
 Grenzpfahl{m}/境界標[きょうかいひょう]/
 Grenzposten{m}/関[せき]/
@@ -11818,18 +11818,18 @@ Grenzregion{f}/辺垂[へんすい]/
 Grenzschicht{f}/境界層[きょうかいそう]/
 Grenzstadt{f}/辺境の町[へんきょうのまち]/
 Grenzstein{m}/境界標[きょうかいひょう]/
-Grenzwert{m}/極端[きょくたん]/極限[きょくげん]/
+Grenzwert{m}/極限[きょくげん]/
 grenzüberschreitend{adj}/国境を越えて[こっきょうをこえて]/
 Grieche{m}/ギリシャ人[ぎりしゃじん]/
 griechisch{adj}/ギリシャの[ぎりしゃの]/
 Griesgram{m}/拗ね者[すねもの]/
 griesgrämig{adv}/つんつん[つんつん]/
 Grieß{m}/砂礫[されき]/
-Griff{m}/手[て]/取っ手[とって]/取手[とって]/幹[から]/耳[みみ]/摘み[つまみ]/掴み[つかみ]/手がかり[てがかり]/握り[にぎり]/
+Griff{m}/(Knauf) 取っ手[とって]/
 Griffbrett{n}/指板[しばん]/
 Griffel{m}/石筆[せきひつ]/
 Grill{m}/グリル[ぐりる]/
-Grille{f}/気まぐれ[きまぐれ]/気紛れ[きまぐれ]/蝉[せみ]/虫[むし]/
+Grille{f}/{Insektenk.} コオロギ[こおろぎ]/
 Grillen{n}/バーベキュー[ばーべきゅー]/
 grillen{vt}/バーベキューする[ばーべきゅーする]/
 Grillparty{f}/バーベキュー[ばーべきゅー]/
@@ -11842,14 +11842,14 @@ Grimmigkeit{f}/猛威[もうい]/
 Grinsen{n}/薄笑い[うすわらい]/
 Grippevirus{m}/インフルエンザウイルス[いんふるえんざういるす]/
 Grips{m}/常識[じょうしき]/
-grob{adv}{adj}/悪い[わるい]/一応[いちおう]/汚い[きたない]/ざっと[ざっと]/粗末[そまつ]/ぎこちない[ぎこちない]/お粗末[おそまつ]/ざっくり[ざっくり]/ざっくり[ざっくり]/がらがら[がらがら]/荒い[あらい]/荒い[あらい]/
+grob{adv}{adj}/荒い[あらい]/
 grob behandeln{vt}/踏み潰す[ふみつぶす]/
 grobe Schätzung{f}/凡その見当[およそのけんとう]/
-Grobheit{f}/失礼[しつれい]/乱暴[らんぼう]/ラフ[らふ]/粗大[そだい]/雑[ざつ]/大雑把[おおざっぱ]/無礼[ぶれい]/
+Grobheit{f}/(Unhöflichkeit) 失礼[しつれい]/(Rauheit;Rauigkeit) 粗さ[あらさ]/
 Grobian{m}/乱暴者[らんぼうもの]/
 grobknochig{adj}/骨太の[ほねぶとの]/
 grobkörnig{adj}/粒が粗い[つぶがあらい]/
-Groll{m}/無念[むねん]/悪意[あくい]/恨み[うらみ]/執念[しゅうねん]/鬱憤[うっぷん]/
+Groll{m}/(Missmut) 無念[むねん]/(Böswilligkeit) 悪意[あくい]/
 grollen{vi}/憎む[にくむ]/
 Gros{n}/グロス[ぐろす]/
 Groschenroman{m}/赤本[あかほん]/
@@ -11858,13 +11858,13 @@ Groteskheit{f}/変てこさ[へんてこさ]/
 Grotte{f}/洞窟[どうくつ]/
 Groupie{m}{f}/親衛隊[しんえいたい]/
 Groupware{f}/グループウェア[ぐるーぷうぇあ]/
-groß{adv}{adj}/多い[おおい]/グランド[ぐらんど]/太い[ふとい]/激しい[はげしい]/ビッグ[びっぐ]/高い[たかい]/でかい[でかい]/おおい[おおい]/広々[ひろびろ]/大きな[おおきな]/厚い[あつい]/高[こう]/大きく[おおきく]/大の[だいの]/多大[ただい]/グレート[ぐれーと]/でっかい[でっかい]/広い[ひろい]/大きい[おおきい]/大した[たいした]/数多い[かずおおい]/大いなる[おおいなる]/偉い[えらい]/
-großartig{adv}{adj}/素敵[すてき]/素晴らしい[すばらしい]/凄い[すごい]/盛大[せいだい]/グレート[ぐれーと]/大いなる[おおいなる]/
-Großartigkeit{f}/壮大[そうだい]/偉[い]/雄大[ゆうだい]/
+groß{adv}{adj}/多い[おおい]/(hoch) 高い[たかい]/(groß sein) 背が高い[せがたかい]/
+großartig{adv}{adj}/素晴らしい[すばらしい]/
+Großartigkeit{f}/壮大[そうだい]/
 Großaufnahme{f}/接写[せっしゃ]/
 Großbildfernseher{m}/大画面テレビ[だいがめんてれび]/
 Großbrand{m}/大火[たいか]/
-Großbuchstabe{m}/頭文字[かしらもじ]/大文字[おおもじ]/
+Großbuchstabe{m}/大文字[おおもじ]/
 Großbuchstaben{pl}/キャピタル[きゃぴたる]/
 große Halle{f}/高堂[こうどう]/
 große Zahl{f}/大数[たいすう]/
@@ -11873,40 +11873,40 @@ Großeltern{pl}/祖父母[そふぼ]/
 Großer Brachvogel{m}/ダイシャクシギ[だいしゃくしぎ]/
 Großereignis{n}/大事件[だいじけん]/
 großes Stück/大切り[おおぎり]/
-Großfamilie{f}/一家[いっか]/大家族[だいかぞく]/
+Großfamilie{f}/大家族[だいかぞく]/
 Großfeuer{n}/大火[たいか]/
-Großformat{n}/大型[おおがた]/大判[おおばん]/
+Großformat{n}/大型[おおがた]/
 großformatig{adj}/グランデ[ぐらんで]/
-Großhandel{m}/卸[おろし]/卸売[おろしうり]/
+Großhandel{m}/卸売[おろしうり]/
 Großhandelsgeschäft{n}/問屋業[といやぎょう]/
 Großhandelspreis{m}/卸値[おろしね]/
 Großhandelspreisindex{m}/卸売物価指数[おろしうりぶっかしすう]/
-großherzig{adj}/広い[ひろい]/豪快[ごうかい]/緩い[ゆるい]/
-Großherzigkeit{f}/大量[たいりょう]/寛大[かんだい]/大らか[おおらか]/大気[たいき]/太っ腹[ふとっぱら]/寛容[かんよう]/
+großherzig{adj}/心の広い[こころのひろい]/
+Großherzigkeit{f}/大らか[おおらか]/
 Großhirn{n}/大脳[だいのう]/
 Großhändler{m}/問屋[とんや]/
 Großkunde{m}/上得意[じょうとくい]/
 Großmacht{f}/大国[たいこく]/
 Großmarkt{m}/スーパーストア[すーぱーすとあ]/
-Großmut{m}/大量[たいりょう]/寛大[かんだい]/大らか[おおらか]/大気[たいき]/太っ腹[ふとっぱら]/
+Großmut{m}/大らか[おおらか]/
 Großmutter{f}/祖母[そぼ]/
 großmütig{adv}/気前のいい[きまえのいい]/
 Großrechner{m}/汎用機[はんようき]/
 Großsegel{n}/大しょう帆[たいしょうはん]/
 großsprecherisch{adv}/仰々しい[ぎょうぎょうしい]/
 Großspurigkeit{f}/傲慢[ごうまん]/
-Großstadt{f}/都会[とかい]/大都会[だいとかい]/大都市[だいとし]/
-Großteil{m}/多く[おおく]/大部分[だいぶぶん]/
+Großstadt{f}/都会[とかい]/
+Großteil{m}/大部分[だいぶぶん]/
 Großtuerei{f}/自慢話[じまんばなし]/
 Großunternehmen{n}/大企業[だいきぎょう]/
 Großvater{m}/祖父[じじい]/
 Großverdiener{m}/高額所得者[こうがくしょとくしゃ]/
 Großwild{n}/ビッグ･ゲーム[びっぐげーむ]/
-großziehen/育てる[そだてる]/育む[はぐくむ]/育つ[そだつ]/
-großzügig{adv}{adj}/緩やか[ゆるやか]/大まか[おおまか]/
-Großzügigkeit{f}/広さ[ひろさ]/寛大[かんだい]/太っ腹[ふとっぱら]/
+großziehen/(aufziehen) 育てる[そだてる]/
+großzügig{adv}{adj}/気前のいい[きまえのいい]/
+Großzügigkeit{f}/太っ腹[ふとっぱら]/
 Grubber{m}/カルチベーター[かるちべーたー]/
-Grube{f}/穴[あな]/孔[あな]/凹み[くぼみ]/
+Grube{f}/穴[あな]/
 Grubenarbeiter{m}/鉱夫[こうふ]/
 Grubenbrand{m}/坑内火災[こうないかさい]/
 Grubengas{n}{m}/坑内ガス[こうないがす]/
@@ -11914,13 +11914,13 @@ Grubenlampe{f}/安全灯[あんぜんとう]/
 Grubensand{m}/山砂[やまずな]/
 Grubenunglück{n}/坑内事故[こうないじこ]/
 Grubenwasser{n}/坑内水[こうないすい]/
-Grund{m}/土[つち]/所為[せい]/ボトム[ぼとむ]/因縁[いんねん]/奥底[おくそこ]/基[もとい]/根拠[こんきょ]/原因[げんいん]/割り[わり]/訳[わけ]/種[たね]/基礎[きそ]/地[じ]/下地[したじ]/構内[こうない]/底[そこ]/事情[じじょう]/どん底[どんぞこ]/理由[りゆう]/途方[とほう]/基本[きほん]/地面[じめん]/大地[だいち]/道理[どうり]/土地[とち]/根底[こんてい]/基準[きじゅん]/都合[つごう]/始まり[はじまり]/所以[ゆえん]/契機[けいき]/由[よし]/
+Grund{m}/(Ursache) 理由[りゆう]/(Land;Boden) 土地[とち]/
 Grundbau{m}/基礎工事[きそこうじ]/
 Grundbedeutung{f}/本義[ほんぎ]/
 Grundbedingung{f}/基本条件[きほんじょうけん]/
 Grundbedürfnis{n}/一次的欲求[いちじてきよっきゅう]/
 Grundbegriff{m}/原理[げんり]/
-Grundbesitz{m}/地[じ]/不動産[ふどうさん]/
+Grundbesitz{m}/所有地[しょゆうち]/
 Grundbesitzer{m}/地主[じぬし]/
 Grundbuch{n}/日記帳[にっきちょう]/
 Grundbuchauszug{m}/権利書[けんりしょ]/
@@ -11931,22 +11931,22 @@ Grundeinstellung{f}/初期設定[しょきせってい]/
 Grundelement{n}/基礎的要素[きそてきようそ]/
 Grundfarbe{f}/原色[げんしょく]/
 Grundgebühr{f}/基本料金[きほんりょうきん]/
-Grundgedanke{m}/概念[がいねん]/基調[きちょう]/原理[げんり]/
+Grundgedanke{m}/概念[がいねん]/(Prinzip) 原理[げんり]/
 Grundgehalt{n}/基本給[きほんきゅう]/
 Grundgesamtheit{f}/母集団[ぼしゅうだん]/
-Grundgesetz{n}/基本法[きほんほう]/憲章[けんしょう]/
+Grundgesetz{n}/基本法[きほんほう]/
 Grundhaltung{f}/基本態度[きほんたいど]/
 Grundidee{f}/基本理念[きほんりねん]/
 grundieren{vt}/アンダーコーティングする[あんだーこーてぃんぐする]/
 Grundierfarbe{f}/地色[じいろ]/
 Grundiermittel{n}/プライマー[ぷらいまー]/
-Grundierung{f}/地[じ]/ファンデーション[ふぁんでーしょん]/ファンデーション[ふぁんでーしょん]/下地[したじ]/
+Grundierung{f}/(~ eines Anstrichs) プライマー[ぷらいまー]/
 Grundkapital{n}/基本財産[きほんざいさん]/
 Grundkonzept{n}/基本コンセプト[きほんこんせぷと]/
-Grundlage{f}/地[じ]/根元[ねもと]/基盤[きばん]/ベーシック[べーしっく]/基[もとい]/根拠[こんきょ]/ファンデーション[ふぁんでーしょん]/基礎[きそ]/土台[どだい]/下地[したじ]/下地[したじ]/根本[こんぽん]/根幹[こんかん]/規模[きぼ]/基本[きほん]/根底[こんてい]/基準[きじゅん]/
+Grundlage{f}/基礎[きそ]/
 Grundlagen{pl}/ルーツ[るーつ]/
 Grundlagenforschung{f}/基礎研究[きそけんきゅう]/
-grundlegend{adj}{adv}/基本的[きほんてき]/根本的[こんぽんてき]/土台[どだい]/基本的に[きほんてきに]/基礎的[きそてき]/
+grundlegend{adj}{adv}/基本的[きほんてき]/
 Grundlinie{f}/底辺[ていへん]/
 Grundlohn{m}/基本手当て[きほんてあて]/
 grundlos{adv}/そら[そら]/
@@ -11957,7 +11957,7 @@ Grundmauer{f}/基礎[きそ]/基[もとい]/
 Grundprinzip{n}/大綱[たいこう]/
 Grundregel{f}/原則[げんそく]/
 Grundriss{m}/設計図[せっけいず]/
-Grundsatz{m}/主義[しゅぎ]/持論[じろん]/方針[ほうしん]/原理[げんり]/信条[しんじょう]/原則[げんそく]/
+Grundsatz{m}/原則[げんそく]/
 Grundsatzfrage{f}/原則論[げんそくろん]/
 Grundsatzrede{f}/基調演説[きちょうえんぜつ]/
 Grundsatzreferat{n}/キーノート･スピーチ[きーのーとすぴーち]/
@@ -11969,7 +11969,7 @@ Grundsteinlegung{f}/起工[きこう]/
 Grundsteuer{f}/年貢[ねんぐ]/
 Grundstoff{m}/元素[げんそ]/
 Grundstufe{f}/初級[しょきゅう]/
-Grundstück{n}/地[じ]/宅地[たくち]/構内[こうない]/地面[じめん]/土地[とち]/敷地[しきち]/
+Grundstück{n}/土地[とち]/
 Grundstücksmakler{m}/不動産仲立人[ふどうさんなかだちにん]/
 grundsätzlich{adv}/原則として[げんそくとして]/
 Grundton{m}/基調[きちょう]/
@@ -11981,7 +11981,7 @@ Grundwissen{n}/基礎知識[きそちしき]/
 Grundwortschatz{m}/基本語[きほんご]/
 Grundzahl{f}/基数詞[きすうし]/
 grunzen{vi}/ぶーぶーいう[ぶーぶーいう]/
-Gruppe{f}/仲間[なかま]/連中[れんぢゅう]/倶楽部[くらぶ]/系列[けいれつ]/班[はん]/団体[だんたい]/サークル[さーくる]/部類[ぶるい]/部門[ぶもん]/派[は]/群[むれ]/型[がた]/固まり[かたまり]/グループ[ぐるーぷ]/組[くみ]/組み[くみ]/連[れん]/隊[たい]/団[だん]/集団[しゅうだん]/ユニット[ゆにっと]/群れ[むれ]/
+Gruppe{f}/グループ[ぐるーぷ]/
 Gruppenarbeit{f}/バズセッション[ばずせっしょん]/
 Gruppendiskussion{f}/グループディスカッション[ぐるーぷでぃすかっしょん]/
 Gruppendynamik{f}/グループダイナミックス[ぐるーぷだいなみっくす]/
@@ -11994,37 +11994,37 @@ Gruppenversicherung{f}/団体保険[だんたいほけん]/
 gruppenweise{adv}/三々五々[さんさんごご]/
 Gruppierung{f}/集団[しゅうだん]/
 Gruselgeschichte{f}/怪奇小説[かいきしょうせつ]/
-gruselig{adv}/凄い[すごい]/物凄い[ものすごい]/
+gruselig{adv}/(Schauder erregend) ぞっとするような[ぞっとするような]/
 Gruseligkeit{f}/不気味[ぶきみ]/
-Gruß{m}/挨拶[あいさつ]/お礼[おれい]/御礼[おれい]/お辞儀[おじぎ]/呼びかけ[よびかけ]/礼[れい]/
+Gruß{m}/挨拶[あいさつ]/
 Grußkarte{f}/グリーティングカード[ぐりーてぃんぐかーど]/
 Gräfin{f}/伯爵夫人[はくしゃくふじん]/
-grässlich{adv}/怖い[こわい]/物凄い[ものすごい]/恐ろしい[おそろしい]/恐い[こわい]/凄まじい[すさまじい]/恐るべき[おそるべき]/
+grässlich{adv}/恐ろしい[おそろしい]/
 Grässlichkeit{f}/凄惨[せいさん]/
 Grätsche{f}/開脚[かいきゃく]/
-Gräuel{m}{n}/ホラー[ほらー]/惨劇[さんげき]/
+Gräuel{m}{n}/(Angstgefühl) 恐怖感[きょうふかん]/(schreckliches Ereignis) 惨劇[さんげき]/(Grausamkeit) 残酷[ざんこく]/
 Gräueltat{f}/悪逆無道な行ない[あくぎゃくむどうなおこない]/
 gräulich{adj}{adv}/灰色がかった[はいいろがかった]/
 Grönlandwal{m}/北極鯨[ほっきょくくじら]/
-Größe{f}/法[のり]/サイズ[さいず]/値[あたい]/偉大[いだい]/背[せい]/丈[たけ]/大気[たいき]/広大[こうだい]/広さ[ひろさ]/規模[きぼ]/寸法[すんぽう]/大小[だいしょう]/権威[けんい]/偉[い]/身長[しんちょう]/背丈[せたけ]/巨匠[きょしょう]/大きさ[おおきさ]/
+Größe{f}/大きさ[おおきさ]/(Bekleidungsgröße) 身長[しんちょう]/(~ eines Kleidungsstücks) サイズ[さいず]/
 Größenordnung{f}/オーダー[おーだー]/
 Größenwahn{m}/誇大妄想[こだいもうそう]/
 Grübchen{n}/笑窪[えくぼ]/
 Grübelei{f}/沈思[ちんし]/
 Grübeln{n}/穿鑿[せんさく]/
-Grün{n}/緑[みどり]/青[あお]/グリーン[ぐりーん]/グリーン[ぐりーん]/緑色[みどりいろ]/
-grün{adj}{adv}/若い[わかい]/青[あお]/幼い[おさない]/
+Grün{n}/緑[みどり]/(an Ampeln: blau) 青[あお]/
+grün{adj}{adv}/緑[みどり]/(an Ampeln: blau) 青い[あおい]/
 Grünalge{f}/緑藻[りょくそう]/
 Grünanlage{f}/緑地[りょくち]/
 Grünbleierz{n}/緑鉛鉱[りょくえんこう]/
 Gründe{pl}/意味合い[いみあい]/
-gründen{vt}/始める[はじめる]/建てる[たてる]/立てる[たてる]/設ける[もうける]/
+gründen{vt}/設立する[せつりつする]/
 Gründer{m}/生みの親[うみのおや]/
-gründlich{adv}{adj}/ちゃんと[ちゃんと]/根本的[こんぽんてき]/じっくり[じっくり]/念入り[ねんいり]/徹底的[てっていてき]/本格的[ほんかくてき]/深い[ふかい]/
-Gründlichkeit{f}/徹底[てってい]/凝り性[こりしょう]/丹念[たんねん]/入念[にゅうねん]/
+gründlich{adv}{adj}/徹底的[てっていてき]/
+Gründlichkeit{f}/徹底[てってい]/
 Gründling{m}/キタノカマツカ[きたのかまつか]/
 Gründonnerstag{m}/聖木曜日[せいもくようび]/
-Gründung{f}/設定[せってい]/創業[そうぎょう]/発足[ほっそく]/創立[そうりつ]/誕生[たんじょう]/樹立[じゅりつ]/創設[そうせつ]/開設[かいせつ]/設置[せっち]/創建[そうけん]/確立[かくりつ]/創始[そうし]/設立[せつりつ]/
+Gründung{f}/設立[せつりつ]/
 Gründungsmitglied{n}/創立委員[そうりついいん]/
 Grünfutter{n}/草[くさ]/
 Grünkohl{m}/ケール[けーる]/
@@ -12032,7 +12032,7 @@ Grünland{n}/緑土[りょくど]/
 grünlich{adj}/帯緑の[たいりょくの]/
 Grünschenkel{m}/アオアシシギ[あおあししぎ]/
 Grünschlick{m}/緑泥[りょくでい]/
-Grünschnabel{m}/駆け出し[かけだし]/チンピラ[ちんぴら]/
+Grünschnabel{m}/駆け出し[かけだし]/
 Grünspan{m}/緑青[ろくしょう]/
 Grünzeug{n}/青物[あおもの]/
 grüßen{vt}/会釈する[えしゃくする]/
@@ -12046,7 +12046,7 @@ Guillotine{f}/ギロチン[ぎろちん]/
 Gulasch{m}/煮込み[にこみ]/
 Gulaschkanone{f}/野外炊事車[やがいすいじしゃ]/
 Gulden{m}/フロリン[ふろりん]/
-Gummi{m}/ゴム[ごむ]/スキン[すきん]/
+Gummi{m}/ゴム[ごむ]/
 gummiartig{adj}/ゴム状の[ごむじょうの]/
 Gummiball{m}/ゴム毬[ごむまり]/
 Gummiband{n}/輪ゴム[わごむ]/
@@ -12060,11 +12060,11 @@ Gummiring{m}/輪ゴム[わごむ]/
 Gummischlauch{m}/ゴム管[ごむかん]/
 Gummisohle{f}/ラバーソール[らばーそーる]/
 Gummistiefel{m}/長靴[ながぐつ]/
-Gunst{f}/通り[とおり]/恵み[めぐみ]/贔屓[ひいき]/恩[おん]/愛顧[あいこ]/覚え[おぼえ]/
+Gunst{f}/愛顧[あいこ]/
 Guppy{m}/グッピー[ぐっぴー]/
 gurgeln{vi}/うがいをする[うがいをする]/
 Gurgelwasser{n}/含嗽剤[がんそうざい]/
-Gurke{f}/キュウリ[きゅうり]/胡瓜[きゅうり]/瓜[うり]/
+Gurke{f}/胡瓜[きゅうり]/
 gurren{vi}/ぽーぽー鳴る[ぽーぽーなる]/
 Gurt{m}/帯[おび]/
 Gurtzeug{n}/ハーネス[はーねす]/
@@ -12073,10 +12073,9 @@ Guss{m}/鋳造[ちゅうぞう]/
 Gusseisen{n}/鋳鉄[ちゅうてつ]/
 Gussform{f}/型枠[かたわく]/
 Gussstahl{m}/鋳鋼[ちゅうこう]/
-gut{adj}{adv}/良い[いい]/ファイン[ふぁいん]/ファイン[ふぁいん]/良[りょう]/グー[ぐー]/ナイス[ないす]/甘い[うまい]/正しい[ただしい]/グッド[ぐっど]/グッド[ぐっど]/良し[よし]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/美味しい[おいしい]/大人しい[おとなしい]/好い[いい]/宜しい[よろしい]/親しい[したしい]/良く[よく]/良く[よく]/変わりなく[かわりなく]/たっぷり[たっぷり]/クリーン[くりーん]/
-Gut{n}/商品[しょうひん]/品[しな]/財[たから]/善[ぜん]/宝[たから]/
+gut{adj}{adv}/良い[いい]/
 gut aufgelegt/上機嫌な[じょうきげんな]/
-gut aussehend{adv}/良さそう[よさそう]/ハンサム[はんさむ]/
+gut aussehend{adv}/(Männer) ハンサム[はんさむ]/(Frauen) 奇麗[きれい]/
 gut erhalten sein/保存がいい[ほぞんがいい]/
 gut gehen{vi}/締め込む[しめこむ]/
 gut proportioniert{adj}/プロポーションのいい[ぷろぽーしょんのいい]/
@@ -12098,12 +12097,12 @@ gutherzig{adj}/情のある[じょうのある]/
 gutmütig{adj}/優しい[やさしい]/
 Gutmütigkeit{f}/善良[ぜんりょう]/
 Gutsbesitzer{m}/地主[じぬし]/
-Gutschein{m}/クーポン[くーぽん]/商品券[しょうひんけん]/
+Gutschein{m}/クーポン[くーぽん]/
 Gutschrift{f}/貸方[かしかた]/
 Gutsherr{m}/豪農[ごうのう]/
 gutwillig{adj}/気のいい[きのいい]/
 Gymnasium{n}/高等学校[こうとうがっこう]/
-Gymnastik{f}/体操[たいそう]/体育[たいいく]/
+Gymnastik{f}/{Sport} 体操[たいそう]/
 Gynäkologe{m}/産婦人科医[さんふじんかい]/
 Gynäkologie{f}/婦人科[ふじんか]/
 gähnen{vi}/あくびする[あくびする]/
@@ -12113,20 +12112,20 @@ Gänseblümchen{n}/デージー[でーじー]/
 Gänsefüßchen{pl}/二重引用符[にじゅういんようふ]/
 Gänsehaut{f}/鳥肌[とりはだ]/
 Gänsesäger{m}/川秋沙[かわあいさ]/
-gänzlich{adv}/全く[まったく]/専ら[もっぱら]/すっかり[すっかり]/すっぽり[すっぽり]/どっぷり[どっぷり]/
+gänzlich{adv}/全く[まったく]/
 Gärmittel{n}/発酵素[はっこうそ]/
-Gärtner{m}/木造[きづくり]/庭師[にわし]/
+Gärtner{m}/庭師[にわし]/
 Gärtnerei{f}/園芸[えんげい]/
-Gärung{f}/発酵[はっこう]/動揺[どうよう]/
+Gärung{f}/発酵[はっこう]/
 Gästebuch{n}/宿帳[やどちょう]/
 Gästehaus{n}/離れ[はなれ]/
-Gästezimmer{n}/座敷[ざしき]/客室[きゃくしつ]/
-Gönner{m}/旦那[だんな]/保護者[ほごしゃ]/恩人[おんじん]/
+Gästezimmer{n}/客室[きゃくしつ]/
+Gönner{m}/(Protegé) 保護者[ほごしゃ]/(Wohltäter) 恩人[おんじん]/
 Gönnerschaft{f}/贔屓[ひいき]/
 Gösch{f}/船首旗[せんしゅき]/
 Götterdämmerung{f}/神々の黄昏[かみがみのたそがれ]/
-Götterspeise{f}/ゼリー[ぜりー]/ジェリー[じぇりー]/
-Göttin{f}/神[かみ]/女神[じょしん]/
+Götterspeise{f}/ゼリー[ぜりー]/
+Göttin{f}/女神[じょしん]/
 göttlich{adj}{adv}/神々しい[こうごうしい]/
 Göttlichkeit{f}/神性[しんせい]/
 Götze{m}/イドラ[いどら]/
@@ -12135,9 +12134,9 @@ Götzendiener{m}/偶像崇拝者[ぐうぞうすうはいしゃ]/
 Götzendienst{m}/偶像崇拝[ぐうぞうすうはい]/
 Götzenverehrung{f}/淫祠[いんし]/
 gültig{adv}/有効な[ゆうこうな]/
-Gültigkeit{f}/有効[ゆうこう]/有効性[ゆうこうせい]/通用[つうよう]/現行[げんこう]/妥当[だとう]/効力[こうりょく]/
+Gültigkeit{f}/有効[ゆうこう]/
 Gültigkeitsdauer{f}/有効期間[ゆうこうきかん]/
-günstig{adv}{adj}/良い[いい]/甘い[うまい]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/好い[いい]/都合の良い[つごうのよい]/
+günstig{adv}{adj}/有利な[ゆうりな]/(Preis) 安い[やすい](passend;gelegen) 都合の良い[つごうのよい]/
 günstiger Preis/ナイス･プライス[ないすぷらいす]/
 Günstling{m}/気に入り[きにいり]/
 Günstlingswirtschaft{f}/情実人事[じょうじつじんじ]/
@@ -12146,8 +12145,7 @@ Gürtelreifen{m}/ラジアルタイヤ[らじあるたいや]/
 Gürtelrose{f}/帯状疱疹[たいじょうほうしん]/
 Gürtelschlaufe{f}/バンド通し[ばんどどおし]/
 Gürteltier{n}/アルマジロ[あるまじろ]/
-Güte{f}/品[しな]/仁[じん]/価値[かち]/品質[ひんしつ]/恩[おん]/良好[りょうこう]/徳[とく]/善良[ぜんりょう]/善[ぜん]/親切[しんせつ]/
-Güter{pl}/製品[せいひん]/貨物[かもつ]/物資[ぶっし]/物品[ぶっぴん]/
+Güte{f}/(Barmherzigkeit) 仁[じん]/
 Güterbahnhof{m}/貨物駅[かもつえき]/
 Gütertransport{m}/交通[こうつう]/
 Güterverkehr{m}/交通[こうつう]/
