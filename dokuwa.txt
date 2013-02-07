@@ -12153,9 +12153,9 @@ Güterwagen{m}/貨車[かしゃ]/
 Güterzug{m}/貨物列車[かもつれっしゃ]/
 gütig{adv}/優しい[やさしい]/
 H-Milch{f}/LL牛乳[えるえるぎゅうにゅう]/
-Haar{n}/髪[かみ]/髪の毛[かみのけ]/毛[け]/毛[け]/
+Haar{n}/髪[かみ]/
 Haaransatz{m}/生え際[はえぎわ]/
-Haarausfall{m}/脱毛[だつもう]/抜け毛[ぬけげ]/
+Haarausfall{m}/脱毛[だつもう]/
 Haarbalsam{n}/香油[こうゆ]/
 Haarband{n}/ヘアバンド[へあばんど]/
 Haarbürste{f}/ヘアブラシ[へあぶらし]/
@@ -12176,12 +12176,12 @@ Haarschmuck{m}/髪飾り[かみかざり]/
 Haarschneidemaschine{f}/バリカン[ばりかん]/
 Haarschneiden{n}/散髪[さんぱつ]/
 Haarschneider{m}/床屋[とこや]/
-Haarschnitt{m}/カット[かっと]/理容[りよう]/散髪[さんぱつ]/
+Haarschnitt{m}/(Frisur) ヘアスタイル[へあすたいる]/(Frisieren) 調髪[ちょうはつ]/
 Haarschopf{m}/よもぎのような髪[よもぎのようなかみ]/
 Haarspalter{m}/理屈家[りくつか]/
 Haarspalterei{f}/屁理屈[へりくつ]/
 Haarspange{f}/クリップ[くりっぷ]/
-Haarspray{m}/スプレー[すぷれー]/ヘアスプレー[へあすぷれー]/
+Haarspray{m}/ヘアスプレー[へあすぷれー]/
 Haarspülung{f}/リンス[りんす]/
 haarsträubend{adj}/身の毛のよだつような[みのけのよだつような]/
 Haarwaschmittel{n}/洗髪剤[せんぱつざい]/
@@ -12191,11 +12191,11 @@ Haarwuchsmittel{n}/育毛剤[いくもうざい]/
 Haarwäsche{f}/髪洗い[かみあらい]/
 Haaröl{n}/鬢付け油[びんつけあぶら]/
 Habe{f}/持ち物[もちもの]/
-haben{vt}/持つ[もつ]/在る[ある]/有る[ある]/備える[そなえる]/
-Habgier{f}/欲張り[よくばり]/貪欲[どんよく]/
+haben{vt}/(besitzen) 持つ[もつ]/(sein;vorhanden sein) 有る[ある]/
+Habgier{f}/(Gier) 欲張り[よくばり]/
 habgierig{adj}{adv}/がめつい[がめつい]/
 Habicht{m}/オオタカ[おおたか]/
-Habichtskauz{m}/フクロウ[ふくろう]/梟[ふくろう]/
+Habichtskauz{m}/{Vogelk.}(Strix uralensis) 梟[ふくろう]/
 Habitus{m}/動物の習性[どうぶつのしゅうせい]/
 Hackbeil{n}/チョッパー[ちょっぱー]/
 Hackbraten{m}/ミートローフ[みーとろーふ]/
@@ -12203,12 +12203,12 @@ Hackbrett{n}/俎板[まないた]/
 Hacke{f}/鶴嘴[つるはし]/
 hacken{vi}/刻む[きざむ]/
 Hacker{m}/ハッカー[はっかー]/
-Hackfleisch{n}/ひき肉[ひきにく]/ミンチ[みんち]/挽肉[ひきにく]/
+Hackfleisch{n}/挽き肉[ひきにく]/
 Hackklotz{m}/たたき台[たたきだい]/
 Hackmesser{n}/出刃[でば]/
 Haddsch{m}/ハッジ[はっじ]/
 hadern{vi}/けんかする[けんかする]/
-Hafen{m}/港[みなと]/ポート[ぽーと]/湊[みなと]/
+Hafen{m}/港[みなと]/
 Hafenanlage{f}/波止場[はとば]/
 Hafenarbeiter{m}/港湾労働者[こうわんろうどうしゃ]/
 Hafenbau{m}/築港[ちっこう]/
@@ -12221,7 +12221,7 @@ Hafenviertel{n}/港町[みなとまち]/
 Hafer{m}/麦[むぎ]/
 Hafermehl{n}/オートミール[おーとみーる]/
 Haff{n}/潟[かた]/
-Haft{f}/監禁[かんきん]/足止め[あしどめ]/
+Haft{f}/監禁[かんきん]/
 Haftanstalt{f}/拘置所[こうちしょ]/
 Haftbefehl{m}/逮捕状[たいほじょう]/
 Haften{n}/付着[ふちゃく]/
@@ -12237,7 +12237,7 @@ hageln{vi}/雨あられと降る[あめあられとふる]/
 Hagelschaden{m}/雹害[ひょうがい]/
 Hagelschauer{m}/降雹[こうひょう]/
 hager{adj}/ぎすぎす[ぎすぎす]/
-Hahn{m}/鶏[にわとり]/コック[こっく]/酉[とり]/タップ[たっぷ]/栓[せん]/蛇口[じゃぐち]/
+Hahn{m}/{Vogelk.} 雄鳥[おんどり]/(Wasser~) 蛇口[じゃぐち]/(~ einer Feuerwaffe) 撃鉄[げきてつ]/
 Hahnenfuß{m}/金鳳花[きんぽうげ]/
 Hahnenkamm{m}/鶏冠[とさか]/
 Hahnenkampf{m}/闘鶏[とうけい]/
@@ -12250,7 +12250,7 @@ Hain{m}/木立[こだち]/
 Hainbuche{f}/アカシデ[あかしで]/
 Haitianer{m}/ハイチ人[はいちじん]/
 haitianisch{adj}/ハイチの[はいちの]/
-Haken{m}/故障[こしょう]/フック[ふっく]/
+Haken{m}/鉤[かぎ]/
 hakenförmig{adj}/鉤形の[かぎがたの]/
 Hakenkreuz{n}/卍[まんじ]/
 Hakennase{f}/鉤鼻[かぎばな]/
@@ -12294,7 +12294,7 @@ Halbvokal{m}/半母音[はんぼいん]/
 Halbwelt{f}/花柳界[かりゅうかい]/
 Halbwertsbreite{f}/半幅[はんはば]/
 Halbwort{n}/半語[はんご]/
-Halbzeit{f}/ハーフ[はーふ]/ハーフタイム[はーふたいむ]/
+Halbzeit{f}/ハーフタイム[はーふたいむ]/
 Halde{f}/ぼた山[ぼたやま]/
 Halfter{n}/ホルスター[ほるすたー]/
 Halit{m}/岩塩[がんえん]/
@@ -12303,22 +12303,22 @@ Halle{f}/堂[どう]/
 Halleluja{n}/ハレルヤ[はれるや]/
 Hallenbad{n}/屋内プール[おくないぷーる]/
 Hallensport{m}/インドアスポーツ[いんどあすぽーつ]/
-Hallo!/おーい[おーい]/やあ[やあ]/もしもし[もしもし]/
+Hallo!/{Interj.} やあ[やあ]/(Telefon) もしもし[もしもし]/
 Halluzination{f}/幻覚[げんかく]/
 halluzinieren{vi}/空目を遣う[そらめをつかう]/
 Halluzinogen{n}/幻覚剤[げんかくざい]/
 Halm{m}/軸[じく]/茎[くき]/
 Halogenlampe{f}/ハロゲン･ランプ[はろげんらんぷ]/
 Halon{n}/ハロン[はろん]/
-Hals{m}/喉[のど]/クビ[くび]/襟[えり]/ネック[ねっく]/
-Hals über Kopf/慌てて[あわてて]/一目散に[いちもくさんに]/
+Hals{m}/(Kehle;Rachen) 喉[のど]/首[くび]/
+Hals über Kopf/一目散に[いちもくさんに]/
 Hals-Nasen-Ohren-Facharzt{m}/耳鼻咽喉科の医者[じびいんこうかのいしゃ]/
 Halsausschnitt{m}/ネック[ねっく]/
 Halsband{n}/襟[えり]/
 halsbrecherisch{adj}/大胆極まる[だいたんきわまる]/
-Halskette{f}/ネックレス[ねっくれす]/首輪[くびわ]/
+Halskette{f}/ネックレス[ねっくれす]/
 Halsschlagader{f}/頚動脈[けいどうみゃく]/
-Halstuch{n}/マフラー[まふらー]/スカーフ[すかーふ]/
+Halstuch{n}/スカーフ[すかーふ]/
 Halswirbel{m}/頚椎[けいつい]/
 Halswirbelsäule{f}/頚骨[けいこつ]/
 Halt{m}/止め[とめ]/留め[とめ]/一時停止[いちじていし]/ホールド[ほーるど]/停車[ていしゃ]/止まり[とまり]/足場[あしば]/手がかり[てがかり]/待った[まった]/
