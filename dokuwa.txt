@@ -12321,19 +12321,19 @@ Halsschlagader{f}/頚動脈[けいどうみゃく]/
 Halstuch{n}/スカーフ[すかーふ]/
 Halswirbel{m}/頚椎[けいつい]/
 Halswirbelsäule{f}/頚骨[けいこつ]/
-Halt{m}/止め[とめ]/留め[とめ]/一時停止[いちじていし]/ホールド[ほーるど]/停車[ていしゃ]/止まり[とまり]/足場[あしば]/手がかり[てがかり]/待った[まった]/
+Halt{m}/停止[ていし]/(Griff) 手掛かり[てがかり]/{fig.}(Unterstützung) 支え[ささえ]/
 Halt den Mund!/黙れ![だまれ!]/
 Halt!{interj}/待った![まった!]/
 haltbar{adj}{adv}/確り[しっかり]/
-Haltbarkeit{f}/持ち[もち]/強固[きょうこ]/長持ち[ながもち]/耐久[たいきゅう]/耐久性[たいきゅうせい]/
+Haltbarkeit{f}/(Dauerhaftigkeit) 長持ち[ながもち]/
 Haltbarkeitsdatum{n}/品質保持期限[ひんしつほじきげん]/
 Halter{m}/持ち方[もちかた]/
 Haltesignal{n}/赤信号[あかしんごう]/
-Haltestelle{f}/ステーション[すてーしょん]/乗り場[のりば]/停留所[ていりゅうじょ]/
+Haltestelle{f}/乗り場[のりば]/
 Halteverbot{n}/停車禁止[ていしゃきんし]/
 haltlos{adj}/無軌道の[むきどうの]/
 Haltlosigkeit{f}/無軌道[むきどう]/
-Haltung{f}/姿勢[しせい]/態度[たいど]/心がけ[こころがけ]/出方[でかた]/含み[ふくみ]/持ち方[もちかた]/構[かまえ]/心構え[こころがまえ]/スタンス[すたんす]/てい[てい]/格好[かっこう]/構え[かまえ]/
+Haltung{f}/(Körper~) 姿勢[しせい]/(Einstellung) 態度[たいど]/
 Halunke{m}/汝[うぬ]/
 Hamburger{m}/ハンバーガー[はんばーがー]/
 Hammel{m}/子羊の肉[こひつじのにく]/
@@ -12342,18 +12342,18 @@ Hammer{m}/ハンマー[はんまー]/
 Hammerhai{m}/シュモクザメ[しゅもくざめ]/
 Hammerwerfen{n}/ハンマー投げ[はんまーなげ]/
 Hamster{m}/ハムスター[はむすたー]/
-Hand{f}/手[て]/掌[たなうら]/ハンド[はんど]/
-Handarbeit{f}/手作り[てづくり]/工作[こうさく]/手芸[しゅげい]/手製[てせい]/手作業[てさぎょう]/手仕事[てしごと]/細工[さいく]/
+Hand{f}/手[て]/
+Handarbeit{f}/手作り[てづくり]/
 Handarbeiter{m}/手工業者[しゅこうぎょうしゃ]/
-Handball{m}/ハンドボール[はんどぼーる]/送球[そうきゅう]/
+Handball{m}/ハンドボール[はんどぼーる]/
 Handbesen{m}/手箒[てぼうき]/
 handbetrieben{adj}/手回しの[てまわしの]/
 Handbewegung{f}/手振り[てぶり]/
 Handbohrer{m}/手持ちドリル[てもちどりる]/
 Handbohrmaschine{f}/ハンド･ドリル[はんどどりる]/
 Handbremse{f}/ハンド･ブレーキ[はんどぶれーき]/
-Handbuch{n}/マニュアル[まにゅある]/道しるべ[みちしるべ]/インスト[いんすと]/解説書[かいせつしょ]/
-Handel{m}/営業[えいぎょう]/商事[しょうじ]/商業[しょうぎょう]/商売[しょうばい]/取引[とりひき]/商[しょう]/実業[じつぎょう]/貿易[ぼうえき]/売買[ばいばい]/トレード[とれーど]/
+Handbuch{n}/マニュアル[まにゅある]/
+Handel{m}/商業[しょうぎょう]/
 Handelsabkommen{n}/通商協定[つうしょうきょうてい]/
 Handelsbank{f}/商業銀行[しょうぎょうぎんこう]/
 Handelsbeziehungen{pl}/貿易関係[ぼうえきかんけい]/
@@ -12364,11 +12364,11 @@ Handelsdefizit{n}/貿易赤字[ぼうえきあかじ]/
 Handelsembargo{n}/禁輸[きんゆ]/
 Handelsflotte{f}/商船隊[しょうせんたい]/
 Handelsgeist{m}/商魂[しょうこん]/
-Handelsgesellschaft{f}/商社[しょうしゃ]/商事[しょうじ]/
+Handelsgesellschaft{f}/商社[しょうしゃ]/
 Handelsgesetzbuch{n}/商法典[しょうほうてん]/
-Handelshaus{n}/商会[しょうかい]/商社[しょうしゃ]/
+Handelshaus{n}/商会[しょうかい]/
 Handelskammer{f}/商業会議所[しょうぎょうかいぎしょ]/
-Handelsmarke{f}/マーク[まーく]/銘柄[めいがら]/トレードマーク[とれーどまーく]/商標[しょうひょう]/銘[めい]/
+Handelsmarke{f}/商標[しょうひょう]/
 Handelsmesse{f}/商品見本市[しょうひんみほんいち]/
 Handelsministerium{n}/商務省[しょうむしょう]/
 Handelsname{m}/商品名[しょうひんめい]/
@@ -12386,10 +12386,10 @@ Handelsware{f}/商品[しょうひん]/
 Handelszentrum{n}/商業の中心地[しょうぎょうのちゅうしんち]/
 Handfesseln{pl}/手錠[てじょう]/
 Handfeuerwaffe{f}/短銃[たんじゅう]/
-Handfläche{f}/手のひら[てのひら]/掌[たなうら]/
+Handfläche{f}/手のひら[てのひら]/
 Handgelenk{n}/手首[てくび]/
 handgemacht{adj}/ハンドメイド[はんどめいど]/
-Handgemenge{n}/格闘[かくとう]/立ち回り[たちまわり]/乱闘[らんとう]/混戦[こんせん]/喧嘩[けんか]/
+Handgemenge{n}/格闘[かくとう]/
 handgenäht{adj}/手縫いの[てぬいの]/
 Handgepäck{n}/手荷物[てにもつ]/
 handgesponnen{adj}/ホームスパンの[ほーむすぱんの]/
@@ -12400,8 +12400,8 @@ handgreiflich werden/乱闘を始める[らんとうをはじめる]/
 Handgreiflichkeit{f}/格闘[かくとう]/
 Handgreiflichkeiten{pl}/乱闘[らんとう]/
 Handgriff{m}/要領[ようりょう]/
-handhaben{vt}/使う[つかう]/手がける[てがける]/扱う[あつかう]/操る[あやつる]/
-Handhabung{f}/使い方[つかいかた]/操縦[そうじゅう]/操作[そうさ]/扱い[あつかい]/料理[りょうり]/取り扱い[とりあつかい]/取扱い[とりあつかい]/取扱[とりあつかい]/処理[しょり]/処分[しょぶん]/
+handhaben{vt}/操作する[そうさする]/
+Handhabung{f}/操作[そうさ]/
 Handlampe{f}/手提げランプ[てさげらんぷ]/
 Handlanger{m}/手先[てさき]/
 Handlauf{m}/欄[おばしま]/
@@ -12409,8 +12409,8 @@ Handlesekunst{f}/手相占い[てそううらない]/
 handlich{adv}{adj}/ハンディ[はんでぃ]/
 Handlichkeit{f}/手頃[てごろ]/手ごろ[てごろ]/
 Handlotion{f}/ハンドローション[はんどろーしょん]/
-Handlung{f}/仕事[しごと]/仕業[しわざ]/工[たくみ]/行為[こうい]/動作[どうさ]/行動[こうどう]/仕組み[しくみ]/行い[おこない]/行い[おこない]/所在[しょざい]/ストーリー[すとーりー]/オペレーション[おぺれーしょん]/巧み[たくみ]/
-Handlungsstrang{m}/…筋[すじ]/
+Handlung{f}/(Tat) 行為[こうい]/ストーリー[すとーりー]/
+Handlungsstrang{m}/筋[すじ]/
 Handlungstheorie{f}/行為理論[こういりろん]/
 Handmühle{f}/碾き臼[ひきうす]/
 Handpumpe{f}/手押しポンプ[ておしぽんぷ]/
@@ -12419,9 +12419,9 @@ Handrücken{m}/手の甲[てのこう]/
 Handschaltgetriebe{n}/マニュアル[まにゅある]/
 Handschaltung{f}/手動変速装置[しゅどうへんそくそうち]/
 Handschellen{pl}/手錠[てじょう]/
-Handschlag{m}/握手[あくしゅ]/手打ち[てうち]/
-Handschrift{f}/手[て]/墨付き[すみつき]/筆[ふで]/跡[あと]/
-Handschuh{m}/グローブ[ぐろーぶ]/手袋[てぶくろ]/グラブ[ぐらぶ]/
+Handschlag{m}/握手[あくしゅ]/
+Handschrift{f}/手書き[てがき]/
+Handschuh{m}/手袋[てぶくろ]/
 Handschuhfach{n}/小物入れ[こものいれ]/
 Handspiegel{m}/手鏡[てかがみ]/
 Handspiel{n}/ハンドリング[はんどりんぐ]/
@@ -12429,19 +12429,19 @@ Handstand{m}/逆立ち[さかだち]/
 Handsteuerung{f}/手動操縦[しゅどうそうじゅう]/
 Handsäge{f}/手びきのこぎり[てびきのこぎり]/
 Handtasche{f}/ハンドバッグ[はんどばっぐ]/
-Handtuch{n}/タオル[たおる]/バスタオル[ばすたおる]/
+Handtuch{n}/タオル[たおる]/
 Handtuchhalter{m}/タオル掛け[たおるかけ]/
 Handwagen{m}/手押し車[ておしぐるま]/
-Handwerk{n}/技術[ぎじゅつ]/匠[たくみ]/
-Handwerker{m}/職人[しょくにん]/工業[こうぎょう]/匠[たくみ]/
+Handwerk{n}/技術[ぎじゅつ]/
+Handwerker{m}/職人[しょくにん]/
 handwerkliches Können/技芸[ぎげい]/
 Handwurzelknochen{m}/手根骨[しゅこんこつ]/
 Handzeichen{n}/キュー[きゅー]/
-Handzettel{m}/チラシ[ちらし]/ビラ[びら]/パンフレット[ぱんふれっと]/
-Hanf{m}/麻[お]/大麻[たいま]/
+Handzettel{m}/散らし[ちらし]/
+Hanf{m}/麻[あさ]/
 hanfen/大麻製の[たいませいの]/
 Hanfseil{n}/麻縄[あさなわ]/
-Hang{m}/嫌い[きらい]/意地[いじ]/偏向[へんこう]/癖[くせ]/斜面[しゃめん]/贔屓[ひいき]/スロープ[すろーぷ]/傾向[けいこう]/意向[いこう]/習い[ならい]/好み[このみ]/
+Hang{m}/(Abhang) 斜面[しゃめん]/{fig.}(Tendenz) 傾向[けいこう]/
 Hanglage{f}/法面[のりめん]/
 Hanse{f}/ハンザ同盟[はんざどうめい]/
 Hanswurst{m}/道化者[どうけもの]/
@@ -12459,12 +12459,12 @@ Harfenist{m}/ハープ奏者[はーぷそうしゃ]/
 Harlekin{m}/アルルカン[あるるかん]/
 harmlos{adj}{adv}/他愛もない[たわいもない]/
 Harmlosigkeit{f}/無害[むがい]/
-Harmonie{f}/和[わ]/映り[うつり]/写り[うつり]/協調[きょうちょう]/融合[ゆうごう]/調和[ちょうわ]/呼吸[こきゅう]/協和[きょうわ]/ハーモニー[はーもにー]/和気[わき]/
+Harmonie{f}/調和[ちょうわ]/(Musik) 和声[わせい]/
 Harmonielehre{f}/和声学[わせいがく]/
-harmonieren{vi}/会う[あう]/逢う[あう]/
-harmonisch{adj}{adv}/仲良く[なかよく]/丸い[まるい]/
+harmonieren{vi}/調和する[ちょうわする]/
+harmonisch{adj}{adv}/仲良く[なかよく]/
 Harmonische{f}/高調波[こうちょうは]/
-harmonisieren{vt}/映る[うつる]/写る[うつる]/
+harmonisieren{vt}/(in Einklang bringen) 調和させる[ちょうわさせる]/
 Harmonisierung{f}/ハーモナイゼーション[はーもないぜーしょん]/
 Harmonium{n}/オルガン[おるがん]/
 Harnblase{f}/膀胱[ぼうこう]/
@@ -12476,7 +12476,7 @@ Harnstoff{m}/尿素[にょうそ]/
 Harnuntersuchung{f}/尿検査[にょうけんさ]/
 Harpune{f}/銛[もり]/
 harpunieren{vt}/もりを打ち込む[もりをうちこむ]/
-hart{adv}/厳しい[きびしい]/激しい[はげしい]/険しい[けわしい]/酷い[ひどい]/きつい[きつい]/苦しい[くるしい]/辛い[からい]/みっちり[みっちり]/しんどい[しんどい]/固い[かたい]/堅い[かたい]/硬い[かたい]/タフ[たふ]/偉い[えらい]/偉い[えらい]/ハード[はーど]/シビア[しびあ]/
+hart{adv}/(fest) 堅い[かたい]/(streng) 厳しい[きびしい]/
 hart werden{vi}/固まる[かたまる]/
 harte Nuss{f}/苦手[にがて]/
 Hartfaserplatte{f}/ハードボード[はーどぼーど]/
@@ -12488,8 +12488,8 @@ Hartherzigkeit{f}/薄情[はくじょう]/
 Hartholz{n}/堅材[けんざい]/
 Hartlöten{n}/ろう付け[ろうづけ]/
 Hartmetall{n}/タングステン･カーバイト[たんぐすてんかーばいと]/
-hartnäckig{adj}{adv}/しつこい[しつこい]/根強い[ねづよい]/手強い[てごわい]/固い[かたい]/堅い[かたい]/硬い[かたい]/
-Hartnäckigkeit{f}/頑張り[がんばり]/一国[いっこく]/強靭[きょうじん]/強硬[きょうこう]/頑な[かたくな]/執拗[しつよう]/頑固[がんこ]/頑固[がんこ]/根性[こんじょう]/
+hartnäckig{adj}{adv}/しつこい[しつこい]/
+Hartnäckigkeit{f}/頑張り[がんばり]/
 Hartriegel{m}/水木[みずき]/
 Hartstahl{m}/硬鋼[こうこう]/
 Hartweizen{m}/デュラム小麦[でゅらむこむぎ]/
@@ -12498,29 +12498,29 @@ Harz{n}{m}/樹脂[じゅし]/
 harzig{adj}/樹脂の[じゅしの]/
 Haschee{n}/こまぎれ肉の料理[こまぎれにくのりょうり]/
 Haschisch{n}/大麻[たいま]/
-Hase{m}/ウサギ[うさぎ]/卯[う]/卯[う]/兎[う]/
+Hase{m}/{Zool.} 野兎[のうさぎ]/
 Haselnuss{f}/ヘーゼルナッツ[へーぜるなっつ]/
 Hasenpest{f}/ツラレミア[つられみあ]/
 Hasenscharte{f}/口唇裂[こうしんれつ]/
 Haspel{f}/糸巻き[いとまき]/
 Haspeln{n}/糸繰り[いとくり]/
-Hass{m}/嫌い[きらい]/反感[はんかん]/嫌悪[けんお]/恨み[うらみ]/憎しみ[にくしみ]/憎悪[ぞうお]/
-Hast{f}/急[きゅう]/せっかち[せっかち]/急行[きゅうこう]/急ぎ[いそぎ]/
+Hass{m}/憎しみ[にくしみ]/
+Hast{f}/急ぎ[いそぎ]/
 hasten{vi}/焦る[あせる]/
-hastig{adv}/そこそこ[そこそこ]/せっかち[せっかち]/そこそこに[そこそこに]/急いで[いそいで]/そそくさ[そそくさ]/
+hastig{adv}/そそくさ[そそくさ]/
 hatschi!{interj}/はくしょん[はくしょん]/
 Hau ab!/消えろ。[きえろ。]/
-Haube{f}/蓋[ふた]/ボンネット[ぼんねっと]/ずきん[ずきん]/
+Haube{f}/(Mütze) ボンネット[ぼんねっと]/(Helm) 甲[かぶと]/
 Haubitze{f}/榴弾砲[りゅうだんほう]/
-Hauch{m}/息[いき]/一抹[いちまつ]/息吹[いぶき]/
+Hauch{m}/息吹[いぶき]/
 hauchen{vi}/ふっと吹く[ふっとふく]/
 Hauchlaut{m}/有気音[ゆうきおん]/
 Haue{f}/鍬[くわ]/
 Hauer{m}/牙[きば]/
-Haufen{m}/山[やま]/徒[と]/重ね[かさね]/族[やから]/群[むれ]/固まり[かたまり]/輩[やから]/隊[たい]/群れ[むれ]/
-haufenweise{adv}/どんどん[どんどん]/ぞろぞろ[ぞろぞろ]/山ほど[やまほど]/
+Haufen{m}/堆積[たいせき]/
+haufenweise{adv}/山ほど[やまほど]/
 Haumesser{n}/鉈[なた]/
-Haupt{n}/かしら[かしら]/主席[しゅせき]/クビ[くび]/親分[おやぶん]/ヘッド[へっど]/ヘッド[へっど]/
+Haupt{n}/頭[かしら]/
 Hauptachse{f}/主軸[しゅじく]/
 Hauptader{f}/主脈[しゅみゃく]/
 Hauptaktivität{f}/主動[しゅどう]/
@@ -12532,13 +12532,13 @@ Hauptbeben{n}/本震[ほんしん]/
 hauptberuflich{adv}/専従の[せんじゅうの]/
 Hauptbeschwerden{pl}/主訴[しゅそ]/
 Hauptbeschäftigung{f}/本業[ほんぎょう]/
-Hauptbestandteil{m}/要素[ようそ]/主体[しゅたい]/
+Hauptbestandteil{m}/要素[ようそ]/
 Hauptbuch{n}/台帳[だいちょう]/
 Hauptbüro{n}/本部[ほんぶ]/
-Hauptdarsteller{m}/主演[しゅえん]/主役[しゅやく]/座長[ざちょう]/
+Hauptdarsteller{m}/主演者[しゅえんしゃ]/
 Hauptdarstellerin{f}/主演女優[しゅえんじょゆう]/
 Haupteingang{m}/正面玄関[しょうめんげんかん]/
-Hauptfach{n}/専門[せんもん]/専攻[せんこう]/本職[ほんしょく]/
+Hauptfach{n}/専門[せんもん]/
 Hauptfeder{f}/主ぜんまい[しゅぜんまい]/
 Hauptfenster{n}/メイン･ウィンドウ[めいんうぃんどう]/
 Hauptfigur{f}/中心人物[ちゅうしんじんぶつ]/
@@ -12558,23 +12558,23 @@ Hauptpostamt{n}/郵便本局[ゆうびんほんきょく]/
 Hauptprodukt{n}/主力商品[しゅりょくしょうひん]/
 Hauptprüfung{f}/本試験[ほんしけん]/
 Hauptpunkte/粗筋[あらすじ]/
-Hauptquartier{n}/本部[ほんぶ]/司令部[しれいぶ]/
-Hauptrolle{f}/主演[しゅえん]/主役[しゅやく]/
-Hauptsache{f}/肝心[かんじん]/要旨[ようし]/本筋[ほんすじ]/
+Hauptquartier{n}/本部[ほんぶ]/
+Hauptrolle{f}/主演[しゅえん]/
+Hauptsache{f}/肝心[かんじん]/
 Hauptsatz{m}/主文[しゅぶん]/
 Hauptschalter{m}/電源スイッチ[でんげんすいっち]/
 Hauptschlüssel{m}/マスターキー[ますたーきー]/
 Hauptschule{f}/基幹学校[きかんがっこう]/
-Hauptsitz{m}/本店[ほんてん]/本社[ほんしゃ]/
+Hauptsitz{m}/本店[ほんてん]/
 Hauptspeicher{m}/メインメモリー[めいんめもりー]/
-Hauptstadt{f}/都[と]/京[きょう]/中央[ちゅうおう]/九重[ここのえ]/首都[しゅと]/
+Hauptstadt{f}/首都[しゅと]/
 Hauptstation{f}/キーステーション[きーすてーしょん]/
 Hauptstollen{m}/本坑[ほんこう]/
-Hauptstraße{f}/大通り[おおどおり]/大道[だいどう]/
-Hauptstrom{m}/主流[しゅりゅう]/本流[ほんりゅう]/
-Hauptströmung{f}/主流[しゅりゅう]/本流[ほんりゅう]/
+Hauptstraße{f}/大通り[おおどおり]/
+Hauptstrom{m}/{fig.} 主流[しゅりゅう]/(Fluss) 大河[たいが]/
+Hauptströmung{f}/主流[しゅりゅう]/
 hauptstädtisch{adj}/首府の[しゅふの]/
-hauptsächlich{adv}{adj}/主に[おもに]/重[おも]/大方[おおかた]/主な[おもな]/主として[しゅとして]/
+hauptsächlich{adv}{adj}/主な[おもな]/
 Hauptteil{m}/本体[ほんたい]/
 Hauptthema{n}/本題[ほんだい]/
 Haupttribüne{f}/メーンスタンド[めーんすたんど]/
@@ -12586,11 +12586,11 @@ Hauptverkehrsader{f}/大動脈[だいどうみゃく]/
 Hauptverkehrsstraße{f}/幹線道路[かんせんどうろ]/
 Hauptverkehrszeit{f}/季節[きせつ]/通勤時間[つうきんじかん]/
 Hauptversammlung{f}/大会[たいかい]/
-Hauptverwaltung{f}/本部[ほんぶ]/本社[ほんしゃ]/
+Hauptverwaltung{f}/本部[ほんぶ]/
 Hauptwohnsitz{m}/本宅[ほんたく]/
 Hauptwurzel{f}/親株[おやかぶ]/
 Hauptziel{n}/主意[しゅい]/
-Haus{n}/家[いえ]/ハウス[はうす]/宅[たく]/堂[どう]/家屋[かおく]/メゾン[めぞん]/家庭[かてい]/
+Haus{n}/家[いえ]/
 Hausangestellte{m}{f}/家政婦[かせいふ]/
 Hausapotheke{f}/常備薬[じょうびやく]/
 Hausarbeit{f}/家事[かじ]/
