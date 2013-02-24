@@ -19082,14 +19082,14 @@ mollig{adj}{adv}/ぽっちゃり[ぽっちゃり]/
 Molluske{f}/軟体動物[なんたいどうぶつ]/
 Molotowcocktail{m}/火炎瓶[かえんびん]/
 Molybdänit{m}/モリブデン鉛鉱[もりぶでんえんこう]/
-Moment{m}{n}/時[とき]/瞬間[しゅんかん]/暫し[しばし]/瞬時[しゅんじ]/刹那[せつな]/弾み[はずみ]/要因[よういん]/要素[ようそ]/一瞬[いっしゅん]/契機[けいき]/
+Moment{m}{n}/(Augenblick) 瞬間[しゅんかん]/{Phys.} モーメント[もーめんと]/(Hauptursache) 要因[よういん]/
 momentan{adj}/今[いま]/
 Momentaufnahme{f}/速写[そくしゃ]/
-Monarch{m}/王[おう]/国王[こくおう]/
+Monarch{m}/国王[こくおう]/
 Monarchie{f}/王国[おうこく]/
 Monat{m}/月[つき]/
 monatelang{adv}/累月[るいげつ]/
-monatlich{adj}/毎月[まいつき]/月並み[つきなみ]/
+monatlich{adj}/毎月[まいつき]/
 Monatsanfang{m}/月初め[つきはじめ]/
 Monatsbinde{f}/月経帯[げっけいたい]/
 Monatsblutung{f}/月役[つきやく]/
@@ -19099,16 +19099,16 @@ Monatsgehalt{n}/月給[げっきゅう]/
 Monatskarte{f}/パス[ぱす]/
 Monatslohn{m}/月給[げっきゅう]/
 Monatsrate{f}/月賦[げっぷ]/
-Monatsschrift{f}/月刊誌[げっかんし]/マンスリー[まんすりー]/
-Mond{m}/月[つき]/ムーン[むーん]/サテライト[さてらいと]/衛星[えいせい]/
+Monatsschrift{f}/月刊誌[げっかんし]/
+Mond{m}/月[つき]/
 Mondaufgang{m}/月の出[つきので]/
 Mondfinsternis{f}/月食[げっしょく]/
 Mondgesicht{n}/丸顔[まるがお]/
 Mondkarte{f}/月面図[げつめんず]/
 Mondlandung{f}/月面着陸[げつめんちゃくりく]/
-Mondlicht{n}/月[つき]/月光[げっこう]/影[かげ]/ムーンライト[むーんらいと]/月明[げつめい]/
+Mondlicht{n}/月光[げっこう]/
 Mondnacht{f}/月夜[げつや]/
-Mondschein{m}/月光[げっこう]/月明[げつめい]/
+Mondschein{m}/月光[げっこう]/
 Mondsichel{f}/三日月[みかづき]/
 Mondspaziergang{m}/月面歩行[げつめんほこう]/
 Mondstein{m}/ムーンストーン[むーんすとーん]/
@@ -19122,7 +19122,7 @@ Mongole{m}/蒙古人[もうこじん]/
 Mongolenstar{m}/シベリア椋鳥[しべりあむくどり]/
 mongolisch{adj}/蒙古の[もうこの]/
 Monismus{m}/一元論[いちげんろん]/
-Monitor{m}/画面[がめん]/モニタ[もにた]/モニター[もにたー]/
+Monitor{m}/モニター[もにたー]/
 monochromatisch{adv}/一色の[いっしょくの]/
 Monocoque{n}/単体構造車体[たんたいこうぞうしゃたい]/
 monogam{adv}/一夫一婦の[いっぷいっぷの]/
@@ -19133,7 +19133,7 @@ Monokel{n}/単眼鏡[たんがんきょう]/
 Monokultur{f}/連作[れんさく]/
 Monolith{m}/一枚岩[いちまいいわ]/
 monolithisch{adj}/一枚岩の[いちまいいわの]/
-Monolog{m}/独り言[ひとりごと]/独白[どくはく]/モノローグ[ものろーぐ]/自問自答[じもんじとう]/ひとり言[ひとりごと]/
+Monolog{m}/モノローグ[ものろーぐ]/
 Monomane{m}/偏狂[へんきょう]/
 Monomanie{f}/偏執狂[へんしつきょう]/
 Monopol{n}/独占[どくせん]/
@@ -19141,26 +19141,26 @@ monopolisieren{vt}/専売する[せんばいする]/
 Monopolist{m}/独占者[どくせんしゃ]/
 monopolistisch{adj}/独占的[どくせんてき]/
 Monotheismus{m}/一神教[いっしんきょう]/
-monoton{adj}{adv}/坦々[たんたん]/味気ない[あじきない]/モノトーン[ものとーん]/
-Monotonie{f}/単調[たんちょう]/一律[いちりつ]/
+monoton{adj}{adv}/(eintönig) 坦々[たんたん]/{Math.} 単調な[たんちょうな]/
+Monotonie{f}/単調[たんちょう]/
 Monoxid{n}/一酸化[いっさんか]/
 Monsieur{m}/ムッシュー[むっしゅー]/
-Monster{n}/モンスター[もんすたー]/怪物[かいぶつ]/化け物[ばけもの]/化物[ばけもの]/妖怪[ようかい]/
+Monster{n}/モンスター[もんすたー]/
 Monsun{m}/雨季[うき]/
-Montag{m}/月曜日[げつようび]/月曜[げつよう]/
-Montage{f}/合成[ごうせい]/組み立て[くみたて]/組立[くみたて]/実装[じっそう]/
+Montag{m}/月曜日[げつようび]/
+Montage{f}/{Konstruktion} 組み立て[くみたて]/(Bild~) モンタージュ[もんたーじゅ]/
 Montagearbeit{f}/据え付け工事[すえつけこうじ]/
 Montagewerk{n}/組み立て工場[くみたてこうじょう]/
 Montagezeichnung{f}/組み立て図[くみたてず]/
 montieren{vt}/組み立てる[くみたてる]/
 monumental{adv}/記念碑的な[きねんひてきな]/
-Moor{n}/沢[さわ]/沼[ぬま]/湿原[しつげん]/
+Moor{n}/湿原[しつげん]/
 Moos{n}/苔[こけ]/
 moosgrün{adj}/モスグリーン[もすぐりーん]/
 moosig{adj}/苔の生えた[こけのはえた]/
-Moped{n}/バイク[ばいく]/単車[たんしゃ]/
+Moped{n}/単車[たんしゃ]/
 Mopp{m}/モップ[もっぷ]/
-Moral{f}/道[みち]/精神[せいしん]/道徳[どうとく]/法[のり]/路[みち]/倫理[りんり]/モラル[もらる]/
+Moral{f}/(Sittlichkeit) 道徳[どうとく]/{Milit.}(militärische Disziplin) 軍紀[ぐんき]/
 moralisch{adv}/道徳的[どうとくてき]/
 Moralismus{m}/道徳主義[どうとくしゅぎ]/
 Moralist{m}/モラリスト[もらりすと]/
@@ -19170,18 +19170,18 @@ Moralphilosoph{m}/倫理学者[りんりがくしゃ]/
 Moralphilosophie{f}/倫理[りんり]/
 Moralpredigt{f}/説教[せっきょう]/
 Moralvorstellungen{pl}/道徳観念[どうとくかんねん]/
-Morast{m}/沢[さわ]/泥沼[どろぬま]/
+Morast{m}/(Sumpf) 泥沼[どろぬま]/
 Moratorium{n}/モラトリアム[もらとりあむ]/
 morbid{adj}{adv}/不健全な[ふけんぜんな]/
 Morbidität{f}/不健全[ふけんぜん]/
-Mord{m}/殺人[さつじん]/殺害[さつがい]/殺戮[さつりく]/殺し[ころし]/人殺し[ひとごろし]/
-Mordfall{m}/殺人事件[さつじんじけん]/殺害事件[さつがいじけん]/
+Mord{m}/殺人[さつじん]/
+Mordfall{m}/殺人事件[さつじんじけん]/
 Mordversuch{m}/殺人未遂[さつじんみすい]/
 Mordwaffe{f}/凶器[きょうき]/
 morgen{adv}/明日[あす]/
-Morgen{m}/明日[あす]/午前[ごぜん]/昼前[ひるまえ]/モーニング[もーにんぐ]/
+Morgen{m}/(Vormittag) 午前[ごぜん]/朝[あさ]/  
 Morgenausgabe{f}/朝刊[ちょうかん]/
-Morgendämmerung{f}/夜明け[よあけ]/暁[あかとき]/黎明[れいめい]/東雲[しののめ]/曙[あけぼの]/
+Morgendämmerung{f}/夜明け[よあけ]/
 Morgengebet{n}/アンジェラス[あんじぇらす]/
 Morgengrauen{n}/黎明[れいめい]/
 Morgenland{n}/東洋[とうよう]/
@@ -19189,12 +19189,12 @@ Morgenmantel{m}/ガウン[がうん]/
 Morgenrock{m}/ガウン[がうん]/
 Morgenrot{n}/朝焼け[あさやけ]/
 morgens{adv}/午前に[ごぜんに]/
-Morgensonne{f}/朝日[あさひ]/旭[あさひ]/あさひ[あさひ]/
+Morgensonne{f}/朝日[あさひ]/
 Morgenstern{m}/明星[みょうじょう]/
 Morgentau{m}/朝露[あさつゆ]/
 Morgentoilette{f}/毎朝の洗面[まいあさのせんめん]/
 Morgenzeitung{f}/朝刊[ちょうかん]/
-morgig{adj}/明…[みょう]/
+morgig{adj}/明...[みょう...]/
 Mormone{m}/モルモン教徒[もるもんきょうと]/
 Morphem{n}/形態素[けいたいそ]/
 Morphologie{f}/形態学[けいたいがく]/
@@ -19210,24 +19210,24 @@ Moslem{m}/回教徒[かいきょうと]/
 moslemisch{adj}/マホメット教の[まほめっときょうの]/
 Motel{n}/モテル[もてる]/
 Motilität{f}/運動型[うんどうがた]/
-Motiv{n}/理由[りゆう]/モチーフ[もちーふ]/モチーフ[もちーふ]/契機[けいき]/動機[どうき]/動機[どうき]/
-Motivation{f}/やる気[やるき]/モチベーション[もちべーしょん]/動機[どうき]/
-Motor{m}/エンジン[えんじん]/機関[きかん]/モーター[もーたー]/
+Motiv{n}/モチーフ[もちーふ]/
+Motivation{f}/モチベーション[もちべーしょん]/
+Motor{m}/エンジン[えんじん]/
 Motorboot{n}/モーターボート[もーたーぼーと]/
 Motorgrader{m}/モータ･グレーダ[もーたぐれーだ]/
 motorisch{adj}/運動神経の[うんどうしんけいの]/
 Motorisierung{f}/モータリゼーション[もーたりぜーしょん]/
-Motorrad{n}/バイク[ばいく]/単車[たんしゃ]/マシン[ましん]/モーターサイクル[もーたーさいくる]/
+Motorrad{n}/単車[たんしゃ]/
 Motorradrennen{m}/オートレース[おーとれーす]/
-Motorroller{m}/スクーター[すくーたー]/単車[たんしゃ]/
+Motorroller{m}/スクーター[すくーたー]/
 Motorschaden{m}/エンジン故障[えんじんこしょう]/
 Motorschiff{n}/発動機船[はつどうきせん]/
 Motorschlitten{m}/雪上車[せつじょうしゃ]/
 Motoröl{n}/エンジン･オイル[えんじんおいる]/
-Motte{f}/虫[むし]/蛾[が]/
+Motte{f}/{Insektenk.}(Kleider~) 衣蛾[いが]/
 Mottenkugel{f}/虫除け[むしよけ]/
 mottenzerfressen{adj}/虫食いだらけの[むしくいだらけの]/
-Motto{n}/モットー[もっとー]/合言葉[あいことば]/座右の銘[ざゆうのめい]/銘[めい]/信条[しんじょう]/スローガン[すろーがん]/
+Motto{n}/モットー[もっとー]/
 Muckefuck{m}/代用コーヒー[だいようこーひー]/
 muffig{adv}{adj}/古臭い[ふるくさい]/
 muffiger Geruch/むっとするような匂い[むっとするようなにおい]/
@@ -19242,7 +19242,7 @@ multifunktional{adj}/多能な[たのうな]/
 Multikulti{n}/マルチ･カルチャー[まるちかるちゃー]/
 Multikulturalismus{m}/多文化主義[たぶんかしゅぎ]/
 Multilingualismus{m}/多言語使用[たげんごしよう]/
-Multimillionär{m}/億万長者[おくまんちょうじゃ]/富豪[ふごう]/
+Multimillionär{m}/(Milliardär) 億万長者[おくまんちょうじゃ]/
 multinational{adj}/マルチナショナル[まるちなしょなる]/
 Multipara{f}/経産婦[けいさんぷ]/
 Multiple Sklerose{f}/多発性硬化症[たはつせいこうかしょう]/
@@ -19253,10 +19253,10 @@ Multiplikatoreffekt{m}/乗数効果[じょうすうこうか]/
 Multitasking{n}/マルチタスク[まるちたすく]/
 Mumie{f}/ミイラ[みいら]/
 mumifizieren{vi}/ミイラにする[みいらにする]/
-Mumm{m}/根性[こんじょう]/ガッツ[がっつ]/気概[きがい]/意気[いき]/
+Mumm{m}{ugs}/ガッツ[がっつ]/
 Mummenschanz{m}/仮装会[かそうかい]/
 Mund{m}/口元[くちもと]/口腔[こうくう]/
-Mundart{f}/言葉[ことば]/詞[ことば]/辞[ことば]/方言[ほうげん]/
+Mundart{f}/方言[ほうげん]/
 Mundgeruch{m}/口臭[こうしゅう]/
 Mundharmonika{f}/ハーモニカ[はーもにか]/
 Mundhygiene{f}/口こう衛生[こうこうえいせい]/
@@ -19268,28 +19268,28 @@ Mundwinkel{m}/口角[こうかく]/
 Munition{f}/軍需品[ぐんじゅひん]/
 Munitionsfabrik{f}/軍需工場[ぐんじゅこうじょう]/
 Munitionslager{n}/弾薬庫[だんやくこ]/
-munter{adj}{adv}/旺盛[おうせい]/身軽[みがる]/晴れやか[はれやか]/生き生き[いきいき]/
+munter{adj}{adv}/元気な[げんきな]/
 Munterkeit{f}/陽気[ようき]/
 Mure{f}/土砂崩れ[どしゃくずれ]/
 Murmel{f}/お弾き[おはじき]/
-murmelnd{adj}/ぼそぼそ[ぼそぼそ]/もぐもぐ[もぐもぐ]/
+murmelnd{adj}/ぼそぼそ[ぼそぼそ]/
 Murmeltier{n}/マーモット[まーもっと]/
 murren{vi}/ぼやく[ぼやく]/
-Murren{n}/小言[こごと]/泣き言[なきごと]/
-Muschel{f}/シェル[しぇる]/貝[かい]/
-Muschelschale{f}/貝[かい]/貝殻[かいがら]/
+Murren{n}/泣き言[なきごと]/
+Muschel{f}/貝[かい]/
+Muschelschale{f}/貝殻[かいがら]/
 Muschi{f}/にゃんにゃん[にゃんにゃん]/
 Muse{f}/詩神[ししん]/
-Museum{n}/博物館[はくぶつかん]/ミュージアム[みゅーじあむ]/
+Museum{n}/博物館[はくぶつかん]/
 Museumsdirektor{m}/博物館長[はくぶつかんちょう]/
 Musical{n}/ミュージカル[みゅーじかる]/
-Musik{f}/音楽[おんがく]/ミュージック[みゅーじっく]/曲[きょく]/
+Musik{f}/音楽[おんがく]/
 musikalisch{adj}{adv}/音楽の[おんがくの]/
 Musikalität{f}/音楽性[おんがくせい]/
 Musikant{n}/楽士[がくし]/
-Musikbegleitung{f}/伴奏[ばんそう]/囃子[はやし]/
+Musikbegleitung{f}/伴奏[ばんそう]/
 Musikdrama{n}/楽劇[がくげき]/
-Musiker{m}/ミュージシャン[みゅーじしゃん]/音楽家[おんがくか]/
+Musiker{m}/音楽家[おんがくか]/
 Musikgruppe{f}/社中[しゃちゅう]/
 Musikinstrument{n}/楽器[がっき]/
 Musikkritiker{m}/音楽評論家[おんがくひょうろんか]/
@@ -19300,7 +19300,7 @@ Musikwissenschaft{f}/音楽学[おんがくがく]/
 Musikwissenschaftler{m}/音楽学者[おんがくがくしゃ]/
 musizieren{vi}/奏でる[かなでる]/
 Muskat{m}/ナツメグ[なつめぐ]/
-Muskel{m}/筋[きん]/筋肉[きんにく]/
+Muskel{m}/筋肉[きんにく]/
 Muskelfaser{f}/筋繊維[きんせんい]/
 Muskelkater{m}/筋肉痛[きんにくつう]/
 Muskelkraft{f}/筋力[きんりょく]/
@@ -19316,53 +19316,53 @@ muskulös{adj}{adv}/隆々[りゅうりゅう]/
 Mussehe{f}/できちゃった結婚[できちゃったけっこん]/
 Musselin{n}/唐ちりめん[とうちりめん]/
 Mussheirat{f}/できちゃった結婚[できちゃったけっこん]/
-Muster{n}/模様[もよう]/紋[もん]/標本[ひょうほん]/柄[がら]/様式[ようしき]/パターン[ぱたーん]/試作品[しさくひん]/絵柄[えがら]/型紙[かたがみ]/図案[ずあん]/見本[みほん]/意匠[いしょう]/規範[きはん]/手本[てほん]/跡[あと]/模範[もはん]/
+Muster{n}/{Inf.} パターン[ぱたーん]/(Design){Bsp:Blumenmuster 花の絵柄[はなのえがら]} 絵柄[えがら]/(Schnitt~) 型紙[かたがみ]/(Vorlage) 手本[てほん]/
 Musterbeispiel{n}/亀鑑[きかん]/
 Musterbetrieb{m}/模範経営[もはんけいえい]/
 Musterbuch{n}/サンプルブック[さんぷるぶっく]/
 Mustererkennung{f}/パターン認識[ぱたーんにんしき]/
 Musterexemplar{n}/参考品[さんこうひん]/
 Musterhaus{n}/モデルハウス[もでるはうす]/
-Mustermesse{f}/メッセ[めっせ]/見本市[みほんいち]/
+Mustermesse{f}/見本市[みほんいち]/
 Musterschüler{m}/優等生[ゆうとうせい]/
 Musterung{f}/検討[けんとう]/
-Mut{m}/元気[げんき]/威勢[いせい]/威勢[いせい]/腹[はら]/勇[いさみ]/気概[きがい]/勇敢[ゆうかん]/力[ちから]/大胆[だいたん]/度胸[どきょう]/意気[いき]/勇気[ゆうき]/肝[きも]/
+Mut{m}/勇気[ゆうき]/
 Mutation{f}/変異[へんい]/
-mutig{adj}{adv}/強い[つよい]/健気[けなげ]/きつい[きつい]/
+mutig{adj}{adv}/大胆な[だいたんな]/
 mutig sein/腹が据わる[はらがすわる]/
 Mutismus{m}/緘黙[かんもく]/
 mutlos{adv}{adj}/意気地のない[いくじのない]/
 Mutlosigkeit{f}/落胆[らくたん]/
 mutmaßlich{adv}{adj}/仮定的[かていてき]/
-Mutmaßung{f}/推測[すいそく]/心当たり[こころあたり]/推定[すいてい]/憶測[おくそく]/察し[さっし]/
+Mutmaßung{f}/推測[すいそく]/
 Mutprobe{f}/肝試し[きもだめし]/
-Mutter{f}/ママ[まま]/マザー[まざー]/母親[ははおや]/ナット[なっと]/
+Mutter{f}/母親[ははおや]/
 Mutterboden{m}/表土[ひょうど]/
 Mutterfirma{f}/親会社[おやがいしゃ]/
 Mutterinstinkt{m}/母性本能[ぼせいほんのう]/
 Mutterkomplex{m}/マザコン[まざこん]/
 Mutterkorn{n}/麦角[ばっかく]/
 Mutterkuchen{m}/胎盤[たいばん]/
-Mutterland{n}/本国[ほんごく]/母国[ぼこく]/内地[ないち]/
+Mutterland{n}/本国[ほんごく]/
 Mutterliebe{f}/母性愛[ぼせいあい]/
 mutterlos{adj}/母のない[ははのない]/
 Muttermal{n}/痣[あざ]/
-Muttermilch{f}/おっぱい[おっぱい]/母乳[ぼにゅう]/
+Muttermilch{f}/母乳[ぼにゅう]/
 Muttermund{m}/子宮口[しきゅうこう]/
 Mutterpass{m}/母子手帳[ぼしてちょう]/
 Mutterschaf{n}/牝羊[めひつじ]/
-Mutterschaft{f}/子持ち[こもち]/母性[ぼせい]/
+Mutterschaft{f}/母性[ぼせい]/
 Mutterschaftsurlaub{m}/育児休業[いくじきゅうぎょう]/
 Mutterschutz{m}/母体保護[ぼたいほご]/
 mutterseelenallein{adv}/独りぼっちの[ひとりぼっちの]/
-Muttersprache{f}/言葉[ことば]/詞[ことば]/国語[こくご]/辞[ことば]/
+Muttersprache{f}/母国語[ぼこくご]/
 Muttersprachler{m}/ネイティブ[ねいてぃぶ]/
 Muttersöhnchen{n}/坊ちゃん[ぼっちゃん]/
 Muttertag{m}/母の日[ははのひ]/
 Muttertier{n}/母獣[ぼじゅう]/
 Mutti{f}/お母ちゃん[おかあちゃん]/
 mutwillig{adv}/いたずらな[いたずらな]/
-Muße{f}/暇[いとま]/閑[かん]/ゆとり[ゆとり]/閑散[かんさん]/有閑[ゆうかん]/
+Muße{f}/(freie Zeit) 余暇[よか]/
 Myasthenie{f}/筋無力症[きんむりょくしょう]/
 Myelom{n}/骨髄腫[こつずいしゅ]/
 Mykose{f}/糸状菌病[しじょうきんびょう]/
@@ -19371,7 +19371,7 @@ Myopie{f}/近視[きんし]/
 Myositis{f}/筋炎[きんえん]/
 Myriade{f}/萬[まん]/
 Mysterienspiel{n}/宗教劇[しゅうきょうげき]/
-Mysterium{n}/不思議[ふしぎ]/ミステリー[みすてりー]/秘伝[ひでん]/妙[みょう]/なぞ[なぞ]/驚異[きょうい]/神秘[しんぴ]/謎[なぞ]/
+Mysterium{n}/不思議[ふしぎ]/ミステリー[みすてりー]/
 Mystifikation{f}/思わせ振り[おもわせぶり]/
 Mystik{f}/幽玄[ゆうげん]/
 Mystiker{m}/神秘家[しんぴか]/
@@ -19380,15 +19380,15 @@ mythisch{adj}{adv}/神話の[しんわの]/
 Mythologie{f}/神話学[しんわがく]/
 Mythos{m}/神話[しんわ]/
 Mäander{m}/蛇行[だこう]/
-mächtig{adv}{adj}/大きな[おおきな]/強い[つよい]/大きい[おおきい]/
-Mächtigkeit{f}/偉大[いだい]/濃度[のうど]/
-Mädchen{n}/子供[こども]/女子[じょし]/児[こ]/童[わらわ]/少女[おとめ]/ガール[がーる]/子ども[こども]/女の子[おんなのこ]/童子[どうじ]/女[おんな]/処女[しょじょ]/お嬢様[おじょうさま]/早乙女[さおとめ]/乙女[おとめ]/お嬢さん[おじょうさん]/
+mächtig{adv}{adj}/強力な[きょうりょくな]/
+Mächtigkeit{f}/偉大[いだい]/
+Mädchen{n}/女子[じょし]/
 mädchenhaft{adj}{adv}/童顔の[どうがんの]/
 Mädchenhandel{m}/人身売買[じんしんばいばい]/
 Mädchenname{m}/旧名[きゅうめい]/
 Mädchenschule{f}/女子校[じょしこう]/
 Mädchenzeit{f}/乙女時代[おとめじだい]/
-Mädel{n}/女の子[おんなのこ]/少女[おとめ]/乙女[おとめ]/
+Mädel{n}/女の子[おんなのこ]/
 Mähbinder{m}/バインダー[ばいんだー]/
 Mähdrescher{m}/コンバイン[こんばいん]/
 mähen{vt}/刈る[かる]/
@@ -19403,35 +19403,35 @@ mäkeln{vi}/揚げ足を取る[あげあしをとる]/
 Männchen{n}/雄[ゆう]/
 Männerchor{m}/男声合唱[だんせいがっしょう]/
 Männerstimme{f}/男声[だんせい]/
-männlich{adj}{adv}/健気[けなげ]/潔く[いさぎよく]/逞しい[たくましい]/男らしい[おとこらしい]/
+männlich{adj}{adv}/男性の[だんせいの]/(mannhaft) 男らしい[おとこらしい]/
 Männlichkeit{f}/剛健[ごうけん]/
-Märchen{n}/物語[ものがたり]/昔話[むかしばなし]/メルヘン[めるへん]/おとぎ話[おとぎばなし]/嘘[うそ]/童話[どうわ]/
+Märchen{n}/物語[ものがたり]/
 märchenhaft{adj}{adv}/メルヘンティックな[めるへんてぃっくな]/
 Märchenland{n}/ワンダーランド[わんだーらんど]/
 Märchenprinz{m}/白馬の王子[はくばのおうじ]/
 Märtyrer{m}/殉教者[じゅんきょうしゃ]/
 mästen{vt}/餌をやる[えをやる]/
 Mätresse{f}/室[しつ]/
-mäßig{adj}{adv}/穏やか[おだやか]/まあまあ[まあまあ]/緩やか[ゆるやか]/
+mäßig{adj}{adv}/(maßvoll) 適度の[てきどの]/(nicht gut) 良くない[よくない]/
 mäßigen{vt}/緩和する[かんわする]/
-Mäßigkeit{f}/適度[てきど]/質素[しっそ]/内輪[うちわ]/
-Mäßigung{f}/控えめ[ひかえめ]/控え目[ひかえめ]/
-Möbel{pl}/家具[かぐ]/調度[ちょうど]/
+Mäßigkeit{f}/適度[てきど]/
+Mäßigung{f}/(Zurückhaltung) 控え目[ひかえめ]/
+Möbel{pl}/家具[かぐ]/
 Möbelhändler{m}/家具屋[かぐや]/
 Möbelstück{n}/家具[かぐ]/
 Möbeltischler{m}/家具師[かぐし]/
 möglich{adj}/可能な[かのうな]/
-möglicherweise{adv}/多分[たぶん]/かも知れない[かもしれない]/大方[おおかた]/恐らく[おそらく]/
-Möglichkeit{f}/可能[かのう]/見所[みどころ]/見どころ[みどころ]/好機[こうき]/可[か]/見込み[みこみ]/チャンス[ちゃんす]/可能性[かのうせい]/
+möglicherweise{adv}/多分[たぶん]/
+Möglichkeit{f}/可能性[かのうせい]/
 Möglichkeiten{pl}/都合[つごう]/
 Möhre{f}/人参[にんじん]/
-Mönch{m}/坊さん[ぼうさん]/モンク[もんく]/
+Mönch{m}/坊さん[ぼうさん]/
 Mönchsgeier{m}/禿鷲[はげわし]/
 Mönchskranich{m}/ナベヅル[なべづる]/
 Mönchskutte{f}/法衣[ほうえ]/
 Mönchsorden{m}/僧団[そうだん]/
 Mönchtum{n}/修道生活[しゅうどうせいかつ]/
-Mörder{m}/加害者[かがいしゃ]/人殺し[ひとごろし]/暗殺者[あんさつしゃ]/
+Mörder{m}/殺人者[さつじんしゃ]/
 mörderisch{adv}{adj}/殺人的[さつじんてき]/
 Mörser{m}/臼[うす]/
 Mörtel{m}/漆喰[しっくい]/
@@ -19440,18 +19440,18 @@ Mörtelschlamm{m}/グラウト[ぐらうと]/
 Möwe{f}/鴎[かもめ]/
 Mücke{f}/蚊[か]/
 Mückenstich{m}/虫刺され[むしさされ]/
-müde{adj}{adv}/疲れた[つかれた]/眠い[ねむい]/
-Müdigkeit{f}/疲れ[つかれ]/困憊[こんぱい]/疲労[ひろう]/眠気[ねむけ]/
-Mühe{f}/努力[どりょく]/苦[く]/骨折[ほねおり]/奔走[ほんそう]/面倒[めんどう]/苦労[くろう]/苦労[くろう]/労[ろう]/難儀[なんぎ]/配慮[はいりょ]/手数[てかず]/荷[に]/労力[ろうりょく]/困難[こんなん]/厄介[やっかい]/世話[せわ]/尽力[じんりょく]/
-mühelos{adj}{adv}/ばっちり[ばっちり]/直ぐに[すぐに]/安らか[やすらか]/訳ない[わけない]/
-Mühelosigkeit{f}/楽[らく]/易[い]/安易[あんい]/容易[ようい]/
+müde{adj}{adv}/(erschöpft) 疲れた[つかれた]/(schläfrig) 眠い[ねむい]/
+Müdigkeit{f}/(Erschöpfung) 疲れ[つかれ]/(Schläfrigkeit) 眠気[ねむけ]/
+Mühe{f}/努力[どりょく]/
+mühelos{adj}{adv}/訳ない[わけない]/
+Mühelosigkeit{f}/容易[ようい]/
 Mühen{pl}/煩[はん]/
 mühevoll{adj}/うざい[うざい]/
 Mühle{f}/ムーラン[むーらん]/
-Mühsal{f}/苦労[くろう]/億劫[おっくう]/困難[こんなん]/
-mühsam{adv}/苦しい[くるしい]/険しい[けわしい]/しんどい[しんどい]/
+Mühsal{f}/苦労[くろう]/
+mühsam{adv}/苦しい[くるしい]/
 mühselig{adv}{adj}/苦しい[くるしい]/
-Müll{m}/ゴミ[ごみ]/ちり[ちり]/廃棄物[はいきぶつ]/チリ[ちり]/ダスト[だすと]/塵[ごみ]/
+Müll{m}/ゴミ[ごみ]/
 Müllabfuhr{f}/ごみ収集[ごみしゅうしゅう]/
 Müllbeseitigung{f}/処分[しょぶん]/
 Mülleimer{m}/ごみ箱[ごみばこ]/
@@ -19464,7 +19464,7 @@ Mündel{n}/被後見人[ひこうけんにん]/
 münden{vt}/灌ぐ[そそぐ]/
 mündlich{adj}{adv}/オーラル[おーらる]/
 Mündung{f}/河口[かこう]/
-Münze{f}/金[かね]/貨幣[かへい]/かね[かね]/コイン[こいん]/お金[おかね]/造幣局[ぞうへいきょく]/
+Münze{f}/コイン[こいん]/
 Münzen{pl}/鋳造[ちゅうぞう]/
 Münzprüfer{m}/金見[かねみ]/
 mürbe{adj}{adv}/歯切れのよい[はぎれのよい]/
@@ -19474,18 +19474,18 @@ mütterlich{adj}{adv}/慈愛深い[じあいぶかい]/
 mütterlicherseits{adv}/母の[ははの]/
 Mütterlichkeit{f}/母性[ぼせい]/
 Mütze{f}/帽子[ぼうし]/
-müßig{adv}/ぶらぶら[ぶらぶら]/のらりくらり[のらりくらり]/
+müßig{adv}/(nichtstuhend;faul) 無為に[むいに]/(nutzlos) 無益な[むえきな]/
 Müßiggang{m}/怠惰[たいだ]/
-Müßiggänger{m}/暇人[ひまじん]/怠け者[なまけもの]/
+Müßiggänger{m}/(Freundm der Muße) 暇人[ひまじん]/(Faulpelz) 怠け者[なまけもの]/
 Na, na!/ちぇっ[ちぇっ]/
 Nabe{f}/鍋[なべ]/お鍋[おなべ]/
 Nabel{m}/ヘソ[へそ]/
 Nabelschnur{f}/へその緒[へそのお]/
-nach{vor Ladenschluss | nach Ladenschluss; nach Büroschluss}{prp; +Dativ}/に[に]/後[あと]/アフター[あふたー]/末[すえ]/
-nach Belieben/勝手に[かってに]/思いのまま[おもいのまま]/自由自在[じゆうじざい]/思い通り[おもいどおり]/存分に[ぞんぶんに]/
+nach{prp; +Dativ}/(später;nachdem) ...の後で[...のあとで]/(Richtung: Betonung auf Weg) に[に]/(Richtung: Betonung auf Bestimmungsort) へ[へ]/
+nach Belieben/思いのまま[おもいのまま]/
 nach dem Tode/没後[ぼつご]/
 nachahmen{vt}/学ぶ[まなぶ]/
-Nachahmung{f}/真似[まね]/偽[ぎ]/模擬[もぎ]/模倣[もほう]/モノマネ[ものまね]/偽造[ぎぞう]/
+Nachahmung{f}/模倣[もほう]/
 Nachbar{m}/隣人[りんじん]/
 Nachbarhaus{n}/隣家[りんか]/
 Nachbarland{n}/隣国[りんごく]/
