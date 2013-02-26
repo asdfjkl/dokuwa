@@ -19489,7 +19489,7 @@ Nachahmung{f}/模倣[もほう]/
 Nachbar{m}/隣人[りんじん]/
 Nachbarhaus{n}/隣家[りんか]/
 Nachbarland{n}/隣国[りんごく]/
-Nachbarschaft{f}/周り[まわり]/近辺[きんぺん]/界隈[かいわい]/辺り[ほとり]/辺[ほとり]/近所[きんじょ]/周[まわり]/近隣[きんりん]/町内[ちょうない]/隣[となり]/隣り[となり]/隣人[りんじん]/付近[ふきん]/
+Nachbarschaft{f}/近所[きんじょ]/
 Nachbau{m}/偽[ぎ]/
 Nachbearbeitung{f}/事後処理[じごしょり]/
 Nachbeben{n}/余震[よしん]/
@@ -19504,58 +19504,58 @@ Nachbildung{f}/模写[もしゃ]/
 Nachbrenner{m}/アフター･バーナー[あふたーばーなー]/
 nachdem{conj}/後[あと]/以上[いじょう]/
 nachdenken{vi}/考える[かんがえる]/
-Nachdenken{n}/考え[かんがえ]/思索[しさく]/考察[こうさつ]/考え事[かんがえごと]/一考[いっこう]/考慮[こうりょ]/思案[しあん]/案[あん]/
+Nachdenken{n}/考え事[かんがえごと]/
 nachdenklich{adv}/しんみりと[しんみりと]/
 Nachdenklichkeit{f}/物思い[ものおもい]/
-Nachdruck{m}/転載[てんさい]/強調[きょうちょう]/複製[ふくせい]/アクセント[あくせんと]/復刻版[ふっこくばん]/
+Nachdruck{m}/(Kopie) 転載[てんさい]/(Betonung) 強調[きょうちょう]/
 nachdrucken{vt}/転載する[てんさいする]/
-nacheinander/次々[つぎつぎ]/続々[ぞくぞく]/順に[じゅんに]/次々に[つぎつぎに]/段々[だんだん]/
+nacheinander/次々に[つぎつぎに]/
 Nachempfindung{f}/同感[どうかん]/
-Nachfolge{f}/継続[けいぞく]/後続[こうぞく]/後継[こうけい]/踏襲[とうしゅう]/
+Nachfolge{f}/継承[けいしょう]/
 nachfolgend{adj}{adv}/後続の[こうぞくの]/
-Nachfolger{m}/後[あと]/後継者[こうけいしゃ]/後任[こうにん]/
-Nachforschung{f}/調査[ちょうさ]/探訪[たんぼう]/調べ[しらべ]/探求[たんきゅう]/探索[たんさく]/検討[けんとう]/捜査[そうさ]/
-Nachfrage{f}/足[あし]/ニーズ[にーず]/需要[じゅよう]/売れ行き[うれゆき]/
+Nachfolger{m}/後継者[こうけいしゃ]/
+Nachforschung{f}/調査[ちょうさ]/
+Nachfrage{f}/(Bedarf;Kaufwunsch) 需要[じゅよう]/(Anfrage) 問い合わせ[といあわせ]/
 Nachfrist{f}/愛敬日[あいきょうび]/
-nachgeben{vi}/負ける[まける]/曲がる[まがる]/譲る[ゆずる]/
+nachgeben{vi}/(physikalisch ~;sich biegen) 曲がる[まがる]/(sich unterwerfen) 屈する[くっする]/
 nachgebend/柔軟[じゅうなん]/
 Nachgeburt{f}/胞衣[えな]/
-Nachgeschmack{m}/アフター[あふたー]/濃[こく]/余韻[よいん]/後味[あとあじ]/
+Nachgeschmack{m}/後味[あとあじ]/
 nachgiebig{adj}/ヘロヘロ[へろへろ]/
 Nachgiebigkeit{f}/軟弱[なんじゃく]/
 Nachhaltigkeit{f}/持続可能[じぞくかのう]/
-nachher/後[あと]/後で[あとで]/追って[おって]/
-Nachhilfeunterricht{m}/塾[じゅく]/補習[ほしゅう]/
-Nachhut{f}/抑え[おさえ]/押さえ[おさえ]/後手[ごて]/
-Nachklang{m}/余韻[よいん]/共鳴[きょうめい]/
-Nachkomme{m}/後[あと]/末裔[ばつえい]/子孫[しそん]/
-Nachkommenschaft{f}/後[あと]/児[こ]/子孫[しそん]/
-Nachlass{m}/遺産[いさん]/値引き[ねびき]/減額[げんがく]/遺品[いひん]/
-Nachlassen{n}/不振[ふしん]/衰え[おとろえ]/減退[げんたい]/
-nachlassen{vi}/落ちる[おちる]/取れる[とれる]/落ち着く[おちつく]/冷める[さめる]/和む[なごむ]/
+nachher/後で[あとで]/
+Nachhilfeunterricht{m}/補習授業[ほしゅうじゅぎょう]/
+Nachhut{f}/後衛[こうえい]/
+Nachklang{m}/余韻[よいん]/
+Nachkomme{m}/末裔[ばつえい]/
+Nachkommenschaft{f}/子孫[しそん]/
+Nachlass{m}/(Erbe) 遺産[いさん]/(Preis~) 値引き[ねびき]/
+Nachlassen{n}/(Schwächerwerden;Verfall) 衰え[おとろえ]/
+nachlassen{vi}/(schwächer werden) 弱まる[よわまる]/(locker werden) 緩む[ゆるむ]/
 Nachlassverwalter{m}/遺産管理人[いさんかんりにん]/
 Nachlassverwaltung{f}/遺産管理[いさんかんり]/
 nachlesen{vt}/落ち穂を拾う[おちぼをひろう]/
 Nachleuchten{n}/残光[ざんこう]/
-nachlässig{adj}{adv}/だらだら[だらだら]/だらしない[だらしない]/粗末[そまつ]/お粗末[おそまつ]/ルーズ[るーず]/
-Nachlässigkeit{f}/油断[ゆだん]/怠慢[たいまん]/不精[ぶしょう]/愚か[おろか]/手抜き[てぬき]/ずぼら[ずぼら]/ズボラ[ずぼら]/自堕落[じだらく]/
+nachlässig{adj}{adv}/(schlampig) だらしない[だらしない]/
+Nachlässigkeit{f}/(Unachtsamkeit) 油断[ゆだん]/
 nachlösen{vt}/精算する[せいさんする]/
 nachmessen{vt}/実測する[じっそくする]/
-Nachmittag{m}/午後[ごご]/昼過ぎ[ひるすぎ]/
+Nachmittag{m}/午後[ごご]/
 Nachnahme{f}/代金引換[だいきんひきかえ]/
-Nachname{m}/苗字[みょうじ]/名字[みょうじ]/
+Nachname{m}/名字[みょうじ]/
 nachplappern{vt}/おうむ返しに答える[おうむがえしにこたえる]/
 nachprüfen{vt}/調べ直す[しらべなおす]/
 Nachprüfung{f}/追試[ついし]/
 Nachrechnung{f}/検算[けんざん]/
-Nachricht{f}/記事[きじ]/報道[ほうどう]/挨拶[あいさつ]/一報[いっぽう]/音信[いんしん]/便[たより]/メッセージ[めっせーじ]/報知[ほうち]/消息[しょうそく]/お知らせ[おしらせ]/便り[たより]/沙汰[さた]/伝言[でんごん]/情報[じょうほう]/通知[つうち]/知らせ[しらせ]/通報[つうほう]/通信[つうしん]/
-Nachrichtenagentur{f}/通信[つうしん]/通信社[つうしんしゃ]/
+Nachricht{f}/お知らせ[おしらせ]/
+Nachrichtenagentur{f}/通信社[つうしんしゃ]/
 Nachrichtendienst{m}/情報機関[じょうほうきかん]/
 Nachrichtenmagazin{n}/ニュースマガジン[にゅーすまがじん]/
 Nachrichtenredaktion{f}/ニュースルーム[にゅーするーむ]/
 Nachrichtensendung{f}/ニュース放送[にゅーすほうそう]/
 Nachrichtensperre{f}/報道管制[ほうどうかんせい]/
-Nachrichtensprecher{m}/アナウンサー[あなうんさー]/キャスター[きゃすたー]/ニュースキャスター[にゅーすきゃすたー]/
+Nachrichtensprecher{m}/アナウンサー[あなうんさー]/
 Nachrichtentechnik{f}/情報工学[じょうほうこうがく]/
 Nachrichtenwesen{n}/報道陣[ほうどうじん]/
 Nachruf{m}/死亡記事[しぼうきじ]/
@@ -19563,7 +19563,7 @@ Nachrüstung{f}/軍備拡張[ぐんびかくちょう]/
 Nachsaison{f}/シーズン後[しーずんご]/
 nachschauen/探す[さがす]/
 nachschicken{vt}/転送する[てんそうする]/
-Nachschlag{m}/代わり[かわり]/替わり[かわり]/
+Nachschlag{m}/お代わり[おかわり]/
 Nachschlagewerk{n}/参考書[さんこうしょ]/
 Nachschlüssel{m}/合鍵[あいかぎ]/
 Nachschrift{f}/追伸[ついしん]/
@@ -19571,18 +19571,18 @@ Nachschub{m}/補給[ほきゅう]/
 Nachschublinie{f}/補給路[ほきゅうろ]/
 nachsehen{vt}/見送る[みおくる]/
 Nachsendeadresse{f}/転送先[てんそうさき]/
-Nachsicht{f}/寛容[かんよう]/寛大[かんだい]/
-nachsichtig{adj}{adv}/緩やか[ゆるやか]/鈍い[のろい]/緩い[ゆるい]/
+Nachsicht{f}/寛容[かんよう]/
+nachsichtig{adj}{adv}/緩やか[ゆるやか]/
 Nachsilbe{f}/後綴り[あとつづり]/
 Nachsommer{m}/晩夏[ばんか]/
 Nachspiel{n}/後日談[ごじつだん]/
 Nachspielzeit{f}/ロスタイム[ろすたいむ]/
 nachstehend{adv}/下記の[かきの]/
-Nacht{f}/夜[よる]/晩[ばん]/暗黒[あんこく]/夜間[やかん]/
-Nachtarbeit{f}/お鍋[おなべ]/不労[ふろう]/
+Nacht{f}/夜[よる]/
+Nachtarbeit{f}/夜業[やぎょう]/
 Nachtbetrieb{m}/夜間営業[やかんえいぎょう]/
-Nachtdienst{m}/泊まり[とまり]/夜勤[やきん]/泊り[とまり]/
-Nachteil{m}/非[ひ]/引け[ひけ]/不利益[ふりえき]/デメリット[でめりっと]/難点[なんてん]/損害[そんがい]/不利[ふり]/欠点[けってん]/損[そん]/短所[たんしょ]/
+Nachtdienst{m}/夜勤[やきん]/
+Nachteil{m}/デメリット[でめりっと]/
 nachteilig{adj}{adv}/不利な[ふりな]/
 Nachteule{f}/宵っ張り[よいっぱり]/
 Nachtfalter{m}/蛾[が]/
@@ -19593,7 +19593,7 @@ Nachtlager{n}/夜営[やえい]/
 Nachtlicht{n}/終夜灯[しゅうやとう]/
 Nachtmusik{f}/小夜曲[さよきょく]/
 Nachtmütze{f}/ナイトキャップ[ないときゃっぷ]/
-Nachtrag{m}/追加[ついか]/補足[ほそく]/追記[ついき]/後記[こうき]/付録[ふろく]/加筆[かひつ]/補充[ほじゅう]/サプリメント[さぷりめんと]/外伝[がいでん]/
+Nachtrag{m}/(Ergänzung) 追加[ついか]/
 nachtragen{vt}/補足する[ほそくする]/
 nachtragend{adj}{adv}/恨めしい[うらめしい]/
 Nachtragshaushalt{m}/補正予算[ほせいよさん]/
@@ -19617,12 +19617,12 @@ Nachtwäsche{f}/ナイトウエア[ないとうえあ]/
 Nachtzug{m}/夜行列車[やこうれっしゃ]/
 Nachuntersuchung{f}/追跡調査[ついせきちょうさ]/
 Nachwehen{pl}/後腹[あとばら]/
-Nachweis{m}/検証[けんしょう]/検出[けんしゅつ]/証[しょう]/実証[じっしょう]/
+Nachweis{m}/実証[じっしょう]/
 nachweisbar{adj}{adv}/根拠のある[こんきょのある]/
-Nachwelt{f}/子孫[しそん]/後世[こうせい]/
+Nachwelt{f}/(zukünftige Generationen) 後世[こうせい]/
 Nachwirkung{f}/影響[えいきょう]/余波[よは]/
 Nachwort{n}/後記[こうき]/
-Nachwuchs{m}/後輩[こうはい]/新人[しんじん]/
+Nachwuchs{m}/(Neuling) 新人[しんじん]/(Kinder) 子供[こども]/
 nachzahlen{vi}/追納する[ついのうする]/
 Nachzahlung{f}/後払い[ごばらい]/
 nachzählen{vt}/数え直す[かぞえなおす]/
@@ -19630,10 +19630,10 @@ Nachzügler{m}/後手[ごて]/
 Nachäffen{n}/猿真似[さるまね]/
 Nachäffer{m}/模倣者[もほうしゃ]/
 Nachäfferei{f}/人真似[ひとまね]/
-Nacken{m}/クビ[くび]/襟[えり]/首筋[くびすじ]/
+Nacken{m}/(Genick) 首筋[くびすじ]/
 nackt{adv}{adj}/赤裸々[せきらら]/
 Nacktfoto{n}/ヌード写真[ぬーどしゃしん]/
-Nacktheit{f}/裸[はだか]/ヌード[ぬーど]/
+Nacktheit{f}/裸[はだか]/
 Nacktschnecke{f}/蛞蝓[なめくじ]/
 Nadel{f}/針[はり]/鍼[はり]/
 Nadelbaum{m}/針葉樹[しんようじゅ]/
@@ -19643,7 +19643,7 @@ Nadelstreifen{m}/細縞[ほそじま]/
 Nadelstreifenanzug{m}/細縞[ほそじま]/
 Nadelwald{m}/針葉樹林[しんようじゅりん]/
 Nadelöhr{n}/針孔[めど]/
-Nagel{m}/爪[つめ]/ツメ[つめ]/釘[くぎ]/ネイル[ねいる]/
+Nagel{m}/(Finger~) 爪[つめ]/(~ zum einhämmern) 釘[くぎ]/
 Nagelbett{n}/針のむしろ[はりのむしろ]/
 Nagelbettentzündung{f}/のうそう[のうそう]/
 Nagelbürste{f}/つめブラシ[つめぶらし]/
@@ -19656,34 +19656,34 @@ Nagelschere{f}/爪切り[つめきり]/
 Nagelstudio{n}/ネイル・サロン[ねいるさろん]/
 nagen{vi}/噛む[かむ]/
 Nagetier{n}/齧歯目[げっしもく]/
-nah{adj}/近い[ちかい]/濃い[こい]/密接[みっせつ]/
-Nahaufnahme{f}/アップ[あっぷ]/クローズアップ[くろーずあっぷ]/
-nahe{adv}/近い[ちかい]/直ぐに[すぐに]/
+nah{adj}/(Ort) 近い[ちかい]/(Zeit) 直ぐに[すぐに]/
+Nahaufnahme{f}/クローズアップ[くろーずあっぷ]/
+nahe{adv}/(Ort) 近い[ちかい]/(Zeit) 直ぐに[すぐに]/
 nahe Umgebung{f}/近所[きんじょ]/
-nahen/近づく[ちかづく]/迫る[せまる]/
+nahen/(sich annähern) 近づく[ちかづく]/
 nahezu{adv}/近く[ちかく]/
 Nahkampf{m}/接戦[せっせん]/
 nahrhaft{adj}{adv}/実質的[じっしつてき]/
 Nahrhaftigkeit{f}/栄養[えいよう]/
-Nahrung{f}/食べ物[たべもの]/餌[えさ]/糧[りょう]/食物[しょくもつ]/食い物[くいもの]/フード[ふーど]/
+Nahrung{f}/食物[しょくもつ]/
 Nahrungsaufnahme{f}/栄養[えいよう]/
 Nahrungskette{f}/食物連鎖[しょくもつれんさ]/
-Nahrungsmittel{n}/フード[ふーど]/幸[さち]/食料[しょくりょう]/食糧[しょくりょう]/食い物[くいもの]/食料品[しょくりょうひん]/
+Nahrungsmittel{n}/食料品[しょくりょうひん]/
 Nahrungsmittelallergie{f}/食物アレルギー[しょくもつあれるぎー]/
 Nahrungsmittelhilfe{f}/食糧援助[しょくりょうえんじょ]/
 Nahrungspflanze{f}/食用植物[しょくようしょくぶつ]/
 Naht{f}/縫い目[ぬいめ]/
 nahtlos{adj}{adv}/縫い目のない[ぬいめのない]/
 Nahtschweißen{n}/縫い合わせ溶接[ぬいあわせようせつ]/
-naiv{adv}/素直[すなお]/初々しい[ういういしい]/
-Naivität{f}/素朴[そぼく]/無邪気[むじゃき]/天真爛漫[てんしんらんまん]/稚拙[ちせつ]/純真[じゅんしん]/ナイーブ[ないーぶ]/純情[じゅんじょう]/
-Name{m}/名前[なまえ]/人名[じんめい]/名称[めいしょう]/名目[めいもく]/名[な]/銘[めい]/ネーム[ねーむ]/名義[めいぎ]/
+naiv{adv}/(unverdorben) ナイーブな[ないーぶな]/(unerfahren) うぶな[うぶな]/(arglos;leicht zu betrügen) おめでたい[おめでたい]/
+Naivität{f}/無邪気[むじゃき]/
+Name{m}/名前[なまえ]/
 Namen{pl}/功名[こうみょう]/
 namenlos{adv}/名もない[なもない]/
 Namensaufruf{m}/点呼[てんこ]/
 Namensgebung{f}/命名[めいめい]/
 Namenskonvention{f}/命名規則[めいめいきそく]/
-Namensschild{n}/札[ふだ]/名札[なふだ]/表札[ひょうさつ]/
+Namensschild{n}/名札[なふだ]/
 Namensverzeichnis{n}/名簿[めいぼ]/
 Namensvetter{m}/同姓[どうせい]/
 Namenszug{m}/署名[しょめい]/
@@ -19695,11 +19695,11 @@ Nanosekunde{f}/ナノ秒[なのびょう]/
 Nanotechnologie{f}/ナノテクノロジー[なのてくのろじー]/
 Nanu!/あれっ[あれっ]/
 Naphtha{n}/揮発油[きはつゆ]/
-Narbe{f}/傷[きず]/傷跡[きずあと]/
+Narbe{f}/傷跡[きずあと]/
 Narbengesicht{n}/傷痕のある顔[きずあとのあるかお]/
 Narkose{f}/麻酔[ますい]/
 narkotisieren{vt}/麻酔をかける[ますいをかける]/
-Narr{m}/アホ[あほ]/阿呆[あほ]/間抜け[まぬけ]/
+Narr{m}/(Idiot) 馬鹿者[ばかもの]/{vulg.}  間抜け[まぬけ]/
 narrensicher{adj}/フール･プルーフ[ふーるぷるーふ]/
 Narrheit{f}/白痴[たわけ]/
 Narwal{m}/一角獣[いっかくじゅう]/
@@ -19715,7 +19715,7 @@ Nasenring{m}/鼻木[はなぎ]/
 Nasenspitze{f}/鼻先[はなさき]/
 Nashorn{n}/サイ[さい]/
 Nashornkäfer{m}/カブトムシ[かぶとむし]/
-nass{adv}/しっとり[しっとり]/湿った[しめった]/じめじめ[じめじめ]/ウェット[うぇっと]/ウエット[うえっと]/
+nass{adv}/ぬれた[ぬれた]/
 Nassbagger{m}/浚渫船[しゅんせつせん]/
 national{adv}/国民的[こくみんてき]/
 Nationalbibliothek{f}/国立図書館[こくりつとしょかん]/
@@ -19730,8 +19730,8 @@ Nationalisierung{f}/国有化[こくゆうか]/
 Nationalismus{m}/ナショナリズム[なしょなりずむ]/
 Nationalist{m}/ナショナリスト[なしょなりすと]/
 nationalistisch{adj}{adv}/国粋的な[こくすいてきな]/
-Nationalität{f}/国[くに]/国籍[こくせき]/
-Nationalpark{m}/公園[こうえん]/国立公園[こくりつこうえん]/
+Nationalität{f}/国籍[こくせき]/
+Nationalpark{m}/国立公園[こくりつこうえん]/
 Nationalsozialismus{m}/ナチズム[なちずむ]/
 nationalsozialistisch{adj}/ナチの[なちの]/
 Nationalstaat{m}/国民国家[こくみんこっか]/
@@ -19747,8 +19747,8 @@ Natriumnitrat{n}/硝酸ナトリウム[しょうさんなとりうむ]/
 Natron{n}/重曹[じゅうそう]/
 Natronfeldspat{n}/曹長石[そうちょうせき]/
 Natter{f}/鎖蛇[くさりへび]/
-Natur{f}/性[さが]/性質[せいしつ]/柄[がら]/ネイチャー[ねいちゃー]/質[しつ]/自然[じねん]/大自然[だいしぜん]/素質[そしつ]/毛色[けいろ]/根性[こんじょう]/天性[てんせい]/意気[いき]/性格[せいかく]/性分[しょうぶん]/
-Naturalien{pl}/現物[げんぶつ]/物資[ぶっし]/
+Natur{f}/(Wesen) 性質[せいしつ]/自然[しぜん]/
+Naturalien{pl}/(Güter) 物資[ぶっし]/(landwirtschaftliche Produkte) 農産物[のうさんぶつ]/
 Naturalisierung{f}/帰化[きか]/
 Naturalismus{m}/自然主義[しぜんしゅぎ]/
 Naturalist{m}/ナチュラリスト[なちゅらりすと]/
@@ -19760,7 +19760,7 @@ naturgetreu{adj}/如実に[にょじつに]/
 Naturgewalt{f}/自然力[しぜんりょく]/
 naturhaft{adj}/純真な[じゅんしんな]/
 Naturheilkunde{f}/自然療法[しぜんりょうほう]/
-Naturkatastrophe{f}/天災[てんさい]/地異[ちい]/自然災害[しぜんさいがい]/天変地異[てんぺんちい]/
+Naturkatastrophe{f}/自然災害[しぜんさいがい]/
 Naturkunde{f}/博物[はくぶつ]/
 Naturkundemuseum{n}/自然博物館[しぜんはくぶつかん]/
 naturnah{adj}/自然に近い[しぜんにちかい]/
@@ -19773,32 +19773,32 @@ Naturschönheit{f}/自然美[しぜんび]/
 Naturschützer{m}/天然資源保護論者[てんねんしげんほごろんしゃ]/
 Naturstein{m}/野面石[のづらいし]/
 Naturtalent{n}/才分[さいぶん]/
-Naturwissenschaft{f}/理科[りか]/自然科学[しぜんかがく]/
+Naturwissenschaft{f}/自然科学[しぜんかがく]/
 Naturwissenschaftler{m}/自然科学者[しぜんかがくしゃ]/
 naturwissenschaftlich{adj}/理科系の[りかけいの]/
 Naturwunder{n}/天下の奇観[てんかのきかん]/
-natürlich{adj}{adv}/当然[とうぜん]/言うまでもない[いうまでもない]/当たり前[あたりまえ]/庶民的[しょみんてき]/勢い[いきおい]/勢[いきおい]/本来[ほんらい]/順当[じゅんとう]/流石[さすが]/おっとり[おっとり]/無論[むろん]/あっさり[あっさり]/自然に[しぜんに]/
+natürlich{adj}{adv}/(selbstverständlich) 当然の[とうぜんの]/(naturhaft;ungekünstelt) 自然の[しぜんの]/
 natürliche Zahl{f}/自然数[しぜんすう]/
-Natürlichkeit{f}/ナチュラル[なちゅらる]/天真爛漫[てんしんらんまん]/純[じゅん]/
+Natürlichkeit{f}/自然さ[しぜんさ]/
 nautisch{adj}{adv}/航海の[こうかいの]/
-Navigation{f}/航海[こうかい]/ナビゲーション[なびげーしょん]/
+Navigation{f}/航法[こうほう]/
 Navigationsoffizier{m}/航海士[こうかいし]/
 Nazi{m}/ナチ[なち]/
 Nazismus{m}/ナチズム[なちずむ]/
 nazistisch{adj}/ナチの[なちの]/
 Neandertaler{m}/ネアンデルタール[ねあんでるたーる]/
 Neapolitaner{pl}{m}/ナポリの[なぽりの]/
-Nebel{m}/霧[きり]/煙[けむり]/霞[かすみ]/
+Nebel{m}/霧[きり]/
 Nebelhorn{n}/警笛[けいてき]/
 Nebelsignal{n}/霧中信号[むちゅうしんごう]/
-neben{prp; +Dativ}{prp; +Akkusativ}/…の側に[…のがわに]/
+neben{prp; +Dativ}{prp; +Akkusativ}/...の側に[...のがわに]/
 nebenan{adv}/傍らの[かたわらの]/
 Nebenanschluss{m}/内線[ないせん]/
 Nebenbahn{f}/支線[しせん]/
 Nebenbedeutung{f}/第二義[だいにぎ]/
 Nebenbedingung{f}/付帯条件[ふたいじょうけん]/
 Nebenberuf{m}/兼職[けんしょく]/
-Nebenbeschäftigung{f}/副業[ふくぎょう]/兼業[けんぎょう]/内職[ないしょく]/
+Nebenbeschäftigung{f}/副業[ふくぎょう]/
 Nebenbestimmung{f}/付款[ふかん]/
 Nebenbuhler{m}/恋敵[こいがたき]/
 Nebeneinanderstellung{f}/併置[へいち]/
@@ -19816,16 +19816,16 @@ nebenher{adv}/傍ら[かたわら]/
 Nebenkläger{m}/共同原告[きょうどうげんこく]/
 Nebenkosten{pl}/雑費[ざっぴ]/
 Nebenleistung{f}/特別給付[とくべつきゅうふ]/
-Nebenlinie{f}/ローカル線[ろーかるせん]/支流[しりゅう]/
+Nebenlinie{f}/(Lokalbahn) ローカル線[ろーかるせん]/(Nebenfluss) 支流[しりゅう]/
 Nebenniere{f}/副腎[ふくじん]/
 Nebennierenmark{n}/副腎髄質[ふくじんずいしつ]/
 Nebenprodukt{n}/副産物[ふくさんぶつ]/
 Nebenraum{m}/分室[ぶんしつ]/
-Nebenrolle{f}/脇[わき]/エキストラ[えきすとら]/助演[じょえん]/脇役[わきやく]/
+Nebenrolle{f}/{Film}{Theater} 脇役[わきやく]/
 Nebensache{f}/付帯[ふたい]/
 Nebensatz{m}/句[く]/
 Nebensonne{f}/幻日[げんじつ]/
-Nebenstelle{f}/支部[しぶ]/内線[ないせん]/
+Nebenstelle{f}/(Filiale) 支部[しぶ]/(~telefonanschluss;Haustelefon) 内線電話[ないせんでんわ]/
 Nebenstraße{f}/裏道[うらみち]/
 nebensächlich{adv}{adj}/二の次[にのつぎ]/
 Nebensächlichkeit{f}/末[すえ]/
@@ -19838,28 +19838,28 @@ necken{vt}/冷やかす[ひやかす]/
 Necken{n}/茶[ちゃ]/揶揄[やゆ]/
 Neckerei{f}/翻弄[ほんろう]/
 Neffe{m}/甥[おい]/
-Negation{f}/否定[ひてい]/否決[ひけつ]/
+Negation{f}/否定[ひてい]/
 Negativ{n}/ネガティブ[ねがてぃぶ]/
-negativ{adj}{adv}/悪い[わるい]/ネガティブ[ねがてぃぶ]/否定的[ひていてき]/消極的[しょうきょくてき]/
+negativ{adj}{adv}/(schlecht) 悪い[わるい]/(verneinend) 否定的[ひていてき]/
 Negativität{f}/陰性[いんせい]/
 Neger{m}{pl}/黒ん坊[くろんぼ]/
-nehmen{vt}/飲む[のむ]/とる[とる]/乗る[のる]/採る[とる]/呑む[のむ]/
+nehmen{vt}/取る[とる]/
 Nehrung{f}/砂嘴[さし]/
 Neid{m}/嫉妬[しっと]/
 Neider{m}/羨望者[せんぼうしゃ]/
 neidisch{adj}{adv}/嫉妬深い[しっとぶかい]/
-Neigung{f}/好き[すき]/動向[どうこう]/意地[いじ]/傾斜[けいしゃ]/傾斜[けいしゃ]/偏向[へんこう]/下地[したじ]/嗜好[しこう]/傾向[けいこう]/意向[いこう]/勾配[こうばい]/色気[いろけ]/斜め[ななめ]/偏り[かたより]/テイスト[ていすと]/好み[このみ]/下り[くだり]/
+Neigung{f}/(Vorliebe) 好き[すき]/(Inklination) 傾斜[けいしゃ]/(Hang;Disposition) 傾向[けいこう]/
 Neigungsmesser{m}/傾斜計[けいしゃけい]/
 Neigungswinkel{m}/傾斜角[けいしゃかく]/
-nein{adv}/違う[ちがう]/ううん[ううん]/否や[いなや]/ノン[のん]/
+nein{adv}/(Interj.) いいえ[いいえ]/
 Nein{n}/否[いや]/
 Nekromantie{f}/口寄せ[くちよせ]/
 Nekrophilie{f}/ネクロフィリア[ねくろふぃりあ]/
 Nekrose{f}/壊疽[えそ]/
 Nektar{m}/蜜[みつ]/
 Nektarine{f}/椿桃[つばいもも]/
-Nelke{f}/カーネーション[かーねーしょん]/ナデシコ[なでしこ]/撫子[なでしこ]/
-nennen{vt}/言う[いう]/称する[しょうする]/呼ぶ[よぶ]/云う[いう]/
+Nelke{f}/{Bot.} カーネーション[かーねーしょん]/
+nennen{vt}/(sagen) 言う[いう]/(bezeichnen) 称する[しょうする]/
 Nenner{m}/分母[ぶんぼ]/
 Nennwert{m}/額面[がくめん]/
 Neoimpressionismus{m}/新印象主義[しんいんしょうしゅぎ]/
@@ -19894,14 +19894,15 @@ Nervenzentrum{m}/神経中枢[しんけいちゅうすう]/
 Nervenzusammenbruch{m}/神経衰弱[しんけいすいじゃく]/
 nervig{adj}/煩い[うるさい]/
 nervlich{adj}/神経の[しんけいの]/
-Nervosität{f}/虫[むし]/神経質[しんけいしつ]/
+Nervosität{f}/神経質[しんけいしつ]/
 nervtötend{adj}/煩い[うるさい]/
-nervös{adj}{adv}/バタバタ[ばたばた]/わくわく[わくわく]/そわそわ[そわそわ]/ばたばた[ばたばた]/
+nervös{adj}{adv}/神経質な[しんけいしつな]/
 nervös sein/もどかしい[もどかしい]/
 Nesselausschlag{m}/蕁麻疹[じんましん]/
-Nest{n}/村[むら]/巣[す]/
+Nest{n}/(Vogel~ etc.) 巣[す]/
+Nest{n}{ugs.}/村[むら]/
 Nestbau{m}/営巣[えいそう]/
-nett{adv}{adj}/良く[よく]/折角[せっかく]/優しい[やさしい]/愛らしい[あいらしい]/愛くるしい[あいくるしい]/可愛らしい[かわいらしい]/可愛い[かわいい]/気の利いた[きのきいた]/
+nett{adv}{adj}/優しい[やさしい]/
 Nettigkeit{f}/心付け[こころづけ]/
 Nettogewicht{n}/正味[しょうみ]/
 Nettogewinn{m}/純利益[じゅんりえき]/
@@ -19914,7 +19915,7 @@ Netzhaut{f}/網膜[もうまく]/
 Netzhemd{n}/網襦袢[あみじゅばん]/
 Netzkabel{n}/電源コード[でんげんこーど]/
 Netzmagen{m}/第二胃[だいにい]/
-neu{adj}{adv}/今[いま]/フレッシュ[ふれっしゅ]/ニュー[にゅー]/ヌーボー[ぬーぼー]/新た[あらた]/今更[いまさら]/今さら[いまさら]/珍しい[めずらしい]/新しく[あたらしく]/新しい[あたらしい]/
+neu{adj}{adv}/(~artig) 新たな[あらたな]/
 neu bewerten{vt}/再評価する[さいひょうかする]/
 neu errichten/新設する[しんせつする]/
 neu herausgeben{vt}/改編する[かいへんする]/
@@ -19924,14 +19925,14 @@ neu verteilen{vt}/組み替える[くみかえる]/
 Neuanfang{m}/更始[こうし]/
 Neuankömmling{m}/新入り[しんいり]/
 Neuanschaffung{f}/増設[ぞうせつ]/
-neuartig{adv}/新しい[あたらしい]/新た[あらた]/目新しい[めあたらしい]/珍しい[めずらしい]/
-Neuauflage{f}/復刻[ふっこく]/復刊[ふくかん]/
+neuartig{adv}/新しい[あたらしい]/
+Neuauflage{f}/{Druckw.} 新版[しんぱん]/
 Neuaufnahme{f}/新参[しんざん]/
 Neuausgabe{f}/新版[しんぱん]/
 Neuausrichtung{f}/再調整[さいちょうせい]/
-Neubau{m}/新築[しんちく]/新館[しんかん]/
-Neubearbeitung{f}/新選[しんせん]/新撰[しんせん]/
-Neubeginn{m}/新規[しんき]/再出発[さいしゅっぱつ]/
+Neubau{m}/新築[しんちく]/
+Neubearbeitung{f}/(~ eines Textes oder eines Buches) 改訂[かいてい]/
+Neubeginn{m}/再出発[さいしゅっぱつ]/
 Neubelebung{f}/活性化[かっせいか]/
 Neuberechnung{f}/再計算[さいけいさん]/
 Neubildung{f}/改造[かいぞう]/
@@ -19939,7 +19940,7 @@ Neubooten{n}/リブート[りぶーと]/
 Neudruck{m}/再版[さいはん]/
 Neueinstellung{f}/リクルート[りくるーと]/
 Neuentwicklung{f}/新規開拓[しんきかいたく]/
-neuerdings{adv}/この頃[このごろ]/近頃[ちかごろ]/
+neuerdings{adv}/この頃[このごろ]/
 Neuerscheinung{f}/新刊[しんかん]/
 Neuerung{f}/改変[かいへん]/
 Neueröffnung{f}/新規出店[しんきしゅってん]/
@@ -19948,22 +19949,22 @@ Neufestsetzung{f}/再調整[さいちょうせい]/
 neugeboren{adj}/生まれ立て[うまれたて]/
 Neugeborene{m}{f}{n}/みどり児[みどりご]/
 Neugeborenengelbsucht{f}/新生児黄疸[しんせいじおうだん]/
-Neugier{f}/興味[きょうみ]/関心[かんしん]/物好き[ものずき]/好奇心[こうきしん]/
-Neugierde{f}/好奇心[こうきしん]/興[きょう]/物好き[ものずき]/
+Neugier{f}/好奇心[こうきしん]/
+Neugierde{f}/好奇心[こうきしん]/
 neugierig{adv}{adj}/根掘り葉掘り[ねほりはほり]/
 Neugründung{f}/新設[しんせつ]/
-Neuheit{f}/新鮮[しんせん]/斬新[ざんしん]/
+Neuheit{f}/(Novität) 斬新[ざんしん]/(neues Produkt) 新製品[しんせいひん]
 Neuhochdeutsch{n}/新高ドイツ語[しんこうどいつご]/
 Neuigkeit{f}/音沙汰[おとさた]/
 Neuigkeiten{pl}/ニュース[にゅーす]/
-Neujahr{n}/正月[しょうがつ]/新年[しんねん]/元日[がんじつ]/元旦[がんたん]/新春[しんしゅん]/
-Neujahrstag{m}/元旦[がんたん]/元日[がんじつ]/
+Neujahr{n}/正月[しょうがつ]/
+Neujahrstag{m}/元日[がんじつ]/
 Neuland{n}/新境地[しんきょうち]/
-neulich{adv}/最近[さいきん]/この度[このたび]/今度[こんど]/何時か[いつか]/先日[せんじつ]/今回[こんかい]/
-Neuling{m}/初心者[しょしんしゃ]/駆け出し[かけだし]/新米[しんまい]/新人[しんじん]/ルーキー[るーきー]/
+neulich{adv}/(in letzter Zeit) 最近[さいきん]/(vor kurzem) 此の間[このあいだ]/
+Neuling{m}/(Anfänger) 初心者[しょしんしゃ]/
 neumodisch/当世風の[とうせいふうの]/
 Neumond{m}/新月[しんげつ]/
-neun{num}/九[ここの]/ナイン[ないん]/
+neun{num}/九[ここの]/
 Neunauge{n}/ヤツメウナギ[やつめうなぎ]/
 neunhundert{num}/九百[きゅうひゃく]/
 neunzehn{num}/十九[じゅうきゅう]/
