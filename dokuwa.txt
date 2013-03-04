@@ -19992,7 +19992,7 @@ neutral{adj}/グレー[ぐれー]/
 neutralisieren{vt}/無力化する[むりょくかする]/
 Neutralisierung{f}/無力化[むりょくか]/
 Neutralismus{m}/中立主義[ちゅうりつしゅぎ]/
-Neutralität{f}/中性[ちゅうせい]/中立[ちゅうりつ]/無所属[むしょぞく]/
+Neutralität{f}/中立[ちゅうりつ]/
 Neutrino{n}/ニュートリノ[にゅーとりの]/
 Neutron{n}/ニュートロン[にゅーとろん]/
 Neutronenstern{m}/中性子星[ちゅうせいしせい]/
@@ -20021,7 +20021,7 @@ nicht wiederholbar/空前絶後の[くうぜんぜつごの]/
 nicht zu beeindrucken/木石の如き[ぼくせきのしき]/
 nicht zusammenpassend/ちんばな[ちんばな]/
 nicht zustimmen{+Dativ}/腑に落ちない[ふにおちない]/
-nicht übereinstimmen{vi}/異なる[ことなる]/そぐわない[そぐわない]/
+nicht übereinstimmen{vi}/異なる[ことなる]/
 nicht überzeugend{adv}/納得し難い[なっとくしにくい]/
 nicht überzeugt{adv}/合点がいかない様子で[がてんがいかないようすで]/
 Nichtanerkennung{f}/不承認[ふしょうにん]/
@@ -20031,21 +20031,21 @@ Nichtbeachtung{f}/不履行[ふりこう]/
 Nichte{f}/姪[めい]/
 Nichteisenmetall{n}/非鉄金属[ひてつきんぞく]/
 Nichterfüllung{f}/デフォルト[でふぉると]/
-Nichterscheinen{n}/不在[ふざい]/欠席[けっせき]/
-Nichtigkeit{f}/無効[むこう]/空虚[くうきょ]/
+Nichterscheinen{n}/欠席[けっせき]/
+Nichtigkeit{f}/(unwichtige Sache) 徒事[あだごと]/
 Nichtlieferung{f}/受け渡し不履行[うけわたしふりこう]/
 Nichtmetall{n}/非金属[ひきんぞく]/
 Nichtmitglied{n}/員外の人[いんがいのひと]/
 Nichtraucher{m}/喫煙しない人[きつえんしないひと]/
 Nichtraucherabteil{n}/禁煙室[きんえんしつ]/
-nichts{pron}/何も[なにも]/何でもない[なんでもない]/零[ぜろ]/何とも[なんとも]/とんと[とんと]/何の[なんの]/ナッシング[なっしんぐ]/ゼロ[ぜろ]/何事[なにごと]/
-Nichts{n}/む[む]/皆無[かいむ]/無[む]/
+nichts{pron}/(gar ~;überhaupt ~) 何でもない[なんでもない]/
+Nichts{n}/(Nichtvorhandensein) 皆無[かいむ]/
 nichts Besonderes/さして[さして]/
 nichts tun/遊ぶ[あそぶ]/
 nichts zu tun haben/所在ない[しょざいない]/
 Nichtschwimmer{m}/金槌[かなづち]/
 Nichtsein{n}/虚無[きょむ]/
-Nichtsnutz{m}/ぐうたら[ぐうたら]/ヤクザ[やくざ]/役立たず[やくたたず]/
+Nichtsnutz{m}/役立たず[やくたたず]/
 nichtstuend{adj}/有閑の[ゆうかんの]/
 Nichtveröffentlichung{f}/休載[きゅうさい]/
 Nichtwähler{m}/棄権者[きけんしゃ]/
@@ -20054,19 +20054,19 @@ Nichtübereinstimmung{f}/ミスマッチ[みすまっち]/
 Nickelchrom-Draht{m}/ニクロム線[にくろむせん]/
 Nicken{n}/ピッチング[ぴっちんぐ]/
 nicken{vi}/振る[ふる]/
-Nickerchen{n}/仮眠[かみん]/うたた寝[うたたね]/
+Nickerchen{n}/仮眠[かみん]/
 Nidation{f}/着床[ちゃくしょう]/
 nieder/下級の[かきゅうの]/
-niederdrücken{vt}/抑える[おさえる]/押し付ける[おしつける]/押さえる[おさえる]/
+niederdrücken{vt}/抑える[おさえる]/
 Niederflurbus{n}/ノンステップバス[のんすてっぷばす]/
 Niederfrequenz{f}/低周波[ていしゅうは]/
-Niedergang{m}/崩壊[ほうかい]/スランプ[すらんぷ]/衰退[すいたい]/下降[かこう]/
-niedergeschlagen{adj}{adv}/重い[おもい]/がっくり[がっくり]/重たい[おもたい]/しょんぼり[しょんぼり]/
-niedergeschlagen sein/沈む[しずむ]/落ち込む[おちこむ]/
-Niedergeschlagenheit{f}/鬱[うつ]/不景気[ふけいき]/落ち込み[おちこみ]/
-Niederkunft{f}/出産[しゅっさん]/お産[おさん]/分娩[ぶんべん]/
-Niederlage{f}/負け[まけ]/敗退[はいたい]/引け[ひけ]/負[まけ]/敗戦[はいせん]/敗北[はいぼく]/黒星[くろぼし]/
-Niederlassung{f}/集落[しゅうらく]/居住[きょじゅう]/
+Niedergang{m}/(Untergang;Verfall) 滅亡[めつぼう]/
+niedergeschlagen{adj}{adv}/しょんぼり[しょんぼり]/
+niedergeschlagen sein/しょんぼりしている[しょんぼりしている]/
+Niedergeschlagenheit{f}/意気消沈[いきしょうちん]/
+Niederkunft{f}/(Geburt;Entbindung) 出産[しゅっさん]/
+Niederlage{f}/敗北[はいぼく]/
+Niederlassung{f}/支店[してん]/
 Niederlassungsfreiheit{f}/移住権[いじゅうけん]/
 niederlegen{vt}/辞する[じする]/
 niederländisch{adj}/ダッチ[だっち]/
@@ -20076,19 +20076,19 @@ niederschlagen{vt}/打ち破る[うちやぶる]/
 Niederschlagsmenge{f}/雨量[うりょう]/
 Niederschlagung{f}/打倒[だとう]/
 niederschmetternd{adj}/けちょんけちょん[けちょんけちょん]/
-niederschreiben{vt}/認める[したためる]/記す[きす]/
+niederschreiben{vt}/記す[しるす]/
 niederschreien{vt}/喝破する[かっぱする]/
 Niederspannung{f}/低圧[ていあつ]/
 niederstimmen{vt}/否決する[ひけつする]/
-Niedertracht{f}/卑怯[ひきょう]/陰湿[いんしつ]/
-niederträchtig{adj}/汚い[きたない]/醜い[みにくい]/
-Niederträchtigkeit{f}/不器用[ぶきよう]/卑劣[ひれつ]/
+Niedertracht{f}/下劣[げれつ]/
+niederträchtig{adj}/下劣な[げれつな]/
+Niederträchtigkeit{f}/卑劣[ひれつ]/
 niederwerfen{vt}/ひっくり返す[ひっくりかえす]/
 Niedlichkeit{f}/キュート[きゅーと]/
-niedrig{adv}{adj}/悪い[わるい]/低い[ひくい]/低い[ひくい]/低く[ひくく]/
+niedrig{adv}{adj}/低い[ひくい]/
 Niedrigkeit{f}/下衆[げす]/
 Niedrigwasser{n}/低潮[ていちょう]/
-niemand{pron}/誰も[だれも]/誰でも[だれでも]/誰しも[だれしも]/
+niemand{pron}/誰も...ない[だれも...ない]/
 Niemandsland{n}/無人の境[むじんのさかい]/
 Niere{f}/腎臓[じんぞう]/
 nierenförmig{adj}/腎臓形の[じんぞうけいの]/
@@ -20099,33 +20099,34 @@ nieseln{vi}/糠雨が降っている[ぬかあめがふっている]/
 Nieselregen{m}/小糠雨[こぬかあめ]/
 Niesen{n}/嚏[くしゃみ]/
 niesen{vi}/くしゃみする[くしゃみする]/
-Niete{f}/すか[すか]/外れ[はずれ]/
+Niete{f}/(Lotterielos, das nicht gewinnt) 空籤[からくじ]/(zur Befestigung) リベット[りべっと]/
+Niete{f}{ugs}/(inkompetente Person) 能なし[のうなし]/
 Nigerianer{m}/ナイジェリア人[ないじぇりあじん]/
 Nihilismus{m}/ニヒリズム[にひりずむ]/
 nihilistisch{adj}/虚無的[きょむてき]/
 Nikolaus{m}/ニコラウス[にこらうす]/
 Nikotin{n}/ニコチン[にこちん]/
 Nikotinabhängigkeit{f}/ニコチン中毒[にこちんちゅうどく]/
-Nimmersatt{m}/欲張り[よくばり]/大食い[おおぐい]/
+Nimmersatt{m}/(habgierige Person) 欲張り[よくばり]/
 Ninja{m}/忍者[にんじゃ]/
 Nippel{n}/ニップル[にっぷる]/
 Nippelspanner{m}/ニップル回し[にっぷるまわし]/
 Nirwana{n}/空際[くうさい]/
-Nische{f}/がん[がん]/ニッチ[にっち]/隙間[すきま]/
+Nische{f}/{Archit.}{Biol.}{Wirtsch.} ニッチ[にっち]/(Spalt;Lücke) 隙間[すきま]/
 Nissenhütte{f}/蒲鉾兵舎[かまぼこへいしゃ]/
 nisten{vi}/巣食う[すくう]/
 Nistkasten{m}/巣箱[すばこ]/
 Nitrierung{f}/硝化[しょうか]/
-Niveau{n}/台[だい]/標準[ひょうじゅん]/域[いき]/レベル[れべる]/線[せん]/程度[ていど]/
+Niveau{n}/レベル[れべる]/
 Nivellement{n}/レベリング[れべりんぐ]/
-Nixe{f}/妖精[ようせい]/人魚[にんぎょ]/マーメイド[まーめいど]/
+Nixe{f}/(Elfe) 妖精[ようせい]/(Meerjungfrau) 人魚[にんぎょ]/
 Nizza (Stadt in Frankreich)/ニース[にーす]/
 Nobelpreis{m}/ノーベル賞[のーべるしょう]/
 Nobelpreisträger{m}/ノーベル賞受賞者[のーべるしょうじゅしょうしゃ]/
-noch{conj}/もっと[もっと]/未だに[いまだに]/更[さら]/未だ[いまだ]/今でも[いまでも]/更に[さらに]/やっぱし[やっぱし]/今に[いまに]/
-noch dazu/以外[いがい]/又[また]/復[また]/挙句[あげく]/挙げ句[あげく]/
+noch{conj}/まだ[まだ]/
+noch dazu/以外[いがい]/
 nochmalig{adj}/再度の[さいどの]/
-nochmals{adv}/再度[さいど]/重ねて[かさねて]/
+nochmals{adv}/(noch einmal) もう一度[もういちど]/
 Nomade{n}/放浪者[ほうろうしゃ]/
 nomadisch{adj}{adv}/遊牧の[ゆうぼくの]/
 Nomenklatur{f}/学名[がくめい]/
@@ -20142,18 +20143,18 @@ Nominierung{f}/指名選挙[しめいせんきょ]/
 Nomogramm{n}/ノモグラフ[のもぐらふ]/
 Nomologie{f}/法則論[ほうそくろん]/
 Nonkonformist{m}/異端児[いたんじ]/
-Nonne{f}/童貞[どうてい]/尼[あま]/尼[あま]/
+Nonne{f}/尼[あま]/
 Nonnenkloster{n}/修道院[しゅうどういん]/
 Noppe{f}/毳[けば]/
 Nordafrika{n}/北アフリカ[きたあふりか]/
-Nordamerika{n}/北米[ほくべい]/北アメリカ[きたあめりか]/
+Nordamerika{n}/北米[ほくべい]/
 nordamerikanisch{adj}/北アメリカの[きたあめりかの]/
-Norden{m}/ね[ね]/北部[ほくぶ]/北方[ほっぽう]/北[きた]/
+Norden{m}/北[きた]/
 Nordeuropa{n}/北欧[ほくおう]/
 nordisch{adj}/ノルディック[のるでぃっく]/
 Nordküste{f}/北岸[ほくがん]/
 Nordlicht{n}/北光[ほっこう]/
-Nordosten{m}/東北[ひがしきた]/北東[ほくとう]/
+Nordosten{m}/北東[ほくとう]/
 Nordostwind{m}/北東風[ほくとうふう]/
 Nordpol{m}/北極[ほっきょく]/
 Nordseite{f}/北側[きたがわ]/
@@ -20162,16 +20163,16 @@ nordwestlich{adj}{adv}/北西の[ほくせいの]/
 Nordwestwind{m}/北西風[ほくせいふう]/
 Nordwind{m}/北風[きたかぜ]/
 nordöstlich{adj}{adv}/北東の[ほくとうの]/
-Norm{f}/標準[ひょうじゅん]/方式[ほうしき]/ノルマ[のるま]/規格[きかく]/基準[きじゅん]/規範[きはん]/規範[きはん]/規則[きそく]/目安[めやす]/
-normal{adj}/普段[ふだん]/ノーマル[のーまる]/一端[いっぱし]/尋常[じんじょう]/当たり前[あたりまえ]/庶民的[しょみんてき]/順当[じゅんとう]/一角[ひとかど]/通常[つうじょう]/一般的[いっぱんてき]/
+Norm{f}/標準[ひょうじゅん]/
+normal{adj}/普通の[ふつうの]/
 Normalbeschleunigung{f}/法線加速度[ほうせんかそくど]/
 Normaldruck{m}/標準気圧[ひょうじゅんきあつ]/
-normalerweise{adv}/良く[よく]/大体[たいてい]/決まって[きまって]/大抵[たいてい]/通常[つうじょう]/常時[じょうじ]/
+normalerweise{adv}/通常は[つうじょうは]/
 Normalfall{m}/通常の場合[つうじょうのばあい]/
 Normalgleichung{f}/法線方程式[ほうせんほうていしき]/
 normalisieren{vt}/正常化する[せいじょうかする]/
 Normalisierung{f}/正常化[せいじょうか]/
-Normalität{f}/普通[ふつう]/一般[いっぱん]/正[せい]/平常[へいじょう]/一筋[ひとすじ]/陸[ろく]/一通[ひととおり]/通常[つうじょう]/常時[じょうじ]/正常[せいじょう]/一通り[ひととおり]/
+Normalität{f}/普通[ふつう]/
 Normalsichtigkeit{f}/正視[せいし]/
 Normalspannung{f}/直応力[じきおうりょく]/
 Normalspur{f}/標準軌間[ひょうじゅんきかん]/
@@ -20187,9 +20188,9 @@ normieren{vt}/規格化する[きかくかする]/
 Normierung{f}/標準化[ひょうじゅんか]/
 Norweger{m}/ノルウェー人[のるうぇーじん]/
 norwegisch{adj}/ノルウエーの[のるうえーの]/
-Nostalgie{f}/郷愁[きょうしゅう]/懐古[かいこ]/ノスタルジー[のすたるじー]/
+Nostalgie{f}/ノスタルジー[のすたるじー]/
 nostalgisch{adj}{adv}/懐しい[ゆかしい]/
-Not{f}/必要[ひつよう]/窮地[きゅうち]/苦境[くきょう]/急[きゅう]/不自由[ふじゆう]/悲惨[ひさん]/ピンチ[ぴんち]/逆境[ぎゃっきょう]/貧乏[びんぼう]/苦難[くなん]/難儀[なんぎ]/貧困[ひんこん]/困難[こんなん]/貧[ひん]/
+Not{f}/(kritische Lage) 苦境[くきょう]/(Armut) 困窮[こんきゅう]/
 Notanker{m}/予備大アンカー[よびだいあんかー]/
 Notar{m}/司法書士[しほうしょし]/
 Notation{f}/表記法[ひょうきほう]/
@@ -20200,25 +20201,25 @@ Notbehelf{m}/その場しのぎ[そのばしのぎ]/
 Notbeleuchtung{f}/非常灯[ひじょうとう]/
 Notbremse{f}/非常ブレーキ[ひじょうぶれーき]/
 Notdurft{f}/大小便[だいしょうべん]/
-Note{f}/ノート[のーと]/音符[おんぷ]/
+Note{f}/(Notiz) ノート[のーと]/{Mus.}(Notenzeichen) 音符[おんぷ]/
 Notebook{n}/ノートパソコン[のーとぱそこん]/
-Noten{pl}/節[ふし]/譜[ふ]/楽譜[がくふ]/
+Noten{pl}/{Mus.} 楽譜[がくふ]/
 Notenbank{f}/発券銀行[はっけんぎんこう]/
-Notenblatt{n}/楽譜[がくふ]/譜面[ふめん]/譜[ふ]/
+Notenblatt{n}/{Mus.} 楽譜[がくふ]/
 Notenlinien{pl}/譜表[ふひょう]/
 Notenpapier{n}/五線紙[ごせんし]/
 Notenpult{n}/見台[けんだい]/
 Notenschlüssel{m}/音部記号[おんぶきごう]/
 Notenständer{m}/譜面台[ふめんだい]/
-Notfall{m}/変[へん]/急変[きゅうへん]/へん[へん]/有事[ゆうじ]/急[きゅう]/急[きゅう]/万一[ばんいつ]/いざという時[いざというとき]/非常[ひじょう]/緊急事態[きんきゅうじたい]/異変[いへん]/
+Notfall{m}/緊急事態[きんきゅうじたい]/
 notfalls/一朝[いっちょう]/
 Nothafen{m}/避難港[ひなんこう]/
 Nothilfe{f}/応急処置[おうきゅうしょち]/
-notieren{vt}/記す[きす]/控える[ひかえる]/
-Notiz{f}/控え[ひかえ]/紙面[しめん]/覚え書き[おぼえがき]/覚書[おぼえがき]/備忘録[びぼうろく]/備考[びこう]/メモ[めも]/注[ちゅう]/ちゅう[ちゅう]/書き込み[かきこみ]/書込み[かきこみ]/筆記[ひっき]/手記[しゅき]/記載[きさい]/通知[つうち]/
-Notizbuch{n}/控え[ひかえ]/備忘録[びぼうろく]/雑記帳[ざっきちょう]/手帳[てちょう]/手帖[てちょう]/ノート[のーと]/帖[じょう]/
+notieren{vt}/記す[きす]/
+Notiz{f}/メモ[めも]/
+Notizbuch{n}/手帳[てちょう]/
 Notizzettel{m}/メモ用紙[めもようし]/
-Notlage{f}/緊急事態[きんきゅうじたい]/窮地[きゅうち]/苦境[くきょう]/
+Notlage{f}/緊急事態[きんきゅうじたい]/
 Notlandung{f}/不時着[ふじちゃく]/
 notleidend{adj}/苦しい[くるしい]/貧しい[まずしい]/乏しい[とぼしい]/プア[ぷあ]/
 Notlösung{f}/苦肉の策[くにくのさく]/
