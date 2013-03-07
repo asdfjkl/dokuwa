@@ -20221,23 +20221,23 @@ Notizbuch{n}/手帳[てちょう]/
 Notizzettel{m}/メモ用紙[めもようし]/
 Notlage{f}/緊急事態[きんきゅうじたい]/
 Notlandung{f}/不時着[ふじちゃく]/
-notleidend{adj}/苦しい[くるしい]/貧しい[まずしい]/乏しい[とぼしい]/プア[ぷあ]/
+notleidend{adj}/貧しい[まずしい]/
 Notlösung{f}/苦肉の策[くにくのさく]/
 Notlüge{f}/一時逃れ[いっときのがれ]/
 Notmaßnahme{f}/緊急対策[きんきゅうたいさく]/
 Notruf{m}/非常呼集[ひじょうこしゅう]/
 Notsignal{n}/危険信号[きけんしんごう]/
 Notsitz{m}/補助椅子[ほじょいす]/
-Notstand{m}/緊急事態[きんきゅうじたい]/有事[ゆうじ]/非常事態[ひじょうじたい]/
+Notstand{m}/有事[ゆうじ]/
 Notstromversorgung{f}/自家発電[じかはつでん]/
 Notwasserung{f}/緊急着水[きんきゅうちゃくすい]/
 Notwehr{f}/保身[ほしん]/
-notwendig{adj}{adv}/当然[とうぜん]/必然的[ひつぜんてき]/
+notwendig{adj}{adv}/必然的[ひつぜんてき]/
 notwendigerweise{adv}/是非もない[ぜひもない]/
-Notwendigkeit{f}/必要[ひつよう]/必須[ひっしゅ]/不可欠[ふかけつ]/必要性[ひつようせい]/要[よう]/必至[ひっし]/所用[しょよう]/所要[しょよう]/必然[ひつぜん]/
+Notwendigkeit{f}/必要[ひつよう]/
 Nougat{m}{n}/ヌガー[ぬがー]/
 Nova{f}/ノバ[のば]/
-Novelle{f}/小説[しょうせつ]/創作[そうさく]/ロマン[ろまん]/短編小説[たんぺんしょうせつ]/
+Novelle{f}/(Textform) 短編小説[たんぺんしょうせつ]/(Neuheit) 新しさ[あたらしさ]/
 November{m}/11月[じゅういちがつ]/
 Novize{m}/小坊主[こぼうず]/
 Nudel{f}/ヌードル[ぬーどる]/
@@ -20248,11 +20248,10 @@ Nuklearkatastrophe{f}/核災害[かくさいがい]/
 Nuklearmedizin{f}/核医学[かくいがく]/
 Nuklearsprengkopf{m}/核弾頭[かくだんとう]/
 Nukleon{n}/核子[かくし]/
-Null{f}/ゼロ[ぜろ]/零[ぜろ]/零[ぜろ]/ナッシング[なっしんぐ]/
-null{num}/ヌルの[ぬるの]/
+Null{f}/ゼロ[ぜろ]/
 Nullmenge{f}/空集合[くうしゅうごう]/
 Nullmeridian{m}/本初子午線[ほんしょしごせん]/
-Nullpunkt{m}/ゼロ[ぜろ]/零[ぜろ]/原点[げんてん]/
+Nullpunkt{m}/零点[れいてん]/
 Nullsumme{f}/ゼロ･サム[ぜろさむ]/
 Nullvektor{m}/ヌル･ベクトル[ぬるべくとる]/
 Nullzeichen{n}/ヌル文字[ぬるもじ]/
@@ -20260,26 +20259,26 @@ numerisch{adj}{adv}/数的[すうてき]/
 Numerus{m}/真数[しんすう]/
 Numismatik{f}/古銭学[こせんがく]/
 Numismatiker{m}/銭貨学者[せんかがくしゃ]/
-Nummer{f}/ナンバー[なんばー]/サイズ[さいず]/数[すう]/番号[ばんごう]/
+Nummer{f}/ナンバー[なんばー]/(Zahl) 数[すう]/
 Nummerierung{f}/番号付け[ばんごうつけ]/
 Nummernkonto{n}/無記名口座[むきめいこうざ]/
 Nummernscheibe{f}/ダイヤル[だいやる]/
-Nummernschild{n}/ナンバー[なんばー]/バックナンバー[ばっくなんばー]/
+Nummernschild{n}/ナンバープレート[なんばーぷれーと]/
 Nuntius{m}/教皇使節[きょうこうしせつ]/
-nur weil{adv}/…からといって[…からといって]/
-Nuss{f}/実[み]/木の実[このみ]/胡桃[くるみ]/ナッツ[なっつ]/
+nur weil{adv}/...からといって[...からといって]/
+Nuss{f}/{Bot.} 胡桃[くるみ]/
 Nussknacker{m}/くるみ割り[くるみわり]/
 Nut{f}/溝[みぞ]/
 Nutria{m}/ヌートリア[ぬーとりあ]/
 Nutte{f}/売人[ばいにん]/
-Nutzanwendung{f}/利用[りよう]/応用[おうよう]/活用[かつよう]/
+Nutzanwendung{f}/応用[おうよう]/
 Nutzbarkeit{f}/使い勝手[つかいがって]/
-Nutzen{m}/為[ため]/甲斐[かい]/利点[りてん]/儲け[もうけ]/役[えき]/効[かい]/薬[くすり]/得[とく]/益[えき]/潤い[うるおい]/果実[かじつ]/便利さ[べんりさ]/効用[こうよう]/利[り]/便利[べんり]/
+Nutzen{m}/利益[りえき]/
 Nutzer{m}/利用者[りようしゃ]/
 Nutzlast{f}/ペイロード[ぺいろーど]/
 Nutzleistung{f}/有効出力[ゆうこうしゅつりょく]/
-nutzlos{adj}{adv}/犬[いぬ]/虚しい[むなしい]/下らない[くだらない]/
-Nutzlosigkeit{f}/ダメ[だめ]/無駄[むだ]/駄目[だめ]/ヤクザ[やくざ]/役立たず[やくたたず]/不毛[ふもう]/無用[むよう]/
+nutzlos{adj}{adv}/無駄な[むだな]/
+Nutzlosigkeit{f}/無駄[むだ]/
 Nutznießer{m}/受益者[じゅえきしゃ]/
 Nutznießung{f}/受益[じゅえき]/
 Nutzpflanze{f}/有用植物[ゆうようしょくぶつ]/
@@ -20288,13 +20287,13 @@ Nutzungsgebühr{f}/使用料[しようりょう]/
 Nylon{n}/ナイロン[ないろん]/
 Nymphe{f}/人魚[にんぎょ]/
 Nymphomanin{f}/色狂い[いろきちがい]/
-Nächstenliebe{f}/恵み[めぐみ]/慈悲[じひ]/
-nächstens{adv}/今回[こんかい]/この度[このたび]/近々[ちかぢか]/今度[こんど]/
+Nächstenliebe{f}/隣人愛[りんじんあい]/
+nächstens{adv}/(in Kürze) 間も無く[まもなく]/
 nächtlich{adv}/夜毎[よごと]/
-Näharbeit{f}/仕事[しごと]/裁縫[さいほう]/
-Nähe{f}/周り[まわり]/近場[ちかば]/近辺[きんぺん]/辺り[ほとり]/辺[ほとり]/周[まわり]/近隣[きんりん]/傍[はた]/隣[となり]/隣り[となり]/密接[みっせつ]/足元[あしもと]/至近[しきん]/至近距離[しきんきょり]/付近[ふきん]/間近[まぢか]/
-Nähen{n}/針[はり]/裁縫[さいほう]/鍼[はり]/綴[とじ]/仕立て[したて]/縫い[ぬい]/
-nähen{vt}/刺す[さす]/縫う[ぬう]/
+Näharbeit{f}/裁縫[さいほう]/
+Nähe{f}/付近[ふきん]/
+Nähen{n}/裁縫[さいほう]/
+nähen{vt}/縫う[ぬう]/
 Näher{m}/裁縫師[さいほうし]/
 Näherin{f}/針子[はりこ]/
 Näherung{f}/近似[きんじ]/
@@ -20312,21 +20311,21 @@ Nährstoff{m}/栄養素[えいようそ]/
 Nährstoffmangel{m}/貧栄養[ひんえいよう]/
 Nährwert{m}/栄養[えいよう]/
 Nähzeug{n}/裁縫道具[さいほうどうぐ]/
-nämlich{adv}/同じ[おなじ]/即ち[すなわち]/詰まり[つまり]/
+nämlich{adv}/つまり[つまり]/
 närrisch{adv}{adj}/愚かしい[おろかしい]/
 näseln{vi}/鼻を鳴らす[はなをならす]/
-Nässe{f}/湿気[しっけ]/水気[みずけ]/
+Nässe{f}/水気[みずけ]/
 nördlich{adj}{adv}/以北[いほく]/
 Nördliche Krone{f}/北冠座[きたのかんむりざ]/
 nörgelnd/口うるさい[くちうるさい]/
 Nörgler{m}/不平分子[ふへいぶんし]/
 nötig{adv}/やむを得ない[やむをえない]/
 nötigen{vt}/迫る[せまる]/
-Nötigung{f}/強制[きょうせい]/圧力[あつりょく]/圧迫[あっぱく]/威圧[いあつ]/
-nüchtern{adv}/ドライ[どらい]/現実的[げんじつてき]/大人しい[おとなしい]/淡々[たんたん]/
-Nüchternheit{f}/本気[ほんき]/正気[しょうき]/地道[じみち]/素顔[すがお]/
+Nötigung{f}/強制[きょうせい]/
+nüchtern{adv}/(nicht betrunken) しらふの[しらふの]/{fig.}(kühl;gelassen) 冷静な[れいせいな]/
+Nüchternheit{f}/(frei von Alkohohl) 素面[しらふ]/(Gelassenheit) 冷静[れいせい]/(Objektivität) 客観性[きゃっかんせい]/
 nützlich{adv}/便宜な[べんぎな]/
-Nützlichkeit{f}/有益[ゆうえき]/益[えき]/有用[ゆうよう]/
+Nützlichkeit{f}/有益[ゆうえき]/
 Oase{f}/オアシス[おあしす]/
 ob{conj}/否か[いなか]/
 Obacht{f}/気配り[きくばり]/
