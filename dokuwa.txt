@@ -20350,19 +20350,19 @@ Oberbürgermeister{m}/市長[しちょう]/
 Oberdeck{n}/上甲板[じょうかんぱん]/
 oberer/上部の[じょうぶの]/
 Oberfeldwebel{m}/准尉[じゅんい]/
-Oberfläche{f}/面[おも]/外部[がいぶ]/上部[じょうぶ]/表面[ひょうめん]/平面[へいめん]/
+Oberfläche{f}/表面[ひょうめん]/
 Oberflächenausführung{f}/仕上げ[しあげ]/
 Oberflächenbehandlung{f}/表面処理[ひょうめんしょり]/
 Oberflächenbeschaffenheit{f}/仕上げ[しあげ]/
 Oberflächengüte{f}/仕上げ[しあげ]/
 Oberflächenspannung{f}/表面張力[ひょうめんちょうりょく]/
 Oberflächenstruktur{f}/表面構造[ひょうめんこうぞう]/
-oberflächlich{adv}{adj}/浮いた[ういた]/フォーマル[ふぉーまる]/薄っぺら[うすっぺら]/表面的[ひょうめんてき]/
-Oberflächlichkeit{f}/大雑把[おおざっぱ]/浅見[せんけん]/浅はか[あさはか]/薄手[うすで]/
+oberflächlich{adv}{adj}/表面的[ひょうめんてき]/
+Oberflächlichkeit{f}/大雑把[おおざっぱ]/
 Obergrenze{f}/最大限度[さいだいげんど]/
-oberhalb{prp; +Genitiv}/…の上の[…のうえの]/
-Oberhand{f}/優位[ゆうい]/優勢[ゆうせい]/
-Oberhaupt{n}/親分[おやぶん]/首長[しゅちょう]/
+oberhalb{prp; +Genitiv}/...の上の[...のうえの]/
+Oberhand{f}/優位[ゆうい]/
+Oberhaupt{n}/親分[おやぶん]/
 Oberhaus{n}/上院[じょういん]/
 Oberherr{m}/宗主[そうしゅ]/
 Oberherrschaft{f}/宗主権[そうしゅけん]/
@@ -20380,9 +20380,9 @@ Oberlicht{n}/明り取り[あかりとり]/
 Oberliga{f}/ビッグ･リーグ[びっぐりーぐ]/
 Oberlippe{f}/上唇[うわくちびる]/
 Oberlänge{f}/アセンダー[あせんだー]/
-Oberschenkel{m}/太もも[ふともも]/股[もも]/腿[もも]/
+Oberschenkel{m}/{Anat.} 太もも[ふともも]/
 Oberschenkelknochen{m}/大腿骨[だいたいこつ]/
-Oberschule{f}/高[こう]/高等学校[こうとうがっこう]/
+Oberschule{f}/高等学校[こうとうがっこう]/
 Oberschwester{f}/婦長[ふちょう]/
 Oberschüler{m}/高校生[こうこうせい]/
 Oberseite{f}/表面[ひょうめん]/
@@ -20391,12 +20391,12 @@ Oberst{m}/一佐[いっさ]/
 Oberstaatsanwalt{m}/検事正[けんじせい]/
 oberste/最高[さいこう]/
 Oberstleutnant{m}/中佐[ちゅうさ]/
-Oberteil{n}/上部[じょうぶ]/上方[じょうほう]/
+Oberteil{n}/上方[じょうほう]/
 Oberton{m}/倍音[ばいおん]/
 Oberwasser{n}/優位[ゆうい]/
 Oberweite{f}/バスト[ばすと]/
 Obhut{f}/庇護[ひご]/
-Objekt{n}/的[まと]/物件[ぶっけん]/対象[たいしょう]/物[もの]/モノ[もの]/客観[きゃっかん]/相手[あいて]/オブジェ[おぶじぇ]/
+Objekt{n}/対象[たいしょう]/
 Objektiv{n}/レンズ[れんず]/
 objektiv{adv}/客観的[きゃっかんてき]/
 objektivieren{vt}/客観性を付与する[きゃっかんせいをふよする]/
@@ -20409,33 +20409,33 @@ Oboe{f}/オーボエ[おーぼえ]/
 Oboist{m}/オーボエ奏者[おーぼえそうしゃ]/
 Obrigkeit{f}/当局[とうきょく]/
 Observation{f}/観測[かんそく]/
-Observatorium{n}/展望台[てんぼうだい]/天文台[てんもんだい]/
-Obst{n}/フルーツ[ふるーつ]/果物[くだもの]/果実[かじつ]/
+Observatorium{n}/観測所[かんそくじょ]/
+Obst{n}/果物[くだもの]/
 Obstanbau{m}/果樹栽培[かじゅさいばい]/
 Obstbaum{m}/果樹[かじゅ]/
 Obstgarten{m}/果樹園[かじゅえん]/
 Obstipation{f}/便秘[べんぴ]/
 Obstkuchen{m}/フルーツケーキ[ふるーつけーき]/
-Obstruktion{f}/妨害[ぼうがい]/閉塞[へいそく]/
+Obstruktion{f}/妨害[ぼうがい]/
 Obstsaft{m}/フルーツジュース[ふるーつじゅーす]/
 Obstsalat{m}/フルーツサラダ[ふるーつさらだ]/
-Obszönität{f}/露骨[ろこつ]/ピンキー[ぴんきー]/
-obwohl/けど[けど]/割に[わりに]/けれども[けれども]/癖に[くせに]/けれど[けれど]/
+Obszönität{f}/猥褻[わいせつ]/
+obwohl/けど[けど]/
 Occipitallappen{m}/後頭葉[こうとうよう]/
-Ochse{m}/牛[うし]/丑[うし]/
+Ochse{m}/{Zool.} 雄牛[おうし]/
 Ochsenfrosch{m}/ウシガエル[うしがえる]/
 ocker{adj}/黄土色の[おうどいろの]/
 Ocker{m}/黄土色[おうどいろ]/
 Ode{f}/頌歌[しょうか]/
-Odem{m}/息[いき]/息吹[いぶき]/
-oder{conj}/と[と]/或いは[あるいは]/将[はた]/若しくは[もしくは]/又[また]/復[また]/や[や]/又は[または]/
+Odem{m}/(Atem) 息吹[いぶき]/
+oder{conj}/又は[または]/
 Odinshühnchen{n}/アカエリヒレアシシギ[あかえりひれあししぎ]/
-Ofen{m}/レンジ[れんじ]/オーブン[おーぶん]/ストーブ[すとーぶ]/
+Ofen{m}/(Küche) オーブン[おーぶん]/(elektr. Heizung) ストーブ[すとーぶ]/(Kamin;Feuerstelle) 暖炉[だんろ]/
 ofenfrisch{adj}/焼き立ての[やきたての]/
 Ofenrohr{n}/煙突[えんとつ]/
-offen{adj}{adv}/広い[ひろい]/ずばり[ずばり]/潔く[いさぎよく]/赤裸々[せきらら]/はっきり[はっきり]/端的[たんてき]/ぽっかり[ぽっかり]/がらがら[がらがら]/表向き[おもてむき]/プレーン[ぷれーん]/
-offenbar{adv}/明らか[あきらか]/歴然[れきぜん]/表向き[おもてむき]/
-Offenbarung{f}/発揮[はっき]/表れ[あらわれ]/現れ[あらわれ]/お告げ[おつげ]/黙示録[もくしろく]/吐露[とろ]/
+offen{adj}{adv}/(~ stehen) 開いている[あいている]/(ausgedehnt;breit) 広い[ひろい]/(~herzig) 率直な[そっちょくな]/
+offenbar{adv}/明らか[あきらか]/
+Offenbarung{f}/{relig.} 天啓[てんけい]/(Geständnis) 告白[こくはく]/
 Offenbarungseid{m}/資産公開[しさんこうかい]/
 Offenbarungsreligion{f}/啓示宗教[けいじしゅうきょう]/
 offene Stelle{f}/欠員[けついん]/
