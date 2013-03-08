@@ -19412,7 +19412,7 @@ Märchenprinz{m}/白馬の王子[はくばのおうじ]/
 Märtyrer{m}/殉教者[じゅんきょうしゃ]/
 mästen{vt}/餌をやる[えをやる]/
 Mätresse{f}/室[しつ]/
-mäßig{adj}{adv}/(maßvoll) 適度の[てきどの]/(nicht gut) 良くない[よくない]/
+mäßig{adj}{adv}/(maßvoll) 適度の[てきどの]/(<=> gut) 良くない[よくない]/
 mäßigen{vt}/緩和する[かんわする]/
 Mäßigkeit{f}/適度[てきど]/
 Mäßigung{f}/(Zurückhaltung) 控え目[ひかえめ]/
@@ -20322,7 +20322,7 @@ Nörgler{m}/不平分子[ふへいぶんし]/
 nötig{adv}/やむを得ない[やむをえない]/
 nötigen{vt}/迫る[せまる]/
 Nötigung{f}/強制[きょうせい]/
-nüchtern{adv}/(nicht betrunken) しらふの[しらふの]/{fig.}(kühl;gelassen) 冷静な[れいせいな]/
+nüchtern{adv}/(<=> betrunken) しらふの[しらふの]/{fig.}(kühl;gelassen) 冷静な[れいせいな]/
 Nüchternheit{f}/(frei von Alkohohl) 素面[しらふ]/(Gelassenheit) 冷静[れいせい]/(Objektivität) 客観性[きゃっかんせい]/
 nützlich{adv}/便宜な[べんぎな]/
 Nützlichkeit{f}/有益[ゆうえき]/
@@ -20440,33 +20440,33 @@ Offenbarungseid{m}/資産公開[しさんこうかい]/
 Offenbarungsreligion{f}/啓示宗教[けいじしゅうきょう]/
 offene Stelle{f}/欠員[けついん]/
 offene Veranda/濡れ縁[ぬれえん]/
-Offenheit{f}/裸[はだか]/気さく[きさく]/白地[いささめ]/露骨[ろこつ]/率直[そっちょく]/淡白[たんぱく]/ざっくばらん[ざっくばらん]/公明[こうめい]/手放し[てばなし]/プレーン[ぷれーん]/
+Offenheit{f}/(Aufrichtigkeit) 率直[そっちょく]/
 offenkundig{adv}{adj}/晴れて[はれて]/
 Offenkundigkeit{f}/公然[こうぜん]/
-offensichtlich{adv}{adj}/白い[しろい]/一見[いっけん]/明白[めいはく]/既に[すでに]/明らか[あきらか]/言わずと知れた[いわずとしれた]/
+offensichtlich{adv}{adj}/明らか[あきらか]/
 Offensichtlichkeit{f}/顕在[けんざい]/
 offensiv{adj}/攻撃的[こうげきてき]/
-Offensive{f}/攻撃[こうげき]/攻勢[こうせい]/
+Offensive{f}/攻勢[こうせい]/
 offensive Haltung{f}/攻撃姿勢[こうげきしせい]/
 offerieren{vt}/提供する[ていきょうする]/
-offiziell{adj}{adv}/オフィシャル[おふぃしゃる]/表向き[おもてむき]/
+offiziell{adj}{adv}/公式の[こうしきの]/
 Offizier{m}/運転士[うんてんし]/
 Offizierspatent{n}/運転士受取証[うんてんしうけとりしょう]/
 Offsetdruck{m}/オフセット[おふせっと]/
-oft{adv}/多い[おおい]/再々[さいさい]/度々[たびたび]/しばしば[しばしば]/おおい[おおい]/ちょこちょこ[ちょこちょこ]/ちょいちょい[ちょいちょい]/何度も[なんども]/数多い[かずおおい]/ちょくちょく[ちょくちょく]/
+oft{adv}/(viel;zahlreich) 多い[おおい]/(häufig) しばしば[しばしば]/(vielmahls) よく[よく]/
 Ohmmeter{n}/オーム計[おーむけい]/
-ohne{prp; +Akkusativ}{adv}/から[から]/除いて[のぞいて]/
+ohne{prp; +Akkusativ}{adv}/無し[なし]/
 ohne Anerkennung einer Rechtspflicht/恩恵で[おんけいで]/
 ohne eigene Meinung/無定見な[むていけんな]/
 ohne Hindernis/こだわりなく[こだわりなく]/
 ohne nachzudenken/我を忘れて[われをわすれて]/
-ohne Unterbrechung/一気に[いっきに]/絶えず[たえず]/
+ohne Unterbrechung/絶えず[たえず]/
 ohne viel nachzudenken/余り考えずに[あまりかんがえずに]/
 ohne zu murren/文句を言わずに[もんくをいわずに]/
 ohne zu weinen/けろりとして[けろりとして]/
-Ohnmacht{f}/無力[むりょく]/気絶[きぜつ]/無能[むのう]/失神[しっしん]/意識不明[いしきふめい]/
+Ohnmacht{f}/{fig.} 無力[むりょく]/(Bewußtlosigkeit) 失神[しっしん]/
 ohnmächtig werden{vi}/気を失う[きをうしなう]/
-Ohr{n}/耳[みみ]/イヤー[いやー]/小耳[こみみ]/
+Ohr{n}/耳[みみ]/
 ohrenbetäubend{adj}/騒がしい[さわがしい]/
 Ohrenklappe{f}/耳当て[みみあて]/
 Ohrensausen{n}/耳鳴り[みみなり]/
@@ -20492,7 +20492,7 @@ Oktave{f}/オクターブ[おくたーぶ]/
 Oktett{n}/オクテット[おくてっと]/
 Oktober{m}/10月[じゅうがつ]/
 Oktoberrevolution{f}/十月革命[じゅうがつかくめい]/
-Oktopus{m}/タコ[たこ]/蛸[たこ]/
+Oktopus{m}/蛸[たこ]/
 Okular{n}/接眼鏡[せつがんきょう]/
 Oldtimer{m}/クラシックカー[くらしっくかー]/
 Oleander{m}/夾竹桃[きょうちくとう]/
@@ -20505,23 +20505,23 @@ Olive{f}/オリーブ[おりーぶ]/
 Olivenbaum{m}/橄欖[かんらん]/
 Olivenhain{m}/オリーブ畑[おりーぶばたけ]/
 Olivin{m}/橄欖石[かんらんせき]/
-Olympische Spiele{pl}/オリンピック[おりんぴっく]/五輪[ごりん]/
-Oma{f}/祖母[そぼ]/ばば[ばば]/
+Olympische Spiele{pl}/オリンピック[おりんぴっく]/
+Oma{f}/祖母[そぼ]/
 Ombudsmann{m}/オンブズマン[おんぶずまん]/
-Omen{n}/知らせ[しらせ]/予兆[よちょう]/縁起[えんぎ]/兆し[きざし]/兆[ちょう]/前触れ[まえぶれ]/
-ominös{adv}/怪しい[あやしい]/妖しい[あやしい]/
+Omen{n}/縁起[えんぎ]/
+ominös{adv}/怪しい[あやしい]/
 Omnibus{m}/乗り合い[のりあい]/
 Onanie{f}/オナニー[おなにー]/
 Ondulation{f}/波動[はどう]/
-Onkel{m}/叔父[しゅくふ]/伯父[はくふ]/
+Onkel{m}/叔父[おじ]/
 onomatopoetisch{adj}/擬声語の[ぎせいごの]/
 Ontologie{f}/存在論[そんざいろん]/
 Opa{m}/お祖父さん[おじいさん]/
 Opal{m}/オパール[おぱーる]/
-Oper{f}/オペラ[おぺら]/歌劇[かげき]/
+Oper{f}/オペラ[おぺら]/
 Operand{m}/オペランド[おぺらんど]/
 Operateur{m}/術者[じゅっしゃ]/
-Operation{f}/手術[しゅじゅつ]/操作[そうさ]/操業[そうぎょう]/作動[さどう]/施術[しじゅつ]/オペレーション[おぺれーしょん]/
+Operation{f}/{Med.}(chirurgischer Eingriff) 手術[しゅじゅつ]/{Milit.} 作戦[さくせん]/
 Operationsbasis{f}/地盤[じばん]/
 Operationskittel{m}/手術衣[しゅじゅつごろも]/
 Operationssaal{m}/手術室[しゅじゅつしつ]/
@@ -20531,10 +20531,10 @@ Operette{f}/オペレッタ[おぺれった]/
 Opernglas{n}/オペラグラス[おぺらぐらす]/
 Opernhaus{n}/オペラハウス[おぺらはうす]/
 Opernsänger{m}/オペラ歌手[おぺらかしゅ]/
-Opfer{n}/被害者[ひがいしゃ]/供[きょう]/被災者[ひさいしゃ]/出血[しゅっけつ]/ターゲット[たーげっと]/餌食[えじき]/犠牲者[ぎせいしゃ]/犠牲[いけにえ]/お供え[おそなえ]/虜[とりこ]/
-Opfergabe{f}/お供え[おそなえ]/供[きょう]/
+Opfer{n}/犠牲[ぎせい]/(Geschädigter) 犠牲者[ぎせいしゃ]/(=> Opfergabe)/
+Opfergabe{f}/お供え[おそなえ]/
 Opferlamm{n}/子羊[こひつじ]/
-opfern{vt}/上がる[あがる]/捧げる[ささげる]/向ける[むける]/上げる[あげる]/捨てる[すてる]/
+opfern{vt}/犠牲にする[ぎせいにする]/{Rel.} 捧げる[ささげる]/
 Opferstock{m}/賽銭箱[さいせんばこ]/
 Opfertier{n}/犠牲[いけにえ]/
 Opferung{f}/人柱[ひとばしら]/
@@ -20545,24 +20545,24 @@ Opossum{n}/袋鼠[ふくろねずみ]/
 Opportunismus{m}/迎合[げいごう]/
 Opportunist{m}/風見鶏[かざみどり]/
 opportunistisch{adj}/無定見な[むていけんな]/
-Opposition{f}/反対[はんたい]/敵対[てきたい]/反抗[はんこう]/対立[たいりつ]/野党[やとう]/抗[こう]/野[や]/抵抗[ていこう]/反対派[はんたいは]/
+Opposition{f}/反対[はんたい]/{Pol.} 野党[やとう]/
 Oppositionspartei{f}/野党[やとう]/
 Optik{f}/光学[こうがく]/
 Optiker{m}/眼鏡屋[めがねや]/
 optimal{adj}/最適の[さいてきの]/
 optimieren{vt}/最適化する[さいてきかする]/
 Optimierung{f}/最適化[さいてきか]/
-Optimismus{m}/楽天[らくてん]/能天気[のうてんき]/脳天気[のうてんき]/楽観[らっかん]/
+Optimismus{m}/楽天[らくてん]/
 Optimist{m}/楽天家[らくてんか]/
-optimistisch{adj}{adv}/呑気[のんき]/楽観的[らっかんてき]/
+optimistisch{adj}{adv}/楽観的[らっかんてき]/
 Optimum{n}/最適[さいてき]/
-Option{f}/オプション[おぷしょん]/任意[にんい]/
+Option{f}/(Auswahl) 選択[せんたく]/オプション[おぷしょん]/
 optisch{adj}{adv}/オプティカル[おぷてぃかる]/
 optischer Speicher/光メモリー[ひかりめもりー]/
 optisches Drehvermögen/旋光性[せんこうせい]/
 Optoelektronik{f}/オプトエレクトロニクス[おぷとえれくとろにくす]/
 Optokoppler{m}/フォトカプラー[ふぉとかぷらー]/
-Orakel{n}/占い[うらない]/お告げ[おつげ]/占[うらない]/
+Orakel{n}/神託[しんたく]/
 orakelhaft{adv}/託宣の[たくせんの]/
 oral{adj}/口内[こうない]/
 Orange{f}{n}/オレンジ色[おれんじいろ]/
@@ -20571,20 +20571,20 @@ Orangensaft{m}/オレンジジュース[おれんじじゅーす]/
 Orangenschale{f}/オレンジ･ピール[おれんじぴーる]/
 Oratorium{n}/オラトリオ[おらとりお]/
 Orbitalgeschwindigkeit{f}/軌道速度[きどうそくど]/
-Orchester{n}/オーケストラ[おーけすとら]/楽団[がくだん]/管弦楽[かんげんがく]/管弦楽団[かんげんがくだん]/
+Orchester{n}/オーケストラ[おーけすとら]/
 Orchestermusik{f}/管弦楽[かんげんがく]/
 Orchestrierung{f}/管弦楽法[かんげんがくほう]/
 Orchidee{f}/蘭[い]/
 Orden{m}/勲章[くんしょう]/
-Ordensschwester{f}/シスター[しすたー]/童貞[どうてい]/
-ordentlich{adj}{adv}/良い[いい]/じっくり[じっくり]/整然[せいぜん]/整った[ととのった]/ちゃんと[ちゃんと]/好い[いい]/きちんと[きちんと]/本格的[ほんかくてき]/規則正しい[きそくただしい]/
+Ordensschwester{f}/(Nonne) 修道女[しゅうどうじょ]/
+ordentlich{adj}{adv}/(tadellos) きちんと[きちんと]/(aufrichtig) 真面な[まともな]/(ordnungsgemäß) 整然とした[せいぜんとした]/(sauber) 奇麗な[きれいな]/
 Orderscheck{m}/指図式手形[さしずしきてがた]/
 Ordinalzahl{f}/序数[じょすう]/
 Ordinatenachse{f}/縦軸[たてじく]/
 Ordination{f}/按手礼[あんしゅれい]/
-ordnen{vt}/置く[おく]/整える[ととのえる]/片付ける[かたづける]/
-Ordner{m}/ファイル[ふぁいる]/フォルダ[ふぉるだ]/
-Ordnung{f}/整理[せいり]/系列[けいれつ]/手順[てじゅん]/整頓[せいとん]/規律[きりつ]/部類[ぶるい]/階段[かいだん]/序[じょ]/順序[じゅんじょ]/条例[じょうれい]/類[るい]/秩序[ちつじょ]/順[じゅん]/整備[せいび]/決まり[きまり]/配列[はいれつ]/規則[きそく]/
+ordnen{vt}/整える[ととのえる]/
+Ordner{m}/ファイル[ふぁいる]/
+Ordnung{f}/秩序[ちつじょ]/
 ordnungsgemäß{adj}/整然[せいぜん]/
 Ordnungsliebe{f}/綺麗好き[きれいずき]/
 ordnungsliebend{adj}/きれい好きな[きれいずきな]/
@@ -20592,7 +20592,7 @@ Ordnungswidrigkeit{f}/秩序違反[ちつじょいはん]/
 Ordonnanz{f}/伝令[でんれい]/
 Organ{n}/機関[きかん]/
 Organigramm{n}/組織図[そしきず]/
-Organisation{f}/会社[かいしゃ]/成り立ち[なりたち]/制度[せいど]/団体[だんたい]/機構[きこう]/組織[そしき]/体制[たいせい]/構成[こうせい]/仕組み[しくみ]/構造[こうぞう]/制[せい]/成立[せいりつ]/編成[へんせい]/結社[けっしゃ]/
+Organisation{f}/(Gruppe) 団体[だんたい]/(Leitung) 運営[うんえい]/(System;Struktur) 組織[そしき]/
 Organisator{m}/幹事[かんじ]/
 organisatorisch{adj}{adv}/組織的[そしきてき]/
 organisch{adj}{adv}/有機的[ゆうきてき]/
@@ -20606,31 +20606,31 @@ Orgasmus{m}/オーガズム[おーがずむ]/
 Orgel{f}/オルガン[おるがん]/
 Orgelpfeife{f}/音管[おんかん]/
 Orgie{f}/騒ぎ[さわぎ]/
-Orient{m}/東洋[とうよう]/オリエンタル[おりえんたる]/
+Orient{m}/東洋[とうよう]/
 Orientale{m}/東洋人[とうようじん]/
 orientalisch{adj}/東洋の[とうようの]/
 Orientalist{m}/東洋学者[とうようがくしゃ]/
-Orientierung{f}/志向[しこう]/指針[ししん]/方向性[ほうこうせい]/方角[ほうがく]/意向[いこう]/
+Orientierung{f}/志向[しこう]/指針[ししん]/(Ausrichtung) 方向性[ほうこうせい]/(Richtung){Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]} 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
 Orientierungslauf{m}/オリエンテーション[おりえんてーしょん]/
-Orientierungspunkt{m}/目標[めじるし]/ランドマーク[らんどまーく]/目印[めじるし]/
+Orientierungspunkt{m}/ランドマーク[らんどまーく]/
 Orientierungssinn{m}/方向感覚[ほうこうかんかく]/
-Origami{n}/折り紙[おりがみ]/ペーパークラフト[ぺーぱーくらふと]/
-Original{n}/オリジナル[おりじなる]/マスター[ますたー]/正[せい]/本物[ほんもの]/原文[げんぶん]/実物[じつぶつ]/原書[げんしょ]/現物[げんぶつ]/変わり者[かわりもの]/変人[へんじん]/テキスト[てきすと]/
+Origami{n}/折り紙[おりがみ]/
+Original{n}/原物[げんぶつ]/
 Originalausgabe{f}/原版[げんばん]/
 Originalbeleg{m}/原票[げんぴょう]/
 Originalgröße{f}/原寸[げんすん]/
-Originalität{f}/独自[どくじ]/異色[いしょく]/オリジナリティ[おりじなりてぃ]/本場[ほんば]/奇抜[きばつ]/一風[いっぷう]/
-originell{adv}/変わった[かわった]/独創的[どくそうてき]/目新しい[めあたらしい]/味な[あじな]/独特[どくとく]/
+Originalität{f}/(Unverfälschtheit) 本物[ほんもの]/{fig.} オリジナリティー[おりじなりてぃー]/
+originell{adv}/独特[どくとく]/
 originär{adj}/独自に[どくじに]/
 Orion{m}/オライオン[おらいおん]/
-Orkan{m}/風[かぜ]/疾風[しっぷう]/暴風[ぼうふう]/
+Orkan{m}/暴風[ぼうふう]/
 Ornithologe{m}/鳥類学者[ちょうるいがくしゃ]/
 Ornithologie{f}/鳥類学[ちょうるいがく]/
 Orpheusbülbül{m}/ヒヨドリ[ひよどり]/
-Ort{m}/サイト[さいと]/ローカル[ろーかる]/場[ば]/場面[ばめん]/界[さかい]/境[きょう]/ロケーション[ろけーしょん]/所[とこ]/地点[ちてん]/箇所[かしょ]/場所[ばしょ]/プレイス[ぷれいす]/
+Ort{m}/場所[ばしょ]/
 orthodox{adv}/正統の[せいとうの]/
 Orthoperkussion{f}/閾価打診法[いきかだしんほう]/
-Orthopädie{f}/整形[せいけい]/整形外科[せいけいげか]/外科[げか]/
+Orthopädie{f}/{Med.} 整形外科[せいけいげか]/
 Ortsbehörde{f}/地方官庁[ちほうかんちょう]/
 Ortsgespräch{n}/市内通話[しないつうわ]/
 Ortsgruppe{f}/支部[しぶ]/
@@ -20645,7 +20645,7 @@ Osmose{f}/浸透[しんとう]/
 Ossifikation{f}/骨化[こっか]/
 Ostblock{m}/東欧[とうおう]/
 Ostdeutschland{n}/東ドイツ[ひがしどいつ]/
-Osten{m}/東[ひがし]/卯[う]/東方[とうほう]/オリエンタル[おりえんたる]/東部[とうぶ]/イースト[いーすと]/
+Osten{m}/東[ひがし]/
 Osteoarthritis{f}/変形性関節症[へんけいせいかんせつしょう]/
 Osteomalazie{f}/骨軟化症[こつなんかしょう]/
 Osteomyelitis{f}/骨髄炎[こつずいえん]/
@@ -20681,7 +20681,7 @@ Oxid{n}/酸化物[さんかぶつ]/
 Oxidation{f}/酸化[さんか]/
 Oxidationsflamme{f}/酸化炎[さんかえん]/
 oxidieren/燻す[いぶす]/
-Ozean{m}/海洋[かいよう]/大海[たいかい]/オーシャン[おーしゃん]/
+Ozean{m}/大洋[たいよう]/
 ozeanisch{adj}/オセアニアの[おせあにあの]/
 Ozeanographie{f}/海洋科学[かいようかがく]/
 Ozonloch{n}/オゾンホール[おぞんほーる]/
