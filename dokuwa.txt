@@ -20686,7 +20686,7 @@ ozeanisch{adj}/オセアニアの[おせあにあの]/
 Ozeanographie{f}/海洋科学[かいようかがく]/
 Ozonloch{n}/オゾンホール[おぞんほーる]/
 Ozonschicht{f}/オゾン層[おぞんそう]/
-Paar{n}/組[くみ]/対[つい]/二人組[ふたりぐみ]/ツイン[ついん]/組み[くみ]/組み[くみ]/ペア[ぺあ]/コンビ[こんび]/カップル[かっぷる]/
+Paar{n}/(zwie Dinge) 一対[いっつい]/(Pärchen;Ehepaar) カップル[かっぷる]/
 Paarbildung{f}/一対[いっつい]/
 Paarhufer{m}/偶蹄類[ぐうているい]/
 Paarlauf{m}/ペアスケーティング[ぺあすけーてぃんぐ]/
@@ -20704,22 +20704,22 @@ Packmaterial{n}/梱包材[こんぽうざい]/
 Packpapier{n}/包装紙[ほうそうし]/
 Packpferd{n}/駄馬[だうま]/
 Packsattel{m}/荷鞍[にぐら]/
-Packung{f}/パック[ぱっく]/梱包[こんぽう]/
+Packung{f}/(Ver~) 梱包[こんぽう]/
 Paddel{n}/櫂[かい]/
-Page{m}/ボーイ[ぼーい]/童子[どうじ]/
+Page{m}/ボーイ[ぼーい]/^
 paginieren{vt}/ページをつける[ぺーじをつける]/
 Paginierung{f}/ノンブル[のんぶる]/
 Pagode{f}/がん[がん]/
 Paillette{f}/スパンコール[すぱんこーる]/
 Paisleymuster{n}/ビーン[びーん]/
-Paket{n}/荷物[にもつ]/パック[ぱっく]/パケット[ぱけっと]/包み[つつみ]/パッケージ[ぱっけーじ]/パッケージ[ぱっけーじ]/荷[に]/
+Paket{n}/(Fracht) 荷物[にもつ]/(Set) パッケージ[ぱっけーじ]/
 Paketpost{f}/小包郵便[こづつみゆうびん]/
 Paketschalter{m}/小荷物取扱い所[こにもつとりあつかいじょ]/
 Paketsendung{f}/小荷物扱い[こにもつあつかい]/
 Pakistaner{m}/パキスタン人[ぱきすたんじん]/
 pakistanisch{adj}/パキスタンの[ぱきすたんの]/
-Pakt{m}/契約[けいやく]/条約[じょうやく]/同盟[どうめい]/
-Palast{m}/宮[みや]/パレス[ぱれす]/殿堂[でんどう]/宮殿[きゅうでん]/御殿[ごてん]/
+Pakt{m}/条約[じょうやく]/(Allianz) 同盟[どうめい]/
+Palast{m}/宮殿[きゅうでん]/
 Palatalisierung{f}/口蓋音化[こうがいおんか]/
 Palette{f}/パレット[ぱれっと]/
 Palisade{f}/柵[さく]/
@@ -20737,7 +20737,7 @@ palästinensisch{adj}/パレスチナの[ぱれすちなの]/
 Pampa{f}/草深い田舎[くさぶかいいなか]/
 Pampashase{m}/パタゴニアン･キャビー[ぱたごにあんきゃびー]/
 Pampelmuse{f}/グレープフルーツ[ぐれーぷふるーつ]/
-Pamphlet{n}/パンフレット[ぱんふれっと]/冊子[さっし]/小冊子[しょうさっし]/パンフ[ぱんふ]/
+Pamphlet{n}/パンフレット[ぱんふれっと]/
 Panamaer{m}/パナマ人[ぱなまじん]/
 panamaisch{adj}/パナマの[ぱなまの]/
 Panamakanal{m}/パナマ運河[ぱなまうんが]/
@@ -20749,7 +20749,7 @@ Paniermehl{n}/パン粉[ぱんこ]/
 Panik{f}/パニック[ぱにっく]/恐慌[きょうこう]/
 Pankreatitis{f}/膵炎[すいえん]/
 Panne{f}/立ち往生[たちおうじょう]/
-Panorama{n}/眺め[ながめ]/パノラマ[ぱのらま]/全景[ぜんけい]/
+Panorama{n}/パノラマ[ぱのらま]/全景[ぜんけい]/
 Panoramablick{m}/パノラマのような景色[ぱのらまのようなけしき]/
 Pantheismus{m}/汎神論[はんしんろん]/
 Pantoffel{m}/スリッパ[すりっぱ]/
@@ -20757,7 +20757,7 @@ Pantoffelblume{f}/カルセオラリア[かるせおらりあ]/
 Pantoffelheld{m}/恐妻家[きょうさいか]/
 Pantoffeltierchen{n}/草履虫[ぞうりむし]/
 Pantomime{f}{m}{f}/黙[だんまり]/
-Panzer{m}/タンク[たんく]/甲羅[こうら]/戦車[せんしゃ]/
+Panzer{m}/タンク[たんく]/戦車[せんしゃ]/
 Panzerdivision{f}/戦車師団[せんしゃしだん]/
 Panzerfaust{f}/バズーカ砲[ばずーかほう]/
 Panzerjäger{m}/戦車攻撃車[せんしゃこうげきしゃ]/
@@ -20768,12 +20768,12 @@ Panzerschiff{n}/甲鉄艦[こうてつかん]/
 Panzersperre{f}/戦車障害物[せんしゃしょうがいぶつ]/
 Panzertruppe{f}/戦車隊[せんしゃたい]/
 Panzerung{f}/アーマー[あーまー]/
-Papagei{m}/インコ[いんこ]/オウム[おうむ]/
+Papagei{m}/オウム[おうむ]/
 Papageienfisch{m}/石鯛[いしだい]/
 Papageienkrankheit{f}/オウム病[おうむびょう]/
 Papaya{f}/パパイヤ[ぱぱいや]/
 Papayabaum{m}/パパイア[ぱぱいあ]/
-Papier{n}/紙[かみ]/券[けん]/用紙[ようし]/ペーパー[ぺーぱー]/
+Papier{n}/紙[かみ]/
 Papierbogen{m}/枚葉紙[まいようし]/
 Papiere{pl}/書類[しょるい]/
 Papierfabrik{f}/製紙工場[せいしこうじょう]/
@@ -20801,17 +20801,17 @@ Pappe{f}/台紙[だいし]/
 Pappel{f}/ポプラ[ぽぷら]/
 Pappkarton{m}/ボール紙[ぼーるがみ]/
 Pappschachtel{f}/カートン[かーとん]/
-Paprika{m}{f}/ピーマン[ぴーまん]/唐辛子[とうがらし]/
+Paprika{m}{f}/ピーマン[ぴーまん]/
 Papst{m}/法王[ほうおう]/
 Papsttum{n}/法王権[ほうおうけん]/
 Papua/パプアニューギニア人[ぱぷあにゅーぎにあじん]/
 Papyrus{m}/パピルス[ぱぴるす]/
-Parabel{f}{m}/例え[たとえ]/比喩[ひゆ]/
+Parabel{f}/(Gleichnis) 譬え話[たとえばなし]/{Math.} 放物線[ほうぶつせん]/
 Parabolantenne{f}/パラボラアンテナ[ぱらぼらあんてな]/
 parabolisch{adv}/比喩的[ひゆてき]/
-Parade{f}/パレード[ぱれーど]/オンパレード[おんぱれーど]/行進[こうしん]/
+Parade{f}/パレード[ぱれーど]/
 Paradeplatz{m}/練兵場[れんぺいじょう]/
-Paradies{n}/天国[てんごく]/楽園[らくえん]/パラダイス[ぱらだいす]/極楽[ごくらく]/桃源郷[とうげんきょう]/天堂[てんどう]/
+Paradies{n}/天国[てんごく]/パラダイス[ぱらだいす]/
 paradiesisch{adj}/天国の[てんごくの]/
 Paradiesvogel{m}/極楽鳥[ごくらくちょう]/
 Paradigma{n}/パラダイム[ぱらだいむ]/
@@ -20849,30 +20849,30 @@ Parasitismus{m}/寄生[きせい]/
 Parataxe{f}/並列[へいれつ]/
 Paravent{m}/屏風[びょうぶ]/
 Parenchym{n}/腺細胞組織[せんさいぼうそしき]/
-Parfüm{n}/香水[こうすい]/香料[こうりょう]/芳香[ほうこう]/
+Parfüm{n}/香水[こうすい]/
 Parfümerie{f}/化粧品店[けしょうひんてん]/
 Parfümfläschchen{n}/香水瓶[こうすいびん]/
 pari{adv}/額面価額[がくめんかがく]/
 parieren{vt}/受け止める[うけとめる]/
 Pariser{m}/パリジャン[ぱりじゃん]/
 Pariser Kommune{f}/パリコミューン[ぱりこみゅーん]/
-Parität{f}/平等[びょうどう]/均等[きんとう]/同等[どうとう]/
+Parität{f}/(Gleichheit) 同等[どうとう]/
 paritätisch{adj}/等価の[とうかの]/
 Paritätsfehler{m}/パリティー･エラー[ぱりてぃーえらー]/
-Park{m}/園[その]/苑[その]/庭園[ていえん]/
+Park{m}/公園[こうえん]/
 Parka{m}/ヤッケ[やっけ]/
-Parkanlage{f}/庭園[ていえん]/外苑[がいえん]/
+Parkanlage{f}/公園[こうえん]/
 Parken{n}/駐車[ちゅうしゃ]/パーキング[ぱーきんぐ]/
 parken{vt}/駐車する[ちゅうしゃする]/
-Parkett{n}/穴[あな]/孔[あな]/
+Parkett{n}/寄木張り[よせぎばり]/
 Parkgebühr{f}/駐車料金[ちゅうしゃりょうきん]/
 Parkinson-Krankheit{f}/パーキンソン病[ぱーきんそんびょう]/
 Parkour{m}/パルクール[ぱるくーる]/
 Parkplatz{m}/駐車場[ちゅうしゃじょう]/
 Parkuhr{f}/パーキングメーター[ぱーきんぐめーたー]/
 Parkverbot{n}/駐車禁止[ちゅうしゃきんし]/
-Parlament{n}/国会[こっかい]/議会[ぎかい]/
-Parlamentarier{m}/議員[ぎいん]/国会議員[こっかいぎいん]/代議士[だいぎし]/
+Parlament{n}/国会[こっかい]/
+Parlamentarier{m}/国会議員[こっかいぎいん]/
 Parlamentarismus{m}/議会政治[ぎかいせいじ]/
 Parlamentsausschuss{m}/委員会[いいんかい]/
 Parlamentär{m}/軍使[ぐんし]/
@@ -20881,7 +20881,7 @@ Parodie{f}/替え歌[かえうた]/
 parodieren{vt}/もじる[もじる]/
 Parole{f}/合言葉[あいことば]/
 Parotitis{f}/耳下腺炎[じかせんえん]/
-Partei{f}/仲間[なかま]/派[は]/群[むれ]/パーティー[ぱーてぃー]/組[くみ]/組み[くみ]/当事者[とうじしゃ]/系統[けいとう]/党[とう]/群れ[むれ]/
+Partei{f}/(politische ~) 政党[せいとう]/(Gruppe) 組[くみ]/
 parteiisch{adj}/えこひいきの[えこひいきの]/
 Parteilinie{f}/線[せん]/
 parteilos{adv}/不偏な[ふへんな]/
@@ -20893,7 +20893,7 @@ Parteitag{m}/大会[たいかい]/
 Parteizugehörigkeit{f}/党籍[とうせき]/
 Parterre{n}/一階[いっかい]/
 Partie{f}/ロット[ろっと]/
-partiell{adj}/不全[ふぜん]/部分的[ぶぶんてき]/
+partiell{adj}/(teilweise) 部分的[ぶぶんてき]/
 Partikel{n}/粒子[りゅうし]/
 Partikularismus{m}/縄張り主義[なわばりしゅぎ]/
 Partisan{m}/パルチザン[ぱるちざん]/
@@ -20901,20 +20901,20 @@ Partition{f}/分解[ぶんかい]/
 partitionieren/分解する[ぶんかいする]/
 Partizip{n}/分詞[ぶんし]/
 Partizipation{f}/パーティシペーション[ぱーてぃしぺーしょん]/
-Partner{m}/仲間[なかま]/バディ[ばでぃ]/具[ぐ]/パートナー[ぱーとなー]/相方[あいかた]/相手[あいて]/相棒[あいぼう]/
+Partner{m}/相手[あいて]/
 Partnerschaft{f}/共同[きょうどう]/
 Partnerstadt{f}/姉妹都市[しまいとし]/
 Partnertausch{m}/スワッピング[すわっぴんぐ]/
 partout{adv}/是が非でも[ぜがひでも]/
-Party{f}/パーティー[ぱーてぃー]/催し[もよおし]/宴会[えんかい]/会合[かいごう]/
+Party{f}/パーティー[ぱーてぃー]/
 Parzelle{f}/分譲地[ぶんじょうち]/
 parzellieren{vt}/分譲する[ぶんじょうする]/
 Parzellierung{f}/分地[ぶんち]/
 Paspel{f}/パイピング[ぱいぴんぐ]/
-Pass{m}/道[みち]/パス[ぱす]/路[みち]/パスポート[ぱすぽーと]/峠[とうげ]/
+Pass{m}/(Berg~) 峠[とうげ]/(Reise~) パスポート[ぱすぽーと]/{Sport} パス[ぱす]/
 Pass auf!/気を付けて。[きをつけて。]/
-Passage{f}/箇所[かしょ]/通過[つうか]/通り道[とおりみち]/アーケード[あーけーど]/
-Passagier{m}/客[きゃく]/旅客[りょきゃく]/乗客[じょうきゃく]/
+Passage{f}/(Durchgang) 通り道[とおりみち]/
+Passagier{m}/旅客[りょきゃく]/
 Passagierdampfer{m}/客船[きゃくせん]/
 Passagierflugzeug{n}/旅客機[りょかっき]/
 Passagierliste{f}/乗船者名簿[じょうせんしゃめいぼ]/
@@ -20922,8 +20922,8 @@ Passagierschiff{n}/客船[きゃくせん]/
 Passahfest{n}/過越しの祭[すぎこしのまつり]/
 Passant{m}/通行人[つうこうにん]/
 Passat{m}/貿易風[ぼうえきふう]/
-passen{vi}/会う[あう]/写る[うつる]/合う[あう]/叶う[かなう]/逢う[あう]/向く[むく]/映る[うつる]/
-passend{adj}{adv}/良い[いい]/適宜[てきぎ]/甘い[うまい]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/宜しく[よろしく]/好い[いい]/適当[てきとう]/相応しい[ふさわしい]/丁度[ちょうど]/都合の良い[つごうのよい]/
+passen{vi}/会う[あう]/(jmd. gut stehen) 似合う[にあう]/
+passend{adj}{adv}/適当な[てきとうな]/
 Passierschein{m}/パス[ぱす]/
 Passiv{n}/受身[うけみ]/
 passiv{adv}/消極的[しょうきょくてき]/
@@ -20934,18 +20934,18 @@ Passivraucher{m}/受動喫煙者[じゅどうきつえんしゃ]/
 Passivsaldo{n}/赤字[あかじ]/
 Passmarke{f}/蜻蛉[とんぼ]/
 Passstraße{f}/峠道[とうげみち]/
-Passwort{n}/パスワード[ぱすわーど]/合言葉[あいことば]/
+Passwort{n}/パスワード[ぱすわーど]/
 Paste{f}/ペースト[ぺーすと]/
 Pastell{n}/パステル[ぱすてる]/
 Pastellfarbe{f}/パステルカラー[ぱすてるからー]/
-Pastete{f}/ペースト[ぺーすと]/パテ[ぱて]/
+Pastete{f}/{Kochk.}(Speise) パテ[ぱて]/
 Pasteurisierung{f}/低温殺菌[ていおんさっきん]/
 Pastille{f}/トローチ[とろーち]/
 Pastinake{f}/アメリカボウフウ[あめりかぼうふう]/
 Pastorale{f}/牧歌[ぼっか]/
 Patchwork{n}/パッチワーク[ぱっちわーく]/
 Pate{m}/ゴッドファーザー[ごっどふぁーざー]/
-Patent{n}/許可[きょか]/特許[とっきょ]/
+Patent{n}/特許[とっきょ]/
 Patentamt{n}/特許庁[とっきょちょう]/
 Patentanspruch{m}/請求の範囲[せいきゅうのはんい]/
 Patentanwalt{m}/弁理士[べんりし]/
@@ -20956,7 +20956,7 @@ Patentregister{n}/専売特許登録簿[せんばいとっきょとうろくぼ]
 Patentschutz{m}/特権保護[とっけんほご]/
 Patenturkunde{f}/特許状[とっきょじょう]/
 Patentverletzung{f}/特許侵害[とっきょしんがい]/
-Pater{m}/神父[しんぷ]/ファーザー[ふぁーざー]/
+Pater{m}/{Christent.}(katholischer Priester) 神父[しんぷ]/
 Paternoster{m}/循環型エレベーター[じゅんかんがたえれべーたー]/
 Pathogenese{f}/病根[びょうこん]/
 Pathologe{m}/病理学者[びょうりがくしゃ]/
@@ -20973,7 +20973,7 @@ Patriarch{m}/家長[かちょう]/
 Patriarchat{n}/家父長制[かふちょうせい]/
 Patriot{m}/愛国者[あいこくしゃ]/
 patriotisch{adj}{adv}/愛国的な[あいこくてきな]/
-Patriotismus{m}/愛国[あいこく]/憂国[ゆうこく]/愛国心[あいこくしん]/
+Patriotismus{m}/愛国心[あいこくしん]/
 Patrone{f}/カートリッジ[かーとりっじ]/
 Patronenhülse{f}/薬莢[やっきょう]/
 Patrouille{f}/パトロール[ぱとろーる]/
@@ -20981,7 +20981,7 @@ Patt{n}/千日手[せんにちて]/
 Patzer{m}/やり損い[やりそこない]/
 Pauke{f}/ティンパニ[てぃんぱに]/
 Paukenhöhle{f}/鼓室[こしつ]/
-Pauker{m}/がり勉[がりべん]/
+Pauker{m}{ugs.}/教師[きょうし]/
 Paukist{m}/ティンパニー奏者[てぃんぱにーそうしゃ]/
 Paulownie{f}/桐[きり]/
 Pausbacken{pl}/下膨れ[しもぶくれ]/
@@ -20991,7 +20991,7 @@ Pauschalgebühr{f}/定額料金[ていがくりょうきん]/
 Pauschalpreis{m}/すべて込みの値段[すべてこみのねだん]/
 Pauschalreise{f}/パッケージツアー[ぱっけーじつあー]/
 Pauschalvertrag{m}/一括契約[いっかつけいやく]/
-Pause{f}/水[みず]/切れ目[きれめ]/休憩[きゅうけい]/合間[あいま]/一時停止[いちじていし]/中休み[なかやすみ]/写し[うつし]/刻み[きざみ]/一服[いっぷく]/休み[やすみ]/自由時間[じゆうじかん]/中断[ちゅうだん]/一区切り[ひとくぎり]/休息[きゅうそく]/レスト[れすと]/レスト[れすと]/待った[まった]/区切り[くぎり]/間隔[かんかく]/
+Pause{f}/休憩[きゅうけい]/
 Pausenzeichen{n}/レスト[れすと]/
 Pausetaste{f}/ホールド･スイッチ[ほーるどすいっち]/
 pausieren{vi}/休す[きゅうす]/
@@ -21004,7 +21004,7 @@ Pazifismus{m}/平和主義[へいわしゅぎ]/
 Pazifist{m}/平和主義者[へいわしゅぎしゃ]/
 pazifistisch{adj}/反戦の[はんせんの]/
 Pecannuss{f}/ペカン[ぺかん]/
-Pech{n}/不幸[ふこう]/不運[ふうん]/ピッチ[ぴっち]/凶[きょう]/
+Pech{n}/不運[ふうん]/{Mineral.}(Bitumen) 瀝青[れきせい]/
 Pechkohle{f}/瀝青炭[れきせいたん]/
 Pechsträhne{f}/天中殺[てんちゅうさつ]/
 Pechvogel{m}/運の悪い人[うんのわるいひと]/
@@ -21016,8 +21016,8 @@ Pedell{m}/給仕[きゅうじ]/
 Pediküre{f}/ペディキュア[ぺでぃきゅあ]/
 Pegel{m}/水位[すいい]/
 Peilgerät{n}/方向探知器[ほうこうたんちき]/
-Pein{f}/痛み[いたみ]/苦痛[くつう]/
-peinlich{adj}{adv}/輝かしい[かがやかしい]/気まずい[きまずい]/心苦しい[こころぐるしい]/
+Pein{f}/苦痛[くつう]/
+peinlich{adj}{adv}/気まずい[きまずい]/(~ berührt sein) 恥ずかしい[はずかしい]/
 peinlich genau{adj}/木目細か[きめこまか]/
 peinliche Genauigkeit{f}/四角四面[しかくしめん]/
 Peitsche{f}/鞭[むち]/
@@ -21025,8 +21025,8 @@ Peitschenwurm{m}/べんちゅう[べんちゅう]/
 Pekingese{m}/ペキニーズ[ぺきにーず]/
 Pelargonie{f}/ペラルゴニウム[ぺらるごにうむ]/
 Pelikan{m}/ペリカン[ぺりかん]/
-Pelle{f}/皮[かわ]/革[かわ]/
-Pelz{m}/皮[かわ]/革[かわ]/ファー[ふぁー]/毛皮[けがわ]/
+Pelle{f}/(Wurst~) ソーセージの皮[そーせーじのかわ]/
+Pelz{m}/毛皮[けがわ]/
 Pelzhändler{m}/毛皮商[けがわしょう]/
 Pelzmantel{m}/皮衣[かわごろも]/
 Pendant{n}/相手[あいて]/
@@ -21044,9 +21044,9 @@ Peng!/パーン[ぱーん]/
 penibel{adv}/周密[しゅうみつ]/
 Penner{m}/碌でなし[ろくでなし]/
 Penny{m}/ペニー[ぺにー]/
-Pension{f}/年金[ねんきん]/ペンション[ぺんしょん]/ゲストハウス[げすとはうす]/下宿[げしゅく]/
+Pension{f}/(Jahresrente) 年金[ねんきん]/(kleines Hotel) ペンション[ぺんしょん]/
 pensioniert{adj}/非職の[ひしょくの]/
-Pensionierung{f}/退職[たいしょく]/解雇[かいこ]/隠居[いんきょ]/退社[たいしゃ]/
+Pensionierung{f}/定年退職[ていねんたいしょく]/
 Pensionsalter{n}/定年[ていねん]/
 Pensionär{m}/退職者[たいしょくしゃ]/
 Pensum{n}/ノルマ[のるま]/
@@ -21055,8 +21055,8 @@ Pentagramm{n}/星型[ほしがた]/
 Penthouse{n}/塔屋[とうや]/
 Peptid{n}/ペプチド[ぺぷちど]/
 Perfekt{n}/完了[かんりょう]/
-perfekt{adv}/こよなく[こよなく]/パーフェクト[ぱーふぇくと]/ぴったり[ぴったり]/
-Perfektion{f}/完璧[かんぺき]/満点[まんてん]/万全[ばんぜん]/
+perfekt{adv}/完璧な[かんぺきな]/
+Perfektion{f}/完璧[かんぺき]/
 Perfektionismus{m}/凝り性[こりしょう]/
 Perfektionist{m}/完全主義者[かんぜんしゅぎしゃ]/
 Perforation{f}/穿孔[せんこう]/
@@ -21065,18 +21065,19 @@ Pergament{n}/羊皮紙[ようひし]/
 Pergola{f}/パーゴラ[ぱーごら]/
 Peridot{m}/橄欖石[かんらんせき]/
 Perikarditis{f}/心嚢炎[しんのうえん]/
-Periode{f}/朝[ちょう]/周期[しゅうき]/時期[じき]/サイクル[さいくる]/時代[じだい]/区切り[くぎり]/年代[ねんだい]/
+Periode{f}/時期[じき]/{Physiol.}(Menstruation) 生理[せいり]/
 Periodensystem{n}/周期表[しゅうきひょう]/
 Periodika{pl}/逐次刊行物[ちくじかんこうぶつ]/
-periodisch{adj}{adv}/定期的[ていきてき]/定期的に[ていきてきに]/
+periodisch{adj}{adv}/定期的[ていきてき]/
 Periodisierung{f}/時代区分[じだいくぶん]/
 Periodizität{f}/周期性[しゅうきせい]/
 peripher{adv}/周縁の[しゅうえんの]/
-Peripherie{f}/周り[まわり]/アクセサリ[あくせさり]/隅[すみ]/周辺[しゅうへん]/周[まわり]/周辺機器[しゅうへんきき]/アクセサリー[あくせさりー]/周囲[しゅうい]/
+Peripherie{f}/周辺[しゅうへん]/
 Peripheriegerät{n}/周辺機器[しゅうへんきき]/
 Periskop{n}/潜望鏡[せんぼうきょう]/
 Peritonitis{f}/腹膜炎[ふくまくえん]/
-Perle{f}/玉[たま]/ビーズ[びーず]/球[たま]/パール[ぱーる]/真珠[しんじゅ]/珠玉[しゅぎょく]/
+Perle{f}/真珠[しんじゅ]/
+Perle{f}{ugs.}/彼女[かのじょ]/
 perlen{vi}/泡立つ[あわだつ]/
 Perlenfischerei{f}/真珠採取[しんじゅさいしゅ]/
 Perlenschnur{f}/玉の緒[たまのお]/
@@ -21094,8 +21095,8 @@ Perser{m}/ペルシア人[ぺるしあじん]/
 Perserkatze{f}/ペルシャ猫[ぺるしゃねこ]/
 Perserteppich{m}/ペルシャ絨毯[ぺるしゃじゅうたん]/
 persisch{adj}/ペルシャの[ぺるしゃの]/
-Person{f}/人[じん]/ペルソナ[ぺるそな]/人間[にんげん]/身[み]/人物[じんぶつ]/マン[まん]/球[たま]/玉[たま]/者[もの]/
-Personal{n}/職員[しょくいん]/人員[じんいん]/乗務員[じょうむいん]/部下[ぶか]/従業員[じゅうぎょういん]/部員[ぶいん]/
+Person{f}/人[ひと]/
+Personal{n}/従業員[じゅうぎょういん]/
 Personalabbau{m}/人員整理[じんいんせいり]/
 Personalabteilung{f}/人事部[じんじぶ]/
 Personalaustausch{m}/交流人事[こうりゅうじんじ]/
@@ -21109,7 +21110,7 @@ Personalmangel{m}/人員不足[じんいんぶそく]/
 Personalpronomen{m}/人称代名詞[にんしょうだいめいし]/
 Personalrochade{f}/玉突き人事[たまつきじんじ]/
 Personalverwaltung{f}/人事行政[じんじぎょうせい]/
-Personalwechsel{m}/移動[いどう]/更迭[こうてつ]/人事異動[じんじいどう]/
+Personalwechsel{m}/更迭[こうてつ]/
 Personalwesen{n}/人事管理[じんじかんり]/
 Personenbeförderung{f}/乗客輸送[じょうきゃくゆそう]/
 Personenbeschreibung{f}/人相書き[にんそうがき]/
@@ -21117,21 +21118,21 @@ Personengesellschaft{f}/人的会社[じんてきかいしゃ]/
 Personenkraftwagen{m}/乗用車[じょうようしゃ]/
 Personenverkehr{m}/交通[こうつう]/
 Personenwagen{m}/乗用車[じょうようしゃ]/
-Personenzahl{f}/員[いん]/人数[にんず]/
+Personenzahl{f}/人数[にんず]/
 Personenzug{m}/客車[きゃくしゃ]/
 Personifikation{f}/擬人化[ぎじんか]/
 personifizieren{vt}/擬人化する[ぎじんかする]/
 Perspektive{f}/見通し[みとおし]/
 perspektivisch{adv}/透視的[とうしてき]/
-persönlich{adj}{adv}/自身[じしん]/パーソナル[ぱーそなる]/人的[じんてき]/プライベート[ぷらいべーと]/私的[してき]/親しい[したしい]/個人的[こじんてき]/自ら[みずから]/親しく[したしく]/個性的[こせいてき]/対人[たいじん]/個別[こべつ]/目の当たり[まのあたり]/単独で[たんどくで]/自家[じか]/
-Persönlichkeit{f}/人間[にんげん]/体臭[たいしゅう]/人柄[ひとがら]/人物[じんぶつ]/人格[じんかく]/大人[たいじん]/パーソナリティー[ぱーそなりてぃー]/人となり[ひととなり]/個性[こせい]/タレント[たれんと]/性格[せいかく]/
+persönlich{adj}{adv}/個人的[こじんてき]/
+Persönlichkeit{f}/(Charakter) 人柄[ひとがら]/(bekannte Person) 著名な人[ちょめいなひと]/
 Persönlichkeit des öffentlichen Lebens/公人[こうじん]/
 Persönlichkeitsrecht{n}/人格権[じんかくけん]/
 Pertussis{f}/百日咳[ひゃくにちぜき]/
 Peruaner{m}/ペルー人[ぺるーじん]/
 peruanisch{adj}/ペルーの[ぺるーの]/
-pervers{adj}{adv}/エッチ[えっち]/曲がった[まがった]/
-Perversion{f}/変態[へんたい]/エッチ[えっち]/歪み[ゆがみ]/
+pervers{adj}{adv}/変態的[へんたいてき]/
+Perversion{f}/変態[へんたい]/
 Perversität{f}/狂態[きょうたい]/
 Perversling{m}/エッチ[えっち]/
 Perücke{f}/ウィッグ[うぃっぐ]/
@@ -21151,14 +21152,14 @@ Petrodollar{pl}/オイルマネー[おいるまねー]/
 Petrolkoks{m}/石油ピッチコークス[せきゆぴっちこーくす]/
 Petrologie{f}/岩石学[がんせきがく]/
 Petroläther{m}/石油エーテル[せきゆえーてる]/
-Petschaft{f}/印[いん]/封[ふう]/
+Petschaft{f}/(Siegel) 印章[いんしょう]/
 Petticoat{m}/ペチコート[ぺちこーと]/
 Petunie{f}/ペチュニア[ぺちゅにあ]/
-Pfad{m}/道[みち]/路地[ろじ]/小径[こみち]/小道[こみち]/路[みち]/
+Pfad{m}/小道[こみち]/
 Pfadfinder{m}/ボーイスカウト[ぼーいすかうと]/
 Pfadfinderin{f}/ガールスカウト[がーるすかうと]/
 Pfadname{m}/パス名[ぱすめい]/
-Pfahl{m}/ポール[ぽーる]/杭[くい]/パイル[ぱいる]/支柱[しちゅう]/
+Pfahl{m}/ポール[ぽーる]/支柱[しちゅう]/
 Pfahlbau{m}/こう上家屋[こうじょうかおく]/
 Pfahlwurzel{f}/主根[しゅこん]/
 Pfand{n}/担保[たんぽ]/
@@ -21167,28 +21168,28 @@ Pfandgeber{m}/抵当権設定者[ていとうけんせっていしゃ]/
 Pfandleihe{f}/一六銀行[いちろくぎんこう]/
 Pfandleiher{m}/質屋[しちや]/
 Pfandschein{m}/質札[しちふだ]/
-Pfanne{f}{f }/鍋[なべ]/お鍋[おなべ]/
-Pfannkuchen{m}/ホットケーキ[ほっとけーき]/パンケーキ[ぱんけーき]/
+Pfanne{f}{f }/(Brat~) フライパン[ふらいぱん]/
+Pfannkuchen{m}/パンケーキ[ぱんけーき]/
 Pfarramt{n}/牧師館[ぼくしかん]/
 Pfarrer{m}/師[し]/
 Pfarrhaus{n}/牧師館[ぼくしかん]/
 Pfau{m}/孔雀[くじゃく]/
-Pfeffer{m}/ペッパー[ぺっぱー]/コショウ[こしょう]/胡椒[こしょう]/
+Pfeffer{m}/胡椒[こしょう]/
 Pfefferfresser{m}/大嘴[おおはし]/
 Pfefferkorn{n}/ペーパー･コーン[ぺーぱーこーん]/
 Pfefferminz{n}/ミント[みんと]/
 Pfefferminzöl{n}/薄荷油[はっかゆ]/
 Pfeffermühle{f}/胡椒挽き[こしょうひき]/
 Pfefferstreuer{m}/カスター[かすたー]/
-Pfeife{f}/パイプ[ぱいぷ]/笛[ふえ]/
+Pfeife{f}/(Tabaks~) パイプ[ぱいぷ]/(Flöte) 笛[ふえ]/
 Pfeifen{n}/口笛[くちぶえ]/
 pfeifen{vi}/ぴいぴい[ぴいぴい]/
 Pfeifenkopf{m}/雁首[がんくび]/
 Pfeifentabak{m}/パイプタバコ[ぱいぷたばこ]/
 Pfeifente{f}/赤頭[あかがしら]/
 Pfeifschwan{m}/コハクチョウ[こはくちょう]/
-Pfeil{m}/矢[や]/矢印[やじるし]/アロー[あろー]/
-Pfeiler{m}/柱[はしら]/パイル[ぱいる]/
+Pfeil{m}/矢印[やじるし]/
+Pfeiler{m}/柱[はしら]/
 Pfeilhecht{m}/オニカマス[おにかます]/
 Pfeilkraut{n}/慈姑[くわい]/
 Pfeilmacher{m}/矢師[やし]/
@@ -21197,8 +21198,8 @@ Pfeiltaste{f}/矢印キー[やじるしきー]/
 Pfeilwurz{f}/葛鬱金[くずうこん]/
 Pfennig{m}/ペニッヒ[ぺにっひ]/
 Pfennigfuchser{m}/けちん坊[けちんぼう]/
-Pferd{n}/馬[うま]/木馬[もくば]/コマ[こま]/駒[こま]/ナイト[ないと]/
-Pferdefleisch{n}/桜[さくら]/櫻[さくら]/
+Pferd{n}/馬[うま]/
+Pferdefleisch{n}/馬肉[ばにく]/
 Pferdefuß{m}/馬脚[ばきゃく]/
 Pferdeleder{n}/馬革[ばかく]/
 Pferdemist{m}/馬糞[まぐそ]/
@@ -21206,7 +21207,7 @@ Pferderennbahn{f}/競馬場[けいばじょう]/
 Pferderennen{n}/競馬[けいば]/
 Pferderennsport{m}/競馬[けいば]/
 Pferdeschwanz{m}/ポニーテール[ぽにーてーる]/
-Pferdestall{m}/厩舎[きゅうしゃ]/厩[うまや]/
+Pferdestall{m}/厩舎[きゅうしゃ]/
 Pferdestärke{f}/馬力[ばりき]/
 Pferdetransporter{m}/馬運車[ばうんしゃ]/
 Pferdewagen{m}/馬車[ばしゃ]/
@@ -21217,7 +21218,7 @@ Pfifferling{m}/杏茸[あんずたけ]/
 Pfingsten{n}/聖霊降臨祭[せいれいこうりんさい]/
 Pfingstrose{f}/牡丹[ぼたん]/
 Pfingstsonntag{m}/聖霊降臨日[せいれいこうりんび]/
-Pfirsich{m}/桃[もも]/ピーチ[ぴーち]/
+Pfirsich{m}/桃[もも]/
 Pflanze{f}/植物[しょくぶつ]/
 pflanzen{vt}/植える[うえる]/
 Pflanzenfaser{f}/植物性繊維[しょくぶつせいせんい]/
@@ -21230,14 +21231,14 @@ Pflanzenwelt{f}/植物界[しょくぶつかい]/
 Pflanzenöl{n}/植物油[しょくぶつゆ]/
 Pflanzer{m}/プランター[ぷらんたー]/
 pflanzlich{adj}/植物性[しょくぶつせい]/
-Pflanzung{f}/栽培[さいばい]/農園[のうえん]/培養[ばいよう]/植栽[しょくさい]/植え込み[うえこみ]/
+Pflanzung{f}/植栽[しょくさい]/
 Pflaster{n}/巷[ちまた]/
 Pflasterarbeiten{pl}/舗装工事[ほそうこうじ]/
 pflastern{vt}/敷く[しく]/
 Pflasterstein{m}/敷石[しきいし]/
-Pflaume{f}/梅[うめ]/プラム[ぷらむ]/ウメ[うめ]/李[すもも]/
-Pflaumenbaum{m}/梅[うめ]/ウメ[うめ]/
-Pflege{f}/介護[かいご]/養護[ようご]/保育[ほいく]/療養[りょうよう]/手入れ[ていれ]/付き添い[つきそい]/世話[せわ]/
+Pflaume{f}/梅[うめ]/
+Pflaumenbaum{m}/梅[うめ]/
+Pflege{f}/介護[かいご]/
 Pflegeeltern{pl}/里親[さとおや]/
 Pflegeheim{n}/ホーム[ほーむ]/
 Pflegekind{n}/里子[さとご]/
@@ -21246,7 +21247,7 @@ Pflegemutter{f}/義母[ぎぼ]/
 Pfleger{m}/付き添い[つきそい]/
 Pflegevater{m}/義父[ぎふ]/
 Pflegeversicherung{f}/介護保険[かいごほけん]/
-Pflicht{f}/道[みち]/局[きょく]/使命[しめい]/係[かかり]/責任[せきにん]/課題[かだい]/義理[ぎり]/役柄[やくがら]/路[みち]/勤め[つとめ]/務め[つとめ]/義務[ぎむ]/義務[ぎむ]/責務[せきむ]/お勤め[おつとめ]/役目[やくめ]/本分[ほんぶん]/
+Pflicht{f}/義務[ぎむ]/
 pflichtbewusst{adv}/物堅い[ものがたい]/
 Pflichtbewusstsein{n}/律儀[りちぎ]/
 Pflichtenheft{n}/仕様書[しようしょ]/
@@ -21255,7 +21256,7 @@ Pflichtfach{n}/必修科目[ひっしゅうかもく]/
 Pflichtlektüre{f}/必読[ひつどく]/
 pflichtschuldig/ただほんの申し訳に[ただほんのもうしわけに]/
 pflichtvergessen{adj}/投げやりな[なげやりな]/
-Pflichtvergessenheit{f}/無責任[むせきにん]/横着[おうちゃく]/怠慢[たいまん]/
+Pflichtvergessenheit{f}/無責任[むせきにん]/
 Pflichtverletzung{f}/義務違反[ぎむいはん]/
 Pflichtversicherung{f}/強制保険[きょうせいほけん]/
 Pflichtversäumnis{n}/職務怠慢[しょくむたいまん]/
@@ -21265,12 +21266,12 @@ Pflug{m}/鍬[くわ]/
 pflücken{vt}/もぐ[もぐ]/
 Pflügen{n}/畑打ち[はたうち]/
 pflügen{vt}/起こす[おこす]/
-Pfosten{m}/柱[はしら]/杭[くい]/支柱[しちゅう]/
-Pfote{f}/手[て]/足[あし]/
+Pfosten{m}/柱[はしら]/
+Pfote{f}/動物の足[どうぶつのあし]/
 pfropfen{vt}/接ぎ木する[つぎきする]/
 Pfropfen{m}/栓[せん]/
 Pfund{n}/斤[きん]/
-Pfusch{m}/手抜き[てぬき]/殴る[なぐる]/
+Pfusch{m}/手抜き[てぬき]/
 pfuschen{vi}/殴りつける[なぐりつける]/
 Pfuscher{m}/へっぽこ[へっぽこ]/
 Pfuscherei{f}/駄作[ださく]/
