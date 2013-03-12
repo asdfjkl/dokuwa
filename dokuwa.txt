@@ -21276,16 +21276,16 @@ pfuschen{vi}/殴りつける[なぐりつける]/
 Pfuscher{m}/へっぽこ[へっぽこ]/
 Pfuscherei{f}/駄作[ださく]/
 pfuscherhaft{adj}/へぼな[へぼな]/
-pfänden{vt}/抑える[おさえる]/押さえる[おさえる]/
+pfänden{vt}/(beschlagnahmen) 差し押さえる[さしおさえる]/(ver~) 質に入れる[しちにいれる]/
 Pfändung{f}/差し押さえ[さしおさえ]/
 Pfändungsbefehl{m}/赤紙[あかがみ]/
 Pförtner{m}/番人[ばんにん]/
 Pförtnerhaus{n}/ロッジ[ろっじ]/
 Pförtnerloge{f}/門番小屋[もんばんごや]/
-Pfütze{f}/水溜り[みずたまり]/水たまり[みずたまり]/
+Pfütze{f}/水溜り[みずたまり]/
 Phalanx{f}/方陣[ほうじん]/
 Phallus{m}/羅[ら]/
-Phantom{n}/幻[まぼろし]/幻影[げんえい]/通り魔[とおりま]/
+Phantom{n}/幻影[げんえい]/
 Phantombild{n}/モンタージュ写真[もんたーじゅしゃしん]/
 Pharao{m}/ファラオ[ふぁらお]/
 Pharmaindustrie{f}/医薬産業[いやくさんぎょう]/
@@ -21298,12 +21298,12 @@ Pharmazeut{m}/薬剤師[やくざいし]/
 Pharmazeutik{f}/薬科[やっか]/
 Pharmazie{f}/薬学[やくがく]/
 Pharyngitis{f}/咽頭炎[いんとうえん]/
-Phase{f}/段階[だんかい]/様相[ようそう]/階段[かいだん]/相[そう]/運び[はこび]/
+Phase{f}/(Stadium) 段階[だんかい]/
 Phasendifferenz{f}/位相差[いそうさ]/
 Phasenraum{m}/位相空間[いそうくうかん]/
 Philanthrop{m}/篤志家[とくしか]/
 Philanthropie{f}/慈善[じぜん]/
-Philharmonie{f}/管弦楽団[かんげんがくだん]/フィルハーモニー[ふぃるはーもにー]/
+Philharmonie{f}/フィルハーモニー[ふぃるはーもにー]/
 philharmonisch/フィルハーモニック[ふぃるはーもにっく]/
 philippinisch{adj}/フィリピンの[ふぃりぴんの]/
 Philister{m}/無趣味な人[むしゅみなひと]/
@@ -21336,22 +21336,22 @@ Photon{n}/光子[こうし]/
 Photosynthese{f}/光合成[こうごうせい]/
 Phrase{f}/フレーズ[ふれーず]/句[く]/
 Phyllit{m}/千枚岩[せんまいがん]/
-Physik{f}/物理[ぶつり]/物理学[ぶつりがく]/
-physikalisch{adj}{adv}/物理的[ぶつりてき]/フィジカル[ふぃじかる]/
+Physik{f}/物理学[ぶつりがく]/
+physikalisch{adj}{adv}/物理的[ぶつりてき]/
 Physiker{m}/物理学者[ぶつりがくしゃ]/
 physikochemisch{adj}/物理化学的な[ぶつりかがくてきな]/
-Physiognomie{f}/相[そう]/顔立ち[かおだち]/
+Physiognomie{f}/人相[にんそう]/
 Physiographie{f}/地文学[ちもんがく]/
 Physiologe{m}/生理学者[せいりがくしゃ]/
 Physiologie{f}/生理[せいり]/
 physiologisch{adj}{adv}/生理的[せいりてき]/
-physisch{adj}{adv}/肉体的[にくたいてき]/フィジカル[ふぃじかる]/外的[がいてき]/
+physisch{adj}{adv}/肉体的[にくたいてき]/
 Phytopathologie{f}/植物病理学[しょくぶつびょうりがく]/
 Phänomen{n}/事象[じしょう]/
 phänomenal{adj}{adv}/みぞうの[みぞうの]/
 Phänomenologie{f}/現象学[げんしょうがく]/
 Phänotyp{m}/表現型[ひょうげんがた]/
-Phönix{m}/不死鳥[ふしちょう]/鳳凰[ほうおう]/
+Phönix{m}/{Mythol.} フェニックス[ふぇにっくす]/
 Pianist{m}/ピアニスト[ぴあにすと]/
 Pianoforte{n}/ピアノ[ぴあの]/
 Pianola{n}/自動ピアノ[じどうぴあの]/
@@ -21365,7 +21365,7 @@ Piepser{m}/ポケベル[ぽけべる]/
 Pier{f}/波止場[はとば]/
 Piercing{n}/ピアス[ぴあす]/
 Pietät{f}/信心[しんじん]/
-pietätlos{adj}{adv}/勿体無い[もったいない]/勿体ない[もったいない]/
+pietätlos{adj}{adv}/勿体ない[もったいない]/
 Pietätlosigkeit{f}/不敬虔[ふけいけん]/
 Pigment{n}/色素[しきそ]/
 Pigmentzelle{f}/色素細胞[しきそさいぼう]/
@@ -21373,12 +21373,12 @@ Pik{m}{n}/頂上[ちょうじょう]/
 pikant{adj}{adv}/浮いた[ういた]/
 Pikkoloflöte{f}/ピッコロ[ぴっころ]/
 Pikrinsäure{f}/ピクリン酸[ぴくりんさん]/
-Pilger{m}/巡礼[じゅんれい]/
-Pilgerfahrt{f}/巡礼[じゅんれい]/往来[おうらい]/遍歴[へんれき]/
-Pille{f}/錠[じょう]/ピル[ぴる]/タブレット[たぶれっと]/
+Pilger{m}/巡礼者[じゅんれいしゃ]/
+Pilgerfahrt{f}/巡礼[じゅんれい]/
+Pille{f}/錠剤[じょうざい]/{Med.}(Verhütungsmittel) ピル[ぴる]/
 Pilot{m}/パイロット[ぱいろっと]/飛行士[ひこうし]/
 Pilotanlage{f}/パイロットプラント[ぱいろっとぷらんと]/
-Pilz{m}/菌[きん]/松茸[まつたけ]/キノコ[きのこ]/茸[たけ]/
+Pilz{m}/{Biol.}{Med.} 菌[きん]/キノコ[きのこ]/
 Pilzkunde{f}/菌学[きんがく]/
 Piment{m}{n}/オールスパイス[おーるすぱいす]/
 Pimmel{m}/ちんちん[ちんちん]/
@@ -21390,34 +21390,34 @@ Pingeligkeit{f}/潔癖[けっぺき]/
 Pinguin{m}/ペンギン[ぺんぎん]/
 pink{adj}/桃色の[ももいろの]/
 pinkeln{vi}/おしっこをする[おしっこをする]/
-Pinsel{m}/筆[ふで]/ブラシ[ぶらし]/
+Pinsel{m}/筆[ふで]/
 Pinzette{f}/ピンセット[ぴんせっと]/
-Pionier{m}/元祖[がんそ]/パイオニア[ぱいおにあ]/
+Pionier{m}/パイオニア[ぱいおにあ]/{Milit.} 工兵[こうへい]/
 Pioniergeist{m}/フロンティアスピリット[ふろんてぃあすぴりっと]/
 Pipeline{f}/パイプ[ぱいぷ]/
 Pipette{f}/スポイト[すぽいと]/
 Pipi{n}/おしっこ[おしっこ]/
 Piranha{m}/ピラニア[ぴらにあ]/
-Pirat{m}/パイレーツ[ぱいれーつ]/海賊[かいぞく]/
+Pirat{m}/海賊[かいぞく]/
 Piraterie{f}/シージャック[しーじゃっく]/
 Pisolith{m}/豆石[まめいし]/
 Pisse{f}/尿[いばり]/
 Pistazie{f}/ピスタチオ[ぴすたちお]/
 Piste{f}/滑走路[かっそうろ]/
 Pistill{n}/雌しべ[めしべ]/
-Pistole{f}/パチンコ[ぱちんこ]/ピストル[ぴすとる]/銃[じゅう]/拳銃[けんじゅう]/
-Pizza{f}/ピザ[ぴざ]/ピッツァ[ぴっつぁ]/
+Pistole{f}/ピストル[ぴすとる]/
+Pizza{f}/ピザ[ぴざ]/
 Pizzeria{f}/ピザの店[ぴざのみせ]/
 Placebo{n}/プラシーボ[ぷらしーぼ]/
-Plackerei{f}/苦労[くろう]/骨折[ほねおり]/
+Plackerei{f}/苦労[くろう]/
 Plage{f}/苦[く]/
 Plagegeist{m}/疫病神[やくびょうがみ]/
 plagen{vt}/苦しむ[くるしむ]/
 Plagiat{n}/盗作[とうさく]/
 Plagiator{m}/剽窃者[ひょうせつしゃ]/
 plagiieren{vt}/盗む[ぬすむ]/
-Plakat{n}/看板[かんばん]/ビラ[びら]/掲示[けいじ]/ポスター[ぽすたー]/張り紙[はりがみ]/
-Plan{m}/予定[よてい]/構図[こうず]/計画[けいかく]/工作[こうさく]/積もり[つもり]/あや[あや]/綾[あや]/意[い]/スケジュール[すけじゅーる]/心がけ[こころがけ]/手順[てじゅん]/工夫[くふう]/発案[はつあん]/図面[ずめん]/結構[けっこう]/意図[いと]/考案[こうあん]/策[さく]/案[あん]/案[あん]/設計[せっけい]/寸法[すんぽう]/方策[ほうさく]/趣向[しゅこう]/意匠[いしょう]/方針[ほうしん]/仕組み[しくみ]/プラン[ぷらん]/抱負[ほうふ]/構想[こうそう]/企画[きかく]/地図[ちず]/段取り[だんどり]/目処[めど]/画策[かくさく]/
+Plakat{n}/ポスター[ぽすたー]/
+Plan{m}/計画[けいかく]/(Grundriss;Blaupause) 設計図[せっけいず]/(Landkarte) 地図[ちず]/
 Plane{f}/シート[しーと]/
 planen{vt}/図る[はかる]/
 Planer{m}/プランナー[ぷらんなー]/
@@ -21437,14 +21437,14 @@ planschen/水遊びをする[みずあそびをする]/
 Planschleifmaschine{f}/並研削盤[なみけんさくばん]/
 Planstelle{f}/専任[せんにん]/
 Plantage{f}/農園[のうえん]/
-Planung{f}/企画[きかく]/計画[けいかく]/工作[こうさく]/計画性[けいかくせい]/画策[かくさく]/
+Planung{f}/計画[けいかく]/
 Planungsabteilung{f}/企画部[きかくぶ]/
 Planungsstufe{f}/計画段階[けいかくだんかい]/
 Planwirtschaft{f}/計画経済[けいかくけいざい]/
 Plappermaul{n}/豆蔵[まめぞう]/
 plappern{vt}/喋る[しゃべる]/
 Plasma{n}/プラズマ[ぷらずま]/
-Plastik{f}/ビニール[びにーる]/彫刻[ちょうこく]/プラスチック[ぷらすちっく]/
+Plastik{f}/(Kunststoff) プラスチック[ぷらすちっく]/(Tonfigur;Gipsfigur) 塑像[そぞう]/
 Plastikbombe{f}/プラスチック爆弾[ぷらすちっくばくだん]/
 Plastikflasche{f}/PETボトル[ぺっとぼとる]/
 Plastikrohr{n}/ビニール管[びにーるかん]/
@@ -21453,11 +21453,11 @@ Plastiktüte{f}/ビニール袋[びにーるぶくろ]/
 plastisch{adj}{adv}/立体的[りったいてき]/
 Plastizität{f}/立体感[りったいかん]/
 Platane{f}/プラタナス[ぷらたなす]/
-Plateau{n}/台[だい]/高地[こうち]/
+Plateau{n}/(Hochebene) 高原[こうげん]/
 platonisch{adj}{adv}/清い[きよい]/
 platschen/がぼがぼ音を立てる[がぼがぼおとをたてる]/
 platt{adv}/平べったい[ひらべったい]/
-Platte{f}/皿[さら]/プレート[ぷれーと]/パンク[ぱんく]/盤[ばん]/
+Platte{f}/板[いた]/(Metall~) プレート[ぷれーと]/(Schall~) レコード[れこーど]/
 Plattenfirma{f}/レコード会社[れこーどがいしゃ]/
 Plattenhülle{f}/ジャケット[じゃけっと]/
 Plattenspieler{m}/レコードプレーヤー[れこーどぷれーやー]/
@@ -21469,33 +21469,32 @@ Plattfuß{m}/パンク[ぱんく]/
 Plattheit{f}/扁平[へんぺい]/
 plattieren/着せる[きせる]/
 Plattwurm{m}/扁形動物[へんけいどうぶつ]/
-Platz{m}/サイト[さいと]/座席[ざせき]/場[ば]/場[ば]/界[さかい]/境[きょう]/スペース[すぺーす]/隙[すき]/座[ざ]/園[その]/置き場所[おきばしょ]/スクウェア[すくうぇあ]/ゆとり[ゆとり]/余地[よち]/位置[いち]/所[とこ]/スクエア[すくえあ]/プラザ[ぷらざ]/席[せき]/席[せき]/広場[ひろば]/場所[ばしょ]/場所[ばしょ]/場所[ばしょ]/そら[そら]/敷地[しきち]/苑[その]/プレイス[ぷれいす]/観客席[かんきゃくせき]/
+Platz{m}/(Sitz~) 座席[ざせき]/(Raum) スペース[すぺーす]/(Ort) 場所[ばしょ]/
 Platz da!/道をあけろ![みちをあけろ!]/
 Platz nehmen/着く[つく]/座る[すわる]/
 Platzanweiser{m}/出方[でかた]/
 Platzanweiserin{f}/案内嬢[あんないじょう]/
 Platzdeckchen{n}/ランチョンマット[らんちょんまっと]/
-platzen{vi}/弾ける[はじける]/ばれる[ばれる]/割れる[われる]/
-Platzen{n}/爆発[ばくはつ]/パンク[ぱんく]/破裂[はれつ]/
+platzen{vi}/弾ける[はじける]/
 Platzhalter{m}/ダミー[だみー]/
 platzieren/位置づける[いちづける]/
-Platzierung{f}/ランキング[らんきんぐ]/位置づけ[いちづけ]/ランクイン[らんくいん]/
+Platzierung{f}/ランキング[らんきんぐ]/
 Platzkarte{f}/指定券[していけん]/
 Platzpatrone{f}/空包[くうほう]/
-Platzregen{m}/土砂降り[どしゃぶり]/スコール[すこーる]/
+Platzregen{m}/{Meteor.} 土砂降り[どしゃぶり]/
 platzsparend/スペース効率のよい[すぺーすこうりつのよい]/
 Platzverweis{m}/退場[たいじょう]/
 Platzwart{m}/グラウンド整備員[ぐらうんどせいびいん]/
 Platzwunde{f}/裂傷[れっしょう]/
-Plauderei{f}/雑談[ざつだん]/懇談[こんだん]/世間話[せけんばなし]/語らい[かたらい]/閑話[かんわ]/
+Plauderei{f}/雑談[ざつだん]/
 Plauderer{f}/お喋り[おしゃべり]/
-plaudern{vi}/話す[はなす]/喋る[しゃべる]/
+plaudern{vi}/喋る[しゃべる]/
 Playback{n}/再生[さいせい]/
 Plebiszit{n}/国民投票[こくみんとうひょう]/
 Pleistozän{n}/洪積[こうせき]/
 Plejaden{pl}/プレイヤード[ぷれいやーど]/
 Plektrum{n}/ピック[ぴっく]/
-Plenarsitzung{f}/総会[そうかい]/本会議[ほんかいぎ]/
+Plenarsitzung{f}/本会議[ほんかいぎ]/
 Pleonasmus{m}/贅言[ぜいげん]/
 Pleuelstange{f}/コンロッド[こんろっど]/
 Pleuritis{f}/胸膜炎[きょうまくえん]/
@@ -21507,9 +21506,9 @@ Plombe{f}/詰め物[つめもの]/
 Plotter{m}/プロッタ[ぷろった]/
 Pluderhose{f}/裁っ着け袴[たっつけばかま]/
 Plug-in{n}/プラグイン[ぷらぐいん]/
-plump{adv}{adj}/悪い[わるい]/拙い[つたない]/
-Plumpheit{f}/不器用[ぶきよう]/不細工[ぶさいく]/ぶきっちょ[ぶきっちょ]/
-Plunder{m}/代物[しろもの]/我楽多[がらくた]/
+plump{adv}{adj}/拙い[つたない]/
+Plumpheit{f}/不器用[ぶきよう]/
+Plunder{m}/代物[しろもの]/
 Pluraletantum{n}/絶対複数[ぜったいふくすう]/
 Pluralismus{m}/多元[たげん]/
 pluralistisch{adj}/多元的[たげんてき]/
@@ -21522,26 +21521,26 @@ plädieren{vi}/弁護する[べんごする]/
 Plädoyer{n}/弁論[べんろん]/
 Plätschern{n}/じゃぶじゃぶ[じゃぶじゃぶ]/
 plätschernd{adv}/ひたひた[ひたひた]/
-Plätzchen{n}/クッキー[くっきー]/ビスケット[びすけっと]/
-Plötzlichkeit{f}/急[きゅう]/急激[きゅうげき]/
+Plätzchen{n}/(Kekse) クッキー[くっきー]/
+Plötzlichkeit{f}/急激[きゅうげき]/
 Plünderer{m}/略奪者[りゃくだつしゃ]/
-plündern{vt}/奪う[うばう]/盗む[ぬすむ]/
-Plünderung{f}/強奪[ごうだつ]/略奪[りゃくだつ]/
+plündern{vt}/略奪する[りゃくだつする]/
+Plünderung{f}/略奪[りゃくだつ]/
 Plüsch{m}/毛長ビロード[けおさびろーど]/
 Plüschtier{n}/縫いぐるみ[ぬいぐるみ]/
-Pochen{n}/ドキドキ[どきどき]/どきどき[どきどき]/
+Pochen{n}/{onomat.}(~ des Herzens aus Angst oder Erwartung) ドキドキ[どきどき]/(Klopfen) ノック[のっく]/
 Pocken{pl}/天然痘[てんねんとう]/
 Pockennarbe{f}/痘痕[とうこん]/
 pockennarbig{adj}/あばたのある[あばたのある]/
-Podest{n}/台[だい]/座[ざ]/
+Podest{n}/台[だい]/
 Podium{n}/パネル[ぱねる]/
 Podiumsdiskussion{f}/パネルディスカッション[ぱねるでぃすかっしょん]/
-Poesie{f}/歌[うた]/唄[うた]/色気[いろけ]/
+Poesie{f}/(Literatur) 文芸[ぶんげい]/
 Poet{m}/歌詠み[うたよみ]/
 poetisch{adj}/詩的[してき]/
 Pointe{f}/落ち[おち]/
 Pointillismus{m}/点描画法[てんびょうがほう]/
-Pokal{m}{f}/カップ[かっぷ]/トロフィー[とろふぃー]/
+Pokal{m}{f}/{Sport}(Sieges~) 優勝杯[ゆうしょうはい]/
 Poker{n}/ポーカー[ぽーかー]/
 Pokerface{n}/ポーカーフェース[ぽーかーふぇーす]/
 pokern{vi}/ポーカーをする[ぽーかーをする]/
@@ -21567,17 +21566,17 @@ Polemiker{m}/論客[ろんきゃく]/
 polemisieren{vi}/争論する[そうろんする]/
 Police{f}/証書[しょうしょ]/
 polieren{vt}/磨く[みがく]/
-Polieren{n}/磨き[みがき]/練り[ねり]/
+Polieren{n}/磨き[みがき]/
 poliert{adv}/光沢のある[こうたくのある]/
 Poliertuch{n}/つやぶきん[つやぶきん]/
 Politesse{f}/婦警[ふけい]/
-Politik{f}/政治[せいじ]/政[まつりごと]/政策[せいさく]/ポリシー[ぽりしー]/施策[しさく]/策[さく]/方策[ほうさく]/方針[ほうしん]/
+Politik{f}/政治[せいじ]/
 Politiker{m}/政治家[せいじか]/
 Politikum{n}/政治問題[せいじもんだい]/
 Politikwissenschaft{f}/政治学[せいじがく]/
 politisch{adv}/政治的[せいじてき]/
 Politologe{m}/政治学者[せいじがくしゃ]/
-Politur{f}/ひかり[ひかり]/光沢[こうたく]/磨き[みがき]/
+Politur{f}/磨き[みがき]/
 Polizei{f}/察[さつ]/
 Polizeiauto{n}/パトロールカー[ぱとろーるかー]/
 Polizeidienststelle{f}/警察署[けいさつしょ]/
@@ -21587,7 +21586,7 @@ Polizeirevier{n}/警察署[けいさつしょ]/
 Polizeistaat{m}/警察国家[けいさつこっか]/
 Polizeistunde{f}/閉店時刻[へいてんじこく]/
 Polizeitruppe{f}/警察力[けいさつりょく]/
-Polizist{m}/警察[けいさつ]/警官[けいかん]/警察官[けいさつかん]/
+Polizist{m}/警察官[けいさつかん]/
 Polizistin{f}/婦警[ふけい]/
 Polka{f}/ポルカ[ぽるか]/
 Polkappe{f}/極冠[きょっかん]/
@@ -21598,7 +21597,7 @@ Poller{m}/係留柱[けいりゅうばしら]/
 polnisch{adj}/ポーランドの[ぽーらんどの]/
 Polo{n}/ポロ[ぽろ]/
 Polohemd{n}/ポロシャツ[ぽろしゃつ]/
-Polster{n}/当て[あて]/宛[あて]/パッド[ぱっど]/宛て[あて]/クッション[くっしょん]/
+Polster{n}/(Kissen) クッション[くっしょん]/
 polstern{vt}/クッションをつける[くっしょんをつける]/
 Poltergeist{m}/ポルターガイスト[ぽるたーがいすと]/
 polwärts{adv}/極の方に[きょくのほうに]/
@@ -21617,7 +21616,7 @@ Polymorphismus{m}/多型[たけい]/
 Polynesier{m}/ポリネシア人[ぽりねしあじん]/
 polynesisch{adj}/ポリネシアの[ぽりねしあの]/
 Polynom{n}/多項式[たこうしき]/
-Polyp{m}/タコ[たこ]/蛸[たこ]/
+Polyp{m}/蛸[たこ]/
 Polyphonie{f}/ポリフォニー[ぽりふぉにー]/
 Polypropylen{n}/ポリプロピレン[ぽりぷろぴれん]/
 Polysaccharid{n}/多糖類[たとうるい]/
@@ -21632,25 +21631,25 @@ Polyäthylen{n}/ポリエチレン[ぽりえちれん]/
 Pomade{f}/香油[こうゆ]/
 Pomeranze{f}/橙[だいだい]/
 Pommes frites{pl}/チップ[ちっぷ]/
-Pomp{m}/華麗[かれい]/絢爛[けんらん]/
+Pomp{m}/絢爛[けんらん]/
 Poncho{m}/ポンチョ[ぽんちょ]/
 Ponton{m}/フロート[ふろーと]/
 Pontonbrücke{f}/浮橋[うきはし]/
-Pony{n}{m}/馬[うま]/ポニー[ぽにー]/小馬[こうま]/コマ[こま]/駒[こま]/
-Pop{m}/ポップ[ぽっぷ]/ポップス[ぽっぷす]/
+Pony{n}{m}/{Zool.} ポニー[ぽにー]/小馬[こうま]/
+Pop{m}/{Musik} ポップ･ミュージック[ぽっぷみゅーじっく]/
 Popanz{m}/案山子[かかし]/
 Popcorn{n}/ポップコーン[ぽっぷこーん]/
 Popelin{m}/ポプリン[ぽぷりん]/
 Popgruppe{f}/グループサウンズ[ぐるーぷさうんず]/
 Popkonzert{n}/ポップス･コンサート[ぽっぷすこんさーと]/
 Popkultur{f}/大衆文化[たいしゅうぶんか]/
-Popmusik{f}/ポップ[ぽっぷ]/ポップス[ぽっぷす]/
-Popo{m}/尻[けつ]/お尻[おしり]/
+Popmusik{f}/ポップ･ミュージック[ぽっぷみゅーじっく]/
+Popo{m}/お尻[おしり]/
 popularisieren{vt}/公衆化する[こうしゅうかする]/
 Popularisierung{f}/普及[ふきゅう]/
 Population{f}/個体群[こたいぐん]/
 Populismus{m}/人民主義[じんみんしゅぎ]/
-populär{adj}/ポップ[ぽっぷ]/俗に[ぞくに]/ポピュラー[ぽぴゅらー]/庶民的[しょみんてき]/盛ん[さかん]/
+populär{adj}/ポピュラー[ぽぴゅらー]/(beliebt) 人気のある[にんきのある]/
 Pore{f}/毛穴[けあな]/
 Porenwasserdruck{m}/間隙水圧[かんげきすいあつ]/
 Pornofilm{m}/ピンク映画[ぴんくえいが]/
@@ -21658,25 +21657,25 @@ Pornografie{f}/エッチ[えっち]/
 Pornograph{m}/春本作家[しゅんぽんさっか]/
 Pornoheft{n}/ポルノ雑誌[ぽるのざっし]/
 Porosität{f}/多孔[たこう]/
-Porree{m}/ネギ[ねぎ]/葱[ねぎ]/
+Porree{m}/葱[ねぎ]/
 Port{m}/ポート[ぽーと]/
 Portal{n}/ポータル[ぽーたる]/
 Portalkran{m}/ガントリー･クレーン[がんとりーくれーん]/
 Portefeuille{n}/閣僚ポスト[かくりょうぽすと]/
 Portier{m}/番人[ばんにん]/
 portieren{vt}/移植する[いしょくする]/
-Portion{f}/前[まえ]/部分[ぶぶん]/
+Portion{f}/部分[ぶぶん]/
 Portlandzement{m}/ポートランド･セメント[ぽーとらんどせめんと]/
 Porto{n}/送料[そうりょう]/
 Porto (Stadt in Portugal)/ポルト[ぽると]/
 portofrei{adj}/発送料無料[はっそうりょうむりょう]/
 Portokasse{f}/小口現金[こぐちげんきん]/
-Porträt{n}/画像[えぞう]/肖像画[しょうぞうが]/肖像[しょうぞう]/ポートレート[ぽーとれーと]/似顔絵[にがおえ]/
+Porträt{n}/画像[えぞう]/
 Porträtmaler{m}/似顔書き[にがおがき]/
 Portugiese{m}/ポルトガル人[ぽるとがるじん]/
 portugiesisch{adj}/ポルトガルの[ぽるとがるの]/
 Portwein{m}/ポート[ぽーと]/
-Porzellan{n}/陶器[とうき]/チャイナ[ちゃいな]/
+Porzellan{n}/陶磁器[とうじき]/
 porös{adj}{adv}/多孔質の[たこうしつの]/
 Posaune{f}/トロンボーン[とろんぼーん]/
 Posaunist{m}/トロンボーン奏者[とろんぼーんそうしゃ]/
