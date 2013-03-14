@@ -22049,29 +22049,29 @@ Präimplantationsdiagnostik{f}/着床前診断[ちゃくしょうぜんしんだ
 präkambrisch{adj}/先カンブリア紀の[せんかんぶりあきの]/
 Prälat{m}/主教[しゅきょう]/
 Präludium{n}/序曲[じょきょく]/
-Prämie{f}/プレミアム[ぷれみあむ]/プレミア[ぷれみあ]/割増[わりまし]/景品[けいひん]/
+Prämie{f}/(Zuschlag) 割増[わりまし]/(Versicherungs~) 保険料[ほけんりょう]/
 Prämienaufkommen{n}/保険料収入[ほけんりょうしゅうにゅう]/
 Prämisse{f}/前提[ぜんてい]/
 Präparat{n}/標本[ひょうほん]/
 präparieren{vt}/下読みする[したよみする]/
 Präposition{f}/前置詞[ぜんちし]/
 Prärie{f}/草原[くさはら]/
-Präsentation{f}/披露[ひろう]/プレゼン[ぷれぜん]/プレゼンテーション[ぷれぜんてーしょん]/提示[ていじ]/
+Präsentation{f}/プレゼンテーション[ぷれぜんてーしょん]/提示[ていじ]/
 Präsentierteller{f}/お盆[おぼん]/
-Präsenz{f}/現在[げんざい]/出席[しゅっせき]/存在感[そんざいかん]/臨場感[りんじょうかん]/
+Präsenz{f}/(Anwesenheit) 出席[しゅっせき]/{fig.} 存在感[そんざいかん]/
 Präservativ{n}/スキン[すきん]/
-Präsident{m}/会長[かいちょう]/総裁[そうさい]/総統[そうとう]/議長[ぎちょう]/大統領[だいとうりょう]/総長[そうちょう]/座長[ざちょう]/総理[そうり]/院長[いんちょう]/
+Präsident{m}/(~ einer Firma) 会長[かいちょう]/{Pol.} 大統領[だいとうりょう]/
 Präsidentenwahl{f}/総統選挙[そうとうせんきょ]/
 Präsidentschaftskandidat{m}/大統領候補者[だいとうりょうこうほしゃ]/
 Präsidialsystem{n}/大統領制[だいとうりょうせい]/
 präsidieren{vi}/座長を務める[ざちょうをつとめる]/
 Präsidium{n}/座長[ざちょう]/
-Präzedenzfall{m}/様[ためし]/事例[じれい]/例[ためし]/前例[ぜんれい]/判例[はんれい]/実例[じつれい]/跡[あと]/
+Präzedenzfall{m}/先例[せんれい]/
 Präzession{f}/すりこぎ運動[すりこぎうんどう]/
 Präzipitat{n}/沈澱物[ちんでんぶつ]/
 präzisieren{vt}/明確にする[めいかくにする]/
-Präzision{f}/正確[せいかく]/精密[せいみつ]/的確[てっかく]/精度[せいど]/密[みつ]/厳密[げんみつ]/
-prüfen{vt}/当たる[あたる]/当る[あたる]/調べる[しらべる]/試す[ためす]/
+Präzision{f}/精密[せいみつ]/
+prüfen{vt}/調べる[しらべる]/
 Prüfer{m}/審査員[しんさいん]/
 Prüfling{m}/受験者[じゅけんしゃ]/
 Prüfstand{m}/実験室[じっけんしつ]/
@@ -22079,7 +22079,7 @@ Prüfstein{m}/試金石[しきんせき]/
 Prüfstelle{f}/検査所[けんさじょ]/
 Prüfsumme{f}/チェックサム[ちぇっくさむ]/
 Prüftechnik{f}/検査技術[けんさぎじゅつ]/
-Prüfung{f}/調査[ちょうさ]/試し[ためし]/検定[けんてい]/テスト[てすと]/審査[しんさ]/調べ[しらべ]/トライアル[とらいある]/吟味[ぎんみ]/検察[けんさつ]/試験[しけん]/検討[けんとう]/検査[けんさ]/試練[しれん]/
+Prüfung{f}/試験[しけん]/
 Prüfungsabteilung{f}/監査部[かんさぶ]/
 Prüfungsarbeit{f}/答案[とうあん]/
 Prüfungsausschuss{m}/審査委員会[しんさいいんかい]/
@@ -22096,11 +22096,11 @@ Prügelstrafe{f}/体罰[たいばつ]/
 Psalm{m}/賛美歌[さんびか]/
 Psalter{m}/第三胃[だいさんい]/
 Pseudokrupp{m}/仮性クループ[かせいくるーぷ]/
-Pseudonym{n}/匿名[とくめい]/仮名[けみょう]/異名[いめい]/別名[べつめい]/
-Psyche{f}/精神[せいしん]/心霊[しんれい]/心理[しんり]/
+Pseudonym{n}/別名[べつめい]/
+Psyche{f}/心霊[しんれい]/
 Psychiater{m}/精神医学者[せいしんいがくしゃ]/
 Psychiatrie{f}/精神医学[せいしんいがく]/
-psychisch{adj}{adv}/精神的[せいしんてき]/心理的[しんりてき]/
+psychisch{adj}{adv}/精神的[せいしんてき]/
 psychische Störung{f}/精神疾患[せいしんしっかん]/
 Psychoanalyse{f}/精神分析[せいしんぶんせき]/
 Psychoanalytiker{m}/精神分析医[せいしんぶんせきい]/
@@ -22122,20 +22122,20 @@ psychosomatisch{adj}{adv}/精神身体症の[せいしんしんたいしょう�
 Psychotherapeut{m}/サイコセラピスト[さいこせらぴすと]/
 Psychotherapie{f}/心理療法[しんりりょうほう]/
 pubertär{adj}/思春期の[ししゅんきの]/
-Pubertät{f}/春[はる]/思春期[ししゅんき]/
+Pubertät{f}/思春期[ししゅんき]/
 Publicity{f}/他聞[たぶん]/
-Publikation{f}/出版[しゅっぱん]/刊行[かんこう]/発行[はっこう]/
-Publikum{n}/入り[いり]/視聴者[しちょうしゃ]/大方[おおかた]/公衆[こうしゅう]/観衆[かんしゅう]/客[きゃく]/巷[ちまた]/聴衆[ちょうしゅう]/公共[こうきょう]/入場者[にゅうじょうしゃ]/世間[せけん]/
+Publikation{f}/出版[しゅっぱん]/
+Publikum{n}/観衆[かんしゅう]/
 Publikumserfolg{m}/客寄せ[きゃくよせ]/
 Puck{m}/ハンバーガー[はんばーがー]/
 Pudding{m}/プリン[ぷりん]/
 Puddingpulver{n}/粉末カスタード[ふんまつかすたーど]/
-Puder{n}/パウダー[ぱうだー]/粉末[ふんまつ]/
+Puder{n}/パウダー[ぱうだー]/
 Puderdose{f}/コンパクト[こんぱくと]/
 Puderquaste{f}/パフ[ぱふ]/
 Puderzucker{m}/粉砂糖[こなざとう]/
 Puff{m}/女郎屋[じょろうや]/
-Puffer{m}/フェンダー[ふぇんだー]/バンパー[ばんぱー]/
+Puffer{m}/(Stoßstange) 緩衝器[かんしょうき]/
 Pufferbatterie{f}/バックアップ･バッテリー[ばっくあっぷばってりー]/
 Pufferlager{n}/バッファーストック[ばっふぁーすとっく]/
 puffern{vt}/クッションの役目を果たす[くっしょんのやくめをはたす]/
@@ -22145,7 +22145,7 @@ Pufferung{f}/バッファリング[ばっふぁりんぐ]/
 Pufferzone{f}/緩衝地帯[かんしょうちたい]/
 Puffmutter{f}/おかみ[おかみ]/
 Pullover{m}/セーター[せーたー]/
-Puls{m}/鼓動[こどう]/脈[みゃく]/
+Puls{m}/{Med.} 脈拍[みゃくはく]/
 Pulsation{f}/動悸[どうき]/
 Pulscodemodulation{f}/PCM[ぴーしーえむ]/
 pulsieren{vi}/通う[かよう]/
@@ -22159,7 +22159,7 @@ Puma{m}/プーマ[ぷーま]/
 Pumpe{f}/ポンプ[ぽんぷ]/
 Pumpen{n}/ポンピング[ぽんぴんぐ]/
 Punkrock{m}/パンクロック[ぱんくろっく]/
-Punkt{m}/目[め]/点[てん]/点[てん]/点[てん]/点[てん]/点[てん]/点[てん]/節[ふし]/ポイント[ぽいんと]/ポイント[ぽいんと]/ゴール[ごーる]/項[こう]/ドット[どっと]/箇条[かじょう]/眼[め]/地点[ちてん]/箇所[かしょ]/事項[じこう]/ピリオド[ぴりおど]/項目[こうもく]/終止符[しゅうしふ]/区切り[くぎり]/カウント[かうんと]/
+Punkt{m}/点[てん]/
 Punkte{pl}/点数[てんすう]/
 Punktion{f}/穿刺[せんし]/
 Punktsieg{m}/判定勝ち[はんていがち]/
@@ -22167,7 +22167,7 @@ Punktzahl{f}/得点[とくてん]/スコア[すこあ]/
 Pupille{f}/瞳[ひとみ]/
 Pupillenerweiterung{f}/瞳孔散大[どうこうさんだい]/
 Pupillenverengung{f}/瞳孔縮小[どうこうしゅくしょう]/
-Puppe{f}/人形[にんぎょう]/ドール[どーる]/
+Puppe{f}/人形[にんぎょう]/
 Puppenhaus{n}/飯事[ままごと]/
 Puppenspiel{n}/人形遊び[にんぎょうあそび]/
 Puppenspieler{m}/人形遣い[にんぎょうつかい]/
@@ -22176,23 +22176,23 @@ Purismus{m}/純粋主義[じゅんすいしゅぎ]/
 Puritaner{m}/清教徒[せいきょうと]/
 puritanisch{adj}{adv}/ピューリタン的な[ぴゅーりたんてきな]/
 Puritanismus{m}/ピューリタニズム[ぴゅーりたにずむ]/
-Purpur{m}/紅[こう]/パープル[ぱーぷる]/
+Purpur{m}/(Violett) 菫色[すみれいろ]/パープル[ぱーぷる]/
 Purpurfarbe{f}/紫[むらさき]/
 Purpurtang{m}/甘海苔[あまのり]/
 Purzelbaum{m}/蜻蛉[とんぼ]/
 Pusteblume{f}/タンポポの綿毛[たんぽぽのわたげ]/
 Pustel{f}/ぼつぼつ[ぼつぼつ]/
 Puter{m}/七面鳥[しちめんちょう]/
-Putsch{m}/反逆[はんぎゃく]/暴動[ぼうどう]/クーデター[くーでたー]/
+Putsch{m}/暴動[ぼうどう]/(Coup d’État) クーデター[くーでたー]/
 Putschversuch{m}/未遂に終わったクーデター[みすいにおわったくーでたー]/
 putten/パットする[ぱっとする]/
-Putz{m}/塗り[ぬり]/塗[ぬり]/
+Putz{m}/(Anstrich) 塗り[ぬり]/
 Putzeimer{m}/雑巾バケツ[ぞうきんばけつ]/
 putzen{vt}/磨く[みがく]/
 Putzfrau{f}/掃除婦[そうじふ]/
 Putzlappen{m}/雑巾[ぞうきん]/
 Putzmittel{n}/洗剤[せんざい]/
-Puzzle{n}/パズル[ぱずる]/ジグソーパズル[じぐそーぱずる]/
+Puzzle{n}/(Rätsel) パズル[ぱずる]/(~ zum Zusammenstecken) ジグソーパズル[じぐそーぱずる]/
 Pyelitis{f}/腎盂炎[じんうえん]/
 Pygmäe{m}/ピグミー[ぴぐみー]/
 Pyramide{f}/ピラミッド[ぴらみっど]/
@@ -22208,18 +22208,18 @@ Pyrotechnik{f}/花火術[はなびじゅつ]/
 Pyroxenit{m}/輝岩[きがん]/
 Python{m}/ニシキヘビ[にしきへび]/
 Pächter{m}{pl}/小作[こさく]/
-Päckchen{n}/荷物[にもつ]/包み[つつみ]/荷[に]/
-Pädagoge{m}/教師[きょうし]/教員[きょういん]/
+Päckchen{n}/荷物[にもつ]/
+Pädagoge{m}/(Lehrer) 教師[きょうし]/
 Pädagogik{f}/教育学[きょういくがく]/
 pädagogisch{adj}{adv}/教育的[きょういくてき]/
 Päderast{m}/ペデラスト[ぺでらすと]/
 Päderastie{f}/ペデラスティ[ぺでらすてぃ]/
 päpstlich{adj}/教皇の[きょうこうの]/
 Pärchen{n}/カップル[かっぷる]/
-Pöbel{m}/族[やから]/徒[と]/群[むれ]/輩[やから]/群れ[むれ]/
+Pöbel{m}/賤民[せんみん]/
 pöbelhaft{adv}/下等な[かとうな]/
-pünktlich{adj}{adv}/ちゃんと[ちゃんと]/きちんと[きちんと]/きちっと[きちっと]/正に[まさに]/丁度[ちょうど]/
-Pünktlichkeit{f}/正確[せいかく]/
+pünktlich{adj}{adv}/時間どおりの[じかんどおりの]/
+Pünktlichkeit{f}/時間厳守[じかんげんしゅ]/
 pürieren{vt}/ピューレにする[ぴゅーれにする]/
 Quacksalber{m}/藪医者[やぶいしゃ]/
 Quacksalberei{f}/いんちき療法[いんちきりょうほう]/
