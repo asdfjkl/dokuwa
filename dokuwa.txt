@@ -1,4 +1,4 @@
-Abiturient{m}/大学入学資格受験者[だいがくにゅうがくしかくじゅけんしゃ]/
+﻿Abiturient{m}/大学入学資格受験者[だいがくにゅうがくしかくじゅけんしゃ]/
 Vorladung{f}/{jur.} 出頭命令[しゅっとうめいれい]/
 Besamung{f}/(künstliche ~) 人工授精[じんこうじゅせい]/
 blinzeln{vi}/瞬きする[まばたきする]/
@@ -22233,12 +22233,12 @@ Quadratmeter{m}{n}/平方メートル[へいほうめーとる]/
 Quadratwurzel{f}/平方根[へいほうこん]/
 Quadrille{f}/カドリール[かどりーる]/
 quaken{vi}/蛙がなく[かえるがなく]/
-Qual{f}/痛み[いたみ]/苦しみ[くるしみ]/苦痛[くつう]/
+Qual{f}/苦しみ[くるしみ]/
 Qualifikation{f}/資格[しかく]/
 Qualifikationsrunde{f}/予選[よせん]/
 Qualifizierung{f}/資格[しかく]/
 qualitativ{adj}{adv}/質的[しつてき]/
-Qualität{f}/物[もの]/性質[せいしつ]/モノ[もの]/品[しな]/品質[ひんしつ]/質[しつ]/品格[ひんかく]/クオリティ[くおりてぃ]/
+Qualität{f}/品質[ひんしつ]/
 Qualitätsarbeit{f}/上製[じょうせい]/
 Qualitätsgarantie{f}/品質保証[ひんしつほしょう]/
 Qualitätskontrolle{f}/品質管理[ひんしつかんり]/
@@ -22248,7 +22248,7 @@ Qualitätsware{f}/上物[じょうもの]/
 Qualitätsüberwachung{f}/品質管理[ひんしつかんり]/
 Qualle{f}/クラゲ[くらげ]/
 Qualm{m}/煙[けむり]/
-qualvoll{adj}{adv}/苦しい[くるしい]/悩ましい[なやましい]/切ない[せつない]/
+qualvoll{adj}{adv}/苦しい[くるしい]/
 Quantenmechanik{f}/量子力学[りょうしりきがく]/
 Quantenphysik{f}/量子物理学[りょうしぶつりがく]/
 Quantentheorie{f}/量子論[りょうしろん]/
@@ -22256,7 +22256,7 @@ Quantifikator{m}/量記号[りょうきごう]/
 Quantifizierung{f}/定量化[ていりょうか]/
 quantisieren{vt}/クォンタイズ[くぉんたいず]/
 Quantisierung{f}/量子化[りょうしか]/
-Quantität{f}/量[りょう]/数量[すうりょう]/分量[ぶんりょう]/
+Quantität{f}/量[りょう]/
 Quantum{n}/量[りょう]/
 Quappe{f}/かわめんたい[かわめんたい]/
 Quarantäne{f}/隔離[かくり]/
@@ -22265,9 +22265,9 @@ Quark{m}{n}/チーズ[ちーず]/
 Quart{f}/クォート[くぉーと]/
 Quartal{n}/四半期[しはんき]/
 Quarterback{m}/クォーターバック[くぉーたーばっく]/
-Quartett{n}/四重奏[しじゅうそう]/カルテット[かるてっと]/
+Quartett{n}/{Mus.} 四重奏[しじゅうそう]/
 Quartformat{n}/四つ折り[よつおり]/
-Quartier{n}/舎[しゃ]/宿舎[しゅくしゃ]/
+Quartier{n}/宿舎[しゅくしゃ]/
 Quartiermeister{m}/クオーター･マスター[くおーたーますたー]/
 Quarz{m}/クォーツ[くぉーつ]/
 Quarzdiorit{m}/石英閃緑岩[せきえいせんりょくがん]/
@@ -22280,12 +22280,12 @@ Quarzuhr{f}/水晶時計[すいしょうどけい]/
 quasseln{vi}/駄弁る[だべる]/
 Quasselstrippe{f}/よくしゃべる人[よくしゃべるひと]/
 Quaste{f}/総[ふさ]/房[ふさ]/
-Quatsch{m}/バカ[ばか]/おいた[おいた]/馬鹿[ばか]/戯れ[たわむれ]/寝言[ねごと]/狂言[きょうげん]/嘘[うそ]/デタラメ[でたらめ]/
+Quatsch{m}/(leeres Geschwätz) 下らない話[くだらないはなし]/(Dummheit) バカ[ばか]/
 quatschen{vi}/駄弁る[だべる]/
 Quecksilberdampflampe{f}/水銀灯[すいぎんとう]/
 Quecksilbersäule{f}/水銀柱[すいぎんちゅう]/
 Quellcode{m}/ソース[そーす]/
-Quelle{f}/種[たね]/根源[こんげん]/湧き水[わきみず]/起源[きげん]/水上[みなかみ]/起こり[おこり]/水源[すいげん]/由来[ゆらい]/出所[でどころ]/源泉[げんせん]/源泉[げんせん]/湧水[ゆうすい]/泉[いずみ]/資料[しりょう]/ソース[そーす]/
+Quelle{f}/(Wasser~) 泉[いずみ]/(Nachrichten~) ニュースソース[にゅーすそーす]/
 Quellen{n}/膨潤[ぼうじゅん]/
 Quellenangabe{f}/出典[しゅってん]/
 Quellensteuer{f}/源泉徴収税[げんせんちょうしゅうぜい]/
@@ -22293,16 +22293,16 @@ Quellgebiet{n}/水源地[すいげんち]/
 Quellprogramm{n}/ソースプログラム[そーすぷろぐらむ]/
 Quelltext{m}/ソースコード[そーすこーど]/
 Quellwasser{n}/真清水[ましみず]/
-Quengelei{f}/愚痴[ぐち]/泣き言[なきごと]/
+Quengelei{f}/愚痴[ぐち]/
 Quengler{m}/愚痴っぽい人[ぐちっぽいひと]/
-Querbalken{m}/桁[けた]/梁[はり]/
+Querbalken{m}/桁[けた]/
 Querdenken{n}/水平思考[すいへいしこう]/
 Quereinsteiger{m}/輸入候補[ゆにゅうこうほ]/
 Querfeldeinrennen{n}/クロカン[くろかん]/
 Querflöte{f}/横笛[よこぶえ]/
 Querformat{n}/横長[よこなが]/
 Querholz{n}/横木[よこぎ]/
-Querkopf{m}/変わり者[かわりもの]/天邪鬼[あまのじゃく]/
+Querkopf{m}/旋毛曲がり[つむじまがり]/
 Querlatte{f}/バー[ばー]/
 Querprofil{n}/断切面[だんせつめん]/
 Querruder{n}/補助翼[ほじょよく]/
@@ -22319,8 +22319,8 @@ quietschend{adj}/ミシミシ[みしみし]/
 Quintessenz{f}/精華[せいか]/
 Quintett{n}/クインテット[くいんてっと]/
 Quitte{f}/マルメロ[まるめろ]/
-Quittung{f}/控え[ひかえ]/領収書[りょうしゅうしょ]/受け取り[うけとり]/切手[きって]/レシート[れしーと]/売り上げ[うりあげ]/売上げ[うりあげ]/売上[うりあげ]/
-Quiz{n}/テスト[てすと]/クイズ[くいず]/
+Quittung{f}/領収書[りょうしゅうしょ]/
+Quiz{n}/クイズ[くいず]/
 Quizmaster{m}/クイズ番組の司会者[くいずばんぐみのしかいしゃ]/
 Quorum{n}/定足数[ていそくすう]/
 Quote{f}/割合[わりあい]/
@@ -22329,11 +22329,11 @@ Quotierung{f}/値付け[ねつけ]/
 quälen{vt}/責める[せめる]/
 Quälen{n}/虐め[いじめ]/
 R-Gespräch{n}/指名通話[しめいつうわ]/
-Rabatt{m}/勉強[べんきょう]/オフ[おふ]/値引き[ねびき]/引き[ひき]/割引[わりびき]/
+Rabatt{m}/割引[わりびき]/
 Rabattmarke{f}/バウチャー[ばうちゃー]/
-Rabe{m}/烏[からす]/鴉[からす]/
+Rabe{m}/烏[からす]/
 rabenschwarz{adj}/真っ黒い[まっくろい]/
-Rache{f}/復讐[ふくしゅう]/仕返し[しかえし]/
+Rache{f}/復讐[ふくしゅう]/
 Rachegefühl{n}/恨み[うらみ]/
 Rachenkatarrh{m}/咽喉カタル[いんこうかたる]/
 Rachenlehre{f}/挟みゲージ[はさみげーじ]/
@@ -22345,7 +22345,7 @@ Rachsucht{f}/執念[しゅうねん]/
 rachsüchtig{adj}{adv}/執念深い[しゅうねんぶかい]/
 Racker{m}/倅[せがれ]/
 Racquetball{m}/ラケットボール[らけっとぼーる]/
-Rad{n}/車[くるま]/自転車[じてんしゃ]/環[わ]/輪[わ]/ホイール[ほいーる]/
+Rad{n}/(Fahr~) 自転車[じてんしゃ]/車輪[しゃりん]/
 Radachse{f}/車軸[しゃじく]/
 Radar{m}{n}/レーダー[れーだー]/
 Radaranlage{f}/レーダー装置[れーだーそうち]/
@@ -22354,7 +22354,7 @@ Radargerät{n}/レーダー装置[れーだーそうち]/
 Radarschirm{m}/レーダー･スクリーン[れーだーすくりーん]/
 Radarstation{f}/レーダー基地[れーだーきち]/
 Radau{m}/喧騒[けんそう]/
-Radau machen/騒ぐ[さわぐ]/暴れる[あばれる]/
+Radau machen/騒ぐ[さわぐ]/
 Radaubruder{m}/暴漢[ぼうかん]/
 Radaumacher{m}/暴れん坊[あばれんぼう]/
 Radbremse{f}/輪止め[わどめ]/
@@ -22374,7 +22374,7 @@ Radikale{m}{f}/過激派[かげきは]/
 radikalisieren{vt}/過激化する[かげきかする]/
 Radikalisierung{f}/先鋭化[せんえいか]/
 Radikalismus{m}/急進主義[きゅうしんしゅぎ]/
-Radio{n}/ラジオ[らじお]/無線[むせん]/
+Radio{n}/ラジオ[らじお]/
 radioaktiv{adj}{adv}/放射性の[ほうしゃせいの]/
 Radioaktivität{f}/放射能[ほうしゃのう]/
 Radioastronomie{f}/電波天文学[でんぱてんもんがく]/
@@ -22410,19 +22410,19 @@ Radsturz{m}/キャンバー[きゃんばー]/
 Radtour{f}/サイクリング[さいくりんぐ]/
 Radweg{m}/サイクリングコース[さいくりんぐこーす]/
 Raffinerie{f}/石油精製[せきゆせいせい]/
-Raffiniertheit{f}/上品[じょうひん]/小粋[こいき]/
+Raffiniertheit{f}/上品[じょうひん]/
 Raffke{m}/成金[なりきん]/
 Rafting{n}/いかだ下り[いかだくだり]/
 Raglanärmel{m}/ラグラン袖[らぐらんそで]/
 Ragtime{m}/ラグタイム[らぐたいむ]/
-Rahmen{m}/ラーメン[らーめん]/額縁[がくぶち]/縁[ふち]/フレーム[ふれーむ]/櫓[やぐら]/枠組み[わくぐみ]/枠組み[わくぐみ]/枠[わく]/
+Rahmen{m}/額縁[がくぶち]/
 Rahmenabkommen{n}/基本合意[きほんごうい]/
 Rahmenantenne{f}/ループアンテナ[るーぷあんてな]/
 Rahmenbedingung{f}/拘束条件[こうそくじょうけん]/
 Rahmenerzählung{f}/枠物語[わくものがたり]/
 Rahmengesetz{n}/枠組法律[わくぐみほうりつ]/
 Rain{m}/畦[あぜ]/
-Rakete{f}/ロケット[ろけっと]/ミサイル[みさいる]/
+Rakete{f}/ロケット[ろけっと]/
 Raketenabschussbasis{f}/打ち上げ場[うちあげじょう]/
 Raketenabwehr{f}/ミサイル防衛[みさいるぼうえい]/
 Raketeningenieur{m}/ロケット技師[ろけっとぎし]/
@@ -22438,12 +22438,12 @@ Rampe{f}/ランプ[らんぷ]/
 Rampenlicht{n}/脚光[きゃっこう]/
 Ramsch{m}/屑[くず]/
 Ranch{f}/牧畜場[ぼくちくじょう]/
-Rand{m}/耳[みみ]/範囲[はんい]/縁[ふち]/端[つま]/傍[はた]/際[きわ]/
+Rand{m}/縁[ふち]/
 Rand (eines Gefäßes)/鐔[つば]/
 Randale{f}/馬鹿騒ぎ[ばかさわぎ]/
 randalieren{vi}/暴れる[あばれる]/
 Randbedingung{f}/拘束条件[こうそくじょうけん]/
-Randbemerkung{f}/書き込み[かきこみ]/書込み[かきこみ]/
+Randbemerkung{f}/傍注[ぼうちゅう]/
 Randgruppe{f}/少数者集団[しょうすうしゃしゅうだん]/
 Randmeer{n}/縁海[えんかい]/
 Randstecker{m}/エッジ･コネクター[えっじこねくたー]/
@@ -22451,7 +22451,7 @@ Randstein{m}/縁石[えんせき]/
 Randstreifen{m}/路肩[ろけん]/
 Randverzierung{f}/玉縁[たまぶち]/
 randvoll{adj}/溢れるばかりの[あふれるばかりの]/
-Rang{m}/ランキング[らんきんぐ]/町[まち]/身分[みぶん]/刻み[きざみ]/ランク[らんく]/グレード[ぐれーど]/位[くらい]/席[せき]/街[まち]/ポジション[ぽじしょん]/肩書き[かたがき]/地位[ちい]/
+Rang{m}/地位[ちい]/
 Rangabzeichen{n}{pl}/階級章[かいきゅうしょう]/
 Range{f}/お転婆[おてんば]/
 rangeln{vi}/取り合う[とりあう]/
@@ -22463,9 +22463,9 @@ Rangierlok{f}/操車用機関車[そうしゃようきかんしゃ]/
 Rangierlokomotive{f}/操車用機関車[そうしゃようきかんしゃ]/
 Rangiermeister{m}/操車係長[そうしゃかかりちょう]/
 Rangliste{f}/番付[ばんづけ]/
-Rangordnung{f}/順位[じゅんい]/ランク[らんく]/
+Rangordnung{f}/順位[じゅんい]/
 Rangstufe{f}/段位[だんい]/
-Ranke{f}/葛[かずら]/蔓[かずら]/
+Ranke{f}/(Schlingpflanze) 葛[かずら]/
 Rankenfüßer{m}/ふじつぼ[ふじつぼ]/
 ranzig{adj}{adv}/油くさい[あぶらくさい]/
 Ranzigkeit{f}/酸敗[さんぱい]/
@@ -22477,21 +22477,22 @@ Rapsöl{n}/菜種油[なたねあぶら]/
 Rascheln{n}/ごそごそ[ごそごそ]/
 rascheln{vi}/カサカサ[かさかさ]/
 rasen{vi}/暴れる[あばれる]/
-Rasen{m}{n}/ローン[ろーん]/疾走[しっそう]/芝[しば]/芝生[しばふ]/
+Rasen{n}/芝生[しばふ]/
+Rasen{m}/疾走[しっそう]/
 Rasenmäher{m}/芝刈り機[しばかりき]/
 Rasensprenger{m}/散水器[さんすいき]/
 Raser{m}/スピード狂[すぴーどきょう]/
-Raserei{f}/暴走[ぼうそう]/狂乱[きょうらん]/
+Raserei{f}/(verantwortungsloses Fahren) 暴走[ぼうそう]/(Wahnsinn) 狂乱[きょうらん]/
 Rasierapparat{m}/シェーバー[しぇーばー]/
 Rasiercreme{f}/シェービングクリーム[しぇーびんぐくりーむ]/
-rasieren{vt}/当たる[あたる]/当る[あたる]/
+rasieren{vt}/ひげをそる[ひげをそる]/
 Rasierklinge{f}/剃刀[かみそり]/
 Rasiermesser{n}/剃刀[かみそり]/
 Rasierpinsel{m}/ひげそり用のブラシ[ひげそりようのぶらし]/
 Rasierschaum{m}/シェービングフォーム[しぇーびんぐふぉーむ]/
 Raspel{f}/鑢[やすり]/
 raspeln{vt}/やすりを掛ける[やすりをかける]/
-Rasse{f}/民族[みんぞく]/種族[しゅぞく]/品種[ひんしゅ]/
+Rasse{f}/人種[じんしゅ]/
 Rassehund{m}/血統のよい犬[けっとうのよいいぬ]/
 Rassel{f}/がらがら[がらがら]/
 Rasselgeräusch{n}/水泡音[すいほうおん]/
@@ -22504,22 +22505,22 @@ Rassepferd{n}/サラブレッド[さらぶれっど]/
 rassisch{adv}/民族的[みんぞくてき]/
 Rassismus{m}/人種差別[じんしゅさべつ]/
 Rassist{m}/人種差別主義者[じんしゅさべつしゅぎしゃ]/
-Rast{f}/休憩[きゅうけい]/憩い[いこい]/休息[きゅうそく]/レスト[れすと]/
+Rast{f}/(Ruhepause) 休憩[きゅうけい]/
 rasten{vi}/憩う[いこう]/
 Raster{n}/ラスター[らすたー]/
 Rasthaus{n}/ドライブイン[どらいぶいん]/
-rastlos{adj}{adv}/慌しい[あわただしい]/慌ただしい[あわただしい]/
+rastlos{adj}{adv}/(ununterbrochen) 不断の[ふだんの]/
 Rastlosigkeit{f}/駆け足[かけあし]/
 Rastplatz{m}/休憩所[きゅうけいじょ]/
 Raststätte{f}/サービスエリア[さーびすえりあ]/
-Rat{m}/意見[いけん]/勧め[すすめ]/薦め[すすめ]/相談[そうだん]/忠告[ちゅうこく]/進言[しんげん]/助言[じょげん]/アドバイス[あどばいす]/勧告[かんこく]/ヒント[ひんと]/審議会[しんぎかい]/協議会[きょうぎかい]/
-Rate{f}/率[りつ]/割り[わり]/分割[ぶんかつ]/
-raten{vt}/勧める[すすめる]/説く[とく]/察する[さっする]/言い聞かせる[いいきかせる]/
+Rat{m}/(Ratschlag) 助言[じょげん]/(Ratsversammlung) 協議会[きょうぎかい]/
+Rate{f}/(Verhältnis) 割合[わりあい]/(eine ~ einer Ratenzahlung) 分割払いの1回分[ぶんかつばらいの1かいぶん]/
+raten{vt}/勧める[すすめる]/
 Ratenkauf{m}/割賦[わっぷ]/
 Ratenkredit{m}/分割支払い貸し付け[ぶんかつしはらいかしつけ]/
 Ratenzahlung{f}/なし崩し[なしくずし]/
-Ratgeber{m}/アドバイザー[あどばいざー]/補佐[ほさ]/指導員[しどういん]/参謀[さんぼう]/顧問[こもん]/カウンセラー[かうんせらー]/
-Rathaus{n}/市役所[しやくしょ]/役場[やくば]/
+Ratgeber{m}/アドバイザー[あどばいざー]/(Leitfaden) 手引き[てびき]/
+Rathaus{n}/市役所[しやくしょ]/
 Ratifizierung{f}/批准[ひじゅん]/
 Ratio{f}/比率[ひりつ]/
 Ration{f}/給与[きゅうよ]/
