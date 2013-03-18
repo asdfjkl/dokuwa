@@ -22530,28 +22530,29 @@ Rationalismus{m}/合理主義[ごうりしゅぎ]/
 Rationalist{m}/ラショナリスト[らしょなりすと]/
 Rationalität{f}/合理[ごうり]/
 ratlos{adj}/当惑した[とうわくした]/
-Ratlosigkeit{f}/気の毒[きのどく]/窮地[きゅうち]/戸惑い[とまどい]/困惑[こんわく]/
+Ratlosigkeit{f}/困惑[こんわく]/
 ratsam{adv}/望ましい[のぞましい]/
 Ratsamkeit{f}/可否[かひ]/
 Ratsche{f}/簓[ささら]/
-Ratschlag{m}/意見[いけん]/勧め[すすめ]/薦め[すすめ]/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/忠告[ちゅうこく]/進言[しんげん]/お薦め[おすすめ]/助言[じょげん]/アドバイス[あどばいす]/勧告[かんこく]/
+Ratschlag{m}/助言[じょげん]/
 Ratsmitglied{n}/評議員[ひょうぎいん]/
 Rattan{n}/籐[とう]/
-Ratte{f}/ね[ね]/ラット[らっと]/鼠[ねずみ]/ネズミ[ねずみ]/
+Ratte{f}/{Zool.} 鼠[ねずみ]/
 Rattengift{n}/ネズミ捕り[ねずみとり]/
-Raub{m}/泥棒[どろぼう]/獲物[えもの]/略奪[りゃくだつ]/餌食[えじき]/強奪[ごうだつ]/剥奪[はくだつ]/強盗[ごうとう]/
+Raub{m}/強奪[ごうだつ]/
 Raubdruck{m}/海賊版[かいぞくばん]/
-rauben{vt}/奪う[うばう]/獲る[える]/盗む[ぬすむ]/
+rauben{vt}/奪う[うばう]/
 Raubgier{f}/胴欲[どうよく]/
 Raubmord{m}/切り取り[きりとり]/
 Raubmörder{m}/切り取り強盗[きりとりごうとう]/
 Raubpressung{f}/レコードの海賊版[れこーどのかいぞくばん]/
 Raubtier{n}/猛獣[もうじゅう]/
 Raubvogel{m}/猛禽類[もうきんるい]/
-Raubüberfall{m}/強盗[ごうとう]/強奪[ごうだつ]/
-Rauch{m}/煙[けむり]/スモーク[すもーく]/
+Raubüberfall{m}/強奪[ごうだつ]/
+Rauch{m}/煙[けむり]/
 Rauchbombe{f}/発煙筒[はつえんとう]/
-rauchen{vt}/飲む[のむ]/吸う[すう]/呑む[のむ]/
+rauchen{vt}/(eine Zigarette ~) タバコを吸う[たばこをすう]/
+rauchen{vi}/煙る[けむる]/
 Rauchen{n}/喫煙[きつえん]/
 Raucher{m}/喫煙者[きつえんしゃ]/
 Raucherabteil{n}/喫煙車[きつえんしゃ]/
@@ -22572,9 +22573,9 @@ Rauchsäule{f}/煙柱[えんちゅう]/
 Rauchverbot{n}/禁煙[きんえん]/
 Rauchwolke{f}/雲[くも]/
 Raufbold{m}/硬派[こうは]/
-Rauferei{f}/格闘[かくとう]/乱闘[らんとう]/喧嘩[けんか]/
+Rauferei{f}/格闘[かくとう]/
 Rauheit{f}/無骨[ぶこつ]/
-Raum{m}/部屋[へや]/間[あいだ]/紙面[しめん]/場[ば]/スペース[すぺーす]/地理[ちり]/置き場所[おきばしょ]/余地[よち]/余地[よち]/室[しつ]/席[せき]/場所[ばしょ]/そら[そら]/そら[そら]/地域[ちいき]/
+Raum{m}/(Zimmer) 部屋[へや]/{Raumf.} スペース[すぺーす]/空間[くうかん]/
 Raum-Zeit-Kontinuum{n}/時空の連続体[じくうのれんぞくたい]/
 Raumakustik{f}/室内音響学[しつないおんきょうがく]/
 Raumanzug{m}/宇宙服[うちゅうふく]/
@@ -22595,10 +22596,10 @@ Raumstruktur{f}/配座[はいざ]/
 Raumteiler{m}/間仕切り[まじきり]/
 Raumtemperatur{f}/室温[しつおん]/
 Raumwinkel{m}/立体角[りったいかく]/
-Raupe{f}/虫[むし]/幼虫[ようちゅう]/
+Raupe{f}/幼虫[ようちゅう]/
 Raupenschlepper{m}/履帯[りたい]/
 Raureif{m}/霜[しも]/
-Rausch{m}/酔い[よい]/ラッシュ[らっしゅ]/無我[むが]/
+Rausch{m}/(Betrunkenheit) 酔い[よい]/(Ekstase) 無我[むが]/
 Rauschen{n}/ざわざわ[ざわざわ]/
 Rauschgift{n}/麻薬[まやく]/
 Rauschgifthändler{m}/プッシャー[ぷっしゃー]/
@@ -22614,7 +22615,7 @@ Reagens{n}/試薬[しやく]/
 Reagenzglas{n}/試験管[しけんかん]/
 Reagenzpapier{n}/試験紙[しけんし]/
 reagieren{vi}/応える[こたえる]/
-Reaktion{f}/対応[たいおう]/リアクション[りあくしょん]/反響[はんきょう]/反動[はんどう]/応え[こたえ]/反応[はんのう]/
+Reaktion{f}/反応[はんのう]/
 Reaktionsfähigkeit{f}/張り合い[はりあい]/
 Reaktionsgeschwindigkeit{f}/反応速度[はんのうそくど]/
 Reaktionszeit{f}/反動期[はんどうき]/
@@ -22623,13 +22624,13 @@ reaktionär{adj}/反動的な[はんどうてきな]/
 reaktiv{adv}/反応性の[はんのうせいの]/
 Reaktivität{f}/反応性[はんのうせい]/
 Reaktor{m}/原子炉[げんしろ]/
-real{adj}/リアル[りある]/現実的[げんじつてき]/実の[じつの]/
+real{adj}/現実的[げんじつてき]/
 Realeinkommen{n}/実収[じっしゅう]/
 Realgar{m}/鶏冠石[けいかんせき]/
-Realismus{m}/現実味[げんじつみ]/如実[にょじつ]/
+Realismus{m}/現実味[げんじつみ]/(Wahrheit) 如実[にょじつ]/
 Realist{m}/リアリスト[りありすと]/
-realistisch{adj}{adv}/リアル[りある]/現実的[げんじつてき]/
-Realität{f}/実際[じっさい]/実在[じつざい]/現実[げんじつ]/現実味[げんじつみ]/真実[しんじつ]/事実[じじつ]/
+realistisch{adj}{adv}/現実的[げんじつてき]/
+Realität{f}/現実[げんじつ]/
 Realitätsflucht{f}/現実逃避[げんじつとうひ]/
 Realitätsverlust{m}/現実喪失症[げんじつそうしつしょう]/
 Reallohn{m}/実質賃金[じっしつちんぎん]/
@@ -22644,40 +22645,40 @@ Rebound{m}/リバウンド[りばうんど]/
 Rechen{m}/がんづめ[がんづめ]/
 Rechenaufgabe{f}/計算問題[けいさんもんだい]/
 Rechenbrett{n}/算盤[そろばん]/
-Rechenfehler{m}/間違い[まちがい]/誤算[ごさん]/
+Rechenfehler{m}/誤算[ごさん]/
 Rechenmaschine{f}/計算機[けいさんき]/
 Rechenschaftsbericht{m}/始末書[しまつしょ]/
 Rechenschieber{m}/計算尺[けいさんじゃく]/
 Rechenwerk{n}/演算装置[えんざんそうち]/
 Rechenzentrum{n}/計算センター[けいさんせんたー]/
-Recherche{f}/取材[しゅざい]/情報検索[じょうほうけんさく]/
+Recherche{f}/情報検索[じょうほうけんさく]/
 Rechercheur{m}/調査員[ちょうさいん]/
 recherchieren{vt}/取材する[しゅざいする]/
-rechnen{vi}/数える[かぞえる]/計る[はかる]/
-Rechnen{n}/計算[けいさん]/算数[さんすう]/勘定[かんじょう]/計量[けいりょう]/
+rechnen{vi}/計算する[けいさんする]/
+Rechnen{n}/計算[けいさん]/
 Rechner{m}/計算機[けいさんき]/
 rechnerabhängig{adj}/マシン依存性のある[ましんいぞんせいのある]/
 rechnerunabhängig/マシン依存性のない[ましんいぞんせいのない]/
-Rechnung{f}/計算[けいさん]/会計[かいけい]/書き出し[かきだし]/請求[せいきゅう]/勘定[かんじょう]/アカウント[あかうんと]/愛想[あいそう]/請求書[せいきゅうしょ]/伝票[でんぴょう]/代金[だいきん]/
-Rechnungsabschluss{m}/決算[けっさん]/決済[けっさい]/
+Rechnung{f}/計算[けいさん]/(Die Rechnung bitte!) 会計をお願いします[かいけいおねがいします]/
+Rechnungsabschluss{m}/決算[けっさん]/
 Rechnungsadresse{f}/請求先[せいきゅうさき]/
 Rechnungshof{m}/会計検査院[かいけいけんさいん]/
 Rechnungsprüfer{m}/監事[かんじ]/
 Rechnungsprüfung{f}/監査[かんさ]/
 Rechnungsstellung{f}/ビリング[びりんぐ]/
 Rechnungswesen{n}/経理[けいり]/
-Recht{n}/順[じゅん]/理[ことわり]/利権[りけん]/法律[ほうりつ]/権利[けんり]/道理[どうり]/公道[こうどう]/
+Recht{n}/(Gesetz) 法律[ほうりつ]/(Anrecht) 権利[けんり]/
 Recht sprechen/言い渡す[いいわたす]/
 Rechteck{n}/長方形[ちょうほうけい]/
 rechteckig{adj}{adv}/矩形の[くけいの]/
 rechtfertigen{vt}/弁護する[べんごする]/
-Rechtfertigung{f}/申し訳[もうしわけ]/正当化[せいとうか]/釈明[しゃくめい]/弁護[べんご]/弁明[べんめい]/
+Rechtfertigung{f}/言い訳[いいわけ]/
 Rechthaberei{f}/強突張り[ごうつくばり]/
 rechthaberisch{adv}{adj}/独善的[どくぜんてき]/
 rechtlich{adj}/公正の[こうせいの]/
-rechtmäßig{adj}{adv}/本来[ほんらい]/法的[ほうてき]/
-Rechtmäßigkeit{f}/法定[ほうてい]/正統[せいとう]/
-rechts{adv}/右[みぎ]/右手[みぎて]/右側[みぎがわ]/
+rechtmäßig{adj}{adv}/法的[ほうてき]/
+Rechtmäßigkeit{f}/法定[ほうてい]/
+rechts{adv}/右[みぎ]/
 Rechtsabteilung{f}/法規課[ほうきか]/
 Rechtsanspruch{m}/権利[けんり]/
 Rechtsanwalt{m}/弁護士[べんごし]/
