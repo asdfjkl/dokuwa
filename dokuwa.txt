@@ -22689,8 +22689,8 @@ Rechtsberater{m}/顧問弁護士[こもんべんごし]/
 Rechtsberatung{f}/法律相談[ほうりつそうだん]/
 Rechtsbrecher{m}/違反者[いはんしゃ]/
 rechtsbündig{adj}/右寄せの[みぎよせの]/
-rechtschaffen{adj}{adv}/直ぐ[すぐ]/真っ直ぐ[まっすぐ]/
-Rechtschaffenheit{f}/正直[しょうじき]/律儀[りちぎ]/
+rechtschaffen{adj}{adv}/(ehrlich) 誠実な[せいじつな]/
+Rechtschaffenheit{f}/正直[しょうじき]/
 Rechtschreibprüfung{f}/スペリング･チェック[すぺりんぐちぇっく]/
 Rechtschreibung{f}/綴り[つづり]/
 Rechtsdrall{m}/右傾[うけい]/
@@ -22720,36 +22720,36 @@ Rechtssystem{n}/法律制度[ほうりつせいど]/
 Rechtsverkehr{m}/右側交通[うそくこうつう]/
 Rechtswesen{n}/法制[ほうせい]/
 rechtswidrig{adv}{adj}/無法な[むほうな]/
-Rechtswidrigkeit{f}/違法[いほう]/無法[むほう]/不当[ふとう]/
+Rechtswidrigkeit{f}/違法[いほう]/
 Rechtswissenschaft{f}/法学[ほうがく]/
 rechtwinklig{adj}/かぎの手になった[かぎのてになった]/
-rechtzeitig{adv}{adj}/適当[てきとう]/タイムリー[たいむりー]/早めに[はやめに]/
+rechtzeitig{adv}{adj}/早めに[はやめに]/
 Reck{n}/鉄棒[てつぼう]/
 Recke{m}/武士[もののふ]/
 Recyclingpapier{n}/仙花紙[せんかし]/
-Redakteur{m}/編集者[へんしゅうしゃ]/デスク[ですく]/
-Redaktion{f}/編集[へんしゅう]/デスク[ですく]/編集部[へんしゅうぶ]/
-Redaktionsschluss{m}/締め切り[しめきり]/締切[しめきり]/〆切[しめきり]/
-Rede{f}/話[はなし]/演説[えんぜつ]/話し[はなし]/物[もの]/モノ[もの]/談話[だんわ]/言い分[いいぶん]/台詞[せりふ]/スピーチ[すぴーち]/セリフ[せりふ]/言論[げんろん]/講演[こうえん]/
+Redakteur{m}/編集者[へんしゅうしゃ]/
+Redaktion{f}/編集[へんしゅう]/
+Redaktionsschluss{m}/(Deadline) 締め切り[しめきり]/
+Rede{f}/(Ansprache) 演説[えんぜつ]/(Ansprache) スピーチ[すぴーち]/(Äußerung) 発言[はつげん]/
 redefinieren{vt}/再定義する[さいていぎする]/
 Redefreiheit{f}/言論の自由[げんろんのじゆう]/
 Redegewandtheit{f}/雄弁[ゆうべん]/
 Redekunst{f}/話術[わじゅつ]/
-reden{vi}/言う[いう]/喋る[しゃべる]/話す[はなす]/云う[いう]/
+reden{vi}/(plaudern) 喋る[しゃべる]/(sprechen) 話す[はなす]/
 Reden{n}/口外[こうがい]/
-Redensart{f}/文句[もんく]/辞令[じれい]/フレーズ[ふれーず]/熟語[じゅくご]/
+Redensart{f}/成句[せいく]/
 Redenschreiber{m}/演説の原稿作成者[えんぜつのげんこうさくせいしゃ]/
-Redeweise{f}/言い方[いいかた]/口実[こうじつ]/言いよう[いいよう]/辞令[じれい]/口癖[くちぐせ]/
-Redewendung{f}/文句[もんく]/口調[くちょう]/言い回し[いいまわし]/
+Redeweise{f}/言い方[いいかた]/
+Redewendung{f}/言い回し[いいまわし]/
 redlich{adv}/正々堂々[せいせいどうどう]/
-Redlichkeit{f}/正直[しょうじき]/忠実[ちゅうじつ]/誠実[せいじつ]/着実[ちゃくじつ]/節操[せっそう]/誠[まこと]/公明[こうめい]/地道[じみち]/誠意[せいい]/
-Redner{m}/講師[こうし]/演者[えんじゃ]/スピーカー[すぴーかー]/
+Redlichkeit{f}/(Aufrichtigkeit) 正直[しょうじき]/
+Redner{m}/演説者[えんぜつしゃ]/
 Rednerbühne{f}/高座[こうざ]/
 Rednerpult{n}/演壇[えんだん]/
 Redoxreaktion{f}/酸化還元反応[さんかかんげんはんのう]/
 redselig{adv}/口やかましい[くちやかましい]/
 Redseligkeit{f}/饒舌[にょうぜつ]/
-Reduktion{f}/減少[げんしょう]/減量[げんりょう]/削減[さくげん]/引き下げ[ひきさげ]/還元[かんげん]/還元[かんげん]/
+Reduktion{f}/(Verminderung) 減少[げんしょう]/{Chem.} 還元[かんげん]/
 Reduktionsflamme{f}/還元炎[かんげんえん]/
 Reduktionsgetriebe{n}/減速装置[げんそくそうち]/
 Reduktionsmittel{n}/還元剤[かんげんざい]/
@@ -22764,49 +22764,49 @@ reelle Zahl{f}/実数[じっすう]/
 Reetdach{n}/茅葺き[かやぶき]/
 reexportieren{vt}/再輸出する[さいゆしゅつする]/
 Refactoring{n}/リファクタリング[りふぁくたりんぐ]/
-Referat{n}/レポート[れぽーと]/ペーパー[ぺーぱー]/リポート[りぽーと]/
+Referat{n}/レポート[れぽーと]/(Abteilung) 局[きょく]/
 Referendar{m}/試補[しほ]/
 Referent{m}/報告者[ほうこくしゃ]/
 referenzieren{vt}/参考にする[さんこうにする]/
 Reflation{f}/リフレーション[りふれーしょん]/
-reflektieren{vt}/映る[うつる]/写る[うつる]/映す[うつす]/
+reflektieren{vt}/映る[うつる]/
 Reflektor{m}/リフレクター[りふれくたー]/
 Reflex{m}/反射[はんしゃ]/
 Reflexbewegung{f}/反射運動[はんしゃうんどう]/
-Reflexion{f}/映像[えいぞう]/鑑[かん]/反省[はんせい]/反映[はんえい]/反射[はんしゃ]/
+Reflexion{f}/(Spiegelbild) 映像[えいぞう]/(Selbstkritik) 反省[はんせい]/
 Reflexionsgrad{m}/反射率[はんしゃりつ]/
 Reflexionsvermögen{n}/反射率[はんしゃりつ]/
 Reflexionswinkel{m}/反射角[はんしゃかく]/
 Reflexivität{f}/再帰[さいき]/
-Reform{f}/改善[かいぜん]/変革[へんかく]/改良[かいりょう]/革新[かくしん]/一新[いっしん]/改革[かいかく]/改正[かいせい]/
+Reform{f}/改革[かいかく]/
 Reformation{f}/改革[かいかく]/
 Reformator{n}/改革者[かいかくしゃ]/
 Reformer{m}/改革者[かいかくしゃ]/
-Refrain{m}/繰り返し[くりかえし]/折り返し[おりかえし]/
+Refrain{m}/{Musik} リフレイン[りふれいん]/
 Refraktion{f}/屈折[くっせつ]/
 Regal{n}/棚[たな]/
 Regatta{f}/競艇[きょうてい]/
 rege{adj}/生き生き[いきいき]/
-Regel{f}/月[つき]/ルール[るーる]/定め[さだめ]/規律[きりつ]/標準[ひょうじゅん]/決め[きめ]/法[のり]/規制[きせい]/客[きゃく]/掟[おきて]/決まり[きまり]/法則[ほうそく]/規則[きそく]/キャノン[きゃのん]/
+Regel{f}/(Festsetzung) 規則[きそく]/(Menstruation) 月経[げっけい]/
 regellos{adj}/無原則の[むげんそくの]/
-regelmäßig{adv}/決まって[きまって]/きちんと[きちんと]/定期的に[ていきてきに]/コンスタント[こんすたんと]/定期的[ていきてき]/
-Regelmäßigkeit{f}/常[つね]/正式[せいしき]/通常[つうじょう]/決まり[きまり]/一定[いってい]/
+regelmäßig{adv}/定期的[ていきてき]/
+Regelmäßigkeit{f}/通常[つうじょう]/
 regeln{vt}/繰り合わせる[くりあわせる]/
 regelrecht{adj}/本格的[ほんかくてき]/
 Regelspur{f}/標準軌間[ひょうじゅんきかん]/
-Regelung{f}/解決[かいけつ]/始末[しまつ]/制御[せいぎょ]/整頓[せいとん]/整理[せいり]/処置[しょち]/加減[かげん]/規定[きてい]/収拾[しゅうしゅう]/調整[ちょうせい]/
+Regelung{f}/(Kontrolle) 統制[とうせい]/(Festsetzung) 規定[きてい]/
 Regelventil{n}/調節栓[ちょうせつせん]/
 Regelverstoß{m}/反則[はんそく]/
 regelwidrig{adj}{adv}/異例の[いれいの]/
 Regelwidrigkeit{f}/反則[はんそく]/
-Regen{m}/雨[あめ]/降り[ふり]/降雨[こうう]/
-Regenbogen{m}/虹[にじ]/レインボー[れいんぼー]/
+Regen{m}/雨[あめ]/
+Regenbogen{m}/虹[にじ]/
 Regenbogenforelle{f}/虹鱒[にじます]/
 Regenbogenhaut{f}/虹彩[こうさい]/
-Regeneration{f}/再生[さいせい]/更生[こうせい]/回生[かいせい]/新陳代謝[しんちんたいしゃ]/
+Regeneration{f}/再生[さいせい]/
 regenerieren/再生する[さいせいする]/
-Regenfall{n}/雨降り[あめふり]/降雨[こうう]/
-Regenguss{m}/豪雨[ごうう]/土砂降り[どしゃぶり]/
+Regenfall{n}/雨降り[あめふり]/
+Regenguss{m}/豪雨[ごうう]/
 Regenhaut{f}/雨合羽[あまがっぱ]/
 Regenjacke{f}/レーンコート[れーんこーと]/
 Regenkleidung{f}/雨具[あまぐ]/
@@ -22826,14 +22826,14 @@ Regentropfen{m}/点滴[てんてき]/
 Regentschaft{f}/在位[ざいい]/
 Regenwald{m}/雨林[うりん]/
 Regenwasser{n}/雨水[うすい]/
-Regenwetter{n}/雨[あめ]/雨降り[あめふり]/雨天[うてん]/
+Regenwetter{n}/雨天[うてん]/
 Regenwolke{f}/雨雲[あまぐも]/
 Regenwurm{m}/蚯蚓[みみず]/
 Regenzeit{f}/梅雨入り[つゆいり]/
 Reggae{m}/レゲエ[れげえ]/
 Regie{f}/監督[かんとく]/演出[えんしゅつ]/
 Regieassistent{m}/助監督[じょかんとく]/
-Regierung{f}/政治[せいじ]/政権[せいけん]/統治[とうち]/政[まつりごと]/政府[せいふ]/支配[しはい]/天下[てんか]/中央[ちゅうおう]/内閣[ないかく]/御世[みよ]/
+Regierung{f}/政府[せいふ]/
 Regierungsabkommen{n}/政府間協定[せいふかんきょうてい]/
 Regierungsanleihe{f}/政府保証債[せいふほしょうさい]/
 Regierungsbildung{f}/組閣[そかく]/
@@ -22847,29 +22847,29 @@ Regierungsviertel{n}/官庁街[かんちょうがい]/
 Regierungsvorlage{f}/政府案[せいふあん]/
 Regierungswechsel{m}/政権交代[せいけんこうたい]/
 Regiment{n}/連隊[れんたい]/
-Region{f}/地区[ちく]/域[いき]/地帯[ちたい]/
+Region{f}/地方[ちほう]/
 regional{adv}/地域的[ちいきてき]/
 Regionalausgabe{f}/ローカル版[ろーかるばん]/
 Regionalentwicklung{f}/地域開発[ちいきかいはつ]/
 Regionalprogramm{n}/ローカル番組[ろーかるばんぐみ]/
-Regisseur{m}/監督[かんとく]/演出家[えんしゅつか]/ディレクター[でぃれくたー]/
-Register{n}{m}/見出し[みだし]/目録[もくろく]/籍[せき]/譜[ふ]/索引[さくいん]/
+Regisseur{m}/演出家[えんしゅつか]/ディレクター[でぃれくたー]/
+Register{n}{m}/(Eintragungsliste;z.B. eines Amtes) 登録簿[とうろくぼ]/(Verzeichnis) 索引[さくいん]/
 Registrant{m}/登録者[とうろくしゃ]/
 Registratur{f}/登録簿[とうろくぼ]/
 Registrierkasse{f}/レジ[れじ]/
 registriert{adj}/登録済[とうろくさい]/
-Registrierung{f}/登録[とうろく]/登記[とうき]/
+Registrierung{f}/登録[とうろく]/
 reglementieren{vt}/型にはめる[かたにはめる]/
 Regler{m}/制御装置[せいぎょそうち]/
-regnen{vi}/降る[ふる]/ばれる[ばれる]/
+regnen{vi}/雨が降る[あめがふる]/
 regnerisch{adj}{adv}/雨の[あめの]/
-Regulierung{f}/整理[せいり]/整頓[せいとん]/規律[きりつ]/規制[きせい]/整合[せいごう]/矯正[きょうせい]/調節[ちょうせつ]/調整[ちょうせい]/
+Regulierung{f}/(Kontrolle) 調節[ちょうせつ]/(Regelung) 調整[ちょうせい]/
 Regulierventil{n}/チェック･バルブ[ちぇっくばるぶ]/
 regulär{adj}{adv}/常任の[じょうにんの]/
-Regung{f}/動き[うごき]/胎動[たいどう]/
+Regung{f}/(Bewegung) 動き[うごき]/
 regungslos/じっと[じっと]/
 Reh{n}/鹿[しか]/
-Rehabilitation{f}/回復[かいふく]/リハビリテーション[りはびりてーしょん]/
+Rehabilitation{f}/リハビリテーション[りはびりてーしょん]/(rechtliche ~) 復権[ふっけん]/
 Rehabilitationszentrum{n}/アフターケア施設[あふたーけあしせつ]/
 rehabilitieren{vt}/復権する[ふっけんする]/
 Rehabilitierung{f}/回復[かいふく]/
@@ -22884,23 +22884,23 @@ Reibungsbremse{f}/摩擦ブレーキ[まさつぶれーき]/
 Reibungselektrizität{f}/摩擦電気[まさつでんき]/
 Reibungskoeffizient{m}/摩擦係数[まさつけいすう]/
 Reibungskraft{f}/摩擦力[まさつりょく]/
-reibungslos{adj}/スムーズ[すむーず]/スムース[すむーす]/
+reibungslos{adj}/(glatt) スムーズ[すむーず]/
 Reibungswärme{f}/摩擦熱[まさつねつ]/
 Reibwert{m}/摩擦係数[まさつけいすう]/
-Reich{n}/国[くに]/国家[こっか]/
-reich{adv}/楽しい[たのしい]/こってり[こってり]/厚い[あつい]/リッチ[りっち]/豊か[ゆたか]/愉しい[たのしい]/
-reichen{vt}{vi}/届く[とどく]/足りる[たりる]/及ぶ[およぶ]/
+Reich{n}/国[くに]/(König~) 王国[おうこく]/
+reich{adv}/(vermögend) 金持ちの[かねもちの]/(reichlich;genügend) 豊か[ゆたか]/
+reichen{vt}{vi}/(über~) 渡す[わたす]/(aus~) 足りる[たりる]/
 Reicherz{n}/高品位鉱[こうひんいこう]/
 Reichhaltigkeit{f}/盛り沢山[もりだくさん]/
-reichlich{adv}/結構[けっこう]/たっぷり[たっぷり]/豊か[ゆたか]/
+reichlich{adv}/たっぷり[たっぷり]/
 Reichstag{m}/議会[ぎかい]/
-Reichtum{m}/豊富[ほうふ]/富裕[ふゆう]/リッチ[りっち]/財[たから]/宝[たから]/裕福[ゆうふく]/
-Reichweite{f}/足[あし]/リーチ[りーち]/射程[しゃてい]/
+Reichtum{m}/(Überfluss) 豊富[ほうふ]/(Wohlstand) 富裕[ふゆう]/
+Reichweite{f}/射程[しゃてい]/
 reif{adj}{adv}/若い[わかい]/
-Reif{m}/ループ[るーぷ]/霜[しも]/
-Reife{f}/経験[けいけん]/成熟[せいじゅく]/
+Reif{m}/霜[しも]/
+Reife{f}/成熟[せいじゅく]/
 Reifegrad{m}/成熟度[せいじゅくど]/
-Reifen{m}/タイヤ[たいや]/車輪[しゃりん]/ループ[るーぷ]/熟成[じゅくせい]/
+Reifen{m}/(Auto~) タイヤ[たいや]/
 reifen lassen/一皮剥ける[ひとかわむける]/
 Reifendruck{m}/空気圧[くうきあつ]/
 Reifendruckprüfer{m}/タイヤゲージ[たいやげーじ]/
@@ -22911,8 +22911,8 @@ Reifenprofil{n}/山[やま]/
 Reifenspur{f}/タイヤの跡[たいやのあと]/
 Reifenwechsel{m}/タイヤ交換[たいやこうかん]/
 Reigen{m}/輪舞[りんぶ]/
-Reihe{f}/ランキング[らんきんぐ]/列[つら]/側[がわ]/出番[でばん]/系列[けいれつ]/並[ならび]/シリーズ[しりーず]/一連[いちれん]/番[ばん]/順[じゅん]/並び[ならび]/順番[じゅんばん]/
-Reihenfolge{f}/次第[しだい]/手順[てじゅん]/取り組み[とりくみ]/取組[とりくみ]/階段[かいだん]/序[じょ]/順序[じゅんじょ]/順[じゅん]/オーダー[おーだー]/段取り[だんどり]/順番[じゅんばん]/
+Reihe{f}/並び[ならび]/
+Reihenfolge{f}/順序[じゅんじょ]/
 Reihenhaus{n}/長屋[ながや]/
 Reihenmotor{m}/単列機関[たんれつきかん]/
 Reihenuntersuchung{f}/集団検診[しゅうだんけんしん]/
@@ -22923,16 +22923,16 @@ reimlos{adj}/韻のない[いんのない]/
 Reimport{m}/逆輸入[ぎゃくゆにゅう]/
 Reimschema{n}/押韻形式[おういんけいしき]/
 Reimwort{n}/韻字[いんじ]/
-rein{adv}/生[き]/白い[しろい]/ピュア[ぴゅあ]/
+rein{adv}/(pur) 純粋な[じゅんすいな]/(sauber) 清潔な[せいけつな]/
 reine Mathematik{f}/純正数学[じゅんせいすうがく]/
 Reinemachen{n}/掃除[そうじ]/
 Reingewinn{m}/純利益[じゅんりえき]/
-Reinheit{f}/真[しん]/生粋[きっすい]/清浄[せいじょう]/純粋[じゅんすい]/無垢[むく]/清潔[せいけつ]/純一[じゅんいつ]/誠[まこと]/純正[じゅんせい]/清らか[きよらか]/純真[じゅんしん]/純[じゅん]/清純[せいじゅん]/
+Reinheit{f}/(Sauberkeit) 清潔[せいけつ]/(Echtheit) 純粋[じゅんすい]/
 Reinheitsgrad{m}/純度[じゅんど]/
 reinigen{vt}/清める[きよめる]/
 Reinigen{n}/拭き掃除[ふきそうじ]/
 Reiniger{m}/クリーナー[くりーなー]/
-Reinigung{f}/掃除[そうじ]/清掃[せいそう]/精製[せいせい]/浄化[じょうか]/
+Reinigung{f}/清掃[せいそう]/(Geschäft) クリーニング店[くりーにんぐてん]/
 Reinigungscreme{f}/クレンジング[くれんじんぐ]/
 Reinigungsdienst{m}/清掃業[せいそうぎょう]/
 Reinigungsmittel{n}/洗浄剤[せんじょうざい]/
@@ -22944,16 +22944,16 @@ reinrassig/純血の[じゅんけつの]/
 Reinraum{m}/クリーンルーム[くりーんるーむ]/
 Reinschrift{f}/清書[せいしょ]/
 Reinvestition{f}/再投資[さいとうし]/
-Reis{m}/米[よね]/枝[えだ]/コメ[こめ]/稲[いね]/
-Reisbrei{m}/粥[かゆ]/お粥[おかゆ]/
+Reis{m}/米[こめ]/
+Reisbrei{m}/お粥[おかゆ]/
 Reisebedarf{m}/旅行用品[りょこうようひん]/
 Reisebegleiter{m}/コンダクター[こんだくたー]/
-Reisebericht{m}/旅行記[りょこうき]/紀行文[きこうぶん]/紀行[きこう]/
-Reisebeschreibung{f}/紀行[きこう]/紀行文[きこうぶん]/
+Reisebericht{m}/旅行記[りょこうき]/
+Reisebeschreibung{f}/紀行[きこう]/
 Reisebüro{n}/観光局[かんこうきょく]/
 Reisedecke{f}/膝掛け[ひざかけ]/
 Reisediplomatie{f}/往復外交[おうふくがいこう]/
-Reiseführer{m}/ガイドブック[がいどぶっく]/栞[しおり]/添乗員[てんじょういん]/道中記[どうちゅうき]/手引き[てびき]/
+Reiseführer{m}/(Buch) ガイドブック[がいどぶっく]/(Reiseleiter) 添乗員[てんじょういん]/
 Reisegepäck{n}/チッキ[ちっき]/
 Reisegeschwindigkeit{f}/巡航速度[じゅんこうそくど]/
 Reisegesellschaft{f}/旅行会社[りょこうがいしゃ]/
@@ -22961,26 +22961,26 @@ Reisekosten{pl}/旅費[りょひ]/
 Reisekrankheit{f}/酔い[よい]/
 Reiseleiter{m}/添乗員[てんじょういん]/
 Reiselust{f}/旅心[たびごころ]/
-reisen{vi}{vt}/行く[いく]/いく[いく]/旅する[たびする]/
+reisen{vi}{vt}/旅行する[りょこうする]/
 Reisen{n}/走行[そうこう]/
 Reisenecessaire{n}/洗面道具入れ[せんめんどうぐいれ]/
 Reiseroute{f}/旅程[りょてい]/
 Reisescheck{m}/トラベラーズチェック[とらべらーずちぇっく]/
-Reisetagebuch{n}/紀行[きこう]/紀行文[きこうぶん]/旅日記[たびにっき]/道中記[どうちゅうき]/
+Reisetagebuch{n}/紀行文[きこうぶん]/
 Reisetasche{f}/鞄[かばん]/
 Reiseunfallversicherung{f}/旅行傷害保険[りょこうしょうがいほけん]/
 Reiseunternehmen{n}/旅行社[りょこうしゃ]/
 Reiseveranstalter{m}/観光業者[かんこうぎょうしゃ]/
 Reiseversicherung{f}/旅行保険[りょこうほけん]/
 Reisewecker{m}/トラベルウォッチ[とらべるうぉっち]/
-Reisfeld{n}/田[た]/稲田[いなだ]/田んぼ[たんぼ]/田圃[たんぼ]/
+Reisfeld{n}/稲田[いなだ]/
 Reisig{n}/柴[しば]/
 Reisigbesen{m}/草箒[くさぼうき]/
 Reiskleie{f}/糠[ぬか]/
 Reiskorn{n}/米粒[こめつぶ]/
 Reitbahn{f}/馬場[ばば]/
-Reiten{n}/乗馬[じょうば]/騎乗[きじょう]/
-Reiter{m}/ライダー[らいだー]/騎手[きしゅ]/
+Reiten{n}/乗馬[じょうば]/
+Reiter{m}/騎手[きしゅ]/
 Reiterei{f}/奇兵隊[きへいたい]/
 Reiterstatue{f}/騎馬像[きばぞう]/
 Reithose{f}/乗馬ズボン[じょうばずぼん]/
@@ -22990,10 +22990,10 @@ Reitsattel{m}/サドル[さどる]/
 Reitschule{f}/乗馬学校[じょうばがっこう]/
 Reitstiefel{pl}/長靴[ながぐつ]/
 Reitstockspitze{f}/止まりセンター[とまりせんたー]/
-Reiz{m}/魅力[みりょく]/面白み[おもしろみ]/チャーム[ちゃーむ]/可憐[かれん]/刺激[しげき]/刺激[しげき]/面白さ[おもしろさ]/魅惑[みわく]/潤い[うるおい]/魔力[まりょく]/
+Reiz{m}/{fig.}(Charme) 魅力[みりょく]/刺激[しげき]/
 reizbar{adv}{adj}/気難しい[きむずかしい]/
 Reizbarkeit{f}/短気[たんき]/
-reizend{adv}{adj}/可愛い[かわいい]/悩ましい[なやましい]/魅力的[みりょくてき]/美しい[うつくしい]/愛くるしい[あいくるしい]/
+reizend{adv}{adj}/{fig.} 魅力的[みりょくてき]/
 reizend sein{vi}/愛くるしげだ[あいくるしげだ]/
 reizlos{adj}{adv}/味気ない[あじきない]/
 Reizmittel{n}/刺激物[しげきぶつ]/
@@ -23006,26 +23006,26 @@ Reißverschluss{m}/ファスナー[ふぁすなー]/
 Reißwolf{m}/シュレッダー[しゅれっだー]/
 Reißzwecke{f}/画鋲[がびょう]/
 rekapitulieren{vt}/摘む[つまむ]/
-Reklame{f}/広告[こうこく]/宣伝[せんでん]/チラシ[ちらし]/
+Reklame{f}/広告[こうこく]/
 Reklameschild{n}/看板[かんばん]/
 Reklamezettel{m}/宣伝ビラ[せんでんびら]/
 reklamieren{vt}/解消する[かいしょうする]/
 Rekombination{f}/組み替え[くみかえ]/
 rekonstruieren{vt}/建て直す[たてなおす]/
-Rekonstruktion{f}/再現[さいげん]/復興[ふっこう]/
+Rekonstruktion{f}/(Wiederaufbau) 復興[ふっこう]/
 Rekonvaleszent{m}/病後の人[びょうごのひと]/
-Rekonvaleszenz{f}/養生[ようじょう]/病み上がり[やみあがり]/
-Rekord{m}/記録[きろく]/レコード[れこーど]/
+Rekonvaleszenz{f}/{Med.} 回復[かいふく]/
+Rekord{m}/レコード[れこーど]/
 Rekordernte{f}/未曾有の大豊作[みぞうのだいほうさく]/
 Rekordhalter{m}/レコードホルダー[れこーどほるだー]/
 Rekrut{m}/新兵[しんぺい]/
 Rekrutierung{f}/徴兵[ちょうへい]/
 Rektor{m}/学長[がくちょう]/
 rekursiv{adj}{adv}/回帰的[かいきてき]/
-Relais{n}/中継[ちゅうけい]/リレー[りれー]/中継ぎ[なかつぎ]/
+Relais{n}/{Elektrot.} 継電器[けいでんき]/
 Relation{f}/結びつき[むすびつき]/
 relational{adj}/関係的[かんけいてき]/
-relativ{adj}{adv}/比較的[ひかくてき]/割合[わりあい]/割に[わりに]/割りと[わりと]/割と[わりと]/割りに[わりに]/相対的[そうたいてき]/
+relativ{adj}{adv}/比較的[ひかくてき]/
 Relativismus{m}/相対主義[そうたいしゅぎ]/
 Relativität{f}/相対[そうたい]/
 Relativitätstheorie{f}/相対性理論[そうたいせいりろん]/
@@ -23034,7 +23034,7 @@ Relaxation{f}/緩和[かんわ]/
 Relegation{f}/放校[ほうこう]/
 relegieren/放校する[ほうこうする]/
 Relevanz{f}/関連性[かんれんせい]/
-Relief{n}/浮き彫り[うきぼり]/起伏[きふく]/
+Relief{n}/{bild. Kunst} 浮き彫り[うきぼり]/
 Reliefarbeit{f}/浮き彫り細工[うきぼりざいく]/
 Religion{f}/宗教[しゅうきょう]/
 Religionsfreiheit{f}/信教の自由[しんきょうのじゆう]/
@@ -23048,20 +23048,20 @@ Relikt{n}/遺跡[いせき]/
 Reling{f}/欄干[らんかん]/
 Reliquie{f}/遺物[いぶつ]/
 Remanenz{f}/残留磁気[ざんりゅうじき]/
-Reminiszenz{f}/回想[かいそう]/懐古[かいこ]/回顧[かいこ]/
+Reminiszenz{f}/回想[かいそう]/
 Remis{n}/預かり[あずかり]/
 Remission{f}/反射率[はんしゃりつ]/
 Remittenden{pl}/返品[へんぴん]/
 Remoulade{f}/タルタルソース[たるたるそーす]/
 Ren{n}/トナカイ[となかい]/
-Renaissance{f}/ルネッサンス[るねっさんす]/ルネサンス[るねさんす]/
-Rendezvous{n}/約束[やくそく]/デート[でーと]/
+Renaissance{f}/{Geschichte} ルネッサンス[るねっさんす]/(Wiederherstellung) 再生[さいせい]/
+Rendezvous{n}/デート[でーと]/
 Renegat{m}/変節漢[へんせつかん]/
 Rennauto{n}/マシン[ましん]/
 Rennbahn{f}/コース[こーす]/馬場[ばば]/
 Rennboot{n}/モーターボート[もーたーぼーと]/
-Rennen{n}/ランニング[らんにんぐ]/駆け足[かけあし]/疾走[しっそう]/駆け込み[かけこみ]/
-rennen{vi}/走る[はしる]/突っ走る[つっぱしる]/駆ける[かける]/
+Rennen{n}/(Wett~) レース[れーす]/
+rennen{vi}/走る[はしる]/
 Rennfahrer{m}/レーサー[れーさー]/
 Rennpferd{n}/競走馬[きょうそうば]/
 Rennrad{n}/競走用自転車[きょうそうようじてんしゃ]/
@@ -23070,7 +23070,7 @@ Rennstrecke{f}/レース場[れーすじょう]/
 Rennwagen{m}/レーシングカー[れーしんぐかー]/
 renommiert{adj}/名高い[なだかい]/
 renovieren{vt}/改める[あらためる]/
-Renovierung{f}/手入れ[ていれ]/改築[かいちく]/改装[かいそう]/
+Renovierung{f}/改装[かいそう]/
 Rentabilität{f}/利益率[りえきりつ]/
 Rente{f}/年金[ねんきん]/
 Renteneintrittsalter{n}/受給開始年齢[じゅきゅうかいしねんれい]/
@@ -23078,23 +23078,23 @@ Rentenempfänger{m}/受給者[じゅきゅうしゃ]/
 Rentenmark{f}/レンテン･マルク[れんてんまるく]/
 Rentenversicherung{f}/保険型年金[ほけんがたねんきん]/
 Rentner{m}/退職者[たいしょくしゃ]/
-Reorganisation{f}/改造[かいぞう]/再編[さいへん]/改革[かいかく]/改装[かいそう]/
-Reparatur{f}/修理[しゅうり]/改修[かいしゅう]/修復[しゅふく]/取り返し[とりかえし]/補修[ほしゅう]/手入れ[ていれ]/改築[かいちく]/修繕[しゅうぜん]/直し[なおし]/
+Reorganisation{f}/再編[さいへん]/
+Reparatur{f}/修理[しゅうり]/
 Reparaturarbeiten{pl}/改修工事[かいしゅうこうじ]/
 Reparaturkosten{pl}/修理代[しゅうりだい]/
 Reparaturmaterial{n}/補修材料[ほしゅうざいりょう]/
 Repatriierung{f}/引き上げ[ひきあげ]/
-Repertoire{n}/曲目[きょくもく]/レパートリー[れぱーとりー]/出物[だしもの]/出し物[だしもの]/
+Repertoire{n}/レパートリー[れぱーとりー]/
 Repetiergewehr{n}/連発銃[れんぱつじゅう]/
 Repetition{f}/お浚い[おさらい]/
 Replik{f}/レプリカ[れぷりか]/
-Reportage{f}/報道[ほうどう]/探訪[たんぼう]/ルポ[るぽ]/
-Reporter{m}/記者[きしゃ]/レポーター[れぽーたー]/リポーター[りぽーたー]/
+Reportage{f}/ルポルタージュ[るぽるたーじゅ]/
+Reporter{m}/記者[きしゃ]/
 repressiv{adj}{adv}/圧制的な[あっせいてきな]/
 Reprint{m}/再刊[さいかん]/
-Reproduktion{f}/再生[さいせい]/複製[ふくせい]/再現[さいげん]/
+Reproduktion{f}/(Nachdruck) 複製[ふくせい]/(Fortpflanzung) 繁殖[はんしょく]/
 Reproduzierbarkeit{f}/再現性[さいげんせい]/
-Repräsentant{m}/代表[だいひょう]/代理人[だいりにん]/駐在員[ちゅうざいいん]/
+Repräsentant{m}/代表[だいひょう]/
 Repräsentation{f}/代表[だいひょう]/
 Repräsentationskosten{pl}/交際費[こうさいひ]/
 Repräsentativsystem{n}/代議制[だいぎせい]/
@@ -23102,12 +23102,12 @@ Reptil{n}/跛行動物[はこうどうぶつ]/
 Republik{f}/共和国[きょうわこく]/
 Republikaner{m}/共和主義者[きょうわしゅぎしゃ]/
 republikanisch{adj}/共和の[きょうわの]/
-Reputation{f}/評判[ひょうばん]/面子[めんつ]/暖簾[のれん]/聞こえ[きこえ]/
+Reputation{f}/評判[ひょうばん]/
 Requiem{n}/レクイエム[れくいえむ]/
 requirieren{vt}/徴発する[ちょうはつする]/
 Requisiteur{m}/小道具方[こどうぐかた]/
 Requisition{f}/徴収[ちょうしゅう]/
-Reserve{f}/替え[かえ]/予備[よび]/換え[かえ]/バックアップ[ばっくあっぷ]/遠慮[えんりょ]/
+Reserve{f}/(Vorrat) 予備[よび]/{Militär}(militärische ~) 予備役[よびえき]/
 Reserverad{n}/予備車輪[よびしゃりん]/
 Reservereifen{m}/スペアタイヤ[すぺあたいや]/
 Reservespieler{m}/控え選手[ひかえせんしゅ]/
@@ -23116,33 +23116,33 @@ reserviert{adv}/つんと[つんと]/
 Reservist{m}/補充兵[ほじゅうへい]/
 Reservoir{n}/溜池[ためいけ]/
 resident{adj}/移住しない[いじゅうしない]/
-Residenz{f}/屋敷[やしき]/邸宅[ていたく]/邸[てい]/駐在[ちゅうざい]/官邸[かんてい]/
+Residenz{f}/(herrschaftliches Wohnhaus) 邸宅[ていたく]/(Amtswohnung) 官邸[かんてい]/
 Residuum{n}/留数[りゅうすう]/
-Resignation{f}/覚悟[かくご]/思いっきり[おもいっきり]/観念[かんねん]/思い切り[おもいきり]/
+Resignation{f}/(Aufgabe der Hoffnung) 諦め[あきらめ]/
 resignieren{vi}/思い切る[おもいきる]/
-resolut{adj}/硬い[かたい]/固い[かたい]/堅い[かたい]/
-Resonanz{f}/響き[ひびき]/反響[はんきょう]/共鳴[きょうめい]/響[ひびき]/
+resolut{adj}/(entschlossen) 決然とした[けつぜんとした]/
+Resonanz{f}/{Phys.} 共鳴[きょうめい]/{fig.}(Echo) 反響[はんきょう]/
 Resonanzboden{m}/共鳴板[きょうめいばん]/
 Resonator{m}/共鳴器[きょうめいき]/
 Resorption{f}/吸収[きゅうしゅう]/
 Resozialisierung{f}/社会復帰[しゃかいふっき]/
-Respekt{m}/尊敬[そんけい]/敬意[けいい]/恐れ[おそれ]/尊重[そんちょう]/
+Respekt{m}/尊敬[そんけい]/
 Respekt zeigen/尊敬を払う[そんけいをはらう]/
-respektlos{adj}{adv}/勿体無い[もったいない]/勿体ない[もったいない]/
+respektlos{adj}{adv}/(unhöflich) 失敬な[しっけいな]/
 Ressource{f}/リソース[りそーす]/
 Ressourcenmanagement{n}/資源管理[しげんかんり]/
-Rest{m}/後[あと]/残り物[のこりもの]/余り[あまり]/余分[よぶん]/残り[のこり]/名残り[なごり]/名残[なごり]/余[よ]/差[さ]/
+Rest{m}/残り[のこり]/
 Restauflage{f}/売れ残り[うれのこり]/
-Restaurant{n}/レストラン[れすとらん]/飯屋[めしや]/飲食店[いんしょくてん]/茶屋[ちゃや]/料理店[りょうりてん]/料理屋[りょうりや]/
-Restauration{f}/回復[かいふく]/維新[いしん]/復旧[ふっきゅう]/
+Restaurant{n}/レストラン[れすとらん]/
+Restauration{f}/(Wiederaufbau) 再建[さいけん]/(Reparatur, z.B. eines Kunstwerks) 修復[しゅうふく]/
 restaurieren{vt}/修復する[しゅうふくする]/
-Restaurierung{f}/修復[しゅふく]/新装[しんそう]/
+Restaurierung{f}/(z.B. eines Kunstwerks) 修復[しゅふく]/
 Restbetrag{m}/残高[ざんだか]/
 Restbuchwert{m}/償却後の価格[しょうきゃくごのかかく]/
-Reste{pl}/跡[あと]/残骸[ざんがい]/
+Reste{pl}/残り物[のこりもの]/
 Restitution{f}/回復[かいふく]/
 restlich{adj}/名残りの[なごりの]/
-restlos{adj}/全て[すべて]/ごっそり[ごっそり]/すっかり[すっかり]/丸ごと[まるごと]/総て[すべて]/すっぽり[すっぽり]/
+restlos{adj}/(vollständig) 全て[すべて]/
 Restmagnetismus{m}/残留磁気[ざんりゅうじき]/
 Restmüll{m}/最終廃棄物[さいしゅうはいきぶつ]/
 Restposten{pl}{m}/えい余[えいよ]/
@@ -23150,7 +23150,7 @@ Restschuld{f}/借金の残り[しゃっきんののこり]/
 Restspannung{f}/残余電流[ざんよでんりゅう]/
 Reststrom{m}/静止電流[せいしでんりゅう]/
 Resultante{f}/合成[ごうせい]/
-Resultat{n}/結果[けっか]/出来栄え[できばえ]/実績[じっせき]/規模[きぼ]/業績[ぎょうせき]/成果[せいか]/効果[こうか]/成績[せいせき]/
+Resultat{n}/結果[けっか]/
 resultierend/結果的[けっかてき]/
 Resultierende{f}/合力[ごうりょく]/
 Resümee{n}/要約[ようやく]/
@@ -23160,8 +23160,8 @@ Retortenbaby{n}/試験管ベビー[しけんかんべびー]/
 Retourkutsche{f}/逆捩じ[さかねじ]/
 retten{vt}/救う[すくう]/
 Retter{m}/救い主[すくいぬし]/
-Rettich{m}/大根[だいこ]/ダイコン[だいこん]/
-Rettung{f}/救い[すくい]/救済[きゅうさい]/救済[きゅうさい]/救出[きゅうしゅつ]/救援[きゅうえん]/レスキュー[れすきゅー]/救急[きゅうきゅう]/
+Rettich{m}/{Bot.} 大根[だいこん]/
+Rettung{f}/(~ einer Person in Not oder Gefahr) 救助[きゅうじょ]/(Hilfe) 救済[きゅうさい]/
 Rettungsaktion{f}/救出作戦[きゅうしゅつさくせん]/
 Rettungsanker{m}/助け舟[たすけぶね]/
 Rettungsassistent{m}/救急救命士[きゅうきゅうきゅうめいし]/
@@ -23180,41 +23180,41 @@ Rettungsschwimmer{m}/看視員[かんしいん]/
 Rettungstruppe{f}/救助隊[きゅうじょたい]/
 Rettungswagen{m}/救急車[きゅうきゅうしゃ]/
 Retusche{f}/レタッチ[れたっち]/
-Reue{f}/後悔[こうかい]/悔い[くい]/悔やみ[くやみ]/
+Reue{f}/後悔[こうかい]/
 Reuse{f}/しがらみ[しがらみ]/
-Revanche{f}/報[むくい]/仕返し[しかえし]/雪辱[せつじょく]/礼[れい]/復讐[ふくしゅう]/報い[むくい]/
+Revanche{f}/(Rache) 復讐[ふくしゅう]/{Sport} 雪辱戦[せつじょくせん]/
 revidieren{vt}/改める[あらためる]/
 Revier{n}/縄張り[なわばり]/
-Revision{f}/検査[けんさ]/上告[じょうこく]/見直し[みなおし]/改編[かいへん]/修正[しゅうせい]/監査[かんさ]/補正[ほせい]/バージョンアップ[ばーじょんあっぷ]/改良[かいりょう]/改定[かいてい]/改革[かいかく]/改訂[かいてい]/改正[かいせい]/
+Revision{f}/(Inspektion) 検査[けんさ]/(textkritische ~) 校訂[こうてい]/(Berufung) 上告[じょうこく]/(Verbesserung) 修正[しゅうせい]/
 Revisionismus{m}/修正主義[しゅうせいしゅぎ]/
 Revitalisierung{f}/活性化[かっせいか]/
-Revolution{f}/革命[かくめい]/変革[へんかく]/
+Revolution{f}/革命[かくめい]/
 revolutionieren{vt}/変革する[へんかくする]/
 Revolutionär{m}/革命家[かくめいか]/
 revolutionär{adj}{adv}/革命的[かくめいてき]/
-Revolver{m}/拳銃[けんじゅう]/ピストル[ぴすとる]/蓮根[れんこん]/
+Revolver{m}/拳銃[けんじゅう]/ピストル[ぴすとる]/
 Revolverblatt{n}/インチキ新聞[いんちきしんぶん]/
 Revolverdrehbank{f}/タレット旋盤[たれっとせんばん]/
 Revolverheld{m}/ガンファイター[がんふぁいたー]/
 Revolverkopf{m}/ターレット[たーれっと]/
-Revue{f}/レビュー[れびゅー]/時評[じひょう]/レヴュー[れう゛ゅー]/
+Revue{f}/レビュー[れびゅー]/
 Revuegirl{n}/コーラスガール[こーらすがーる]/
 Revuetheater{n}/フォーリーズ[ふぉーりーず]/
 Revuetänzerin{f}/ショーガール[しょーがーる]/
 Rezensent{m}/評論家[ひょうろんか]/
-Rezension{f}/書評[しょひょう]/時評[じひょう]/論評[ろんぴょう]/評論[ひょうろん]/批評[ひひょう]/
-Rezept{n}/レシピ[れしぴ]/処方[しょほう]/処方箋[しょほうせん]/調理法[ちょうりほう]/製法[せいほう]/
-Rezeption{f}/受付[うけつけ]/インフォメーション[いんふぉめーしょん]/享受[きょうじゅ]/フロント[ふろんと]/受け付け[うけつけ]/
+Rezension{f}/(Buchbesprechung) 書評[しょひょう]/(Kritik) 批評[ひひょう]/
+Rezept{n}/(Koch~) レシピ[れしぴ]/{Med.} 処方箋[しょほうせん]/
+Rezeption{f}/(Empfang) 受付[うけつけ]/(Reaktion) 反応[はんのう]/
 Rezeptor{m}/受容器[じゅようき]/
-Rezession{f}/後退[こうたい]/不景気[ふけいき]/不況[ふきょう]/
+Rezession{f}/不況[ふきょう]/
 rezessiv{adj}/陰性の[いんせいの]/
 Rezidiv{n}/ぶり返し[ぶりかえし]/
 rezipieren{vt}/享受する[きょうじゅする]/
 Reziprozität{f}/相互[そうご]/
 Rezitation{f}/朗読[ろうどく]/
-rezitieren{vt}/唄う[うたう]/唱える[となえる]/
+rezitieren{vt}/朗読する[ろうどくする]/
 Rhabarber{m}/大黄[だいおう]/
-Rhapsodie{f}/狂想曲[きょうそうきょく]/ラプソディー[らぷそでぃー]/
+Rhapsodie{f}/{Mus.} ラプソディー[らぷそでぃー]/
 Rhesusfaktor{m}/アールエイチ[あーるえいち]/
 Rhetorik{f}/レトリック[れとりっく]/
 rhetorisch{adv}/修辞的な[しゅうじてきな]/
@@ -23227,43 +23227,42 @@ Rhododendron{m}/石楠花[しゃくなげ]/
 Rhombus{m}/菱[ひし]/
 Rhythmik{f}/リトミック[りとみっく]/
 rhythmisch{adj}{adv}/リズミカル[りずみかる]/
-Rhythmus{m}/リズム[りずむ]/旋律[せんりつ]/拍子[ひょうし]/
+Rhythmus{m}/{Mus.} リズム[りずむ]/
 Rhönrad{n}/ラート[らーと]/
 Ribonukleinsäure{f}/RNA[あーるえぬえー]/
 Ribosom{n}/リボゾーム[りぼぞーむ]/
 Richtantenne{f}/ビームアンテナ[びーむあんてな]/
 Richten{n}/棟上げ[むねあげ]/
 richten{vt}/直す[なおす]/
-Richter{m}/裁判官[さいばんかん]/ジャッジ[じゃっじ]/審査員[しんさいん]/
+Richter{m}/裁判官[さいばんかん]/
 Richterstuhl{m}/判事席[はんじせき]/
 Richtfest{n}/建前[たてまえ]/
-richtig{adj}{adv}/良い[いい]/きっちり[きっちり]/正しい[ただしい]/良し[よし]/立派[りっぱ]/好い[いい]/宜しい[よろしい]/確か[たしか]/きちんと[きちんと]/順当[じゅんとう]/きちっと[きちっと]/正に[まさに]/本格的[ほんかくてき]/
-Richtigkeit{f}/本当[ほんとう]/正確[せいかく]/順[じゅん]/妥当[だとう]/純正[じゅんせい]/
-Richtlinie{f}/基準[きじゅん]/指針[ししん]/基準法[きじゅんほう]/路線[ろせん]/方針[ほうしん]/ガイドライン[がいどらいん]/
+richtig{adj}{adv}/正しい[ただしい]/(wahr) 本当の[ほんとうの]/
+Richtigkeit{f}/(Wahrheit) 本当[ほんとう]/(Gerechtigkeit) 正しさ[ただしさ]/(Korrektheit) 正確[せいかく]/
+Richtlinie{f}/基準[きじゅん]/
 Richtmaß{n}/規準[きじゅん]/
 Richtpreis{m}/公定価格[こうていかかく]/
-Richtschnur{f}/標準[ひょうじゅん]/指針[ししん]/目当て[めあて]/方針[ほうしん]/規範[きはん]/キャノン[きゃのん]/
+Richtschnur{f}/(als Lot) 墨糸[すみいと]/(Norm) 基準[きじゅん]/
 Richtstrahl{m}/信号電波[しんごうでんぱ]/
-Richtung{f}/方[ほう]/動向[どうこう]/方面[ほうめん]/方向[ほうこう]/宛[あて]/路線[ろせん]/進路[しんろ]/当て[あて]/宛て[あて]/傾向[けいこう]/方角[ほうがく]/向き[むき]/見当[けんとう]/方位[ほうい]/
+Richtung{f}/方向[ほうこう]/
 Richtungsanzeiger{m}/方向指示器[ほうこうしじき]/
 Richtungspfeil{m}/矢印[やじるし]/
 Richtungsschild{n}/道しるべ[みちしるべ]/
 Richtungsänderung{f}/方向転換[ほうこうてんかん]/
-riechen{vi}/プンプン[ぷんぷん]/ぷんぷん[ぷんぷん]/
+riechen{vi}/匂う[におう]/
 Riechfläschchen{n}/気付け薬[きつけぐすり]/
-Ried{n}/ヨシ[よし]/アシ[あし]/葦[よし]/芦[あし]/
+Ried{n}/(Moorgebiet) 沼地[ぬまち]/
 Riedsänger{m}/大雪加[おおせっか]/
 Riefe{f}/溝[みぞ]/
 Riegel{m}/ラッチ[らっち]/
 Riemen{m}/緒[お]/
 Riemenscheibe{f}/調べ車[しらべぐるま]/
-Ries{n}/締め[しめ]/シメ[しめ]/〆[しめ]/
-Riese{m}/巨人[きょじん]/ジャイアント[じゃいあんと]/
+Riese{m}/巨人[きょじん]/
 Riesenerfolg{m}/大当たり[おおあたり]/
 riesengroß{adv}/かい偉な[かいいな]/
 Riesengröße{f}/莫大[ばくだい]/
 riesenhaft{adv}/森森[しんしん]/
-Riesenhaftigkeit{f}/バカ[ばか]/馬鹿[ばか]/巨大[きょだい]/
+Riesenhaftigkeit{f}/巨大[きょだい]/
 Riesenkürbis{m}/お化けカボチャ[おばけかぼちゃ]/
 Riesenrad{n}/観覧車[かんらんしゃ]/
 Riesenschlange{f}/大蛇[だいじゃ]/
@@ -23271,19 +23270,19 @@ Riesenslalom{n}/大回転[だいかいてん]/
 Riesenstadt{f}/大都会[だいとかい]/
 Riesenstern{m}/超巨星[ちょうきょせい]/
 Riesenwuchs{m}/巨大症[きょだいしょう]/
-riesig{adv}/大きな[おおきな]/ビッグ[びっぐ]/膨大[ぼうだい]/でかい[でかい]/でっかい[でっかい]/大きい[おおきい]/誠に[まことに]/
+riesig{adv}/巨大な[きょだいな]/
 Riff{n}{m}/岩[いわ]/
 Riffelung{f}/ギザギザ[ぎざぎざ]/
 Rigorismus{m}/リゴリズム[りごりずむ]/
 Rikscha{f}/人力車[じんりきしゃ]/
 Rille{f}/溝[みぞ]/
-Rind{n}/牛[うし]/牛肉[ぎゅうにく]/
-Rinde{f}/皮[かわ]/革[かわ]/
+Rind{n}/牛[うし]/
+Rinde{f}/木の皮[きのかわ]/
 Rinderfett{n}/牛脂[ぎゅうし]/
 Rinderpest{f}/牛疫[ぎゅうえき]/
 Rindertalg{m}/牛脂[ぎゅうし]/
 Rinderwahnsinn{m}/狂牛病[きょうぎゅうびょう]/
-Rindfleisch{n}/牛[うし]/牛肉[ぎゅうにく]/ビーフ[びーふ]/
+Rindfleisch{n}/牛肉[ぎゅうにく]/
 Rindsleder{n}/牛皮[ぎゅうひ]/
 Ring{m}/丸[まる]/かん[かん]/土俵[どひょう]/指輪[ゆびわ]/環[わ]/輪[わ]/リング[りんぐ]/リング[りんぐ]/リング[りんぐ]/ループ[るーぷ]/
 Ringelblume{f}/マリーゴールド[まりーごーるど]/
