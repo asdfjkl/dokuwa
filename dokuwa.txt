@@ -23284,10 +23284,10 @@ Rindertalg{m}/牛脂[ぎゅうし]/
 Rinderwahnsinn{m}/狂牛病[きょうぎゅうびょう]/
 Rindfleisch{n}/牛肉[ぎゅうにく]/
 Rindsleder{n}/牛皮[ぎゅうひ]/
-Ring{m}/丸[まる]/かん[かん]/土俵[どひょう]/指輪[ゆびわ]/環[わ]/輪[わ]/リング[りんぐ]/リング[りんぐ]/リング[りんぐ]/ループ[るーぷ]/
+Ring{m}/(Kreis) 輪[わ]/(Finger~) 指輪[ゆびわ]/(Gruppe) サークル[さーくる]/
 Ringelblume{f}/マリーゴールド[まりーごーるど]/
 Ringelwurm{m}/環形動物[かんけいどうぶつ]/
-ringen{vi}/取り組む[とりくむ]/組む[くむ]/
+ringen{vi}/{fig.}(mit etwas auseinandersetzen) 取り組む[とりくむ]/{Sport} レスリングする[れすりんぐする]/
 Ringer{m}/レスラー[れすらー]/
 Ringfinger{m}/薬指[くすりゆび]/
 ringförmig{adj}{adv}/環状の[かんじょうの]/
@@ -23296,18 +23296,18 @@ Ringschlüssel{m}/ボックスレンチ[ぼっくすれんち]/
 Rinne{f}/溝[みぞ]/
 Rinnsal{n}/細流[さいりゅう]/
 Rinnstein{m}/側溝[そっこう]/
-Rippchen{pl}/リブ[りぶ]/スペアリブ[すぺありぶ]/
-Rippe{f}/ウェブ[うぇぶ]/リブ[りぶ]/
+Rippchen{pl}/{Kochk.}(Spare Ribs) スペアリブ[すぺありぶ]/
+Rippe{f}/{Anat.} 肋骨[ろっこつ]/
 Rippenfell{n}/肋膜[ろくまく]/
 Rips{m}/畝織り[うねおり]/
-Risiko{n}/チャレンジ[ちゃれんじ]/ベンチャー[べんちゃー]/冒険[ぼうけん]/リスク[りすく]/恐れ[おそれ]/
+Risiko{n}/冒険[ぼうけん]/リスク[りすく]/
 Risikobewertung{f}/リスク評価[りすくひょうか]/
 Risikofaktor{m}/危険因子[きけんいんし]/
 Risikokapital{n}/ベンチャーキャピタル[べんちゃーきゃぴたる]/
 Risikolebensversicherung{f}/定期保険[ていきほけん]/
 Risikomanagement{n}/危機管理[ききかんり]/
 Risikoverteilung{f}/リスク分散[りすくぶんさん]/
-riskant{adj}{adv}/やばい[やばい]/危ない[あぶない]/
+riskant{adj}{adv}/(gefährlich) 危険な[きけんな]/
 riskieren{vt}/とする[とする]/賭ける[かける]/
 Rispe{f}/円錐花序[えんすいかじょ]/
 Riss{m}/傷[きず]/切れ目[きれめ]/溝[みぞ]/欠け[かけ]/亀裂[きれつ]/分裂[ぶんれつ]/
