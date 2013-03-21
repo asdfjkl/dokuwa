@@ -23308,9 +23308,9 @@ Risikolebensversicherung{f}/定期保険[ていきほけん]/
 Risikomanagement{n}/危機管理[ききかんり]/
 Risikoverteilung{f}/リスク分散[りすくぶんさん]/
 riskant{adj}{adv}/(gefährlich) 危険な[きけんな]/
-riskieren{vt}/とする[とする]/賭ける[かける]/
+riskieren{vt}/危険を冒す[きけんをおかす]/
 Rispe{f}/円錐花序[えんすいかじょ]/
-Riss{m}/傷[きず]/切れ目[きれめ]/溝[みぞ]/欠け[かけ]/亀裂[きれつ]/分裂[ぶんれつ]/
+Riss{m}/(Spalt) 裂け目[さけめ]/
 rissig{adj}/あかぎれの切れた[あかぎれのきれた]/
 Risswunde{f}/裂傷[れっしょう]/
 Rist{m}/足の甲[あしのこう]/
@@ -23320,13 +23320,13 @@ Ritterburg{f}/居城[きょじょう]/
 ritterlich{adj}{adv}/貴族的[きぞくてき]/
 Ritterlichkeit{f}/男気[おとこぎ]/
 Rittertum{n}/武士道[ぶしどう]/
-Ritual{n}/儀式[ぎしき]/儀[ぎ]/
+Ritual{n}/儀式[ぎしき]/
 Ritualismus{m}/儀式主義[ぎしきしゅぎ]/
-Ritus{m}/式[しき]/儀式[ぎしき]/
-Ritze{f}/穴[あな]/孔[あな]/欠け[かけ]/
+Ritus{m}/儀式[ぎしき]/
+Ritze{f}/裂け目[さけめ]/
 Ritzel{n}/歯車[はぐるま]/
-Rivale{m}/敵[てき]/仇[かたき]/ライバル[らいばる]/
-Rivalität{f}/競争[きょうそう]/太刀打ち[たちうち]/争い[あらそい]/
+Rivale{m}/競争相手[きょうそうあいて]/
+Rivalität{f}/競争[きょうそう]/
 Rizinusöl{n}/蓖麻子油[ひましゆ]/
 Robbe{f}/アシカ[あしか]/
 Roboter{m}/ロボット[ろぼっと]/
@@ -23335,7 +23335,7 @@ Robotik{f}/ロボット工学[ろぼっとこうがく]/
 robust{adv}{adj}/強い[つよい]/
 Robustheit{f}/頑丈[がんじょう]/
 Rochen{m}/エイ[えい]/
-Rock{m}/ロック[ろっく]/スカート[すかーと]/
+Rock{m}/スカート[すかーと]/
 Rockbund{m}/ウエスト･バンド[うえすとばんど]/
 Rocker{m}/暴走族[ぼうそうぞく]/
 Rockmusik{f}/ロックミュージック[ろっくみゅーじっく]/
@@ -23349,17 +23349,17 @@ Roggen{m}/麦[むぎ]/
 Roggenbrot{n}/黒パン[くろぱん]/
 Roggenmehl{n}/ライ麦粉[らいむぎこ]/
 Roggenwhisky{m}/ライ･ウイスキー[らいういすきー]/
-roh{adv}/生[き]/可哀相[かわいそう]/可哀想[かわいそう]/
+roh{adv}/(vulgär) 粗野な[そやな]/(Lebensmittel) 生の[なまの]/(unbarmherzig) 可哀相[かわいそう]/
 Rohbaumwolle{f}/綿花[めんか]/
 Rohdiamant{m}/ダイヤモンドの原石[だいやもんどのげんせき]/
 Roheisen{n}/銑鉄[せんてつ]/
 Rohentwurf{m}/クロッキー[くろっきー]/
 Rohgummi{m}/生ゴム[なまごむ]/
-Rohheit{f}/失礼[しつれい]/乱暴[らんぼう]/野暮[やぼ]/
+Rohheit{f}/乱暴[らんぼう]/
 Rohkost{f}/生野菜[なまやさい]/
 Rohleder{n}/生皮[なまかわ]/
-Rohmaterial{n}/ネタ[ねた]/ねた[ねた]/物資[ぶっし]/原材料[げんざいりょう]/
-Rohr{n}/管[かん]/筒[つつ]/チューブ[ちゅーぶ]/パイプ[ぱいぷ]/籐[とう]/
+Rohmaterial{n}/原材料[げんざいりょう]/
+Rohr{n}/管[かん]/
 Rohrammer{f}/大寿林[おおじゅりん]/
 Rohrblatt{m}/舌[した]/
 Rohrdommel{f}/サンカノゴイ[さんかのごい]/
@@ -23369,7 +23369,7 @@ Rohrzucker{m}/スクロース[すくろーす]/
 Rohsalz{n}/粗製塩[そせいえん]/
 Rohseide{f}/白糸[しらいと]/
 Rohstahl{m}/粗鋼[そこう]/
-Rohstoff{m}/材料[ざいりょう]/資源[しげん]/原料[げんりょう]/マテリアル[まてりある]/
+Rohstoff{m}/原料[げんりょう]/
 Rohstoffindustrie{f}/天産物的産業[てんさんぶつてきさんぎょう]/
 Rohzink{n}/亜鉛鋳塊[あえんちゅうかい]/
 Rohzucker{m}/黒砂糖[くろざとう]/
@@ -23379,59 +23379,59 @@ Rohübersetzung{f}/下訳[したやく]/
 Rokoko{n}/ロココ[ろここ]/
 Rollator{m}/シルバー･カー[しるばーかー]/
 Rollbahn{f}/滑走路[かっそうろ]/
-Rolle{f}/ころ[ころ]/一役[ひとやく]/軸[じく]/軸[じく]/役割[やくわり]/役柄[やくがら]/巻き[まき]/役目[やくめ]/官[つかさ]/ロール[ろーる]/司[つかさ]/
-Rollen{n}/巻き[まき]/滑走[かっそう]/動揺[どうよう]/揺れ[ゆれ]/
+Rolle{f}/(z.B. eines Flaschenzugs) 滑車[かっしゃ]/(wie in Rollenverteilung) 役割[やくわり]/
+Rollen{n}/滑走[かっそう]/
 Rollenlager{n}/ローラ支承[ろーらししょう]/
 Rollenspiel{n}/ロール･プレーイング･ゲーム[ろーるぷれーいんぐげーむ]/
-Rollenverteilung{f}/顔ぶれ[かおぶれ]/役割分担[やくわりぶんたん]/配役[はいやく]/
-Roller{m}/スケート[すけーと]/スクーター[すくーたー]/
+Rollenverteilung{f}/役割分担[やくわりぶんたん]/
+Roller{m}/(Motor~) スクーター[すくーたー]/
 Rollkragen{m}/タートルネック[たーとるねっく]/
 Rollkragenpullover{m}/とっくりのセーター[とっくりのせーたー]/
 Rollladen{m}/シャッター[しゃったー]/
 Rollo{n}/ブラインド[ぶらいんど]/
-Rollschuh{m}/スケート[すけーと]/ローラー[ろーらー]/
+Rollschuh{m}/ローラースケート[ろーらーすけーと]/
 Rollschuhlaufen{n}/スケーティング[すけーてぃんぐ]/
-Rollstuhl{m}/車椅子[くるまいす]/車いす[くるまいす]/
+Rollstuhl{m}/車椅子[くるまいす]/
 Rolltreppe{f}/エスカレーター[えすかれーたー]/
-Roman{m}/物語[ものがたり]/小説[しょうせつ]/創作[そうさく]/ロマン[ろまん]/ノベル[のべる]/
+Roman{m}/小説[しょうせつ]/
 Romanform{f}/小説形式[しょうせつけいしき]/
 romanisch{adj}/ロマネスク[ろまねすく]/
 Romanschriftsteller{m}/小説家[しょうせつか]/
 Romantik{f}/ロマンチシズム[ろまんちしずむ]/
 Romantiker{m}/ロマンチスト[ろまんちすと]/
-romantisch{adj}{adv}/ロマンチック[ろまんちっく]/ロマンティック[ろまんてぃっく]/
+romantisch{adj}{adv}/ロマンチック[ろまんちっく]/
 Romanze{f}/ロマンス[ろまんす]/
-Rosa{n}/ピンク[ぴんく]/ピンキー[ぴんきー]/桃色[ももいろ]/桃[もも]/
+Rosa{n}/ピンク[ぴんく]/桃色[ももいろ]/
 Rosario (Stadt in Argentinien)/ロサリオ[ろさりお]/
 rosarot{adj}/ばら色の[ばらいろの]/
 Rosazea{f}/赤鼻[あかはな]/
-Rose{f}/バラ[ばら]/棘[きょく]/薔薇[そうび]/
+Rose{f}/バラ[ばら]/
 Rosenduft{m}/バラの香り[ばらのかおり]/
 Rosengarten{m}/バラ園[ばらえん]/
 Rosenkohl{m}/芽キャベツ[めきゃべつ]/
-Rosenkranz{m}/ロザリオ[ろざりお]/数珠[じゅず]/
+Rosenkranz{m}/(Gebetschnur) 数珠[じゅず]/
 Rosenkäfer{pl}/カナブン[かなぶん]/
 Rosenquarz{m}/ばら石英[ばらせきえい]/
-Rosenstock{m}/バラ[ばら]/薔薇[そうび]/
-Rosenstrauch{m}/バラ[ばら]/薔薇[そうび]/
+Rosenstock{m}/薔薇[そうび]/
+Rosenstrauch{m}/薔薇[そうび]/
 Rosenöl{n}/薔薇油[ばらゆ]/
 Roseola{f}/ばらしん[ばらしん]/
 Rosette{f}/ロゼット[ろぜっと]/
-rosig{adj}/輝かしい[かがやかしい]/洋洋[ようよう]/
+rosig{adj}/{fig.} 輝かしい[かがやかしい]/
 Rosine{f}/干し葡萄[ほしぶどう]/
 Rosmarin{m}/ローズマリー[ろーずまりー]/
-Ross{n}/馬[うま]/竜馬[りょうめ]/龍馬[りょうめ]/
+Ross{n}{veraltet}/馬[うま]/
 Rosskur{f}/荒療治[あらりょうじ]/
 Rosstäuscher{m}/インチキ商人[いんちきしょうにん]/
-Rost{m}/さび[さび]/サビ[さび]/
+Rost{m}/サビ[さび]/
 rosten{vi}/錆びる[さびる]/
 rostig{adv}/さびた[さびた]/
 Rostschutz{m}/錆止め[さびどめ]/
 Rostschutzmittel{n}/防蝕剤[ぼうしょくざい]/
-rot{adj}/赤い[あかい]/緋[あか]/
+rot{adj}/赤い[あかい]/
 Rot-Grün-Blau-Signal{n}/RGB信号[あーるじーびーしんごう]/
 Rotalge{f}/紅藻[こうそう]/
-Rotation{f}/周り[まわり]/旋回[せんかい]/ローテーション[ろーてーしょん]/循環[じゅんかん]/回転[かいてん]/ロータリー[ろーたりー]/
+Rotation{f}/回転[かいてん]/
 Rotationsachse{f}/回転軸[かいてんじく]/
 Rotationsdruckmaschine{f}/円圧印刷機[えんあついんさつき]/
 Rotationsellipsoid{n}/扁球[へんきゅう]/
@@ -23451,7 +23451,8 @@ Rotglut{f}/赤熱[せきねつ]/
 Rotgültigerz{n}/紅銀鉱[こうぎんこう]/
 rothaarig{adj}/赤毛の[あかげの]/
 Rothirsch{m}/アカシカ[あかしか]/
-rotieren{vi}/回る[めぐる]/廻る[めぐる]/巡る[めぐる]/
+rotieren{vi}/(sich drehen) 回転する[かいてんする]/
+rotieren{vi}{ugs}/(die Fassung verlieren) 動転する[どうてんする]/
 Rotkehlchen{n}/コマドリ[こまどり]/
 Rotkohl{m}/紫キャベツ[むらさききゃべつ]/
 Rotlichtbezirk{m}/赤線区域[あかせんくいき]/
@@ -23468,17 +23469,17 @@ Rotz{m}/鼻水[はなみず]/
 Rotznase{f}/洟垂らし[はなたらし]/
 Rouge{n}/ルージュ[るーじゅ]/
 Roulette{n}/ルーレットの回転盤[るーれっとのかいてんばん]/
-Route{f}/道[みち]/水路[すいろ]/路線[ろせん]/進路[しんろ]/経路[けいろ]/路[みち]/通路[かよいじ]/線[せん]/道筋[みちすじ]/
+Route{f}/道筋[みちすじ]/
 Routine{f}/手際[てぎわ]/
 Routinearbeit{f}/常務[じょうむ]/
 Routinier{m}/老練家[ろうれんや]/
 routiniert{adj}/古い[ふるい]/
-Rowdy{m}/不良[ふりょう]/暴れん坊[あばれんぼう]/
+Rowdy{m}/暴れん坊[あばれんぼう]/
 Rowdytum{n}/伝法[でんぽう]/
 Royalist{m}/志士[しし]/
 Rubrik{f}/表題[ひょうだい]/
 ruchlos{adj}{adv}/凶悪な[きょうあくな]/
-Ruchlosigkeit{f}/凶悪[きょうあく]/極悪[ごくあく]/
+Ruchlosigkeit{f}/極悪[ごくあく]/
 ruckartig{adv}/颯と[さっと]/
 Ruckartigkeit{f}/急激[きゅうげき]/
 ruckeln/ぴくぴく動く[ぴくぴくうごく]/
@@ -23489,62 +23490,62 @@ Ruder{n}/オール[おーる]/
 Ruderer{m}/漕ぎ手[こぎて]/
 rudern{vi}/舟遊びに行く[ふなあそびにいく]/
 Ruderschlag{m}/ピッチ[ぴっち]/
-Ruf{m}/名[な]/信用[しんよう]/通り[とおり]/聞こえ[きこえ]/叫び[さけび]/評判[ひょうばん]/受け[うけ]/叫び声[さけびごえ]/声[こえ]/
-rufen{vt}/呼ぶ[よぶ]/唱える[となえる]/鳴く[なく]/声をかける[こえをかける]/叫ぶ[さけぶ]/
+Ruf{m}/(Schrei) 叫び声[さけびごえ]/(Reputation) 評判[ひょうばん]/(Berufung, z.B. Universität) 招聘[しょうへい]/
+rufen{vt}/呼ぶ[よぶ]/
 Rufmord{m}/名誉毀損[めいよきそん]/
-Rufname{m}/通称[つうしょう]/呼び名[よびな]/
+Rufname{m}/通称[つうしょう]/
 Rufschädigung{f}/名誉毀損[めいよきそん]/
 Rufsignal{n}/コールサイン[こーるさいん]/
 Rufzeichen{n}/局符号[きょくふごう]/
-Rugby{n}/ラグビー[らぐびー]/フットボール[ふっとぼーる]/
-Ruhe{f}/休み[やすみ]/安らぎ[やすらぎ]/安心[あんしん]/太平[たいへい]/平安[へいあん]/安泰[あんたい]/しんみり[しんみり]/憩い[いこい]/安静[あんせい]/息抜き[いきぬき]/安全[あんぜん]/静寂[せいじゃく]/静けさ[しずけさ]/悠々[ゆうゆう]/閑散[かんさん]/静養[せいよう]/静止[せいし]/休息[きゅうそく]/レスト[れすと]/休眠[きゅうみん]/平穏[へいおん]/
+Rugby{n}/ラグビー[らぐびー]/
+Ruhe{f}/(Stille) 静けさ[しずけさ]/(Ausruhen) 休み[やすみ]/
 ruhelos{adj}{adv}/そわそわ[そわそわ]/
 Ruhemasse{f}/静止質量[せいししつりょう]/
-ruhen{vi}/休む[やすむ]/休まる[やすまる]/
-Ruhepause{f}/休憩[きゅうけい]/中休み[なかやすみ]/息抜き[いきぬき]/休息[きゅうそく]/
+ruhen{vi}/休む[やすむ]/
+Ruhepause{f}/休憩[きゅうけい]/
 Ruhepunkt{m}/止まりセンター[とまりせんたー]/
 Ruhestellung{f}/静止の姿勢[せいしのしせい]/
 Ruhestoffwechsel{m}/基礎代謝[きそたいしゃ]/
 Ruhestrom{m}/静止電流[せいしでんりゅう]/
-Ruhetag{m}/お休み[おやすみ]/定休日[ていきゅうび]/休日[きゅうじつ]/休暇[きゅうか]/
+Ruhetag{m}/(regelmäßiger~ )定休日[ていきゅうび]/(Feiertag) 祝日[しゅくじつ]/
 Ruhezeit{f}/安静時[あんせいじ]/
 Ruhezustand{m}/静止状態[せいしじょうたい]/
-ruhig{adv}/ゆっくり[ゆっくり]/シーン[しーん]/事無く[ことなく]/丸い[まるい]/ゆったり[ゆったり]/落ち着いた[おちついた]/静か[しずか]/静かに[しずかに]/大人しい[おとなしい]/何事もなく[なにごともなく]/しっとりと[しっとりと]/どっしり[どっしり]/やんわり[やんわり]/穏やか[おだやか]/穏やか[おだやか]/穏やか[おだやか]/しっとり[しっとり]/おっとり[おっとり]/じっと[じっと]/シーンと[しーんと]/安らか[やすらか]/そっと[そっと]/
+ruhig{adv}/(ohne Hast) ゆっくり[ゆっくり]/(leise) 静か[しずか]/
 ruhig sein/据わる[すわる]/
-Ruhm{m}/名[な]/栄え[はえ]/名誉[めいよ]/光[こう]/ひかり[ひかり]/栄[えい]/功名[こうみょう]/光栄[こうえい]/規模[きぼ]/聞こえ[きこえ]/誇り[ほこり]/名声[めいせい]/栄誉[えいよ]/
+Ruhm{m}/名誉[めいよ]/
 ruhmlos{adj}/不遇の[ふぐうの]/
-Ruin{m}/壊滅[かいめつ]/滅亡[めつぼう]/
-Ruine{f}/跡[あと]/残骸[ざんがい]/廃墟[はいきょ]/遺跡[いせき]/
-ruinieren{vt}/壊す[こわす]/潰す[つぶす]/傾ける[かたむける]/滅ぼす[ほろぼす]/
+Ruin{m}/(Untergang) 壊滅[かいめつ]/(Konkurs) 破産[はさん]/
+Ruine{f}/廃墟[はいきょ]/
+ruinieren{vt}/(etwas zunichte machen) 台無しにする[だいなしにする]/(in Konkurs geraten) 破産する[はさんする]/
 Rum{m}/ラム酒[らむしゅ]/
 Rummel{m}/混雑[こんざつ]/
 Rumpelkammer{f}/物置[ものおき]/
 Rumpeln{n}/どろどろ[どろどろ]/
-Rumpf{m}/胴[どう]/胴体[どうたい]/
+Rumpf{m}/胴体[どうたい]/
 Rumpsteak{n}/サーロインステーキ[さーろいんすてーき]/
 Rumäne{m}/ルーマニア人[るーまにあじん]/
 rumänisch{adj}/ルーマニアの[るーまにあの]/
-rund{adv}/約[やく]/グリグリ[ぐりぐり]/丸い[まるい]/
+rund{adv}/丸い[まるい]/
 Rundblick{m}/展望[てんぼう]/
-Runde{f}/回[かい]/巡回[じゅんかい]/ラップ[らっぷ]/ラウンド[らうんど]/一回り[ひとまわり]/
+Runde{f}/(Rundgang) 巡回[じゅんかい]/(Gruppe) グループ[ぐるーぷ]/(Umdrehung) 一回り[ひとまわり]/
 runden{vi}/四捨五入する[ししゃごにゅうする]/
 Rundfahrt{f}/周り[まわり]/
-Rundfunk{m}/放送[ほうそう]/ラジオ[らじお]/
+Rundfunk{m}/放送[ほうそう]/
 Rundfunkgebühren{pl}/受信料[じゅしんりょう]/
-Rundfunkstation{f}/局[きょく]/放送局[ほうそうきょく]/
+Rundfunkstation{f}/放送局[ほうそうきょく]/
 Rundfunkübertragung{f}/中継放送[ちゅうけいほうそう]/
-Rundgang{m}/周り[まわり]/巡回[じゅんかい]/回廊[かいろう]/見舞[みまい]/見舞い[みまい]/
+Rundgang{m}/巡回[じゅんかい]/
 Rundgesang{m}/輪唱[りんしょう]/
-Rundheit{f}/円満[えんまん]/丸み[まるみ]/
+Rundheit{f}/(Vollkommenheit) 円満[えんまん]/(Rundlichkeit) 丸み[まるみ]/
 rundheraus{adv}/ずばり[ずばり]/
 rundherum{adv}/丸く[まるく]/
 Rundkopf{m}/丸頭[まるあたま]/
 Rundkopfdelfin{m}/かまびれ逆叉[かまびれさかまた]/
 Rundkopfschraube{f}/丸頭ねじ[まるあたまねじ]/
 Rundkurs{m}/サーキット[さーきっと]/
-rundlich{adj}{adv}/ころころ[ころころ]/ぽっちゃり[ぽっちゃり]/
+rundlich{adj}{adv}/{ugs.} ころころ[ころころ]/
 Rundlichkeit{f}/丸み[まるみ]/
-Rundreise{f}/周り[まわり]/回り[めぐり]/廻り[めぐり]/巡り[めぐり]/巡業[じゅんぎょう]/周遊[しゅうゆう]/回遊[かいゆう]/
+Rundreise{f}/周遊[しゅうゆう]/
 Rundrücken{m}/円背[えんぱい]/
 Rundschreiben{n}/通達[つうたつ]/
 Rundstahl{m}/鉄筋[てっきん]/
@@ -23557,10 +23558,10 @@ Ruptur{f}/断裂[だんれつ]/
 Russe{m}/ロシア人[ろしあじん]/
 russisch{adj}/ロシアの[ろしあの]/
 rustikal{adj}/ファンキー[ふぁんきー]/
-Rute{f}/枝[えだ]/ロッド[ろっど]/鞭[むち]/
-Rutsch{m}/崩れ[くずれ]/陥落[かんらく]/
+Rute{f}/(Ast) 枝[えだ]/(Angel~) 釣り竿[つりざお]/(Peitsche) 鞭[むち]/
+Rutsch{m}/(Erd~) 地滑り[じすべり]/(Abrutschen, z.B. an einem Hang) 滑落[かつらく]/(Einen guten ~ ins neue Jahr!) よいお年を[よいおとしを]/
 Rutsche{f}/滑り台[すべりだい]/
-Rutschen{n}/スライド[すらいど]/滑り[すべり]/スリップ[すりっぷ]/スライディング[すらいでぃんぐ]/
+Rutschen{n}/滑り[すべり]/
 Ruß{m}/煤[すす]/
 rußen{vi}/燻す[いぶす]/
 rußig{adv}/すすけた[すすけた]/
@@ -23568,10 +23569,10 @@ Rußseeschwalbe{f}/せぐろあじさし[せぐろあじさし]/
 Rächer{m}/復讐者[ふくしゅうしゃ]/
 Rädelsführer{m}/張本人[ちょうほんにん]/
 Räderwerk{n}/ムーブメント[むーぶめんと]/
-Rätsel{n}/不思議[ふしぎ]/ミステリー[みすてりー]/怪奇[かいき]/パズル[ぱずる]/なぞ[なぞ]/謎[なぞ]/
+Rätsel{n}/(Mysterium) 不思議[ふしぎ]/(Quizz) クイズ[くいず]/(Unbegreiflichkeit) 不可解[ふかかい]/
 rätselhaft{adj}{adv}/ミステリアス[みすてりあす]/
 Rätselhaftigkeit{f}/不可解[ふかかい]/
-Räuber{m}/泥棒[どろぼう]/曲者[くせもの]/強盗[ごうとう]/
+Räuber{m}/泥棒[どろぼう]/
 Räuberhöhle{f}/巣[す]/
 Räucherkammer{f}/燻蒸室[くんじょうしつ]/
 Räucherlachs{m}/スモークサーモン[すもーくさーもん]/
@@ -23582,12 +23583,12 @@ räumen{vt}/明け渡す[あけわたす]/
 Räumen{n}/立ち退き[たちのき]/
 räumlich{adj}{adv}/空間的[くうかんてき]/
 Räumlichkeit{f}/立体感[りったいかん]/
-Räumung{f}/一掃[いっそう]/退去[たいきょ]/
+Räumung{f}/(Säuberung) 一掃[いっそう]/(Verlassen eines Gebietes oder Wohnung) 明け渡し[あけわたし]/
 Räumungsbefehl{m}/立ち退き命令[たちのきめいれい]/
 Räumungsklage{f}/明け渡し訴訟[あけわたしそしょう]/
 Räumungsverkauf{m}/セール[せーる]/
 röchelnd{adv}/息も絶え絶えに[いきもたえだえに]/
-Röhre{f}/管[かん]/筒[つつ]/チューブ[ちゅーぶ]/バルブ[ばるぶ]/
+Röhre{f}/管[かん]/
 röhrenförmig{adv}/管状の[かんじょうの]/
 Röhrenknochen{m}/管状骨[かんじょうこつ]/
 Römer{m}{pl}/ローマ人[ろーまじん]/
@@ -23597,7 +23598,7 @@ röntgenographisch{adj}/レントゲン写真の[れんとげんしゃしんの]
 Röntgenologie{f}/放射線学[ほうしゃせんがく]/
 Röntgenstrahlen{pl}/エックス線[えっくすせん]/
 Röntgenuntersuchung{f}/レントゲン検査[れんとげんけんさ]/
-Rösten{n}/焼き[やき]/焼[やき]/ロースト[ろーすと]/
+Rösten{n}/焼き[やき]/
 rösten/炒める[いためる]/
 Röte{f}/赤み[あかみ]/
 Rötel{f}/代赭石[たいしゃせき]/
@@ -23610,9 +23611,9 @@ Rübsamen{m}/菜種[なたね]/
 Rückbau{m}/減築[げんちく]/
 Rückbildung{f}/退化[たいか]/
 Rückblende{f}/フラッシュバック[ふらっしゅばっく]/
-Rückblick{m}/回想[かいそう]/回顧[かいこ]/
-Rücken{m}{n}/後ろ[うしろ]/峰[みね]/峯[みね]/嶺[みね]/背後[はいご]/背中[せなか]/
-Rückendeckung{f}/援護[えんご]/後援[こうえん]/
+Rückblick{m}/回想[かいそう]/
+Rücken{m}{n}/後ろ[うしろ]/
+Rückendeckung{f}/援護[えんご]/
 rückenfrei{adj}/バックレス[ばっくれす]/
 Rückenlage{f}/仰向け[あおむけ]/
 Rückenlehne{f}/椅子の背[いすのせ]/
@@ -23625,27 +23626,27 @@ Rückenschwimmen{n}/背泳ぎ[せおよぎ]/
 Rückenschwimmer{m}/背泳選手[はいえいせんしゅ]/
 Rückenstütze{f}/背もたれ[せもたれ]/
 Rückentwicklung{f}/逆戻り[ぎゃくもどり]/
-Rückenwind{m}/追い風[おいかぜ]/順風[じゅんぷう]/
+Rückenwind{m}/{Meteor.} 追い風[おいかぜ]/
 Rückeroberung{f}/奪還[だっかん]/
 Rückerstattung{f}/返済[へんさい]/
 Rückfahrkarte{f}/往復[おうふく]/
-Rückfahrt{f}/帰り[かえり]/帰路[かえりみち]/帰り道[かえりみち]/回帰[かいき]/
-Rückfall{m}/再発[さいはつ]/逆戻り[ぎゃくもどり]/
+Rückfahrt{f}/帰り[かえり]/
+Rückfall{m}/(im Fall einer Krankheit) 再発[さいはつ]/
 Rückfalltäter{m}/再犯者[さいはんしゃ]/
 Rückflug{m}/帰航[きこう]/
 Rückfluss{m}/逆流[ぎゃくりゅう]/
-Rückgabe{f}/返済[へんさい]/返還[へんかん]/還元[かんげん]/返却[へんきゃく]/
-Rückgang{m}/後退[こうたい]/衰退[すいたい]/下り坂[くだりざか]/減退[げんたい]/
+Rückgabe{f}/返却[へんきゃく]/
+Rückgang{m}/減退[げんたい]/
 Rückgewinnung{f}/再生[さいせい]/
-Rückgrat{n}/中堅[ちゅうけん]/気概[きがい]/背骨[せぼね]/
+Rückgrat{n}/(Hauptmacht) 中堅[ちゅうけん]/(Mut) 気概[きがい]/{Anat.} 背骨[せぼね]/
 rückgratlos{adj}/文弱な[ぶんじゃくな]/
-rückgängig machen{vt}/戻す[もどす]/返る[かえる]/
+rückgängig machen{vt}/取り消す[とりけす]/
 Rückhalt{m}/忌憚[きたん]/
 Rückhaltebecken{n}/遊水池[ゆうすいち]/
 Rückhand{f}/バックハンド[ばっくはんど]/
 Rückkauf{m}/償還[しょうかん]/
-Rückkehr{f}/帰り[かえり]/復帰[ふっき]/逆戻り[ぎゃくもどり]/戻り[もどり]/
-Rückkopplung{f}/帰還[きかん]/フィードバック[ふぃーどばっく]/
+Rückkehr{f}/帰り[かえり]/
+Rückkopplung{f}/{Phys.} フィードバック[ふぃーどばっく]/
 Rücklage{f}/引当金[ひきあてきん]/
 Rücklauf{m}/反動[はんどう]/
 Rücklicht{n}/テールランプ[てーるらんぷ]/
@@ -23655,56 +23656,56 @@ Rückprall{m}/弾み[はずみ]/
 Rückreise{f}/帰り[かえり]/
 Rückruf{m}/コールバック[こーるばっく]/
 Rückschaltung{f}/シフトイン[しふといん]/
-Rückschlag{m}/反発[はんぱつ]/不利益[ふりえき]/後退[こうたい]/手応え[てごたえ]/挫折[ざせつ]/
+Rückschlag{m}/(Verschlechterung) 悪化[あっか]/
 Rückschlagventil{n}/チェック･バルブ[ちぇっくばるぶ]/
 Rückschritt{m}/退歩[たいほ]/
 rückschrittlich{adj}/退嬰的な[たいえいてきな]/
 Rückschwung{m}/バックスイング[ばっくすいんぐ]/
-Rückseite{f}/逆[ぎゃく]/蔭[かげ]/裏面[りめん]/後ろ[うしろ]/背中[せなか]/裏側[うらがわ]/
+Rückseite{f}/後ろ[うしろ]/
 Rücksendung{f}/返送[へんそう]/
-Rücksicht{f}/遠慮[えんりょ]/留意[りゅうい]/粋[すい]/思いやり[おもいやり]/心遣い[こころづかい]/気遣い[きづかい]/察し[さっし]/
-Rücksichtnahme{f}/配慮[はいりょ]/思いやり[おもいやり]/
-rücksichtslos{adj}{adv}/散々[さんざん]/遠慮なく[えんりょなく]/頭から[あたまから]/滅多[めった]/
+Rücksicht{f}/配慮[はいりょ]/
+Rücksichtnahme{f}/配慮[はいりょ]/
+rücksichtslos{adj}{adv}/遠慮なく[えんりょなく]/
 Rücksichtslosigkeit{f}/乱暴[らんぼう]/
 rücksichtsvoll{adv}/心有る[こころある]/
 Rücksitz{m}/後部座席[こうぶざせき]/
 Rückspiegel{m}/バックミラー[ばっくみらー]/
 Rückspiel{n}/リターンマッチ[りたーんまっち]/
-Rücksprache{f}/相談[そうだん]/話し合い[はなしあい]/諮問[しもん]/
-Rückstand{m}/停滞[ていたい]/未払い[みはらい]/
+Rücksprache{f}/相談[そうだん]/
+Rückstand{m}/(Verspätung) 遅れ[おくれ]/
 Rückstau{m}/バック･ウォーター[ばっくうぉーたー]/
 Rückstellung{f}/留保資金[りゅうほしきん]/
-Rückstoß{m}/反発[はんぱつ]/反動[はんどう]/
+Rückstoß{m}/{Phys.} 反跳[はんちょう]/
 Rückstrom{m}/還流[かんりゅう]/
-Rückstände{pl}/残り[のこり]/滞り[とどこおり]/
+Rückstände{pl}/(Überrest) 残り[のこり]/
 rückständig{adv}/未済の[みさいの]/
 Rückständigkeit{f}/未償還[みしょうかん]/
-Rücktritt{m}/辞任[じにん]/退職[たいしょく]/脱退[だったい]/リタイア[りたいあ]/退任[たいにん]/隠居[いんきょ]/自決[じけつ]/退陣[たいじん]/辞職[じしょく]/
+Rücktritt{m}/辞任[じにん]/
 Rücktrittbremse{f}/コースター[こーすたー]/
 Rücktrittsgesuch{n}/辞表[じひょう]/
 Rücktrittsrecht{n}/解除法[かいじょほう]/
-Rückvergütung{f}/返還[へんかん]/返金[へんきん]/
+Rückvergütung{f}/返金[へんきん]/
 Rückversicherung{f}/再保険[さいほけん]/
-Rückweg{m}/帰り[かえり]/帰路[かえりみち]/復路[ふくろ]/帰り道[かえりみち]/
+Rückweg{m}/帰路[かえりみち]/
 rückwirkend{adv}{adj}/遡及的[そきゅうてき]/
 Rückwirkung{f}/手応え[てごたえ]/
 rückwärts{adv}/後[あと]/
 rückwärts fahren{vi}/後進する[こうしんする]/
 Rückwärtsbewegung{f}/逆行[ぎゃっこう]/
 Rückwärtsgang{m}/背進連動[はいしんれんどう]/
-Rückzahlung{f}/返済[へんさい]/返金[へんきん]/返還[へんかん]/返却[へんきゃく]/
+Rückzahlung{f}/返済[へんさい]/
 Rückzahlungsfrist{f}/償還期限[しょうかんきげん]/
-Rückzug{m}/撤退[てったい]/撤収[てっしゅう]/撤去[てっきょ]/撤回[てっかい]/後退[こうたい]/引き上げ[ひきあげ]/退陣[たいじん]/
+Rückzug{m}/撤退[てったい]/
 Rüde{m}/犬[いぬ]/
 rühmen{vt}/持ち上げる[もちあげる]/
 Rührei{n}/オムレツ[おむれつ]/
 rühren{vt}/動かす[うごかす]/
-rührend{adv}{adj}/可哀想[かわいそう]/ぞっと[ぞっと]/ゾッと[ぞっと]/可哀相[かわいそう]/
+rührend{adv}{adj}/感動的な[かんどうてきな]/
 Rührer{m}/マドラー[まどらー]/
 rührig{adj}/小まめ[こまめ]/
 rührselig{adv}/感傷的[かんしょうてき]/
 Rührseligkeit{f}/感傷[かんしょう]/
-Rührung{f}/感[かん]/哀れ[あわれ]/感動[かんどう]/感慨[かんがい]/感心[かんしん]/
+Rührung{f}/感動[かんどう]/
 Rührwerk{n}/かくはん機[かくはんき]/
 rülpsen{vi}/おくびを出す[おくびをだす]/
 Rülpser{m}/げっぷ[げっぷ]/
@@ -23714,7 +23715,7 @@ Rüsche{f}/フリル[ふりる]/
 Rüssel{m}/鼻[はな]/
 Rüsselkäfer{m}/象虫[ぞうむし]/
 rüstig/強い[つよい]/
-Rüstung{f}/武装[ぶそう]/鎧[よろい]/
+Rüstung{f}/{Milit.}(militärische ~) 軍備[ぐんび]/(Schutzbekleidung, insb. der Bushi) 甲冑[かっちゅう]/
 Rüstungsausgaben{pl}/軍事費[ぐんじひ]/
 Rüstungsbegrenzung{f}/軍備制限[ぐんびせいげん]/
 Rüstungsindustrie{f}/軍需産業[ぐんじゅさんぎょう]/
@@ -23722,7 +23723,7 @@ Rüstungskontrolle{f}/軍備管理[ぐんびかんり]/
 Rüstungswettlauf{m}/軍拡競争[ぐんかくきょうそう]/
 Rüstzeit{f}/段取り時間[だんどりじかん]/
 Rüstzeug{n}/出で立ち[いでたち]/
-Rütteln{n}/揺れ[ゆれ]/ガタガタ[がたがた]/動揺[どうよう]/
+Rütteln{n}/揺れ[ゆれ]/
 Rüttler{m}/バイブレーター[ばいぶれーたー]/
 S-Bahn{f}/電車[でんしゃ]/
 Saal{m}/堂[どう]/
