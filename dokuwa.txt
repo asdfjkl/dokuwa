@@ -23725,7 +23725,7 @@ Rüstzeit{f}/段取り時間[だんどりじかん]/
 Rüstzeug{n}/出で立ち[いでたち]/
 Rütteln{n}/揺れ[ゆれ]/
 Rüttler{m}/バイブレーター[ばいぶれーたー]/
-S-Bahn{f}/電車[でんしゃ]/
+S-Bahn{f}/(Suburbane Eisenbahn in Deutschland) ドイツの近郊鉄道[どいつのきんこうてつどう]/
 Saal{m}/堂[どう]/
 Saalmiete{f}/席料[せきりょう]/
 Saatbeet{n}/苗床[なえどこ]/
@@ -23740,26 +23740,26 @@ Sachanlagevermögen{n}/有形固定資産[ゆうけいこていしさん]/
 Sachbeschädigung{f}/器物破損[きぶつはそん]/
 Sachbuch{n}/専門書[せんもんしょ]/
 sachdienlich{adv}/実用的[じつようてき]/
-Sache{f}/ん[ん]/奴[やつ]/訳[わけ]/案件[あんけん]/物[もの]/モノ[もの]/実物[じつぶつ]/事故[じこ]/事柄[ことがら]/事項[じこう]/用[よう]/問題[もんだい]/物事[ものごと]/事[こと]/物品[ぶっぴん]/
+Sache{f}/(Ding) 物[もの]/(Angelegenheit) 事[こと]/
 Sacheinlage{f}/現物出資[げんぶつしゅっし]/
 Sachen{pl}/事物[じぶつ]/
 Sachenrecht{n}/支配権[しはいけん]/
 Sachet{n}/匂い袋[においぶくろ]/
 Sachkatalog{m}/分類目録[ぶんるいもくろく]/
 Sachkosten{pl}/物件費[ぶっけんひ]/
-Sachlage{f}/状況[じょうきょう]/事情[じじょう]/機嫌[きげん]/局面[きょくめん]/事態[じたい]/
+Sachlage{f}/状況[じょうきょう]/
 Sachleistung{f}/現物給付[げんぶつきゅうふ]/
-sachlich{adj}{adv}/現実的[げんじつてき]/客観的[きゃっかんてき]/
+sachlich{adj}{adv}/(objektiv) 客観的[きゃっかんてき]/
 Sachregister{n}/事項索引[じこうさくいん]/
 Sachschaden{m}/物損[ぶっそん]/
 Sachsen{n}/サクソニア[さくそにあ]/
-sacht{adj}/静か[しずか]/静かに[しずかに]/そっと[そっと]/
-Sachverhalt{m}/実際[じっさい]/訳[わけ]/事例[じれい]/事柄[ことがら]/儀[ぎ]/局面[きょくめん]/事態[じたい]/
+sacht{adj}/(milde) 優しい[やさしい]/(sanft) 静かに[しずかに]/
+Sachverhalt{m}/実情[じつじょう]/
 Sachverstand{m}/素人離れ[しろうとばなれ]/
 Sachverständigengutachten{n}/鑑定書[かんていしょ]/
 Sachverzeichnis{n}/索引[さくいん]/
-Sack{m}/袋[ふくろ]/サック[さっく]/
-Sackgasse{f}/袋[ふくろ]/
+Sack{m}/袋[ふくろ]/
+Sackgasse{f}/袋小路[ふくろこうじ]/
 Sadismus{m}/サディスティック[さでぃすてぃっく]/
 Sadist{m}/サディスト[さでぃすと]/
 sadistisch{adj}{adv}/サディスティック[さでぃすてぃっく]/
@@ -23768,24 +23768,23 @@ Safari{f}/サファリ[さふぁり]/
 Safaripark{m}/サファリパーク[さふぁりぱーく]/
 Saffianleder{n}/モロッコ皮[もろっこがわ]/
 Safran{m}/サフラン[さふらん]/
-Saft{m}/ジュース[じゅーす]/液[つゆ]/ポンチ[ぽんち]/汁[つゆ]/
+Saft{m}/ジュース[じゅーす]/
 saftig{adj}{adv}/汁液の多い[じゅうえきのおおい]/
-Saftigkeit{f}/ジューシー[じゅーしー]/水気[みずけ]/
-Sage{f}/物語[ものがたり]/昔話[むかしばなし]/伝説[でんせつ]/言い伝え[いいつたえ]/
-sagenhaft{adj}{adv}/ゴージャス[ごーじゃす]/凄まじい[すさまじい]/
+Saftigkeit{f}/ジューシー[じゅーしー]/
+Sage{f}/物語[ものがたり]/
+sagenhaft{adj}{adv}/(ausgezeichnet) 素晴らしい[すばらしい]/
 Saisonarbeiter{m}/季節労働者[きせつろうどうしゃ]/
 Saisonbereinigung{f}/季節調整[きせつちょうせい]/
 Saisonkarte{f}/定期券[ていきけん]/
-Saite{f}/糸[いと]/弦[つる]/
+Saite{f}/{Musik} 弦[げん]/
 Saiteninstrument{n}/弦楽器[げんがっき]/
-Sake{m}/酒[さけ]/山吹[やまぶき]/日本酒[にほんしゅ]/
+Sake{m}/酒[さけ]/
 Sakrament{n}/秘蹟[ひせき]/
 Sakrileg{n}/涜聖[とくせい]/
 Salamander{m}/山椒魚[さんしょううお]/
 Salami{f}/サラミ[さらみ]/
-Salat{m}/サラダ[さらだ]/レタス[れたす]/
-Salatbesteck{n}/サーバー[さーばー]/サーバ[さーば]/
-Salatgurke{f}/キュウリ[きゅうり]/胡瓜[きゅうり]/
+Salat{m}/サラダ[さらだ]/
+Salatgurke{f}/{Bot.}(Gurke) キュウリ[きゅうり]/
 Salatschüssel{f}/サラダボウル[さらだぼうる]/
 Salatsoße{f}/ドレッシング[どれっしんぐ]/
 Salatöl{n}/サラダ油[さらだゆ]/
@@ -23813,7 +23812,7 @@ Salzfässchen{n}/塩入れ[しおいれ]/
 Salzgehalt{m}/塩分[えんぶん]/
 Salzhering{m}/塩漬けのニシン[しおづけのにしん]/
 salzig{adj}{adv}/辛い[からい]/
-Salzigkeit{f}/塩[しお]/塩気[しおけ]/塩味[えんみ]/辛口[からくち]/塩分[えんぶん]/
+Salzigkeit{f}/(salziger Geschmack) 塩気[しおけ]/
 Salzlauge{f}/塩水[えんすい]/
 Salzlösung{f}/塩水[えんすい]/
 Salzsee{m}/塩湖[えんこ]/
@@ -23822,7 +23821,7 @@ Salzsteuer{f}/塩税[えんぜい]/
 Salzstock{m}/岩塩ドーム[がんえんどーむ]/
 Salzstreuer{m}/カスター[かすたー]/
 Salzsäure{f}/塩酸[えんさん]/
-Salzwasser{n}/潮[しお]/海水[かいすい]/塩水[えんすい]/
+Salzwasser{n}/(Meerwasser) 海水[かいすい]/{Chem.}(Kochsalzlösung) 食塩水[しょくえんすい]/
 Salzwerk{m}/製塩所[せいえんじょ]/
 Samariter{m}/サマリア人[さまりあびと]/
 Sambesi{m}/ザンベジ川[ざんべじがわ]/
@@ -23843,24 +23842,23 @@ Sammelfrucht{f}/仮果[かか]/
 Sammelkarte{f}/トレーディングカード[とれーでぃんぐかーど]/
 Sammelklage{f}/集団訴訟[しゅうだんそしょう]/
 Sammellinse{f}/ピントグラス[ぴんとぐらす]/
-sammeln{vt}/呼ぶ[よぶ]/集める[あつめる]/固める[かためる]/寄せる[よせる]/積む[つむ]/募る[つのる]/
-Sammeln{n}/狩り[かり]/溜まり[たまり]/溜り[たまり]/溜め[ため]/採取[さいしゅ]/狩[かり]/
+sammeln{vt}/集める[あつめる]/
 Sammelname{m}/集合名詞[しゅうごうめいし]/
 Sammelnummer{f}/代表番号[だいひょうばんごう]/
-Sammelplatz{m}/集合場所[しゅうごうばしょ]/溜め[ため]/
+Sammelplatz{m}/集合場所[しゅうごうばしょ]/
 Sammelwut{f}/収集癖[しゅうしゅうへき]/
 Sammler{m}/コレクター[これくたー]/
-Sammlung{f}/募集[ぼしゅう]/結集[けっしゅう]/集結[しゅうけつ]/集大成[しゅうたいせい]/収集[しゅうしゅう]/溜まり[たまり]/溜り[たまり]/コレクション[これくしょん]/勢揃い[せいぞろい]/採集[さいしゅう]/収録[しゅうろく]/集まり[あつまり]/
+Sammlung{f}/収集[しゅうしゅう]/(Kunst~;Museum) 美術館[びじゅつかん]/
 Samt{m}/ベルベット[べるべっと]/
 samt und sonders/片っ端から[かたっぱしから]/
 samtweich{adj}/ビロードのように滑らかな[びろーどのようになめらかな]/
-Samurai{m}/侍[さむらい]/武者[むしゃ]/武士[もののふ]/
+Samurai{m}/侍[さむらい]/武士[ぶし]/
 San José (Hauptstadt von Costa Rica)/サン･ホゼ[さんほぜ]/
 Sanatorium{n}/保養所[ほようしょ]/
-Sand{m}/砂[いさご]/沙[いさご]/
+Sand{m}/砂[すな]/
 Sandale{f}/サンダル[さんだる]/
 Sandbad{n}/砂風呂[すなぶろ]/
-Sandbank{f}/州[す]/洲[す]/
+Sandbank{f}/砂州[さす]/
 Sandboden{m}/砂地[すなじ]/
 Sanddorn{m}/サジー[さじー]/
 Sanddüne{f}/砂丘[しゃきゅう]/
@@ -23875,15 +23873,15 @@ Sandstein{m}/砂岩[さがん]/
 Sandstrand{m}/砂浜[すなはま]/
 Sandsturm{m}/砂嵐[すなあらし]/
 Sanduhr{f}/砂時計[すなどけい]/
-Sandwich{m}{n}/サンドイッチ[さんどいっち]/サンドウィッチ[さんどうぃっち]/
-Sandwüste{f}/砂漠[さばく]/黄砂[こうさ]/
-sanft{adv}/優しい[やさしい]/静か[しずか]/静かに[しずかに]/大人しい[おとなしい]/しっとりと[しっとりと]/ドルチェ[どるちぇ]/やんわり[やんわり]/穏やか[おだやか]/しっとり[しっとり]/軽い[かるい]/柔らか[やわらか]/緩やか[ゆるやか]/緩やか[ゆるやか]/おっとり[おっとり]/柔らかい[やわらかい]/柔らかい[やわらかい]/安らか[やすらか]/弱い[よわい]/緩い[ゆるい]/そっと[そっと]/
-Sanftheit{f}/滑らか[なめらか]/円滑[えんかつ]/温厚[おんこう]/
+Sandwich{m}{n}/サンドイッチ[さんどいっち]/
+Sandwüste{f}/砂漠[さばく]/
+sanft{adv}/(nett) 優しい[やさしい]/(leise) 静か[しずか]/(mild) 穏やか[おだやか]/
+Sanftheit{f}/(Glattheit) 滑らか[なめらか]/(Milde) 温厚[おんこう]/
 Sanftmut{m}/温厚[おんこう]/
 sanftmütig{adv}/大人しい[おとなしい]/
 sanguinisch{adj}/多血の[たけつの]/
 sanieren{vt}/整理する[せいりする]/
-Sanierung{f}/整理[せいり]/リストラ[りすとら]/再開発[さいかいはつ]/
+Sanierung{f}/(z.B. eines Stadtteils) 再開発[さいかいはつ]/
 Sanierungsgebiet{n}/再開発区域[さいかいはつくいき]/
 sanitär{adj}/衛生上[えいせいじょう]/
 Sanitäranlagen{pl}/衛生設備[えいせいせつび]/
@@ -23898,14 +23896,14 @@ Saprophyt{m}/腐生植物[ふせいしょくぶつ]/
 Sardelle{f}/アンチョビー[あんちょびー]/
 Sardellenpaste{f}/アンチョビー･ペースト[あんちょびーぺーすと]/
 Sardine{f}/鰯[いわし]/
-Sarg{m}/がん[がん]/棺[ひつぎ]/
+Sarg{m}/棺[かん]/
 Sargträger{m}/棺舁き[かんかき]/
 Sari{m}/サリー[さりー]/
-Sarkasmus{m}/皮肉[ひにく]/嫌味[いやみ]/風刺[ふうし]/
+Sarkasmus{m}/辛辣な皮肉[しんらつなひにく]/
 sarkastisch{adj}{adv}/冷笑的[れいしょうてき]/
 Sarkophag{m}/石棺[せきかん]/
-Satan{m}/鬼[おに]/魔[ま]/魔王[まおう]/悪魔[あくま]/
-Satellit{m}/月[つき]/サテライト[さてらいと]/サテライト[さてらいと]/衛星[えいせい]/衛星[えいせい]/
+Satan{m}/魔王[まおう]/
+Satellit{m}/{Raumf.}(Trabant) 衛星[えいせい]/{Raumf.}(künstlicher ~) 人工衛星[じんこうえいせい]/
 Satellitenantenne{f}/衛星放送受信アンテナ[えいせいほうそうじゅしんあんてな]/
 Satellitenfernsehen{n}/BSテレビ[びーえすてれび]/
 Satellitenkommunikation{f}/衛星通信[えいせいつうしん]/
@@ -23917,8 +23915,8 @@ Satin{m}/観光[かんこう]/
 Satire{f}/風刺[ふうし]/
 Satiriker{m}/風刺作家[ふうしさっか]/
 satirisch{adj}{adv}/風刺的な[ふうしてきな]/
-satt{adj}/楽しい[たのしい]/うんざり[うんざり]/愉しい[たのしい]/
-Sattel{m}/コル[こる]/ヨーク[よーく]/サドル[さどる]/鞍[くら]/
+satt{adj}/(<=> hungrig) 満腹のときに[まんぷくのときに]/(etwas satt haben) 飽き飽きする[あきあきする]/
+Sattel{m}/鞍[くら]/
 Sattelanhänger{m}/セミ･トレーラー[せみとれーらー]/
 Satteldach{n}/切り妻屋根[きりづまやね]/
 Satteldecke{f}/鞍敷き[くらしき]/
@@ -23926,7 +23924,7 @@ satteln{vt}/鞍を置く[くらをおく]/
 Sattler{m}/馬具師[ばぐし]/
 Saturn{m}/サターン[さたーん]/
 Satyr{m}/ヒヒ[ひひ]/
-Satz{m}/ゲーム[げーむ]/組[くみ]/組[くみ]/組み[くみ]/組み[くみ]/句[く]/率[りつ]/セット[せっと]/セット[せっと]/文章[ぶんしょう]/揃い[そろい]/
+Satz{m}/文[ぶん]/
 Satzanfang{m}/文頭[ぶんとう]/
 Satzball{m}/セットポイント[せっとぽいんと]/
 Satzbau{m}/構造[こうぞう]/
@@ -23936,16 +23934,16 @@ Satzgefüge{n}/複文[ふくぶん]/
 Satzlücke{f}/欠文[けつぶん]/
 Satzspiegel{m}/スタイルシート[すたいるしーと]/
 Satzteil{m}/文節[ぶんせつ]/
-Satzung{f}/規約[きやく]/規律[きりつ]/条例[じょうれい]/掟[おきて]/規則[きそく]/
+Satzung{f}/規約[きやく]/
 Satzzeichen{n}/句読点[くとうてん]/
 Sau{f}/雌豚[めぶた]/
-sauber{adv}/白い[しろい]/整った[ととのった]/きちんと[きちんと]/清らか[きよらか]/明るい[あかるい]/クリーン[くりーん]/
-Sauberkeit{f}/綺麗[きれい]/清浄[せいじょう]/清楚[せいそ]/清潔[せいけつ]/清らか[きよらか]/奇麗[きれい]/
-Saubohne{f}/そら豆[そらまめ]/空豆[そらまめ]/
+sauber{adv}/奇麗な[きれいな]/
+Sauberkeit{f}/清潔[せいけつ]/
+Saubohne{f}/{Bot.}(Ackerbohne) 空豆[そらまめ]/
 Sauciere{f}/ソース入れ[そーすいれ]/
 Saudi-Araber{m}/サウジ[さうじ]/
 saudi-arabisch{adj}/サウジアラビアの[さうじあらびあの]/
-sauer{adj}{adv}/散々[さんざん]/苦い[にがい]/酸っぱい[すっぱい]/
+sauer{adj}{adv}/酸っぱい[すっぱい]/(schlecht gelaunt sein) 不機嫌な[ふきげんな]/
 Sauerampfer{m}/酸模[すかんぼ]/
 Sauerkraut{n}/ザウアクラウト[ざうあくらうと]/
 Sauerstoff{m}/酸素[さんそ]/
@@ -23969,29 +23967,29 @@ Sauna{f}/サウナ[さうな]/
 Saustall{m}/豚舎[とんしゃ]/
 Savanne{f}/草原[くさはら]/
 Scampi{pl}/スカンピ[すかんぴ]/
-Scanner{m}/スキャナー[すきゃなー]/スキャナ[すきゃな]/
+Scanner{m}/スキャナー[すきゃなー]/
 Schaber{m}/スクレーパー[すくれーぱー]/
 Schabernack{m}/悪ふざけ[わるふざけ]/
 Schablone{f}/テンプレート[てんぷれーと]/模型[もけい]/
 schablonenhaft{adj}/型にはまった[かたにはまった]/
 Schabrackentapir{m}/マレーバク[まれーばく]/
-Schach{n}/チェス[ちぇす]/王手[おうて]/
+Schach{n}/チェス[ちぇす]/(Schachgebot) 王手[おうて]/
 Schachbrett{n}/チェスの盤[ちぇすのばん]/
 Schachbrettmuster{n}/チェッカー[ちぇっかー]/
-Schachfigur{f}/コマ[こま]/駒[こま]/
+Schachfigur{f}/チェスの駒[ちぇすのこま]/
 Schachmatt{n}/詰[つみ]/
 Schacht{m}/竪穴[たてあな]/
-Schachtel{f}/箱[はこ]/ボックス[ぼっくす]/折[おり]/折り[おり]/
+Schachtel{f}/箱[はこ]/ボックス[ぼっくす]/
 Schachtelhalm{m}/木賊[とくさ]/
 schaden{vi}/損なう[そこなう]/
-Schaden{m}/痛み[いたみ]/打撃[だげき]/弊害[へいがい]/被害[ひがい]/損傷[そんしょう]/不利益[ふりえき]/破損[はそん]/どく[どく]/毒[どく]/災害[さいがい]/損害[そんがい]/弊[へい]/害[がい]/故障[こしょう]/ダメージ[だめーじ]/損失[そんしつ]/損[そん]/
+Schaden{m}/損害[そんがい]/
 Schadensausmaß{n}/損害の程度[そんがいのていど]/
 Schadensersatz{m}/損害賠償[そんがいばいしょう]/
 Schadensersatzforderung{f}/要償[ようしょう]/
 Schadenshöhe{f}/損害賠償金[そんがいばいしょうきん]/
-Schaf{n}/未[ひつじ]/羊[ひつじ]/
+Schaf{n}/羊[ひつじ]/
 Schaffell{n}/羊皮[ようひ]/
-schaffen{vt}/作る[つくる]/働く[はたらく]/造る[つくる]/創る[つくる]/運ぶ[はこぶ]/
+schaffen{vt}/(er~) 作る[つくる]/(vollbringen) 成し遂げる[なしとげる]/
 schaffend/創作的な[そうさくてきな]/
 Schaffenskraft{f}/創作力[そうさくりょく]/
 Schaffner{m}/車掌[しゃしょう]/
@@ -24009,11 +24007,11 @@ Schafzucht{f}/牧羊[ぼくよう]/
 Schafzüchter{m}/牧羊者[ぼくようしゃ]/
 Schakal{m}/ジャッカル[じゃっかる]/
 schal{adj}{adv}/味の抜けた[あじのぬけた]/
-Schal{m}/マフラー[まふらー]/スカーフ[すかーふ]/
-Schale{f}/身[み]/貝[かい]/革[かわ]/バット[ばっと]/皮[かわ]/鉢[はち]/皿[さら]/
+Schal{m}/マフラー[まふらー]/
+Schale{f}/(z.B. von Obst) 皮[かわ]/(Schüssel) 皿[さら]/
 Schalensitz{m}/バケット･シート[ばけっとしーと]/
 schalkhaft{adv}{adj}/やんちゃな[やんちゃな]/
-Schall{m}/音響[おんきょう]/鳴り[なり]/
+Schall{m}/音響[おんきょう]/
 schalldicht{adj}/防音の[ぼうおんの]/
 Schalldose{f}/サウンドボックス[さうんどぼっくす]/
 Schalldämpfer{m}/マフラー[まふらー]/
@@ -24021,13 +24019,13 @@ Schalldämpfung{f}/消音[しょうおん]/
 schallen{vi}/響く[ひびく]/
 schallend{adv}/喧々囂々と[けんけんごうごうと]/
 Schallisolierung{f}/防音板[ぼうおんばん]/
-Schallplatte{f}/レコード[れこーど]/盤[ばん]/円盤[えんばん]/
+Schallplatte{f}/レコード[れこーど]/
 Schallplattenaufnahme{f}/音盤[おんばん]/
 Schallschutz{m}/防音[ぼうおん]/
 Schallwelle{f}/音波[おんぱ]/
 Schalotte{f}/エシャロット[えしゃろっと]/
 Schaltbild{n}/配線図[はいせんず]/
-Schalter{m}/スイッチ[すいっち]/摘み[つまみ]/窓口[まどぐち]/
+Schalter{m}/(Ein- und Ausschalter) スイッチ[すいっち]/(Verkaufsstelle) 窓口[まどぐち]/
 Schaltgerät{n}/開閉装置[かいへいそうち]/
 Schalthebel{m}/ギヤ･レバー[ぎやればー]/
 Schaltjahr{n}/うるう年[うるうどし]/
@@ -24037,7 +24035,7 @@ Schaltplan{m}/配線図[はいせんず]/
 Schaltpult{n}/制御盤[せいぎょばん]/
 Schaltsekunde{f}/閏秒[うるうびょう]/
 Schalttafel{f}/パネル[ぱねる]/
-Schaltung{f}/サーキット[さーきっと]/回路[かいろ]/回線[かいせん]/
+Schaltung{f}/{Elektronik} サーキット[さーきっと]/(Stromkreis) 回路[かいろ]/
 Schaltwerk{n}/開閉所[かいへいじょ]/
 Schalung{f}/型枠[かたわく]/
 Schaluppe{f}/端艇[はしぶね]/
@@ -24049,17 +24047,18 @@ Schamgefühl{n}/羞恥心[しゅうちしん]/
 Schamgegend{f}/恥部[ちぶ]/
 Schamhaar{n}/陰毛[いんもう]/
 schamlos{adj}{adv}/厚い[あつい]/
-Schamlosigkeit{f}/平気[へいき]/横着[おうちゃく]/大胆[だいたん]/
-Schande{f}/傷[きず]/屈辱[くつじょく]/恥[はじ]/
+Schamlosigkeit{f}/(ohne Scham) 恥知らず[はじしらず]/
+Schande{f}/恥[はじ]/
 Schandfleck{m}/汚点[おてん]/
 Schandtat{f}/醜態[しゅうたい]/
 Schanker{m}/下疳[げかん]/
-Schanze{f}/塁[とりで]/砦[とりで]/
+Schanze{f}/{Milit.}(Festungswall) 堡塁[ほるい]/{Skispringen}(Sprung~) ジャンプ台[じゃんぷだい]/
 Schanzenrekord{m}/バッケン･レコード[ばっけんれこーど]/
 Schanzkleid{n}/舷しょう[げんしょう]/
-Schar{f}/隊[たい]/群[むれ]/固まり[かたまり]/群れ[むれ]/
+Schar{f}/(große Anzahl) たすう[多数]/
 Scharade{f}/シャレード[しゃれーど]/
-scharf{adv}{adj}/高い[たかい]/鋭い[するどい]/鋭い[するどい]/激しい[はげしい]/険しい[けわしい]/きつい[きつい]/辛い[からい]/はっきり[はっきり]/
+scharf{adv}{adj}/(Geschmack) 辛い[からい]/
+scharf{adv}{adj}{ugs.}/{Bsp: Eine scharfe Frau 奇麗な女性[きれいなじょせい]} 奇麗な[きれいな]/
 scharf kritisieren{vt}/扱き下ろす[こきおろす]/
 Scharfblick{m}/慧眼[けいがん]/
 scharfe Kritik{f}/酷評[こくひょう]/
@@ -24068,7 +24067,7 @@ Scharfrichter{m}/刑吏[けいり]/
 Scharfschießen{n}/狙撃[そげき]/
 Scharfschütze{m}/スナイパー[すないぱー]/
 scharfsichtig{adj}/慧眼な[けいがんな]/
-Scharfsinn{m}/さえ[さえ]/凄腕[すごうで]/洞察[どうさつ]/冴[さえ]/気鋭[きえい]/
+Scharfsinn{m}/洞察[どうさつ]/
 scharfsinnig{adj}{adv}/鋭い[するどい]/
 Scharfsinnigkeit{f}/犀利[さいり]/
 scharfzüngig{adj}/口うるさい[くちうるさい]/
@@ -24077,8 +24076,7 @@ Scharlatan{m}/山師[やまし]/
 Scharnier{n}/ヒンジ[ひんじ]/
 scharren/掻く[かく]/
 Scharte{f}/刃こぼれ[はこぼれ]/
-Schatten{m}/影[かげ]/蔭[かげ]/シャドウ[しゃどう]/日陰[ひかげ]/木陰[こかげ]/シャドー[しゃどー]/
-Schatten werfen{vi}/映る[うつる]/写る[うつる]/
+Schatten{m}/影[かげ]/
 Schattenbild{n}/影絵[かげえ]/
 Schattenboxen{n}/シャドーボクシング[しゃどーぼくしんぐ]/
 Schattenkabinett{n}/影の内閣[かげのないかく]/
