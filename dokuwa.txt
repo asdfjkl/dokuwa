@@ -24083,27 +24083,27 @@ Schattenkabinett{n}/影の内閣[かげのないかく]/
 Schattenseite{f}/ダークサイド[だーくさいど]/
 Schattenwirtschaft{f}/やみ経済[やみけいざい]/
 schattig{adv}/陰の多い[かげのおおい]/
-Schatz{m}/ペット[ぺっと]/財[たから]/ダーリン[だーりん]/愛人[あいじん]/宝物[たからもの]/宝[たから]/
+Schatz{m}/財[たから]/
 Schatzamt{n}/金庫[きんこ]/
 Schatzanweisung{f}/国庫債券[こっこさいけん]/
 Schatzinsel{f}/宝島[たからじま]/
-Schatzkammer{f}/宝庫[ほうこ]/金庫[きんこ]/
+Schatzkammer{f}/宝庫[ほうこ]/
 Schatzmeister{m}/主計[しゅけい]/
 Schatzsuche{f}/宝探し[たからさがし]/
 Schatztruhe{f}/宝箱[たからばこ]/
-Schau{f}/興行[こうぎょう]/陳列[ちんれつ]/
+Schau{f}/見世物[みせもの]/ショー[しょー]/
 Schaubild{n}/図説[ずせつ]/
 Schaubude{f}/見世物小屋[みせものごや]/
-Schauder{m}/戦慄[せんりつ]/悪寒[おかん]/
-Schauer{m}/シャワー[しゃわー]/戦慄[せんりつ]/
+Schauder{m}/戦慄[せんりつ]/
+Schauer{m}/(Regen~) 驟雨[しゅうう]/(Schrecken) 戦慄[せんりつ]/
 Schauergeschichte{f}/ミステリー[みすてりー]/
-schauerlich{adv}/怖い[こわい]/恐い[こわい]/
+schauerlich{adv}/怖い[こわい]/
 Schauermann{m}/荷揚げ[にあげ]/
 Schaufel{f}/スコップ[すこっぷ]/
 Schaufelbagger{m}/ショベル系掘削機[しょべるけいくっさくき]/
 Schaufellader{m}/ショベル･ローダ[しょべるろーだ]/
 Schaufelrad{n}/外車[がいしゃ]/
-Schaufenster{n}/店頭[てんとう]/ウィンドウ[うぃんどう]/ショーケース[しょーけーす]/
+Schaufenster{n}/陳列窓[ちんれつまど]/
 Schaufensterauslage{f}/ウインドーディスプレー[ういんどーでぃすぷれー]/
 Schaufensterbummel{m}/ウィンドウショッピング[うぃんどうしょっぴんぐ]/
 Schaufensterdekoration{f}/ウインドードレッシング[ういんどーどれっしんぐ]/
@@ -24115,7 +24115,7 @@ Schaukeln{n}/揺れ[ゆれ]/
 schaukeln{vi}/揺れる[ゆれる]/
 Schaukelpferd{n}/木馬[もくば]/
 Schaukelstuhl{m}/ロッキングチェア[ろっきんぐちぇあ]/
-Schaum{m}/フォーム[ふぉーむ]/泡[あわ]/
+Schaum{m}/泡[あわ]/
 Schaumbildung{f}/泡立ち[あわだち]/
 Schaumgummi{m}/スポンジゴム[すぽんじごむ]/
 schaumig{adv}{adj}/泡状の[あぶくじょうの]/
@@ -24123,21 +24123,21 @@ Schaumlöffel{m}/網杓子[あみじゃくし]/
 Schaumlöscher{m}/泡消火器[あわしょうかき]/
 Schaumschläger{m}/泡立て器[あわだてき]/
 Schaumschlägerei{f}/虚仮威し[こけおどし]/
-Schaumwein{m}/シャンパン[しゃんぱん]/発泡酒[はっぽうしゅ]/
-Schauplatz{m}/舞台[ぶたい]/場面[ばめん]/セッティング[せってぃんぐ]/
+Schaumwein{m}/(Champagner) シャンパン[しゃんぱん]/
+Schauplatz{m}/(Bühne) 舞台[ぶたい]/(Ort) 場所[ばしょ]/
 Schauseite{f}/前面[ぜんめん]/
-Schauspiel{n}/芸能[げいのう]/見物[みもの]/プレイ[ぷれい]/芝居[しばや]/劇[げき]/プレー[ぷれー]/脚本[きゃくほん]/狂言[きょうげん]/戯曲[ぎきょく]/
-Schauspieler{m}/俳優[はいゆう]/役者[やくしゃ]/出演者[しゅつえんしゃ]/プレイヤー[ぷれいやー]/プレーヤー[ぷれーやー]/男優[だんゆう]/
+Schauspiel{n}/(Bühnenkunst) 芸能[げいのう]/
+Schauspieler{m}/俳優[はいゆう]/
 Schauspielerei{f}/演劇[えんげき]/
 Schauspielhaus{n}/劇場[げきじょう]/
-Schauspielkunst{f}/演技[えんぎ]/演劇[えんげき]/
+Schauspielkunst{f}/演技[えんぎ]/
 Schauspielschule{f}/俳優学校[はいゆうがっこう]/
 Schausteller{m}/興行師[こうぎょうし]/
 Schaustück{n}/すばらしい見本[すばらしいみほん]/
-Scheck{m}/チェック[ちぇっく]/手形[てがた]/
+Scheck{m}/チェック[ちぇっく]/小切手[こぎって]/
 Scheckbuch{n}/小切手帳[こぎってちょう]/
 scheckig{adv}/まだらの[まだらの]/
-Scheibe{f}/切れ[きれ]/スライス[すらいす]/ディスク[でぃすく]/切り身[きりみ]/
+Scheibe{f}/(Glas~) ガラス[がらす]/(ein Stück) スライス[すらいす]/(runde ~) 円盤[えんばん]/
 Scheibenbremse{f}/ディスクブレーキ[でぃすくぶれーき]/
 Scheibenkupplung{f}/ディスク･クラッチ[でぃすくくらっち]/
 Scheibenschießen{n}/射的[しゃてき]/
@@ -24154,10 +24154,10 @@ Scheidewasser{n}/硝酸[しょうさん]/
 Scheideweg{m}/岐路[きろ]/
 Scheidung{f}/離婚[りこん]/
 Scheidungsklage{f}/離婚訴訟[りこんそしょう]/
-Schein{m}/券[けん]/証書[しょうしょ]/ひかり[ひかり]/見てくれ[みてくれ]/仮面[かめん]/見かけ[みかけ]/明かり[あかり]/灯り[あかり]/輝き[かがやき]/映え[はえ]/免許証[めんきょしょう]/伝票[でんぴょう]/
-scheinbar{adj}/見たところ[みたところ]/表向き[おもてむき]/
+Schein{m}/(An~) 外観[がいかん]/(Lichtstrahl) 光[ひかり]/(Geld~) 紙幣[しへい]/
+scheinbar{adj}/表向き[おもてむき]/
 Scheinehe{f}/偽装結婚[ぎそうけっこん]/
-scheinen{vi}/みたい[みたい]/見える[みえる]/聞こえる[きこえる]/光る[ひかる]/差す[さす]/映える[はえる]/照らす[てらす]/思われる[おもわれる]/輝く[かがやく]/
+scheinen{vi}/(leuchten) 光る[ひかる]/(~ als ob...) 思われる[おもわれる]/
 Scheinfirma{f}/ペーパーカンパニー[ぺーぱーかんぱにー]/
 Scheinfrucht{f}/偽果[ぎか]/
 Scheingefecht{n}/擬戦[ぎせん]/
@@ -24166,21 +24166,21 @@ Scheinheiligkeit{f}/偽善[ぎぜん]/
 Scheinleitwert{m}/アドミタンス[あどみたんす]/
 Scheinschwangerschaft{f}/想像妊娠[そうぞうにんしん]/
 Scheintod{m}/仮死[かし]/
-Scheinwerfer{m}/スポットライト[すぽっとらいと]/ヘッドライト[へっどらいと]/
-Scheitel{m}/頂き[いただき]/頂上[ちょうじょう]/頂[いただき]/
-Scheitelpunkt{m}/頂点[ちょうてん]/絶頂[ぜっちょう]/山場[やまば]/
+Scheinwerfer{m}/(Theater) スポットライト[すぽっとらいと]/(Auto) ヘッドライト[へっどらいと]/
+Scheitel{m}/(Haare) 髪の分け目[かみのわけめ]/(Spitze) 頂点[ちょうてん]/
+Scheitelpunkt{m}/頂点[ちょうてん]/
 Scheitelwinkel{m}/頂角[ちょうかく]/
-Scheitern{n}/不調[ふちょう]/決裂[けつれつ]/挫折[ざせつ]/ダメ出し[だめだし]/
-Scheiße{f}/糞[くそ]/うんこ[うんこ]/
+Scheitern{n}/(Misserfolg) 失敗[しっぱい]/
+Scheiße{f}{vulg.}/糞[くそ]/
 Scheißkerl{m}/糞っ垂れ[くそったれ]/
 Schelf{m}/陸棚[りくほう]/
 Schellack{m}/シェラック[しぇらっく]/
 Schelle{f}/錀[りん]/
-Schellfisch{m}/たら[たら]/タラ[たら]/
-Schelm{m}/茶目[ちゃめ]/曲者[くせもの]/
+Schellfisch{m}/{Fischk.} タラ[たら]/
+Schelm{m}/(Spaßvogel) 茶目[ちゃめ]/
 Schelmenroman{m}/悪漢小説[あっかんしょうせつ]/
 schelmisch{adv}/やんちゃな[やんちゃな]/
-Schelte{f}/談義[だんぎ]/小言[こごと]/
+Schelte{f}/小言[こごと]/
 Schema{n}/絵[え]/図式[ずしき]/一覧表[いちらんひょう]/
 schematisch{adj}{adv}/図式的[ずしきてき]/
 schematisieren{vt}/図式化する[ずしきかする]/
