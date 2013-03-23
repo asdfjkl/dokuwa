@@ -24181,16 +24181,16 @@ Schelm{m}/(Spaßvogel) 茶目[ちゃめ]/
 Schelmenroman{m}/悪漢小説[あっかんしょうせつ]/
 schelmisch{adv}/やんちゃな[やんちゃな]/
 Schelte{f}/小言[こごと]/
-Schema{n}/絵[え]/図式[ずしき]/一覧表[いちらんひょう]/
+Schema{n}/図式[ずしき]/
 schematisch{adj}{adv}/図式的[ずしきてき]/
 schematisieren{vt}/図式化する[ずしきかする]/
 Schemel{m}/踏み台[ふみだい]/
 Schenkel{m}/せり腰[せりごし]/
-schenken{vt}/上げる[あげる]/下す[くだす]/納める[おさめる]/贈る[おくる]/下さる[くださる]/収める[おさめる]/譲る[ゆずる]/寄せる[よせる]/
-Schenkung{f}/贈呈[ぞうてい]/寄贈[きぞう]/献上[けんじょう]/
+schenken{vt}/プレゼントする[ぷれぜんとする]/
+Schenkung{f}/贈呈[ぞうてい]/
 Schenkungssteuer{f}/贈与税[ぞうよぜい]/
 Schenkungsurkunde{f}/贈与証書[ぞうよしょうしょ]/
-Scherbe{f}/欠片[かけら]/欠け[かけ]/
+Scherbe{f}/欠片[かけら]/
 Scherbengericht{n}/オストラシズム[おすとらしずむ]/
 Scherbruch{m}/せん断破壊[せんだんはかい]/
 Schere{f}/ハサミ[はさみ]/
@@ -24204,32 +24204,32 @@ Scherkraft{f}/剪断応力[せんだんおうりょく]/
 Schersprung{m}/シザーズ･ジャンプ[しざーずじゃんぷ]/
 Scherung{f}/ずれ[ずれ]/
 Scherversuch{m}/せん断試験[せんだんしけん]/
-Scherz{m}/戯言[ぎげん]/戯れ言[ざれごと]/ジョーク[じょーく]/滑稽[こっけい]/冗談[じょうだん]/
+Scherz{m}/冗談[じょうだん]/
 scherzhaft{adj}/茶気のある[ちゃきのある]/
 Scherzhaftigkeit{f}/茶気[ちゃき]/
 Scherzo{n}/スケルツォ[すけるつぉ]/
-scheu{adj}/恥ずかしい[はずかしい]/恐る恐る[おそるおそる]/
+scheu{adj}/恐る恐る[おそるおそる]/
 Scheuerbürste{f}/束子[たわし]/
 Scheuerleiste{f}/裾板[すそばん]/
 Scheuern{n}/スクラブ[すくらぶ]/
 scheuern/擦る[こする]/
 Scheuklappe{f}/目隠し[めかくし]/
 Scheune{f}/物置[ものおき]/
-Scheusal{n}/怪獣[かいじゅう]/怪物[かいぶつ]/
-scheußlich{adj}{adv}/物凄い[ものすごい]/凄まじい[すさまじい]/恐るべき[おそるべき]/
-Schicht{f}/交代[こうたい]/重ね[かさね]/レイヤー[れいやー]/層[そう]/層[そう]/当番[とうばん]/階層[かいそう]/交替[こうたい]/
+Scheusal{n}/怪獣[かいじゅう]/
+scheußlich{adj}{adv}/凄まじい[すさまじい]/
+Schicht{f}/交代[こうたい]/
 Schichtarbeit{f}/交代操業[こうたいそうぎょう]/
 Schichtpressstoff{m}/ラミネート[らみねーと]/
 Schichtstoff{m}/積層品[せきそうひん]/
 Schichtung{f}/積層[せきそう]/
 Schichtvulkan{m}/成層火山[せいそうかざん]/
-Schichtwechsel{m}/交代[こうたい]/交替[こうたい]/
-schick{adj}/スマート[すまーと]/シック[しっく]/乙[おつ]/格好いい[かっこういい]/洒落た[しゃれた]/
+Schichtwechsel{m}/交代[こうたい]/
+schick{adj}/{ugs.} 格好いい[かっこういい]/
 Schick{m}/小粋[こいき]/
 Schickeria{f}/社交界[しゃこうかい]/
 schicklich{adj}{adv}/礼儀正しい[れいぎただしい]/
 Schicklichkeit{f}/礼儀[れいぎ]/
-Schicksal{n}/数[すう]/命[めい]/天命[てんめい]/業[ごう]/定め[さだめ]/星[ほし]/運命[うんめい]/定数[ていすう]/運気[うんき]/運勢[うんせい]/盛衰[せいすい]/因果[いんが]/宿命[しゅくめい]/運[うん]/
+Schicksal{n}/運命[うんめい]/
 schicksalhaft{adj}{adv}/運命的[うんめいてき]/
 Schicksalsschlag{m}/災い[わざわい]/
 Schiebebühne{f}/遷車台[せんしゃだい]/
@@ -24242,7 +24242,7 @@ Schiedsabkommen{n}/仲裁契約[ちゅうさいけいやく]/
 Schiedsgericht{n}/仲裁裁判所[ちゅうさいさいばんしょ]/
 Schiedsgerichtsbarkeit{f}/仲裁裁判[ちゅうさいさいばん]/
 Schiedsgerichtshof{m}/調停裁判所[ちょうていさいばんしょ]/
-Schiedsrichter{m}/審判[しんぱん]/ジャッジ[じゃっじ]/
+Schiedsrichter{m}/{Sport} 審判員[しんぱんいん]/
 Schiedsspruch{m}/裁定[さいてい]/
 Schiedsverfahren{n}/仲裁手続き[ちゅうさいてつづき]/
 schief{adj}{adv}/曲がった[まがった]/
@@ -24273,9 +24273,9 @@ Schießscharte{f}/狭間[はざま]/
 Schießscheibe{f}/標的[ひょうてき]/
 Schießstand{m}/射的場[しゃてきじょう]/
 Schießübung{f}/射撃演習[しゃげきえんしゅう]/
-Schiff{n}/船[ふな]/シップ[しっぷ]/船舶[せんぱく]/舟[ふな]/
+Schiff{n}/船[ふね]/
 Schiffbau{m}/造船[ぞうせん]/
-Schiffbruch{m}/沈没[ちんぼつ]/遭難[そうなん]/
+Schiffbruch{m}/沈没[ちんぼつ]/
 Schiffbrüchige{m}{f}/漂流民[ひょうりゅうみん]/
 Schiffbrücke{f}/浮橋[うきはし]/
 Schiffchen{n}/杼[ひ]/
@@ -24300,45 +24300,45 @@ Schiffswrack{n}/破船[はせん]/
 Schiffszwieback{m}/乾パン[かんぱん]/
 Schikane{f}/虐め[いじめ]/
 Schikanierung{f}/ハラスメント[はらすめんと]/
-Schild{n}{m}/看板[かんばん]/甲羅[こうら]/札[ふだ]/盾[たて]/タグ[たぐ]/標識[ひょうしき]/
+Schild{n}{m}/(Etikett) ラベル[らべる]/(Wegweiser) 道標[どうひょう]/(Firmen~) 看板[かんばん]/
 Schildchen{n}/小鱗片[しょうりんぺん]/
 Schilddrüse{f}/甲状腺[こうじょうせん]/
 Schilddrüsenkrebs{m}/甲状腺がん[こうじょうせんがん]/
 Schilderhaus{n}/監視所[かんししょ]/
 schildernd/記述的[きじゅつてき]/
-Schilderung{f}/物語[ものがたり]/形容[けいよう]/記述[きじゅつ]/描写[びょうしゃ]/
+Schilderung{f}/(Beschreibung) 描写[びょうしゃ]/
 Schildknorpel{m}/甲状軟骨[こうじょうなんこつ]/
 Schildkröte{f}/亀[かめ]/
 Schildlaus{f}/貝殻虫[かいがらむし]/
 Schildpatt{n}/鼈甲[べっこう]/
 Schildvortrieb{m}/シールド工法[しーるどこうほう]/
 Schildvulkan{m}/アスピーテ[あすぴーて]/
-Schilf{n}/ヨシ[よし]/アシ[あし]/葦[よし]/芦[あし]/
+Schilf{n}/葦[よし]/
 Schillern{n}/うん色[うんしょく]/
 schillernd{adv}/濃艶[のうえん]/
 Schilling{m}/シリング[しりんぐ]/
-Schimmel{m}/白馬[はくば]/カビ[かび]/
+Schimmel{m}/(Pferd) 白馬[はくば]/{Mikrobiol.} 黴[かび]/
 schimmelig{adj}/カビ臭い[かびくさい]/
-Schimmer{m}/輝き[かがやき]/照り[てり]/ひかり[ひかり]/
-schimmern{vi}/輝く[かがやく]/光る[ひかる]/
-schimmernd{adj}/チラチラ[ちらちら]/ちらちら[ちらちら]/
+Schimmer{m}/(Schein;Glanz) 輝き[かがやき]/(Licht~) 光[ひかり]/(Hoffnungs~) 希望の曙光[きぼうのしょこう]/
+schimmern{vi}/(glänzen) 輝く[かがやく]/(leuchten) 光る[ひかる]/
+schimmernd{adj}/(immer wieder kurz sichtbar) チラチラ[ちらちら]/
 Schimpanse{m}/チンパンジー[ちんぱんじー]/
-schimpfen{vi}/叱る[しかる]/突く[つく]/
+schimpfen{vi}/叱る[しかる]/
 Schimpfwort{n}/雑言[ぞうごん]/
-Schindel{f}/柿[こけら]/サンダー[さんだー]/
+Schindel{f}/柿[こけら]/
 Schindeldach{n}/板屋[いたや]/
 Schinderei{f}/虐使[ぎゃくし]/
 Schindmähre{f}/痩せ馬[やせうま]/
 Schinken{m}/ハム[はむ]/
-Schirm{m}/鐔[つば]/笠[かさ]/
-Schirmherr{m}/保護者[ほごしゃ]/主催者[しゅさいしゃ]/
+Schirm{m}/(Regen~) 笠[かさ]/
+Schirmherr{m}/後援者[こうえんしゃ]/
 Schirmherrschaft{f}/主催[しゅさい]/
 Schirmmütze{f}/ハンチング[はんちんぐ]/
 Schirmständer{m}/傘立て[かさたて]/
 Schirokko{m}/シロッコ[しろっこ]/
 Schisma{n}/分裂[ぶんれつ]/
 Schizophrenie{f}/スキゾ[すきぞ]/
-Schlacht{f}/戦[いくさ]/戦闘[せんとう]/バトル[ばとる]/合戦[かっせん]/軍[いくさ]/実戦[じっせん]/戦い[たたかい]/闘い[たたかい]/戦争[せんそう]/
+Schlacht{f}/戦闘[せんとう]/
 schlachten{vt}/屠る[ほふる]/
 Schlachtenbummler{m}/応援団[おうえんだん]/
 Schlachtfeld{n}/戦場[せんじょう]/
@@ -24346,22 +24346,22 @@ Schlachthaus{n}/屠殺場[とさつじょう]/
 Schlachtordnung{f}/布陣[ふじん]/
 Schlachtross{n}/軍馬[ぐんば]/
 Schlachtruf{m}/矢叫び[やたけび]/
-Schlachtschiff{n}/艦[かん]/戦艦[せんかん]/軍艦[ぐんかん]/
+Schlachtschiff{n}/軍艦[ぐんかん]/
 Schlachtung{f}/と牛[とぎゅう]/
 Schlacke{f}/灰[はい]/
-Schlaf{m}/寝[い]/睡眠[すいみん]/眠り[ねむり]/
+Schlaf{m}/眠り[ねむり]/
 Schlafanzug{m}/パジャマ[ぱじゃま]/
 Schlafcouch{m}/ソファ･ベッド[そふぁべっど]/
-schlafen{vi}/寝る[ねる]/眠る[ねむる]/休む[やすむ]/
-schlafen gehen{vi}/寝る[ねる]/眠りにつく[ねむりにつく]/
+schlafen{vi}/寝る[ねる]/
+schlafen gehen{vi}/寝る[ねる]/
 Schlafenszeit{f}/寝る時刻[ねるじこく]/
-schlaff{adv}{adj}/ぶらぶら[ぶらぶら]/だらり[だらり]/
+schlaff{adv}{adj}/たるんだ[たるんだ]/(kraftlos) 無気力な[むきりょくな]/
 Schlaffheit{f}/弛緩[しかん]/
 Schlafkrankheit{f}/眠り病[ねむりびょう]/
 Schlaflied{n}/子守唄[こもりうた]/
 schlaflos{adj}{adv}/不眠の[ふみんの]/
-Schlaflosigkeit{f}/寝不足[ねぶそく]/不眠[ふみん]/不眠症[ふみんしょう]/
-Schlafmangel{m}/寝不足[ねぶそく]/睡眠不足[すいみんぶそく]/
+Schlaflosigkeit{f}/不眠症[ふみんしょう]/
+Schlafmangel{m}/寝不足[ねぶそく]/
 Schlafmatte{f}/寝ござ[ねござ]/
 Schlafmittel{n}/睡眠薬[すいみんやく]/
 Schlafmütze{f}/鈍間[のろま]/
@@ -24376,47 +24376,48 @@ Schlafwagenschaffner{m}/給仕[きゅうじ]/
 Schlafwandeln{n}/夢遊病[むゆうびょう]/
 Schlafwandler{m}/夢遊病者[むゆうびょうしゃ]/
 Schlafzimmer{n}/寝室[しんしつ]/
-Schlag{m}/負け[まけ]/打撃[だげき]/区間[くかん]/ショット[しょっと]/インパクト[いんぱくと]/拍[はく]/チョップ[ちょっぷ]/負[まけ]/煽り[あおり]/スイング[すいんぐ]/脳卒中[のうそっちゅう]/ブロー[ぶろー]/衝撃[しょうげき]/パンチ[ぱんち]/スウィング[すうぃんぐ]/
+Schlag{m}/(Stoß) 打撃[だげき]/(Schock) ショック[しょっく]/
 Schlaganfall{m}/脳卒中[のうそっちゅう]/
 schlagartig{adj}/颯と[さっと]/
 Schlagbolzen{m}/撃茎[げっけい]/
-schlagen{vt}/当たる[あたる]/下す[くだす]/突く[つく]/当る[あたる]/鳴らす[ならす]/着せる[きせる]/撃つ[ぶつ]/打ち込む[うちこむ]/叩く[たたく]/破る[やぶる]/殴る[なぐる]/打つ[ぶつ]/
-Schlagen{n}/攻撃[こうげき]/打撃[だげき]/叩き[たたき]/打ち込み[うちこみ]/
-Schlager{m}/歌[うた]/ヒット[ひっと]/唄[うた]/ポップ[ぽっぷ]/
+schlagen{vt}/打つ[うつ]/
+Schlagen{n}/(Schlag) 打撃[だげき]/
+Schlager{m}/{Musik} 流行歌[りゅうこうか]/
 Schlagersänger{m}/流行歌手[りゅうこうかしゅ]/
 schlagfertig{adj}{adv}/味な[あじな]/
 Schlagfertigkeit{f}/ウィット[うぃっと]/
 Schlaginstrument{n}/打楽器[だがっき]/
 Schlagkraft{f}/攻撃力[こうげきりょく]/
 Schlagloch{n}/穴ぼこ[あなぼこ]/
-Schlagmann{m}/打者[だしゃ]/バッター[ばったー]/
+Schlagmann{m}/{Baseb.} バッター[ばったー]/
 Schlagsahne{f}/ホイップクリーム[ほいっぷくりーむ]/
 Schlagseite{f}/傾斜[けいしゃ]/
 Schlagstock{m}/警棒[けいぼう]/
 Schlagwerk{n}/パーカッション[ぱーかっしょん]/
 Schlagwetter{n}/坑内爆発[こうないばくはつ]/
-Schlagwort{n}/キーワード[きーわーど]/件名[けんめい]/キャッチフレーズ[きゃっちふれーず]/見出し[みだし]/スローガン[すろーがん]/
+Schlagwort{n}/キーワード[きーわーど]/件名[けんめい]/
 Schlagwortkatalog{m}/件名目録[けんめいもくろく]/
-Schlagzeile{f}/ヘッドライン[へっどらいん]/見出し[みだし]/
+Schlagzeile{f}/ヘッドライン[へっどらいん]/
 Schlagzeug{n}/パーカッション[ぱーかっしょん]/
 Schlagzeuger{m}/ドラマー[どらまー]/
-Schlamm{m}/土[つち]/泥[ひじ]/
+Schlamm{m}/泥濘[ぬかるみ]/
 schlammig{adv}{adj}/ぐちゃぐちゃ[ぐちゃぐちゃ]/
 Schlammschlacht{f}/泥仕合[どろじあい]/
 Schlammspringer{pl}/ムツゴロウ[むつごろう]/
 Schlammvulkan{m}/泥火山[でいかざん]/
-Schlampe{f}/ぐうたら[ぐうたら]/尼[あま]/
-schlampig{adj}{adv}/だらだら[だらだら]/だらしない[だらしない]/
+Schlampe{f}{veraltet}/(unordentliche Frau) だらしない女[だらしないおんな]/
+Schlampe{f}{vulg.}/{vulg.} 売女[ばいた]/
+schlampig{adj}{adv}/だらしない[だらしない]/
 Schlampigkeit{f}/自堕落[じだらく]/
-Schlange{f}/じゃ[じゃ]/み[み]/蛇[へび]/スネーク[すねーく]/
+Schlange{f}/蛇[へび]/
 Schlangenbeschwörer{m}/蛇使い[へびつかい]/
 Schlangenbiss{m}/ヘビ咬傷[へびこうしょう]/
 Schlangengift{n}/蛇の毒[へびのどく]/
 Schlangenhaut{f}/抜け殻[ぬけがら]/
 Schlangenleder{f}/蛇革[へびかわ]/
 Schlangenmensch{m}/アクロバットダンサー[あくろばっとだんさー]/
-schlank{adj}{adv}/スマート[すまーと]/スレンダー[すれんだー]/痩せた[やせた]/スリム[すりむ]/細長い[ほそながい]/すんなり[すんなり]/
-Schlankheit{f}/スリム[すりむ]/華奢[きゃしゃ]/細身[ほそみ]/
+schlank{adj}{adv}/すらりとした[すらりとした]/
+Schlankheit{f}/スリムな事[すりむな事]/
 Schlankheitsgrad{m}/細長比[ほそながひ]/
 schlapp{adj}{adv}/ヘロヘロ[へろへろ]/
 Schlappe{f}/不出来[ふでき]/
@@ -24427,16 +24428,16 @@ schlau{adv}{adj}/食えない[くえない]/
 Schlauch{m}/ホース[ほーす]/
 Schlauchboot{n}/ゴム･ボート[ごむぼーと]/
 Schlauheit{f}/狡猾[こうかつ]/
-schlecht{adj}{adv}/悪い[わるい]/怪しい[あやしい]/妖しい[あやしい]/悪[あく]/不可[ふか]/黒い[くろい]/黒い[くろい]/不味い[まずい]/苦い[にがい]/汚い[きたない]/粗末[そまつ]/お粗末[おそまつ]/見苦しい[みぐるしい]/弱い[よわい]/
+schlecht{adj}{adv}/悪い[わるい]/(Lebensmittel) 腐った[くさった]/
 schlecht gelaunt/苦い[にがい]/
 schlecht verwalten{vt}/悪政を行なう[あくせいをおこなう]/
-schlecht werden{vi}/痛む[いたむ]/腐る[くさる]/
+schlecht werden{vi}/(Befinden) 気分が悪くなる[きぶんがわるくなる]/(Lebensmittel) 腐る[くさる]/
 schlecht zusammenpassen{vi}/相性が悪い[あいしょうがわるい]/
 schlecht zusammenpassend/不釣り合いな[ふつりあいな]/
 schlechte Handschrift/悪筆[あくひつ]/
 schlechte Laune/不機嫌[ふきげん]/
 schlechthin{adv}/無造作に[むぞうさに]/
-Schlechtigkeit{f}/悪[あく]/邪[じゃ]/不可[ふか]/邪悪[じゃあく]/不良[ふりょう]/
+Schlechtigkeit{f}/(Gemeinheit) 下劣[げれつ]/
 Schlegel{m}/槌[つち]/
 Schlehdorn{m}/りんぼく[りんぼく]/
 schleichen{vi}/横歩きする[よこあるきする]/
@@ -24444,10 +24445,10 @@ schleichend{adj}/潜行的[せんこうてき]/
 Schleichhandel{m}/密輸[みつゆ]/
 Schleichhändler{m}/密貿易者[みつぼうえきしゃ]/
 Schleichweg{m}/抜け道[ぬけみち]/
-Schleier{m}/ベール[べーる]/曇[くもり]/ヴェール[う゛ぇーる]/覆面[ふくめん]/
-Schleife{f}/輪[わ]/環[わ]/ループ[るーぷ]/リボン[りぼん]/
+Schleier{m}/(Kleidung) ベール[べーる]/(Wolken~) 曇[くもり]/
+Schleife{f}/(Kleidung) リボン[りぼん]/(Kurve) 湾曲[わんきょく]/
 Schleifen{n}/研ぎ[とぎ]/
-schleifen{vt}/磨く[みがく]/鍛える[きたえる]/引っ張る[ひっぱる]/
+schleifen{vt}/(schärfen) 研ぐ[とぐ]/(jmd. hart arbeiten lassen) 扱く[しごく]/(schleppen) 引き摺る[ひきずる]/(eine Sache langsam machen) だらだら...をする[だらだら...をする]/
 Schleifmaschine{f}/グラインダー[ぐらいんだー]/
 Schleifpapier{n}/磨研紙[まけんし]/
 Schleifpulver{n}/砥の粉[とのこ]/
@@ -24464,7 +24465,7 @@ Schlendrian{m}/伝統[でんとう]/
 Schleppe{f}/裾[すそ]/
 schleppen{vt}/引きずる[ひきずる]/
 Schleppen{n}/曳航[えいこう]/
-schleppend{adj}/ゆっくり[ゆっくり]/ずるずる[ずるずる]/鈍い[のろい]/
+schleppend{adj}/(zögerlich) 緩慢な[かんまんな]/
 Schlepper{m}/耕運機[こううんき]/
 Schleppnetz{n}/引き網[ひきあみ]/
 Schlesien{n}/シロンスク[しろんすく]/
@@ -24478,23 +24479,23 @@ Schleudertrauma{n}/鞭打ち[むちうち]/
 Schleuderware{f}/見切り品[みきりひん]/
 schleunig{adj}/さっさと[さっさと]/
 Schleuse{f}/堰[せき]/
-Schleusentor{n}/門[と]/戸[と]/
-schlicht{adv}{adj}/軽い[かるい]/初々しい[ういういしい]/粗末[そまつ]/お粗末[おそまつ]/あっさり[あっさり]/渋い[しぶい]/
+Schleusentor{n}/水門[すいもん]/
+schlicht{adv}{adj}/簡素な[かんそな]/
 Schlichter{m}/調停者[ちょうていしゃ]/
-Schlichtheit{f}/簡単[かんたん]/質素[しっそ]/素朴[そぼく]/手軽[てがる]/簡素[かんそ]/
+Schlichtheit{f}/質素[しっそ]/
 Schlichtung{f}/解決[かいけつ]/調停[ちょうてい]/
 Schlichtungsausschuss{m}/調停委員会[ちょうていいいんかい]/
 Schlick{m}/軟泥[なんでい]/
 Schließe{f}/留め金[とめがね]/
 Schließen{n}/閉業[へいぎょう]/
-schließen{vt}{vi}/閉じる[とじる]/閉める[しめる]/引ける[ひける]/
-Schließfach{n}/ロッカー[ろっかー]/コインロッカー[こいんろっかー]/
-schließlich/結局[けっきょく]/何せ[なにせ]/果ては[はては]/結果的[けっかてき]/挙句[あげく]/挙げ句[あげく]/遂に[ついに]/どうせ[どうせ]/末に[すえに]/到底[とうてい]/漸く[ようやく]/何しろ[なにしろ]/やっと[やっと]/所詮[しょせん]/やっぱし[やっぱし]/挙句の果て[あげくのはて]/
+schließen{vt}{vi}/{vt} 閉める[しめる]/{vi} 閉まる[しまる]/
+Schließfach{n}/ロッカー[ろっかー]/
+schließlich/結局[けっきょく]/
 Schließmuskel{m}/括約筋[かつやくきん]/
-Schließung{f}/閉鎖[へいさ]/休館[きゅうかん]/シャット[しゃっと]/休業[きゅうぎょう]/
+Schließung{f}/閉鎖[へいさ]/
 Schließzeit{f}/閉門時間[へいもんじかん]/
-schlimm{adv}/大変[たいへん]/厳しい[きびしい]/酷い[ひどい]/怖い[こわい]/恐い[こわい]/しんどい[しんどい]/偉い[えらい]/
-Schlinge{f}/輪[わ]/環[わ]/トラップ[とらっぷ]/
+schlimm{adv}/(ernste Sache) 大変[たいへん]/(heftig) 酷い[ひどい]/
+Schlinge{f}/輪[わ]/
 Schlingel{m}/汝[うぬ]/
 Schlingern{n}/横揺れ[よこゆれ]/
 Schlinggewächs{n}/つる草[つるくさ]/
@@ -24504,13 +24505,13 @@ schlittern{vi}/滑る[すべる]/
 Schlittschuh{m}/スケート[すけーと]/
 Schlittschuhlaufen{n}/スケート[すけーと]/
 Schlitz{m}/スリット[すりっと]/
-schlitzäugig{adj}/目尻のつり上がった[めじりのつりあがった]/
-Schloss{n}/館[かん]/シャトー[しゃとー]/城[じょう]/宮殿[きゅうでん]/御殿[ごてん]/丸[まる]/宮[みや]/錠[じょう]/
+schlitzäugig{adj}{pej.}/目尻のつり上がった[めじりのつりあがった]/
+Schloss{n}/(Verschluss) 錠[じょう]/(Palast) 宮殿[きゅうでん]/
 Schlosser{m}/修理工[しゅうりこう]/
 Schlossherr{m}/城主[じょうしゅ]/
 Schlot{m}/チムニー[ちむにー]/
 schlottern{vi}/ふらふらする[ふらふらする]/
-Schlucht{f}/かい[かい]/狭間[はざま]/喉[のど]/谷間[たにま]/渓[けい]/淵[ふち]/
+Schlucht{f}/(Berg~) 山峡[さんきょう]/
 schluchzen{vi}/泣く[なく]/
 Schluchzer{m}/むせび泣き[むせびなき]/
 Schluck{m}/一服[いっぷく]/
@@ -24519,16 +24520,16 @@ schlucken{vi}/飲み込む[のみこむ]/
 Schlucken{n}/飲み込み[のみこみ]/
 Schluff{m}/シルト[しると]/
 schluffig{adj}/シルト質の[しるとしつの]/
-Schlummer{m}/眠り[ねむり]/うたた寝[うたたね]/
+Schlummer{m}/うたた寝[うたたね]/
 schlummern{vi}/眠る[ねむる]/
 Schlund{m}/喉元[のどもと]/
 Schlupfloch{n}/抜け穴[ぬけあな]/
 Schlupfwinkel{m}/巣[す]/
-Schluss{m}/最後[さいご]/始末[しまつ]/上り[あがり]/引け[ひけ]/大詰め[おおづめ]/末期[まっき]/閉幕[へいまく]/終[おわり]/決着[けっちゃく]/落ち[おち]/推理[すいり]/結論[けつろん]/最終[さいしゅう]/末[すえ]/果て[はて]/打ち上げ[うちあげ]/幕[まく]/締め切り[しめきり]/締切[しめきり]/〆切[しめきり]/限り[きり]/一区切り[ひとくぎり]/切り[きり]/ピリオド[ぴりおど]/終結[しゅうけつ]/終結[しゅうけつ]/完[かん]/切り上げ[きりあげ]/終了[しゅうりょう]/区切り[くぎり]/詰め[つめ]/暮れ[くれ]/終わり[おわり]/終り[おわり]/仕舞い[しまい]/終い[しまい]/上がり[あがり]/結び[むすび]/
+Schluss{m}/終わり[おわり]/
 Schlussakt{m}/大詰め[おおづめ]/
 Schlussbemerkung{f}/いたちの最後っ屁[いたちのさいごっぺ]/
 schlussendlich{adv}/結果的[けっかてき]/
-Schlussfolgerung{f}/結論[けつろん]/推測[すいそく]/推理[すいり]/断定[だんてい]/推定[すいてい]/詰め[つめ]/
+Schlussfolgerung{f}/推論[すいろん]/
 Schlussleuchte{f}/テールランプ[てーるらんぷ]/
 Schlusslicht{n}/テールランプ[てーるらんぷ]/
 Schlussnotierung{f}/終値[おわりね]/
