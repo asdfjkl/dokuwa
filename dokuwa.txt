@@ -24539,17 +24539,17 @@ Schlusswort{n}/結語[けつご]/
 Schlächter{m}/屠殺者[とさつしゃ]/
 Schläfchen{n}/一睡[ひとねむり]/
 Schläfe{f}/蟀谷[こめかみ]/
-schläfrig{adj}{adv}/眠い[ねむい]/うつらうつら[うつらうつら]/うとうと[うとうと]/とろとろ[とろとろ]/
+schläfrig{adj}{adv}/眠い[ねむい]/
 Schläfrigkeit{f}/眠気[ねむけ]/
-Schläger{m}/不良[ふりょう]/ラケット[らけっと]/
+Schläger{m}/(Rowdy) 乱暴者[らんぼうもの]/{Sport}(Tennis~) ラケット[らけっと]/
 Schlägerei{f}/打ち合い[うちあい]/
 schlängelnd{adj}{adv}/もぞもぞ[もぞもぞ]/
 Schläue{f}/小才[こさい]/
 Schlüpfer{m}{pl}/ブルマ[ぶるま]/
-schlüpfrig{adv}/エッチ[えっち]/ずるずる[ずるずる]/つるつる[つるつる]/
+schlüpfrig{adv}/(sexuell ~) エッチ[えっち]/(glatt) つるつる[つるつる]/(vage) あやふやな[あやふやな]/
 Schlüpfrigkeit{f}/滑らか[なめらか]/
 schlürfen/啜る[すする]/
-Schlüssel{m}/キー[きー]/手がかり[てがかり]/
+Schlüssel{m}/鍵[かぎ]/
 Schlüsselanhänger{m}/キーホルダー[きーほるだー]/
 Schlüsselbein{n}/鎖骨[さこつ]/
 Schlüsselblume{f}/プリムラ[ぷりむら]/
@@ -24567,19 +24567,19 @@ Schlüsselroman{m}/モデル小説[もでるしょうせつ]/
 Schlüsselstellung{f}/キーストーン[きーすとーん]/
 Schmachtlocke{f}/アクロシュ･クール[あくろしゅくーる]/
 schmachvoll{adj}{adv}/卑しい[いやしい]/
-schmackhaft{adv}/美味しい[おいしい]/甘い[うまい]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/香ばしい[こうばしい]/
+schmackhaft{adv}/美味しい[おいしい]/
 Schmackhaftigkeit{f}/美味[びみ]/
-schmal{adj}/狭い[せまい]/きつい[きつい]/
+schmal{adj}/狭い[せまい]/
 Schmalz{n}/脂肪[しぼう]/
 schmarotzen{vi}/宿る[やどる]/
-Schmarotzer{m}/居候[いそうろう]/寄生虫[きせいちゅう]/アブラムシ[あぶらむし]/
+Schmarotzer{m}/居候[いそうろう]/
 Schmarotzerpflanze{f}/寄生植物[きせいしょくぶつ]/
 Schmarre{f}/切り傷[きりきず]/
 Schmarren{m}/めちゃくちゃなもの[めちゃくちゃなもの]/
 schmatzen{vi}/舌鼓を打つ[したづつみをうつ]/
-Schmaus{m}/祝[いわい]/祝い[いわい]/
-schmecken{vt}{vi}/味わう[あじわう]/舐める[なめる]/
-Schmeichelei{f}/お上手[おじょうず]/世辞[せじ]/媚[こび]/迎合[げいごう]/お世辞[おせじ]/
+Schmaus{m}/(Festessen) 御馳走[ごちそう]/
+schmecken{vt}{vi}/味がする[あじがする]/
+Schmeichelei{f}/お世辞[おせじ]/
 schmeicheln{vi}/迎える[むかえる]/
 Schmeichler{m}/太鼓持ち[たいこもち]/
 schmeichlerisch{adj}{adv}/口先のうまい[くちさきのうまい]/
@@ -24589,24 +24589,24 @@ schmelzbar{adv}/可溶性の[かようせいの]/
 Schmelzbarkeit{f}/可溶性[かようせい]/
 Schmelzen{n}/精錬[せいれん]/
 Schmelzkäse{m}/プロセスチーズ[ぷろせすちーず]/
-Schmelzofen{m}/窯[かま]/炉[ろ]/
+Schmelzofen{m}/溶解炉[ようかいろ]/
 Schmelzpunkt{m}/融点[ゆうてん]/
 Schmelztemperatur{f}/融解温度[ゆうかいおんど]/
 Schmelztiegel{m}/坩堝[るつぼ]/
 Schmelzwasser{n}/融け水[とけみず]/
 Schmelzwärme{f}/融解熱[ゆうかいねつ]/
-Schmerz{m}/悩み[なやみ]/苦[く]/苦しみ[くるしみ]/悲しみ[かなしみ]/哀しみ[かなしみ]/憂さ[うさ]/苦悩[くのう]/痛み[いたみ]/悲哀[ひあい]/
+Schmerz{m}/痛み[いたみ]/{fig.}(Kummer) 悩み[なやみ]/
 Schmerzensgeld{n}/慰謝料[いしゃりょう]/
-schmerzerfüllt{adj}/悲しい[かなしい]/哀しい[かなしい]/
+schmerzerfüllt{adj}/(Schmerzen haben) 痛みを感じる[いたみをかんじる]/{fig.} 悲しそうな[かなしそうな]/
 schmerzfrei{adj}/無痛の[むつうの]/
 Schmerzfreiheit{f}/無痛[むつう]/
-schmerzhaft{adv}{adj}/痛い[いたい]/切ない[せつない]/
-schmerzlich{adv}/切ない[せつない]/悩ましい[なやましい]/苦い[にがい]/偉い[えらい]/
+schmerzhaft{adv}{adj}/痛い[いたい]/
+schmerzlich{adv}/切ない[せつない]/
 Schmerzlichkeit{f}/険難[けんなん]/
 schmerzlos{adj}{adv}/無痛の[むつうの]/
 Schmerzmittel{n}/痛み止め[いたみどめ]/
-Schmetterball{m}/スパイク[すぱいく]/スマッシュ[すまっしゅ]/
-Schmetterling{m}/蝶[ちょう]/バタフライ[ばたふらい]/蝶々[ちょうちょう]/
+Schmetterball{m}/{Ballsport} スマッシュ[すまっしゅ]/
+Schmetterling{m}/蝶[ちょう]/
 Schmettern{n}/打ち込み[うちこみ]/
 schmettern{vt}/打ち込む[うちこむ]/
 Schmied{m}/鍛冶[たんや]/
@@ -24626,7 +24626,7 @@ Schmiermittel{n}/滑剤[かつざい]/
 Schmiernippel{n}/ピン[ぴん]/
 Schmierung{f}/給油[きゅうゆ]/
 Schmieröl{n}/潤滑油[じゅんかつゆ]/
-Schminke{f}/メイクアップ[めいくあっぷ]/お作り[おつくり]/
+Schminke{f}/メイクアップ[めいくあっぷ]/(Kosmetika) 化粧品[けしょうひん]/
 schminken{vt}/塗る[ぬる]/
 Schminkspiegel{m}/化粧鏡[けしょうかがみ]/
 Schmirgel{m}/金剛砂[こんごうしゃ]/
@@ -24636,7 +24636,7 @@ schmollen{vi}/膨れる[ふくれる]/
 Schmorbraten{m}/蒸し焼き[むしやき]/
 schmoren{vt}/煮る[にる]/
 Schmortopf{m}/キャセロール[きゃせろーる]/
-Schmuck{m}/花[はな]/アクセサリ[あくせさり]/装飾[そうしょく]/飾り[かざり]/デコレーション[でこれーしょん]/華[はな]/ジュエリー[じゅえりー]/アクセサリー[あくせさりー]/
+Schmuck{m}/(Accessoires) アクセサリ[あくせさり]/(Dekoration) 装飾[そうしょく]/
 Schmuckherstellung{f}/玉細工[たまざいく]/
 Schmuckkästchen{n}/宝石箱[ほうせきばこ]/
 schmucklos{adj}/装飾のない[そうしょくのない]/
@@ -24646,14 +24646,14 @@ schmuggeln{vt}/密貿易をする[みつぼうえきをする]/
 Schmuggelware{f}/禁制品[きんせいひん]/
 Schmuggler{m}/担ぎ屋[かつぎや]/
 schmunzeln{vi}/にこにこ笑う[にこにこわらう]/
-Schmutz{m}/チリ[ちり]/汚れ[よごれ]/糞[くそ]/ちり[ちり]/泥[ひじ]/ダスト[だすと]/垢[あか]/
+Schmutz{m}/汚れ[よごれ]/
 schmutzabweisend{adj}/染みのつかない[しみのつかない]/
 Schmutzfleck{m}/汚点[おてん]/
-schmutzig{adv}{adj}/黒い[くろい]/だらしない[だらしない]/汚い[きたない]/
+schmutzig{adv}{adj}/汚い[きたない]/
 schmutzig machen{vt}/汚す[けがす]/
 Schmutzigkeit{f}/不潔[ふけつ]/
 Schmutzwasser{n}/汚水[おすい]/
-Schmutzwäsche{f}/洗濯物[せんたくもの]/洗い物[あらいもの]/
+Schmutzwäsche{f}/(Wäsche) 洗い物[あらいもの]/
 Schmähung{f}/罵倒[ばとう]/
 schmücken{vt}/飾る[かざる]/
 Schnabel{m}/嘴[はし]/
@@ -24665,7 +24665,7 @@ Schnappen{n}/捕捉[ほそく]/
 schnappen{vt}/噛み付く[かみつく]/
 Schnapper{m}/フエダイ[ふえだい]/
 Schnappmesser{n}/飛び出しナイフ[とびだしないふ]/
-Schnappschuss{m}/写真[しゃしん]/スナップ[すなっぷ]/
+Schnappschuss{m}/スナップ[すなっぷ]/
 Schnaps{m}/シュナップス[しゅなっぷす]/
 Schnapsdrossel{f}/お酒好きな人[おさけすきなひと]/
 schnarchen{vi}/鼾をかく[いびきをかく]/
@@ -24683,7 +24683,7 @@ Schneckengetriebe{n}/ウオーム歯車装置[うおーむはぐるまそうち]
 Schneckenhaus{n}/カタツムリの殻[かたつむりのから]/
 Schneckenpost{f}/カタツムリ郵便[かたつむりゆうびん]/
 Schneckenrad{n}/ウオーム歯車[うおーむはぐるま]/
-Schnee{m}/雪[ゆき]/スノー[すのー]/
+Schnee{m}/雪[ゆき]/
 Schneeammer{f}/ゆきほおじろ[ゆきほおじろ]/
 Schneeball{m}/雪玉[ゆきだま]/
 Schneeballschlacht{f}/雪合戦[ゆきがっせん]/
@@ -24695,7 +24695,7 @@ Schneeblindheit{f}/雪目[ゆきめ]/
 Schneebrett{n}/雪庇[せっぴ]/
 Schneebrille{f}/雪眼鏡[ゆきめがね]/
 Schneedecke{f}/積雪[せきせつ]/
-Schneefall{m}/雪[ゆき]/降り[ふり]/降雪[こうせつ]/
+Schneefall{m}/降雪[こうせつ]/
 Schneefeld{n}/雪原[せつげん]/
 Schneeflocke{f}/雪片[せっぺん]/
 Schneefräse{f}/ロータリー雪カキ車[ろーたりーゆきかきしゃ]/
@@ -24711,7 +24711,7 @@ Schneemann{m}/雪だるま[ゆきだるま]/
 Schneematsch{m}/半解けの雪[はんとけのゆき]/
 Schneemenge{f}/降雪量[こうせつりょう]/
 Schneemesser{m}/積雪標[せきせつひょう]/
-Schneepflug{m}/ラッセル[らっせる]/雪かき[ゆきかき]/
+Schneepflug{m}/除雪機[じょせつき]/
 Schneeregen{m}/霙[みぞれ]/
 Schneereifen{m}/スノータイヤ[すのーたいや]/
 Schneerose{f}/クリスマスローズ[くりすますろーず]/
@@ -24719,13 +24719,12 @@ Schneeschmelze{f}/雪解け[ゆきどけ]/
 Schneesturm{m}/吹雪[ふぶき]/
 Schneeverwehung{f}/雪溜り[ゆきたまり]/
 Schneewolke{f}/雪雲[ゆきぐも]/
-Schneid{m}/勇気[ゆうき]/ガッツ[がっつ]/気概[きがい]/
+Schneid{m}/(Mut) 勇気[ゆうき]/
 Schneidbrenner{m}/溶断器[ようだんき]/
-Schneide{f}/切れ[きれ]/刃[は]/ブレード[ぶれーど]/
+Schneide{f}/刃[は]/
 Schneidebrett{n}/俎板[まないた]/
 Schneidemaschine{f}/カッター[かったー]/
-schneiden{vt}/切る[きる]/斬る[きる]/
-Schneiden{n}/割[かつ]/カッティング[かってぃんぐ]/
+schneiden{vt}/切る[きる]/
 schneidend{adv}/けたたましい[けたたましい]/
 Schneider{m}/洋服屋[ようふくや]/
 Schneiderei{f}/仕立て[したて]/
@@ -24734,25 +24733,25 @@ schneidern{vt}/仕立てる[したてる]/
 Schneiderpuppe{f}/ドレス･フォーム[どれすふぉーむ]/
 Schneiderschere{f}/裁ちばさみ[たちばさみ]/
 Schneidersitz{m}/胡坐[あぐら]/
-Schneidewerkzeug{n}/カッター[かったー]/刃物[はもの]/
+Schneidewerkzeug{n}/刃物[はもの]/
 Schneidezahn{m}/切歯[せっし]/
-schneidig{adj}/颯爽[さっそう]/凛々[りんりん]/
+schneidig{adj}/{fig.}(forsch) 颯爽[さっそう]/
 schneien{vi}/降る[ふる]/
-schnell{adv}/早く[はやく]/鋭い[するどい]/急に[きゅうに]/早々[はやばや]/とっとと[とっとと]/速い[はやい]/急いで[いそいで]/さっさと[さっさと]/素早く[すばやく]/速やか[すみやか]/手っ取り早く[てっとりばやく]/素早い[すばやい]/速く[はやく]/すっと[すっと]/どんどん[どんどん]/すくすく[すくすく]/ばたばた[ばたばた]/バタバタ[ばたばた]/ひらり[ひらり]/
+schnell{adv}/早く[はやく]/
 Schnellfeuer{n}/速射[そくしゃ]/
 Schnellfeuergeschütz{n}/速射砲[そくしゃほう]/
 schnellfüßig{adj}/俊足の[しゅんそくの]/
 Schnellgang{m}/早送り[はやおくり]/
 Schnellgericht{n}/即席料理[そくせきりょうり]/
 Schnellhefter{m}/紙挟み[かみばさみ]/
-Schnelligkeit{f}/急[きゅう]/早[はやさ]/速さ[はやさ]/速[はやさ]/迅速[じんそく]/急ぎ[いそぎ]/速度[そくど]/急速[きゅうそく]/
+Schnelligkeit{f}/早[はやさ]/
 Schnellkochtopf{m}/圧力鍋[あつりょくなべ]/
-schnellstens{adv}/急遽[きゅうきょ]/急きょ[きゅうきょ]/
+schnellstens{adv}/急遽[きゅうきょ]/
 Schnellstraße{f}/高速道路[こうそくどうろ]/
 Schnellverfahren{n}/即決裁判[そっけつさいばん]/
 Schnellzug{m}/特急[とっきゅう]/
 Schnipsel{n}/端くれ[はしくれ]/
-Schnitt{m}/編集[へんしゅう]/断面[だんめん]/カッティング[かってぃんぐ]/切れ[きれ]/カット[かっと]/切り口[きりくち]/交差[こうさ]/型紙[かたがみ]/
+Schnitt{m}/(etw. abschneiden) 切断[せつだん]/(Haar~) ヘアスタイル[へあすたいる]/
 Schnittblumen{pl}/切花[きりばな]/
 Schnittfläche{f}/切り口[きりくち]/
 Schnittholz{n}/製材[せいざい]/
@@ -24766,7 +24765,7 @@ Schnittzeichnung{f}/断面図[だんめんず]/
 Schnitzel{m}{n}/切れ[きれ]/
 Schnitzen{n}/袋[ふくろ]/
 schnitzen{vt}/刻む[きざむ]/
-Schnitzer{m}/間違い[まちがい]/すか[すか]/
+Schnitzer{m}/(Fehler) 間違い[まちがい]/
 Schnitzerei{f}/彫刻[ちょうこく]/
 Schnitzmesser{m}/彫刻刀[ちょうこくとう]/
 Schnorchel{m}/シュノーケル[しゅのーける]/
@@ -24777,11 +24776,12 @@ Schnupfen{m}/鼻炎[びえん]/
 schnupfen{vi}/かぎたばこを嗅ぐ[かぎたばこをかぐ]/
 Schnupftabak{m}/嗅ぎ煙草[かぎたばこ]/
 Schnuppern{n}/くんくん[くんくん]/
-Schnur{f}/糸[いと]/緒[お]/紐[ひも]/維[い]/
+Schnur{f}/糸[いと]/
 schnurgerade{adj}/一直線に[いっちょくせんに]/
 schnurlos{adj}/無線[むせん]/
 Schnurrbart{m}/髭[ひげ]/
-schnurren{vi}/言う[いう]/ごろごろ[ごろごろ]/云う[いう]/
+schnurren{vi}/(Katze) のどをごろごろ鳴らす[のどをごろごろならす]/
+schnurren{vi}{ugs.}/遵守する[じゅんしゅする]/
 schnurstracks{adv}/つかつか[つかつか]/
 Schnäppchen{n}/バーゲン[ばーげん]/
 Schnörkel{m}/渦巻き模様[うずまきもよう]/
@@ -24792,19 +24792,19 @@ Schnürband{n}/靴紐[くつひも]/
 Schnürboden{m}/フライズ[ふらいず]/
 Schnürsenkel{m}{pl}/靴紐[くつひも]/
 Schnürstiefel{m}/編み上げ靴[あみあげぐつ]/
-Schock{m}{n}/ショック[しょっく]/打撃[だげき]/インパクト[いんぱくと]/驚愕[きょうがく]/衝撃[しょうげき]/衝撃[しょうげき]/
+Schock{m}{n}/ショック[しょっく]/
 Schockbehandlung{f}/荒療治[あらりょうじ]/
 schockierend{adj}{adv}/ショッキング[しょっきんぐ]/
 Schocktherapie{f}/ショック療法[しょっくりょうほう]/
 Schockwelle{f}/衝撃波[しょうげきは]/
-Schokolade{f}/チョコレート[ちょこれーと]/ショコラ[しょこら]/
+Schokolade{f}/チョコレート[ちょこれーと]/
 Schokoladentafel{f}/チョコレート[ちょこれーと]/
 Scholastik{f}/スコラ哲学[すこらてつがく]/
 Scholle{f}/カレイ[かれい]/
-schon{adv}/既に[すでに]/最早[もはや]/早くも[はやくも]/
+schon{adv}/既に[すでに]/
 Schonbezug{m}/背覆い[せおおい]/
 Schonung{f}/寛容[かんよう]/
-schonungslos{adj}{adv}/散々[さんざん]/容赦なく[ようしゃなく]/
+schonungslos{adj}{adv}/仮借なく[かしゃくなく]/
 Schonzeit{f}/禁漁期[きんりょうき]/
 Schorf{m}/瘡蓋[かさぶた]/
 Schornstein{m}/煙突[えんとつ]/
@@ -24825,7 +24825,7 @@ Schranke{f}/限度[げんど]/
 Schrapnell{n}/榴散弾[りゅうさんだん]/
 Schrapper{m}/スクレーパー[すくれーぱー]/
 Schraubdeckel{m}/ねじ蓋[ねじぶた]/
-Schraube{f}/ビス[びす]/螺旋[らせん]/
+Schraube{f}/螺旋[らせん]/
 schrauben{vt}/捻る[ねじる]/
 Schraubendreher{m}/ドライバー[どらいばー]/
 Schraubenfeder{f}/ヘリカル･スプリング[へりかるすぷりんぐ]/
@@ -24835,26 +24835,26 @@ Schraubenkopf{m}/ねじの頭[ねじのあたま]/
 Schraubenmutter{f}/ナット[なっと]/
 Schraubenschlüssel{m}/スパナ[すぱな]/
 Schraubenspindel{f}/雄螺旋[おねじ]/
-Schraubenzieher{m}/ドライバー[どらいばー]/ドライバ[どらいば]/
+Schraubenzieher{m}/ドライバー[どらいばー]/
 Schraubstock{m}/万力[まんりき]/
 Schraubstollen{m}/螺子釘[ねじくぎ]/
 Schraubzwinge{f}/しゃこ万力[しゃこまんりき]/
 Schrebergarten{m}/菜園[さいえん]/
 Schreck{m}/驚愕[きょうがく]/
-Schrecken{m}/驚き[おどろき]/恐怖[きょうふ]/ホラー[ほらー]/恐れ[おそれ]/
+Schrecken{m}/(Furcht) 恐怖[きょうふ]/
 Schreckensherrschaft{f}/恐怖政治[きょうふせいじ]/
 Schreckenstat{f}/凶行[きょうこう]/
-schrecklich{adv}/大変[たいへん]/とんだ[とんだ]/酷い[ひどい]/物凄い[ものすごい]/凄い[すごい]/きつい[きつい]/恐ろしい[おそろしい]/怖い[こわい]/怖い[こわい]/恐い[こわい]/恐い[こわい]/凄まじい[すさまじい]/恐るべき[おそるべき]/凄く[すごく]/大した[たいした]/馬鹿に[ばかに]/偉い[えらい]/とんでもない[とんでもない]/
+schrecklich{adv}/(grauenhaft) 物凄い[ものすごい]/(furchtbar) 怖い[こわい]/
 Schrecklichkeit{f}/陰惨[いんさん]/
-Schrei{m}/声[こえ]/気合い[きあい]/気合[きあい]/叫び[さけび]/叫び声[さけびごえ]/
+Schrei{m}/叫び声[さけびごえ]/
 Schreib-Lese-Speicher{m}/ランダムアクセスメモリー[らんだむあくせすめもりー]/
 Schreibblock{m}/一綴りの便箋[いちつづりのびんせん]/
-schreiben{vt}/書く[かく]/綴る[つづる]/現す[あらわす]/表す[あらわす]/認める[したためる]/寄せる[よせる]/描く[かく]/
-Schreiben{n}/便り[たより]/手習い[てならい]/執筆[しっぴつ]/便[たより]/書面[しょめん]/書き込み[かきこみ]/書込み[かきこみ]/著作[ちょさく]/書簡[しょかん]/
-Schreiber{m}/筆者[ひっしゃ]/書き手[かきて]/
+schreiben{vt}/書く[かく]/
+Schreiben{n}/(Schriftstellerei) 著作[ちょさく]/(Brief) 書簡[しょかん]/
+Schreiber{m}/(Schriftsteller) 筆者[ひっしゃ]/
 Schreiberling{m}/三文文士[さんもんぶんし]/
-Schreibfehler{m}/間違い[まちがい]/誤字[ごじ]/
-Schreibheft{n}/草子[そうし]/草紙[そうし]/
+Schreibfehler{m}/誤字[ごじ]/
+Schreibheft{n}/(Schön~) 習字帳[しゅうじちょう]/(Notizblock) 帳面[ちょうめん]/
 Schreibkraft{f}/タイピスト[たいぴすと]/
 Schreibkunst{f}/書き方[かきかた]/
 Schreibmaschine{f}/タイプライター[たいぷらいたー]/
@@ -24864,16 +24864,16 @@ Schreibschrift{f}/筆記体[ひっきたい]/
 Schreibstift{m}/鉛筆[えんぴつ]/
 Schreibtafel{f}/黒板[こくばん]/
 Schreibtisch{m}/机[つくえ]/デスク[ですく]/
-Schreibtischarbeit{f}/事務[じむ]/デスクワーク[ですくわーく]/
-Schreibwaren{pl}/文具[ぶんぐ]/文房具[ぶんぼうぐ]/
+Schreibtischarbeit{f}/机でする仕事[つくえでするしごと]/デスクワーク[ですくわーく]/
+Schreibwaren{pl}/文房具[ぶんぼうぐ]/
 Schreibwarengeschäft{n}/文房具屋[ぶんぼうぐや]/
 Schreibweise{f}/書き方[かきかた]/
 Schreibübung{f}/手習い[てならい]/
-schreien{vi}/呼ぶ[よぶ]/吠える[ほえる]/唱える[となえる]/鳴く[なく]/叫ぶ[さけぶ]/
+schreien{vi}/叫ぶ[さけぶ]/
 schreiend{adv}/毒々しい[どくどくしい]/
-Schrein{m}/神社[じんじゃ]/宮殿[きゅうでん]/堂[どう]/宮[みや]/
+Schrein{m}/(Shinto~) 神社[じんじゃ]/
 schreiten{vi}/跨ぐ[またぐ]/
-Schrift{f}/文字[もじ]/著書[ちょしょ]/文[ふみ]/冊子[さっし]/文書[ぶんしょ]/活字[かつじ]/筆[ふで]/書[ふみ]/跡[あと]/著作[ちょさく]/
+Schrift{f}/文字[もじ]/
 Schriftart{f}/字形[じけい]/
 Schriftgießerei{f}/製版所[せいはんじょ]/
 schriftlich{adj}{adv}/筆記の[ひっきの]/
@@ -24884,24 +24884,24 @@ Schriftsetzer{m}/植字工[しょくじこう]/
 Schriftsprache{f}/書き言葉[かきことば]/
 Schriftsteller{m}/作家[さっか]/
 Schriftstellerei{f}/文筆[ぶんぴつ]/
-Schriftstück{n}/記録[きろく]/書類[しょるい]/文[ふみ]/文書[ぶんしょ]/書面[しょめん]/書[ふみ]/一本[いっぽん]/
+Schriftstück{n}/書類[しょるい]/
 Schrifttum{n}/文学[ぶんがく]/
-Schriftzeichen{n}/文字[もじ]/キャラクター[きゃらくたー]/跡[あと]/
+Schriftzeichen{n}/文字[もじ]/
 Schriftzug{m}/レタリング[れたりんぐ]/
-schrill{adj}/高い[たかい]/鋭い[するどい]/
+schrill{adj}/甲高い[かんだかい]/
 schrille Stimme/奇声[きせい]/
-Schritt{m}/方法[ほうほう]/歩行[ほこう]/ペース[ぺーす]/歩み[あゆみ]/処置[しょち]/足[あし]/運び[はこび]/足元[あしもと]/措置[そち]/
+Schritt{m}/ステップ[すてっぷ]/(ein ~) 一歩[いっぽ]/
 Schrittmacher{m}/先頭を切る人[せんとうをきるひと]/
 Schrittmesser{m}/歩数計[ほすうけい]/
 Schrittmotor{m}/ステッピング･モーター[すてっぴんぐもーたー]/
-schrittweise{adj}{adv}/ゆっくり[ゆっくり]/徐々に[じょじょに]/ぼちぼち[ぼちぼち]/次第に[しだいに]/徐々[じょじょ]/じりじり[じりじり]/そろそろ[そろそろ]/
+schrittweise{adj}{adv}/一歩一歩[いっぽいっぽ]/
 Schrittweite{f}/コンパス[こんぱす]/
-schroff{adv}{adj}/激しい[はげしい]/険しい[けわしい]/
+schroff{adv}{adj}/(mürrisch) 無愛想な[ぶあいそうな]/(uneben) 凸凹の[でこぼこの]/
 Schroffheit{f}/急[きゅう]/
 Schrot{m}{n}/散弾[さんだん]/
 Schrotflinte{f}/ショットガン[しょっとがん]/
 Schrotmühle{f}/コーン･クラッシャー[こーんくらっしゃー]/
-Schrott{m}/スクラップ[すくらっぷ]/ポンコツ[ぽんこつ]/
+Schrott{m}/スクラップ[すくらっぷ]/
 Schrotthändler{m}/廃品回収業者[はいひんかいしゅうぎょうしゃ]/
 schrottreif{adj}/ぽんこつの[ぽんこつの]/
 Schrottwert{m}/潰し値段[つぶしねだん]/
@@ -24914,7 +24914,7 @@ Schrumpfniere{f}/萎縮腎[いしゅくじん]/
 Schrunde{f}/皹[あかぎれ]/
 schrundig{adj}/ひびの切れた[ひびのきれた]/
 schräg{adj}{adv}/斜めに[ななめに]/
-Schräge{f}/斜め[ななめ]/雪崩[なだれ]/
+Schräge{f}/斜め[ななめ]/
 Schrägheit{f}/斜[はす]/
 Schräglage{f}/偏り[かたより]/
 Schrägstrich{m}/スラッシュ[すらっしゅ]/
@@ -24951,11 +24951,11 @@ Schularbeiten{pl}/宿題[しゅくだい]/
 Schulaufsicht{f}/視学[しがく]/
 Schulausflug{m}/修学旅行[しゅうがくりょこう]/
 Schulbank{f}/机[つくえ]/
-Schulbesuch{m}/登校[とうこう]/通学[つうがく]/就学[しゅうがく]/
+Schulbesuch{m}/登校[とうこう]/
 Schulbildung{f}/学校教育[がっこうきょういく]/
 Schulbuch{n}/教科書[きょうかしょ]/
 Schulbus{m}/スクールバス[すくーるばす]/
-Schuld{f}/黒[くろ]/所為[せい]/有罪[ゆうざい]/科[とが]/責任[せきにん]/罪[つみ]/貸し[かし]/借り[かり]/債務[さいむ]/
+Schuld{f}/罪[つみ]/
 schuldbeladen{adj}/罪深い[つみぶかい]/
 schuldbewusst{adj}/後ろ暗い[うしろぐらい]/
 Schuldbewusstsein{n}/後悔[こうかい]/
@@ -24965,30 +24965,30 @@ Schuldenlast{f}/負い目[おいめ]/
 Schuldgefühl{n}/罪悪感[ざいあくかん]/
 schuldhaft{adj}{adv}/有罪の[ゆうざいの]/
 schuldig{adv}/罪のある[つみのある]/
-Schuldigkeit{f}/責任[せきにん]/義務[ぎむ]/お勤め[おつとめ]/
+Schuldigkeit{f}/(Pflicht) 義務[ぎむ]/
 Schuldirektor{m}/校長[こうちょう]/
 schuldlos{adv}/罪のない[つみのない]/
 Schuldlosigkeit{f}/無罪[むざい]/
 Schuldner{m}/債務者[さいむしゃ]/
 Schuldnerstaat{m}/債務国[さいむこく]/
 Schuldrecht{n}/債権法[さいけんほう]/
-Schuldschein{m}/ボンド[ぼんど]/債券[さいけん]/
+Schuldschein{m}/(Bond) ボンド[ぼんど]/債券[さいけん]/
 Schuldspruch{m}/有罪判決[ゆうざいはんけつ]/
-Schule{f}/学校[がっこう]/宗派[しゅうは]/派[は]/学園[がくえん]/学院[がくいん]/系統[けいとう]/流れ[ながれ]/スクール[すくーる]/
+Schule{f}/学校[がっこう]/
 schulen{vt}/仕込む[しこむ]/
 Schulfach{n}/科目[かもく]/
 Schulflugzeug{n}/練習機[れんしゅうき]/
 Schulfreund{m}/学友[がくゆう]/
 Schulgebäude{n}/校舎[こうしゃ]/
 Schulgeld{n}/学資[がくし]/
-Schulgelände{n}/校内[こうない]/校庭[こうてい]/
+Schulgelände{n}/校庭[こうてい]/
 Schulhausmeister{m}/校務員[こうむいん]/
 Schulhof{m}/校庭[こうてい]/
-Schuljahr{n}/年度[ねんど]/学年[がくねん]/
-Schuljunge{m}/生徒[せいと]/男児[だんじ]/
+Schuljahr{n}/学年[がくねん]/
+Schuljunge{m}/(Schüler) 生徒[せいと]/
 Schulkamerad{m}/同期生[どうきせい]/
-Schulkind{n}/児童[じどう]/学童[がくどう]/
-Schulklasse{f}/級[きゅう]/ルーム[るーむ]/学級[がっきゅう]/
+Schulkind{n}/学童[がくどう]/
+Schulklasse{f}/学級[がっきゅう]/
 Schullehrer{m}/教育者[きょういくしゃ]/
 Schulleiter{m}/校長[こうちょう]/
 Schulmeister{m}/先生[せんせい]/
@@ -24999,11 +24999,11 @@ Schulpsychologe{m}/スクール･サイコロジスト[すくーるさいころ
 Schulrat{m}/教育長[きょういくちょう]/
 Schulschiff{n}/練習船[れんしゅうせん]/
 Schulschluss{m}/終業[しゅうぎょう]/
-Schulspeisung{f}/給食[きゅうしょく]/学校給食[がっこうきゅうしょく]/
+Schulspeisung{f}/学校給食[がっこうきゅうしょく]/
 Schulsport{m}/体操[たいそう]/
 Schulsystem{n}/学制[がくせい]/
 Schultasche{f}/学校かばん[がっこうかばん]/
-Schulter{f}/肩[かた]/ショルダー[しょるだー]/
+Schulter{f}/肩[かた]/
 Schulterblatt{n}/肩甲骨[けんこうこつ]/
 Schulterbreite{f}/肩幅[かたはば]/
 schulterfrei{adj}/ベアトップ[べあとっぷ]/
@@ -25012,9 +25012,9 @@ Schulterhöhe{f}/肩ぽう[けんぽう]/
 Schulterklappe{f}/肩章[けんしょう]/
 Schultersieg{m}/フォール勝ち[ふぉーるがち]/
 Schulterstück{n}/肩章[けんしょう]/
-Schultertasche{f}/ショルダー[しょるだー]/ショルダーバッグ[しょるだーばっぐ]/
+Schultertasche{f}/ショルダーバッグ[しょるだーばっぐ]/
 Schultertuch{n}/スカーフ[すかーふ]/
-Schulung{f}/練習[れんしゅう]/稽古[けいこ]/修行[しゅぎょう]/教習[きょうしゅう]/研修[けんしゅう]/実習[じっしゅう]/訓練[くんれん]/養成[ようせい]/スクーリング[すくーりんぐ]/
+Schulung{f}/(Unterrichtskurs) 講習会[こうしゅうかい]/(Training) 教習[きょうしゅう]/
 Schulverwaltung{f}/学校経営[がっこうけいえい]/
 Schulweg{m}/通学路[つうがくろ]/
 Schulzeit{f}/学校時代[がっこうじだい]/
@@ -25024,16 +25024,17 @@ Schund{m}/愚作[ぐさく]/
 Schundliteratur{f}/駄本[だほん]/
 Schundroman{m}/赤本[あかほん]/
 Schuppe{f}/鱗片[りんぺん]/
-Schuppen{m}{pl}/置き場[おきば]/物置[ものおき]/
+Schuppen{m}/(Gebäude) 物置[ものおき]/
+Schuppen{pl}/(Kopf~) 頭垢[ふけ]/
 schuppenartig{adj}/りん状の[りんじょうの]/
 Schuppenflechte{f}/乾癬[かんせん]/
 schuppig{adj}/りん状の[りんじょうの]/
 Schur{f}/剪毛[せんもう]/
-Schurke{m}/悪人[あくにん]/曲者[くせもの]/
+Schurke{m}/悪人[あくにん]/
 Schurkenstaat{m}/ならず者国家[ならずものこっか]/
 schurkisch{adv}/無頼な[ぶらいな]/
 Schurz{m}/草摺[くさずり]/
-Schuss{m}/横[よこ]/銃撃[じゅうげき]/ショット[しょっと]/ショット[しょっと]/プッシュ[ぷっしゅ]/
+Schuss{m}/横[よこ]/(Schießen) 銃撃[じゅうげき]/{Ballsport} シュート[しゅーと]/(ein ~;ein wenig) 少量[しょうりょう]/
 Schussfaden{m}/緯[い]/
 Schussfeld{n}/射界[しゃかい]/
 Schussverletzung{f}/弾傷[たまきず]/
@@ -25044,7 +25045,7 @@ Schutt{m}/がれ[がれ]/
 Schuttfächer{m}/扇状地[せんじょうち]/
 Schutthang{m}/がれ場[がれば]/
 Schutthaufen{m}/掃き溜め[はきだめ]/
-Schutz{m}/予防[よぼう]/宛[あて]/防具[ぼうぐ]/保護[ほご]/守護[しゅご]/当て[あて]/宛て[あて]/援護[えんご]/擁護[ようご]/防衛[ぼうえい]/守備[しゅび]/愛護[あいご]/避難[ひなん]/シェルター[しぇるたー]/
+Schutz{m}/保護[ほご]/
 Schutzblech{n}/フェンダー[ふぇんだー]/
 Schutzbrille{f}/ゴーグル[ごーぐる]/
 Schutzdach{n}/上屋[うわや]/
@@ -25070,10 +25071,10 @@ Schutzumschlag{m}/ブックカバー[ぶっくかばー]/
 Schutzwall{m}/垣根[かきね]/
 Schutzwand{f}/防壁[ぼうへき]/
 Schutzzoll{m}/保護関税[ほごかんぜい]/
-schwach{adj}{adv}/くらい[くらい]/ほんのり[ほんのり]/細々[ほそぼそ]/淡い[あわい]/軽い[かるい]/微か[かすか]/へろへろ[へろへろ]/薄い[うすい]/浅い[あさい]/弱い[よわい]/小さい[ちいさい]/緩い[ゆるい]/小さな[ちいさな]/暗い[くらい]/
-schwache Seite{f}/苦手[にがて]/短所[たんしょ]/
+schwach{adj}{adv}/弱い[よわい]/
+schwache Seite{f}/(Achillesferse) 苦手[にがて]/
 Schwachheit{f}/弱さ[よわさ]/
-Schwachkopf{m}/アホ[あほ]/阿呆[あほ]/
+Schwachkopf{m}/阿呆[あほ]/
 Schwachpunkt{m}/苦手[にがて]/
 schwachsichtig/弱視の[じゃくしの]/
 Schwachsinn{m}/痴呆[ちほう]/
@@ -25082,10 +25083,10 @@ Schwachstelle{f}/盲点[もうてん]/
 Schwachstrom{m}/弱電[じゃくでん]/
 schwadronieren{vi}/勝手な熱を吹く[かってなねつをふく]/
 schwafeln{vi}/油っ紙に火のついたようにぺらぺらしゃべる[あぶらっかみにひのついたようにぺらぺらしゃべる]/
-Schwager{m}/姉妹[きょうだい]/弟分[おとうとぶん]/姉弟[きょうだい]/弟[おとうと]/
-Schwalbe{f}/ツバメ[つばめ]/シミュレーション[しみゅれーしょん]/
+Schwager{m}/義兄[ぎけい]/
+Schwalbe{f}/{Vogelk.} 燕[つばめ]/
 Schwalbenschwanz{m}/燕尾服[えんびふく]/
-Schwamm{m}/キノコ[きのこ]/茸[たけ]/スポンジ[すぽんじ]/
+Schwamm{m}/(~ zum Reinigen) スポンジ[すぽんじ]/
 schwammig{adj}{adv}/フワフワ[ふわふわ]/
 Schwan{m}/スワン[すわん]/
 Schwanengesang{m}/白鳥の歌[はくちょうのうた]/
@@ -25093,16 +25094,16 @@ Schwanenhals{m}/鎌首[かまくび]/
 schwanger{adj}{adv}/身重の[みおもの]/
 schwanger werden{vi}/孕む[はらむ]/
 Schwangere{f}/妊婦[にんぷ]/
-Schwangerschaft{f}/妊娠[にんしん]/子持ち[こもち]/
+Schwangerschaft{f}/妊娠[にんしん]/
 Schwangerschaftsabbruch{m}/中絶[ちゅうぜつ]/
 Schwangerschaftsstreifen{pl}/妊娠線[にんしんせん]/
 Schwangerschaftstest{m}/妊娠テスト[にんしんてすと]/
-Schwank{m}/喜劇[きげき]/狂言[きょうげん]/
-schwanken{vi}/迷う[まよう]/揺れる[ゆれる]/揺れる[ゆれる]/
-Schwanken{n}/不安定[ふあんてい]/一進一退[いっしんいったい]/躊躇[ためらい]/動揺[どうよう]/狂い[くるい]/揺れ[ゆれ]/
-schwankend{adv}/ふらふら[ふらふら]/フラフラ[ふらふら]/よろよろ[よろよろ]/
-Schwankung{f}/変動[へんどう]/狂い[くるい]/
-Schwanz{m}/尻尾[しっぽ]/テール[てーる]/テイル[ている]/
+Schwank{m}/喜劇[きげき]/
+schwanken{vi}/(sich nicht entscheiden können) 迷う[まよう]/(wackeln) 揺れる[ゆれる]/
+schwankend{adv}/(schwindlig) フラフラ[ふらふら]/(torkelnd) よろよろ[よろよろ]/
+Schwankung{f}/(Veränderung) 変動[へんどう]/
+Schwanz{m}/尻尾[しっぽ]/
+Schwanz{m}{vulg.}/ペニス[ぺにす]/
 Schwanzfeder{f}/尾羽[おばね]/
 Schwanzflosse{f}/尻尾[しっぽ]/
 schwanzlastig{adj}/尾部の重い[びぶのおもい]/
@@ -25134,8 +25135,8 @@ schwatzhaft{adj}{adv}/多弁な[たべんな]/
 Schwatzhaftigkeit{f}/軽口[かるくち]/
 Schwebebahn{f}/ケーブル･ウェイ[けーぶるうぇい]/
 Schwebebalken{m}/平均台[へいきんだい]/
-Schweben{n}/未定[みてい]/浮遊[ふゆう]/浮上[ふじょう]/
-schweben{vi}/浮かぶ[うかぶ]/漂う[ただよう]/浮く[うく]/
+Schweben{n}/(Unbestimmtheit) 未定[みてい]/
+schweben{vi}/浮遊する[ふゆうする]/(noch unentschlossen sein) 決着がつかない[けっちゃくがつかない]/
 Schwebstoff{m}/浮遊粒子状物質[ふゆうりゅうしじょうぶっしつ]/
 Schwebung{f}/唸り[うなり]/
 Schwede{m}/スウェーデン人[すうぇーでんじん]/
@@ -25150,7 +25151,7 @@ Schweifung{f}/反り[そり]/
 Schweigegeld{n}/口止め料[くちどめりょう]/
 schweigen{vi}/黙る[だまる]/
 schweigend{adv}/黙々[もくもく]/
-schweigsam{adv}/静か[しずか]/静かに[しずかに]/
+schweigsam{adv}/静かに[しずかに]/
 Schwein{n}/豚[ぶた]/
 Schweinebraten{m}/焼き豚[やきぶた]/
 Schweinefett{n}/ラード[らーど]/
@@ -25165,7 +25166,7 @@ Schweinsleder{n}/豚革[ぶたがわ]/
 Schweinswal{m}/スナメリ[すなめり]/
 Schweizer{m}/スイス人[すいすじん]/
 Schweizer Franken{m}/スイス･フラン[すいすふらん]/
-Schweiß{m}/汗[あせ]/脂[あぶら]/
+Schweiß{m}/汗[あせ]/
 Schweißband{n}/帽子の滑り皮[ぼうしのぬめりがわ]/
 Schweißbarkeit{f}/溶接性[ようせつせい]/
 Schweißbrenner{m}/溶接機[ようせつき]/
@@ -25184,7 +25185,7 @@ schwelgerisch{adj}/ぜいたくな[ぜいたくな]/
 Schwelle{f}/敷居[しきい]/
 schwellen{vi}/増す[ます]/
 Schwellenwert{m}/閾価[いきか]/
-Schwellung{f}/腫れ[はれ]/膨らみ[ふくらみ]/
+Schwellung{f}/腫れ[はれ]/
 Schwellwert{m}/閾値[いきち]/
 Schwemmlandebene{f}/沖積平野[ちゅうせきへいや]/
 Schwenk{m}/スイベル[すいべる]/
@@ -25192,13 +25193,13 @@ Schwenkarm{m}/旋回腕[せんかいうで]/
 schwenken{vi}/振り回す[ふりまわす]/
 Schwenkflügel{m}/可変翼[かへんよく]/
 Schwenkung{f}/旋回[せんかい]/
-schwer{adj}{adv}/難しい[むずかしい]/重い[おもい]/酷い[ひどい]/こってり[こってり]/きつい[きつい]/しつこい[しつこい]/どっしり[どっしり]/重たい[おもたい]/苦い[にがい]/コテコテ[こてこて]/苦しい[くるしい]/多大[ただい]/ずっしり[ずっしり]/ヘビー[へびー]/
+schwer{adj}{adv}/(Gewicht) 重い[おもい]/(schwierig) 難しい[むずかしい]/
 Schwerarbeit{f}/重労働[じゅうろうどう]/
 Schwerarbeiter{m}/重労働者[じゅうろうどうしゃ]/
-Schwere{f}/重さ[おもさ]/重み[おもみ]/重き[おもき]/ヘビー[へびー]/
+Schwere{f}/重さ[おもさ]/
 Schwerelosigkeit{f}/無重力[むじゅうりょく]/
 schwerer Zusammenstoß/激突[げきとつ]/
-schwerfällig{adv}{adj}/どん[どん]/ぎこちない[ぎこちない]/
+schwerfällig{adv}{adj}/ぎこちない[ぎこちない]/
 schwerfällig gehen{vi}/のっしのっしと歩く[のっしのっしとあるく]/
 Schwerfälligkeit{f}/緩慢[かんまん]/
 Schwergewicht{n}/ヘビー級[へびーきゅう]/
@@ -25207,9 +25208,9 @@ Schwerhörigkeit{f}/難聴[なんちょう]/
 Schwerindustrie{f}/重工業[じゅうこうぎょう]/
 Schwerkraft{f}/重力[じゅうりょく]/
 Schwermetall{n}/重金属[じゅうきんぞく]/
-Schwermut{f}{m}/ブルー[ぶるー]/憂鬱[ゆううつ]/憂さ[うさ]/
-schwermütig{adv}/悩ましい[なやましい]/悲観的[ひかんてき]/
-Schwerpunkt{m}/重点[じゅうてん]/重心[じゅうしん]/
+Schwermut{f}{m}/憂鬱[ゆううつ]/
+schwermütig{adv}/憂鬱な[ゆううつな]/
+Schwerpunkt{m}/重点[じゅうてん]/{Phys.}重心[じゅうしん]/
 schwerpunktmäßig{adv}/重点的[じゅうてんてき]/
 Schwert{n}/グラディウス[ぐらでぃうす]/
 Schwertfisch{m}/めかじき[めかじき]/
@@ -25221,28 +25222,28 @@ Schwerverbrecher{m}/大罪人[だいざいにん]/
 schwerverständlich{adj}/難解な[なんかいな]/
 Schwerwasserreaktor{m}/重水炉[じゅうすいろ]/
 Schweröl{n}/重油[じゅうゆ]/
-Schwester{f}/ナース[なーす]/尼[あま]/シスター[しすたー]/
+Schwester{f}/姉[あね]/
 Schwiegereltern{pl}/義父母[ぎふぼ]/
-Schwiegermutter{f}/義母[ぎぼ]/姑[しゅうとめ]/
+Schwiegermutter{f}/義母[ぎぼ]/
 Schwiegersohn{m}/婿[むこ]/
-Schwiegertochter{f}/嫁[よめ]/お嫁さん[およめさん]/
+Schwiegertochter{f}/嫁[よめ]/
 Schwiegervater{m}/義父[ぎふ]/
 Schwiele{f}/胼胝[たこ]/
 schwielig{adj}{adv}/節くれ立った[ふしくれだった]/
-schwierig{adj}{adv}/難しい[むずかしい]/険しい[けわしい]/苦しい[くるしい]/苦しい[くるしい]/しんどい[しんどい]/ややこしい[ややこしい]/タフ[たふ]/
-schwierige Frage/難題[なんだい]/難問[なんもん]/
-Schwierigkeit{f}/事故[じこ]/難しさ[むずかしさ]/複雑[ふくざつ]/不都合[ふつごう]/支障[ししょう]/面倒[めんどう]/経緯[いきさつ]/葛藤[かっとう]/トラブル[とらぶる]/難関[なんかん]/難[なん]/難儀[なんぎ]/故障[こしょう]/難解[なんかい]/苦情[くじょう]/困難[こんなん]/
+schwierig{adj}{adv}/難しい[むずかしい]/
+schwierige Frage/難問[なんもん]/
+Schwierigkeit{f}/(~grad) 難しさ[むずかしさ]/(Kompliziertheit) 複雑[ふくざつ]/
 Schwierigkeiten{pl}/ごたごた[ごたごた]/
 Schwierigkeiten machen/困らせる[こまらせる]/
-Schwierigkeitsgrad{m}/難しさ[むずかしさ]/難易度[なんいど]/
+Schwierigkeitsgrad{m}/難しさ[むずかしさ]/
 Schwimmbad{n}/プール[ぷーる]/
 Schwimmbagger{m}/浚渫船[しゅんせつせん]/
 Schwimmblase{f}/浮き袋[うきぶくろ]/
 Schwimmbrille{f}/水中眼鏡[すいちゅうめがね]/
 Schwimmdock{n}/浮きドック[うきどっく]/
-Schwimmen{n}/水泳[すいえい]/浮遊[ふゆう]/泳ぎ[およぎ]/水浴び[みずあび]/
+Schwimmen{n}/水泳[すいえい]/
 schwimmend{adv}/プカプカ[ぷかぷか]/
-Schwimmer{m}/浮き[うき]/スイマー[すいまー]/
+Schwimmer{m}/泳ぎ手[およぎて]/
 Schwimmerventil{n}/浮き玉コック[うきだまこっく]/
 Schwimmflosse{f}/フィン[ふぃん]/
 Schwimmfuß{m}/遊泳脚[ゆうえいあし]/
@@ -25258,15 +25259,15 @@ Schwimmstil{m}/泳法[えいほう]/
 Schwimmunterricht{m}/水泳教室[すいえいきょうしつ]/
 Schwimmweste{f}/ライフジャケット[らいふじゃけっと]/
 Schwimmwettbewerb{m}/水泳競技[すいえいきょうぎ]/
-Schwindel{m}/詐欺[さぎ]/裏技[うらわざ]/眩暈[めまい]/インチキ[いんちき]/欺瞞[ぎまん]/
+Schwindel{m}/(Betrug) 詐欺[さぎ]/(~gefühl) 眩暈[めまい]/
 Schwindelei{f}/カンニング[かんにんぐ]/
 Schwindelfirma{f}/幽霊会社[ゆうれいがいしゃ]/
 Schwindelgefühl{n}/眩暈[めまい]/
 schwindelig{adv}/ふらっと[ふらっと]/
 Schwindler{m}/詐欺師[さぎし]/
-schwindlig{adj}{adv}/ふらふら[ふらふら]/フラフラ[ふらふら]/
+schwindlig{adj}{adv}/ふフラフラ[ふらふら]/
 schwindsüchtig{adj}/結核性の[けっかくせいの]/
-schwingen{vi}/揺れる[ゆれる]/振り回す[ふりまわす]/振る[ふる]/
+schwingen{vi}/(wackeln) 揺れる[ゆれる]/(oszillieren) 振動する[しんどうする]/
 Schwingen{n}/スインギング[すいんぎんぐ]/
 Schwingtür{f}/スイングドア[すいんぐどあ]/
 Schwingung{f}/振動[しんどう]/
