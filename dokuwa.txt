@@ -7104,7 +7104,7 @@ Einschätzung{f}/(Bewertung) 評価[ひょうか]/
 einschüchtern{vt}/脅かす[おどかす]/
 einschüchternd/威嚇的[いかくてき]/
 Einschüchterung{f}/威嚇[いかく]/
-einseitig{adj}{adv}/一方的[いっぽうてき]/
+einseitig{adj}{adv}/一方的[いっぽうてき]/(Bsp:sich einseitig ernähren) 偏食する[へんしょくする]/
 Einseitigkeit{f}/不公平[ふこうへい]/
 Einsendeschluss{m}/締切[しめきり]/
 Einsenkung{f}/陥落[かんらく]/
@@ -18509,7 +18509,7 @@ Melanterit{m}/緑ばん[りょくばん]/
 Melasse{f}/蜜[みつ]/
 Melatonin{n}/メラトニン[めらとにん]/
 Meldebescheinigung{f}/住民票[じゅうみんひょう]/
-melden{vt}/知らせる[しらせる]/
+melden{vt}/知らせる[しらせる]/(Bsp: sich freiwillig melden) 挺身する[ていしんする]/
 Meldepflicht{f}/報告義務[ほうこくぎむ]/
 Melder{m}/報知機[ほうちき]/
 Meldung{f}/知らせ[しらせ]/
@@ -22188,7 +22188,7 @@ Putschversuch{m}/未遂に終わったクーデター[みすいにおわった�
 putten/パットする[ぱっとする]/
 Putz{m}/(Anstrich) 塗り[ぬり]/
 Putzeimer{m}/雑巾バケツ[ぞうきんばけつ]/
-putzen{vt}/磨く[みがく]/
+putzen{vt}/奇麗にする[きれいにする]/(sich die Nase putzen) 鼻をかむ[はなをかむ]/(sich die Nase putzen) 鼻をかむ[はなをかむ]/
 Putzfrau{f}/掃除婦[そうじふ]/
 Putzlappen{m}/雑巾[ぞうきん]/
 Putzmittel{n}/洗剤[せんざい]/
@@ -25630,11 +25630,11 @@ Selbstkosten{pl}/実費[じっぴ]/
 Selbstkostenpreis{m}/原価[げんか]/
 Selbstkritik{f}/反省[はんせい]/
 selbstlos{adj}{adv}/献身的[けんしんてき]/
-Selbstlosigkeit{f}/公平[こうへい]/無我[むが]/
+Selbstlosigkeit{f}/無私[むし]/
 Selbstmordversuch{m}/自殺未遂[じさつみすい]/
 Selbstmörder{m}/自殺者[じさつしゃ]/
 selbstmörderisch{adj}{adv}/自殺的[じさつてき]/
-Selbstprüfung{f}/反省[はんせい]/自戒[じかい]/
+Selbstprüfung{f}/(Selbstkritik) 反省[はんせい]/
 Selbstreflexion{f}/内省[ないせい]/
 selbstreinigend{adj}/自浄式の[じじょうしきの]/
 Selbstreinigung{f}/自浄[じじょう]/
@@ -25642,7 +25642,7 @@ Selbstschutz{m}/護身[ごしん]/
 Selbstsicherheit{f}/覚え[おぼえ]/
 Selbststudium{n}/独学[どくがく]/
 Selbstständigkeit{f}/自営業[じえいぎょう]/
-Selbstsucht{f}/勝手[かって]/自己中[じこちゅう]/自己中心[じこちゅうしん]/身勝手[みがって]/勝手気まま[かってきまま]/自分勝手[じぶんかって]/我慢[がまん]/我儘[わがまま]/我侭[わがまま]/気まま[きまま]/
+Selbstsucht{f}/自己中心[じこちゅうしん]/
 selbstsüchtig{adj}{adv}/恣[ほしいまま]/
 selbsttätig{adj}/自然の[しぜんの]/
 Selbsttäuschung{f}/自己欺瞞[じこぎまん]/
@@ -25653,18 +25653,18 @@ Selbstverherrlichung{f}/手前味噌[てまえみそ]/
 Selbstverlag{m}/自費出版[じひしゅっぱん]/
 Selbstverleugnung{f}/克己[こっき]/
 Selbstvernichtung{f}/自滅[じめつ]/
-Selbstversorgung{f}/自給[じきゅう]/自給自足[じきゅうじそく]/
-selbstverständlich{adj}/当然[とうぜん]/言うまでもない[いうまでもない]/当たり前[あたりまえ]/無論[むろん]/言わずと知れた[いわずとしれた]/
+Selbstversorgung{f}/自給自足[じきゅうじそく]/
+selbstverständlich{adj}/当たり前の[あたりまえの]/
 Selbstverständlichkeit{f}/当たり前[あたりまえ]/
 Selbstverständnis{n}/自己理解[じこりかい]/
 Selbstverwaltung{f}/自治[じち]/
-Selbstverwaltungskörperschaft{f}/自治体[じちたい]/独立行政法人[どくりつぎょうせいほうじん]/
+Selbstverwaltungskörperschaft{f}/自治体[じちたい]/
 Selbstverwirklichung{f}/自己実現[じこじつげん]/
 Selbstzensur{f}/自主検閲[じしゅけんえつ]/
 Selbstzerstörung{f}/自爆[じばく]/
-Selbstzucht{f}/自粛[じしゅく]/自戒[じかい]/
+Selbstzucht{f}/自粛[じしゅく]/
 selbstzufrieden{adv}/にんまり[にんまり]/
-Selbstzufriedenheit{f}/自己満足[じこまんぞく]/いい気[いいき]/
+Selbstzufriedenheit{f}/自己満足[じこまんぞく]/
 Selbstzweck{m}/自己目的[じこもくてき]/
 Selbstüberschätzung{f}/我慢[がまん]/
 Selbstüberwindung{f}/克己[こっき]/
@@ -25672,40 +25672,40 @@ Selektivität{f}/分離[ぶんり]/
 Selektor{m}/セレクター[せれくたー]/
 Selen{n}/セレニウム[せれにうむ]/
 Selenit{n}/亜セレン酸塩[あせれんさんえん]/
-Seligkeit{f}/幸福[こうふく]/歓喜[かんき]/至福[しふく]/
+Seligkeit{f}/至福[しふく]/
 Sellerie{m}/セロリ[せろり]/
-selten{adj}{adv}/少ない[すくない]/偶[たまたま]/適[たまさか]/珍しい[めずらしい]/時たま[ときたま]/滅多に[めったに]/稀[まれ]/希[まれ]/
-Seltenheit{f}/珍[ちん]/奇[き]/希少[きしょう]/
+selten{adj}{adv}/(ungewöhnlich) 珍しい[めずらしい]/(nicht oft;kaum) 滅多に...無い[めったに...ない]/
+Seltenheit{f}/珍しい物[めずらしいもの]/
 Seltenheitswert{m}/希少価値[きしょうかち]/
 Selterswasser{n}/炭酸水[たんさんすい]/
-Seltsamkeit{f}/変[へん]/珍[ちん]/へん[へん]/妙[みょう]/奇妙[きみょう]/奇妙[きみょう]/奇[き]/奇特[きどく]/
+Seltsamkeit{f}/(Mysterium) 不思議[ふしぎ]/(Kuriosität) 奇妙[きみょう]/
 Semantik{f}/意味論[いみろん]/
 Semester{n}/ターム[たーむ]/
 Semesterende{n}/期末[きまつ]/
 Semikolon{n}/セミコロン[せみころん]/
-Seminar{n}/学校[がっこう]/ゼミナール[ぜみなーる]/演習[えんしゅう]/研究会[けんきゅうかい]/ワークショップ[わーくしょっぷ]/ゼミ[ぜみ]/セミナー[せみなー]/研究室[けんきゅうしつ]/教室[きょうしつ]/
+Seminar{n}/ゼミナール[ぜみなーる]/
 Semiotik{f}/記号論[きごうろん]/
 Senat{m}/上院[じょういん]/
 Senator{m}/評議員[ひょうぎいん]/
 Sendeanlage{f}/トランスミッター[とらんすみったー]/
 Sendebereich{m}/サービスエリア[さーびすえりあ]/
 Sendegebiet{n}/有効範囲[ゆうこうはんい]/
-senden{vt}/送る[おくる]/向ける[むける]/伝える[つたえる]/発する[はっする]/届ける[とどける]/寄せる[よせる]/
+senden{vt}/送る[おくる]/
 Sender{f}{m}/放送局[ほうそうきょく]/
 Senderaum{m}/放送室[ほうそうしつ]/
 Sendestation{f}/無線局[むせんきょく]/
 Sendezeit{f}/放送時間[ほうそうじかん]/
 Sendschreiben{n}/教書[きょうしょ]/
-Sendung{f}/放送[ほうそう]/使命[しめい]/
+Sendung{f}/(Rundfunk~) 放送[ほうそう]/(Über~) 送付[そうふ]/
 Senegalese{m}/セネガル人[せねがるじん]/
 senegalesisch{adj}/セネガルの[せねがるの]/
 Senf{m}/マスタード[ますたーど]/
 Senfgas{n}/マスタードガス[ますたーどがす]/
 Senfkorn{n}/芥子粒[けしつぶ]/
 Senilität{f}/呆け[ぼけ]/
-Senior{m}/年寄り[としより]/シニア[しにあ]/長老[ちょうろう]/先進[せんしん]/
+Senior{m}/(ältere Person) 年寄り[としより]/
 Seniorenheim{n}/老人ホーム[ろうじんほーむ]/
-Senke{f}/穴[あな]/凹[くぼ]/孔[あな]/
+Senke{f}/凹[くぼ]/
 Senker{m}/おもり[おもり]/
 Senkfuß{m}/べた足[べたあし]/
 Senkkasten{m}/潜函[せんかん]/
@@ -25718,10 +25718,10 @@ Sensationsmache{f}/暴露戦術[ばくろせんじゅつ]/
 Sensationspresse{f}/イエローペーパー[いえろーぺーぱー]/
 Sense{f}/鎌[かま]/
 Sensenmann{m}/死神[しにがみ]/
-Sensibilität{f}/神経[しんけい]/感度[かんど]/繊細[せんさい]/多感[たかん]/敏感[びんかん]/感受性[かんじゅせい]/
+Sensibilität{f}/(Empfindlichkeit) 敏感[びんかん]/
 sensorisch{adj}/感覚的[かんかくてき]/
 Sensualismus{m}/感覚論[かんかくろん]/
-Sentimentalität{f}/感傷[かんしょう]/多感[たかん]/
+Sentimentalität{f}/感傷[かんしょう]/
 Separation{f}/分立[ぶんりつ]/
 Separatist{m}/分離派[ぶんりは]/
 Separator{m}/分離機[ぶんりき]/
@@ -25737,13 +25737,13 @@ Serbe{m}/セルビア人[せるびあじん]/
 serbisch{adj}/セルビアの[せるびあの]/
 Serenade{f}/セレナーデ[せれなーで]/
 Serge{f}/斜文織り[しゃもんおり]/
-Serie{f}/シリーズ[しりーず]/一帯[いったい]/系列[けいれつ]/一連[いちれん]/連続[れんぞく]/立て続け[たてつづけ]/
+Serie{f}/シリーズ[しりーず]/
 seriell{adj}/シリアルで[しりあるで]/
 Serienmörder{m}/連続殺人犯[れんぞくさつじんはん]/
 Seriennummer{f}/シリアルナンバー[しりあるなんばー]/
 Serienproduktion{f}/大量生産[たいりょうせいさん]/
 Serienschaltung{f}/直列[ちょくれつ]/
-seriös{adj}{adv}/重い[おもい]/重たい[おもたい]/
+seriös{adj}{adv}/(zuverlässig) 信頼できる[しんらいできる]/
 Serologie{f}/血清学[けっせいがく]/
 Serotonin{n}/セロトニン[せろとにん]/
 Serpentin{n}/蛇紋石[じゃもんせき]/
@@ -25756,18 +25756,18 @@ Servobremse{f}/パワー･ブレーキ[ぱわーぶれーき]/
 Servolenkung{f}/パワーステアリング[ぱわーすてありんぐ]/
 Sesam{m}/胡麻[ごま]/
 Sessel{m}/椅子[いす]/
-Session{f}/セッション[せっしょん]/会期[かいき]/
-Set{n}/セット[せっと]/パッケージ[ぱっけーじ]/
+Session{f}/{EDV} セッション[せっしょん]/
+Set{n}/セット[せっと]/
 Setzer{m}/文選工[ぶんせんこう]/
 Setzkasten{m}/活字ケース[かつじけーす]/
-Setzling{m}/稚魚[ちぎょ]/苗木[なえぎ]/
+Setzling{m}/苗木[なえぎ]/
 Setzmaschine{f}/植字機[しょくじき]/
 Setzung{f}/措定[そてい]/
 Seuche{f}/疫病[えきびょう]/
 seufzen{vi}/ため息をつく[ためいきをつく]/
 Seufzen{n}/青息[あおいき]/
-Seufzer{m}/ため息[ためいき]/溜息[ためいき]/吐息[といき]/
-Sex{m}/セックス[せっくす]/営み[いとなみ]/
+Seufzer{m}/ため息[ためいき]/
+Sex{m}/性交[せいこう]/
 Sexappeal{m}/セックス･アピール[せっくすあぴーる]/
 Sexfilm{m}/セックス映画[せっくすえいが]/
 Sexismus{m}/性的差別[せいてきさべつ]/
@@ -25799,293 +25799,269 @@ Showmaster{m}/司会者[しかいしゃ]/
 Shunt{m}/シャント[しゃんと]/
 Siamkatze{f}/シャム猫[しゃむねこ]/
 sibirisch{adj}/シベリアの[しべりあの]/
-sich{pron}{jmd. etw. überhängen (Jacke}{ Mantel}{ etc.)}/自身[じしん]/互い[たがい]/
-sich abarbeiten{vr}/大骨を折る[おおぼねをおる]/
-sich abgeben mit/…にあくせくする[…にあくせくする]/
-sich abgewöhnen{vr}/無くす[なくす]/
-sich abhärmen{vr}/悶える[もだえる]/
-sich abkühlen{vr}/薄れる[うすれる]/
-sich ablagern{vr}/析出する[せきしゅつする]/
-sich ableiten{vr}/派生する[はせいする]/
-sich ablösen{vr}/立ち替わる[たちかわる]/
-sich abmühen{vr}/骨折る[ほねおる]/
-sich abplagen{vr}/喘ぐ[あえぐ]/
-sich abquälen{vr}/苦しむ[くるしむ]/
-sich abrackern{vr}/苦労する[くろうする]/
-sich absetzen{vr}/潜る[もぐる]/
-sich absondern/離れる[はなれる]/
-sich abspalten{vr}/遊離する[ゆうりする]/
-sich abspielen{vr}/持ち上がる[もちあがる]/
-sich abwenden{vr}/そっぽを向く[そっぽをむく]/
-sich amüsieren{vr}/楽しむ[たのしむ]/遊ぶ[あそぶ]/
-sich aneignen{vr}/獲る[える]/
-sich anfreunden{vr}/近づく[ちかづく]/親しむ[したしむ]/寄る[よる]/付き合う[つきあう]/
-sich anhäufen{vr}/溜まる[たまる]/積もる[つもる]/
-sich anhören{vr}/聞こえる[きこえる]/
-sich anlehnen{vr}/掛かる[かかる]/寄る[よる]/
-sich anpassen{vr}/慣れる[なれる]/
-sich ansammeln{vr}/重なる[かさなる]/溜まる[たまる]/積もる[つもる]/
-sich anschicken{vr}/準備する[じゅんびする]/
-sich anschließen{vr}/乗る[のる]/
-sich auf den Heimweg machen{vr}/家路をたどる[いえじをたどる]/
-sich auf den Weg machen{vr}/出かける[でかける]/出掛ける[でかける]/旅立つ[たびだつ]/
-sich auf etw. einlassen{vr}/首を突っ込む[くびをつっこむ]/
-sich auf etw. gefasst machen/腹を括る[はらをくくる]/
-sich aufbäumen{vr}/跳ねる[はねる]/
-sich aufdrängen{vr}/押しかける[おしかける]/
-sich aufhalten{vr}/居る[いる]/宿る[やどる]/
-sich auflösen{vr}/散る[ちる]/溶ける[とける]/
-sich aufplustern{vr}/虚勢を張る[きょせいをはる]/
-sich aufraffen{vr}/立て直す[たてなおす]/
-sich aufregen{vr}/苛立つ[いらだつ]/
-sich aufrichten{vr}/立つ[たつ]/起きる[おきる]/
-sich aufwärmen/ウオーミングアップをする[うおーみんぐあっぷをする]/
-sich ausbreiten{vr}/広がる[ひろがる]/伸びる[のびる]/移る[うつる]/流行る[はやる]/
-sich ausdenken{vr}/図る[はかる]/
-sich ausdrücken{vr}/自分の考えを言い表わす[じぶんのかんがえをいいあらわす]/
-sich auskennen{vr}/通じる[つうじる]/
-sich ausruhen{vr}/楽しむ[たのしむ]/安らぐ[やすらぐ]/休まる[やすまる]/
-sich auswachsen{vr}/隆起する[りゅうきする]/
-sich ausweiten{vr}/広がる[ひろがる]/
-sich auswirken{vr}/跳ね返る[はねかえる]/
-sich auszahlen{vr}/割に合う[わりにあう]/
-sich auszeichnen{vr}/際立つ[きわだつ]/
-sich bedanken{vr}/辞する[じする]/
-sich bedienen{vr}/使う[つかう]/
-sich beeilen{vr}/飛ぶ[とぶ]/急ぐ[いそぐ]/焦る[あせる]/
-sich befassen{vr}/関わる[かかわる]/携わる[たずさわる]/
-sich befinden{vr}/当たる[あたる]/当る[あたる]/居る[いる]/在る[ある]/有る[ある]/
-sich befreien{vr}/離れる[はなれる]/逃れる[のがれる]/
-sich befreunden{vr}/懇ろになる[ねんごろになる]/
-sich begeben{vr}/行く[いく]/いく[いく]/起こる[おこる]/赴く[おもむく]/臨む[のぞむ]/乗り込む[のりこむ]/運ぶ[はこぶ]/
-sich behelfen{vr}/済ませる[すませる]/
-sich bekreuzigen{vr}/十字を切る[じゅうじをきる]/
-sich beliebt machen{vr}/迎合する[げいごうする]/
-sich bemühen{vr}/働く[はたらく]/尽くす[つくす]/努める[つとめる]/心がける[こころがける]/頑張る[がんばる]/励む[はげむ]/
-sich beraten{vr}/諮る[はかる]/
-sich bereichern{vr}/肥やす[こやす]/
-sich berufen{vr}/参照する[さんしょうする]/
-sich beruhigen{vr}/落ち着く[おちつく]/安らぐ[やすらぐ]/休まる[やすまる]/和む[なごむ]/収まる[おさまる]/
-sich beschäftigen{vr}/働く[はたらく]/携わる[たずさわる]/取り扱う[とりあつかう]/
-sich besinnen{vr}/思い出す[おもいだす]/
-sich besprechen{vr}/計らう[はからう]/
-sich bestechen lassen{vr}/収賄する[しゅうわいする]/
-sich beteiligen{vr}/乗る[のる]/携わる[たずさわる]/掛かる[かかる]/加わる[くわわる]/
-sich betätigen{vr}/働く[はたらく]/
-sich bewahrheiten{vr}/当たる[あたる]/当る[あたる]/
-sich bewegen{vr}/動く[いごく]/動き回る[うごきまわる]/
-sich bewerben{vr}/申し込む[もうしこむ]/応じる[おうじる]/
-sich bewusst sein/汲む[くむ]/
-sich beziehen{vr}/回る[めぐる]/廻る[めぐる]/巡る[めぐる]/
-sich biegen{vr}/曲がる[まがる]/
-sich blamieren{vr}/失態を演ずる[しったいをえんずる]/
-sich brüsten{vr}/誇る[ほこる]/
-sich bücken{vr}/俯く[うつむく]/
-sich die Haare raufen/髪の毛をかきむしる[かみのけをかきむしる]/
-sich die Nase putzen/鼻をかむ[はなをかむ]/
-sich die Zähne putzen{vr}/歯を磨く[はをみがく]/
-sich drehen{vr}/回る[めぐる]/廻る[めぐる]/舞う[まう]/巻く[まく]/巡る[めぐる]/
-sich drücken{vr}/逃げる[にげる]/
-sich ducken{vr}/縮む[ちぢむ]/
-sich duellieren{vr}/決闘する[けっとうする]/
-sich durchboxen/罷り通る[まかりとおる]/
-sich durchkämpfen{vr}/無理に通る[むりにとおる]/
-sich durchzwängen{vr}/かき分ける[かきわける]/
-sich eignen{vr}/嵌る[はまる]/
-sich einen Weg bahnen/血路を開く[けつろをひらく]/
-sich eingraben{vr}/焼き付く[やきつく]/
-sich einmischen{vr}/出る[でる]/携わる[たずさわる]/手を出す[てをだす]/
-sich einnisten{vr}/巣食う[すくう]/
-sich einsam fühlen/人恋しい[ひとこいしい]/
-sich einschalten{vr}/一枚加わる[いちまいくわわる]/
-sich einschiffen{vr}/乗り込む[のりこむ]/
-sich einschmeicheln{vr}/媚びる[こびる]/
-sich einschränken{vr}/けちる[けちる]/
-sich einseitig ernähren/偏食する[へんしょくする]/
-sich einsetzen{vr}/乗り出す[のりだす]/
-sich ekeln{vr}/唾棄する[だきする]/
-sich engagieren{vr}/入れ込む[いれこむ]/
-sich enthalten{vr}/預かる[あずかる]/
-sich entkleiden{vr}/着物を脱ぐ[きものをぬぐ]/
-sich entledigen{vr}/脱却する[だっきゃくする]/
-sich entschuldigen{vr}/断る[ことわる]/謝る[あやまる]/
-sich entwickeln{vr}/広がる[ひろがる]/湧く[わく]/
-sich entzünden{vr}/火がつく[ひがつく]/
-sich erdreisten{vr}/敢行する[かんこうする]/
-sich ereifern{vr}/いきり立つ[いきりたつ]/
-sich ergeben{vr}/下る[くだる]/溺れる[おぼれる]/明らかになる[あきらかになる]/浸る[ひたる]/任せる[まかせる]/
-sich ergießen{vr}/あふれる[あふれる]/
-sich ergötzen{vr}/楽しむ[たのしむ]/
-sich erheben{vr}/起きる[おきる]/立ち上がる[たちあがる]/
-sich erhitzen{vr}/熱する[ねっする]/
-sich erholen{vr}/楽しむ[たのしむ]/安らぐ[やすらぐ]/立ち上がる[たちあがる]/取り戻す[とりもどす]/休まる[やすまる]/見直す[みなおす]/養う[やしなう]/
-sich erkundigen{vr}/問う[とう]/探る[さぐる]/尋ねる[たずねる]/伺う[うかがう]/
-sich erniedrigen{vr}/縮こまる[ちぢこまる]/
-sich erschöpfen{vr}/絶える[たえる]/
-sich erstrecken{vr}/続く[つづく]/達する[たっする]/及ぶ[およぶ]/至る[いたる]/
-sich etw. verbeißen{vr}/噛み殺す[かみころす]/
-sich etw. vornehmen{vr}/もくろみがある[もくろみがある]/
-sich etw. vorstellen{vr}/心に描く[こころにえがく]/
-sich etw. wünschen{vr}/憧憬する[しょうけいする]/
-sich fangen{vr}/倒れるのを免れる[たおれるのをまぬかれる]/
-sich fernhalten{vr}/遠ざかる[とおざかる]/
-sich festlegen{vr}/腹を据える[はらをすえる]/
-sich freiwillig melden{vr}/挺身する[ていしんする]/
-sich freuen{vr}/嬉しい[うれしい]/喜ぶ[よろこぶ]/楽しむ[たのしむ]/
-sich färben{vr}/染まる[そまる]/
-sich fügen{vr}/諦める[あきらめる]/任せる[まかせる]/
-sich füllen{vr}/うまる[うまる]/
-sich für etw. begeistern{vr}/興に入る[きょうにいる]/
-sich für etw. interessieren{vr}/…に感心する[…にかんしんする]/
-sich gabeln{vr}/2つに分かれる[ふたつにわかれる]/
-sich geschlagen geben/ぎゃふんと言う[ぎゃふんという]/
-sich gut unterhalten{vr}/面白がる[おもしろがる]/
-sich halten{vr}/保つ[たもつ]/
-sich herausputzen/飾る[かざる]/
-sich herausreden{vr}/言い抜ける[いいぬける]/
-sich herausstellen{vr}/分かる[わかる]/分る[わかる]/判る[わかる]/解る[わかる]/明らかになる[あきらかになる]/
-sich hinausschleichen{vr}/忍び出る[しのびでる]/
-sich hingeben{vr}/浸る[ひたる]/打ち込む[うちこむ]/固まる[かたまる]/溺れる[おぼれる]/
-sich hinhocken{vr}/そんきょする[そんきょする]/
-sich häuten/脱皮する[だっぴする]/
-sich im Hintergrund halten{vr}/自己を没却する[じこをぼっきゃくする]/
-sich in einer Reihe aufstellen/列を作る[れつをつくる]/
-sich in Luft auflösen{vr}/虚空に消える[こくうにきえる]/
-sich konzentrieren{vr}/集まる[あつまる]/固まる[かたまる]/詰める[つめる]/
-sich krümmen{vr}/曲がる[まがる]/
-sich langweilen{vr}/所在ない[しょざいない]/
-sich leisten{vr}/弾む[はずむ]/
-sich lockern{vr}/解ける[とける]/
-sich lohnen{vr}/会う[あう]/逢う[あう]/
-sich losmachen/振り切る[ふりきる]/
-sich losreißen{vr}/振り切る[ふりきる]/
-sich Luft zufächeln/うちわを使う[うちわをつかう]/
-sich lächerlich machen{vr}/恥をかく[はじをかく]/
-sich lösen{vr}/外れる[はずれる]/解ける[とける]/溶ける[とける]/
-sich mausern{vr}/抜け替わる[ぬけかわる]/
-sich melden{vr}/申し出る[もうしでる]/
-sich neigen{vr}/落ちる[おちる]/曲がる[まがる]/暮れる[くれる]/
-sich nicht wohl fühlen/優れない[すぐれない]/
-sich nähern{vr}/近づく[ちかづく]/近づける[ちかづける]/迫る[せまる]/寄る[よる]/立ち寄る[たちよる]/寄せる[よせる]/
-sich offenbaren{vr}/吐露する[とろする]/
-sich placken{vr}/一所懸命に働く[いっしょけんめいにはたらく]/
-sich politisch engagieren{betätigen | sich politisch engagierend}/政治活動をする[せいじかつどうをする]/
-sich profilieren/功名を争う[こうみょうをあらそう]/
-sich qualifizieren{vr}/予選を通過する[よせんをつうかする]/
-sich quälen{vr}/苦しむ[くるしむ]/
-sich ranken{vr}/巻き付く[まきつく]/
-sich rasieren{vr}/剃る[そる]/
-sich regenerieren{vr}/新陳代謝する[しんちんたいしゃする]/
-sich retten{vr}/助かる[たすかる]/逃れる[のがれる]/
-sich revanchieren{vr}/報いる[むくいる]/
-sich rächen{vr}/報いる[むくいる]/
-sich räuspern{vr}/えへんとせき払いする[えへんとせきばらいする]/
-sich schlängeln{vr}/曲がる[まがる]/
-sich schminken{vr}/装う[よそおう]/
-sich schonen{vr}/勤める[つとめる]/
-sich schämen{vr}/恥ずかしい[はずかしい]/照れる[てれる]/輝く[かがやく]/甘える[あまえる]/
-sich sehnen{vr}/望む[のぞむ]/偲ぶ[しのぶ]/憧れる[あこがれる]/恋する[こいする]/
-sich setzen{vr}/座る[すわる]/
-sich sonnen{vr}/日向ぼっこする[ひなたぼっこする]/
-sich sorgen{vr}/気になる[きになる]/恐れる[おそれる]/気にする[きにする]/
-sich spalten{vr}/分かれる[わかれる]/割れる[われる]/
-sich spiegeln{vr}/映る[うつる]/写る[うつる]/
-sich stauen{vr}/澱む[よどむ]/
-sich straffen{vr}/引き締まる[ひきしまる]/
-sich streiten{vr}/叩き合う[たたきあう]/
-sich sträuben{vr}/逆立つ[さかだつ]/
-sich stützen{vr}/掛かる[かかる]/
-sich taub stellen/取り合わない[とりあわない]/
-sich teilen{vr}/…を…と共用する[…を…ときょうようする]/
-sich trennen{vr}/離れる[はなれる]/別れる[わかれる]/
-sich trüben{vr}/曇る[くもる]/
-sich tummeln/駆け回る[かけまわる]/
-sich täuschen{vr}/間違える[まちがえる]/見逃す[みのがす]/間違う[まちがう]/
-sich unbehaglich fühlen/気持ち悪い[きもちわるい]/
-sich unterhalten{vr}/言う[いう]/話をする[はなしをする]/語り合う[かたりあう]/話す[はなす]/遊ぶ[あそぶ]/云う[いう]/
-sich unterwerfen{vr}/守る[まもる]/
-sich verabschieden{vr}/辞する[じする]/
-sich verausgaben{vr}/精根尽き果てる[せいこんつきはてる]/
-sich verbrennen{vr}/やけどをする[やけどをする]/
-sich verbünden{vr}/結ぶ[むすぶ]/
-sich verdoppeln{vr}/倍になる[ばいになる]/
-sich vereinen{vr}/合わさる[あわさる]/
-sich vereinigen{vr}/集まる[あつまる]/
-sich verengen{vr}/迫る[せまる]/
-sich verfärben{vr}/褪める[さめる]/
-sich vergewissern{vr}/押す[おす]/見極める[みきわめる]/確かめる[たしかめる]/
-sich vergnügen{vr}/楽しむ[たのしむ]/喜ぶ[よろこぶ]/遊ぶ[あそぶ]/
-sich verhalten{vr}/振舞う[ふるまう]/
-sich verhärten/固まる[かたまる]/
-sich verhören{vr}/聞き違える[ききちがえる]/
-sich verirren{vr}/迷う[まよう]/
-sich verkriechen{vr}/潜る[もぐる]/
-sich verlagern{vr}/移行する[いこうする]/
-sich verlassen{vr}/凭れる[もたれる]/
-sich verlesen{vr}/読み間違う[よみまちがう]/
-sich verlieren{vr}/紛れ込む[まぎれこむ]/
-sich verloben{vr}/婚約する[こんやくする]/
-sich vermessen{vr}/測定を誤る[そくていをあやまる]/
-sich vermindern{vr}/減る[へる]/
-sich verpflichten{vr}/コミットする[こみっとする]/
-sich verpuppen{vr}/さなぎになる[さなぎになる]/
-sich verraten{vr}/お里が知れる[おさとがしれる]/
-sich verschieben{vr}/狂う[くるう]/ずれる[ずれる]/
-sich verschreiben{vr}/滑る[すべる]/
-sich verschwören{vr}/グルになる[ぐるになる]/
-sich versprechen{vr}/待つ[まつ]/滑る[すべる]/噛む[かむ]/
-sich verspäten{vr}/遅れる[おくれる]/
-sich verstecken{vr}/隠れる[かくれる]/潜む[ひそむ]/
-sich versteifen{vr}/引き締まる[ひきしまる]/
-sich vertiefen{vr}/凹む[くぼむ]/
-sich verwählen{vr}/電話をかけ違える[でんわをかけちがえる]/
-sich verzehren/焦がす[こがす]/
-sich verzweigen{vr}/分かれ出る[わかれでる]/
-sich von seiner besten Seite zeigen{vr}{präsentieren; sich im besten Licht zeigen}/自己アピールする[じこあぴーるする]/
-sich vorbereiten{vr}/備える[そなえる]/
-sich vorbeugen{vt}/腰を折る[こしをおる]/
-sich vordrängeln/列に割り込む[れつにわりこむ]/
-sich vorsehen{vr}/警戒する[けいかいする]/
-sich wandeln{vr}/移る[うつる]/
-sich waschen{vr}/洗う[あらう]/
-sich weigern{vr}/指紋押捺を拒否する[しもんおうなつをきょひする]/
-sich wellen{vr}/縮れる[ちぢれる]/
-sich widersprechen{vr}/相容れない[あいいれない]/
-sich wiederholend/繰り返しの多い[くりかえしのおおい]/
-sich winden{vr}/曲がる[まがる]/
-sich wundern{vr}/驚く[おどろく]/
-sich zanken{vr}/やり合う[やりあう]/
-sich zeigen{vr}/出る[でる]/現れる[あらわれる]/浮かぶ[うかぶ]/見せる[みせる]/
-sich zersetzen{vr}/腐敗する[ふはいする]/
-sich zu Tode grämen/憤死する[ふんしする]/
-sich zurückhalten{vr}/控える[ひかえる]/預かる[あずかる]/
-sich zurücksehnen{vr}/追慕する[ついぼする]/
-sich zurückziehen{vr}/下がる[さがる]/下る[くだる]/辞める[やめる]/隠れる[かくれる]/引ける[ひける]/
-sich zusammenballen{vr}/雲集する[うんしゅうする]/
-sich zusammendrängen{vr}/固まる[かたまる]/群がる[むらがる]/
-sich zusammenkauern{vr}/いじける[いじける]/
-sich zusammennehmen{vr}/落ち着く[おちつく]/
-sich zusammenreißen{vr}/落ち着く[おちつく]/
-sich zusammenrotten{vr}/一揆を起こす[いっきをおこす]/
-sich zusammenschließen{vr}/結ぶ[むすぶ]/
-sich zusammentun{vi}/組む[くむ]/
-sich zuspitzen{vr}/窄まる[つぼまる]/
-sich ähneln{vr}/似ている[にている]/
-sich ängstigen{vr}/怖い[こわい]/怖がる[こわがる]/恐い[こわい]/
-sich ärgern{vr}/怒る[いかる]/腹立つ[はらだつ]/腹が立つ[はらがたつ]/
-sich über etw. im Klaren sein/ちゃんと知っている[ちゃんとしっている]/
-sich überarbeiten{vr}/激務に倒れる[げきむにたおれる]/
-sich übergeben/戻す[もどす]/吐き出す[はきだす]/
-sich überlappen{vr}/被る[かぶる]/
-sich überschlagen{vr}/逆巻く[さかまく]/
-sich überschneiden{vr}/被る[かぶる]/
-sich überstürzen{vr}/慌てる[あわてる]/
+abarbeiten{vr}/大骨を折る[おおぼねをおる]/
+abgeben mit/...にあくせくする[...にあくせくする]/
+abgewöhnen{vr}/無くす[なくす]/
+abhärmen{vr}/悶える[もだえる]/
+abkühlen{vr}/薄れる[うすれる]/
+ablagern{vr}/析出する[せきしゅつする]/
+ableiten{vr}/派生する[はせいする]/
+ablösen{vr}/立ち替わる[たちかわる]/
+abmühen{vr}/骨折る[ほねおる]/
+abplagen{vr}/喘ぐ[あえぐ]/
+abquälen{vr}/苦しむ[くるしむ]/
+abrackern{vr}/苦労する[くろうする]/
+absetzen{vr}/潜る[もぐる]/
+absondern/離れる[はなれる]/
+abspalten{vr}/遊離する[ゆうりする]/
+abspielen{vr}/持ち上がる[もちあがる]/
+abwenden{vr}/そっぽを向く[そっぽをむく]/
+amüsieren{vr}/楽しむ[たのしむ]/
+aneignen{vr}/獲る[える]/
+anfreunden{vr}/親しむ[したしむ]/
+anhäufen{vr}/溜まる[たまる]/
+anhören{vr}/聞こえる[きこえる]/
+anlehnen{vr}/凭せ掛ける[もたせかける]/
+anpassen{vr}/慣れる[なれる]/
+ansammeln{vr}/集まる[あつまる]/
+anschicken{vr}/準備する[じゅんびする]/
+anschließen{vr}/乗る[のる]/
+einlassen{vr}/(sich auf etwas ~) 首を突っ込む[くびをつっこむ]/
+aufbäumen{vr}/跳ねる[はねる]/
+aufdrängen{vr}/押しかける[おしかける]/
+aufhalten{vr}/(sein;sich in ... befinden) 居る[いる]/
+auflösen{vr}/(schmelzen) 溶ける[とける]/
+aufplustern{vr}/虚勢を張る[きょせいをはる]/
+aufraffen{vr}/立て直す[たてなおす]/
+aufregen{vr}/苛立つ[いらだつ]/
+aufrichten{vr}/立つ[たつ]/
+aufwärmen{vr}/暖まる[あたたまる]/
+ausbreiten{vr}/広がる[ひろがる]/
+ausdenken{vr}/図る[はかる]/
+ausdrücken{vr}/自分の考えを言い表わす[じぶんのかんがえをいいあらわす]/
+auskennen{vr}/通じる[つうじる]/
+ausruhen{vr}/休まる[やすまる]/
+auswachsen{vr}/隆起する[りゅうきする]/
+ausweiten{vr}/広がる[ひろがる]/
+auswirken{vr}/跳ね返る[はねかえる]/
+auszahlen{vr}/割に合う[わりにあう]/
+auszeichnen{vr}/際立つ[きわだつ]/
+bedanken{vr}/辞する[じする]/
+bedienen{vr}/使う[つかう]/
+beeilen{vr}/急ぐ[いそぐ]/
+befassen{vr}/関わる[かかわる]/
+befinden{vr}/(Lebewesen) 居る[いる]/(Gegenstände) 有る[ある]/
+befreien{vr}/自由になる[じゆうになる]/
+befreunden{vr}/懇ろになる[ねんごろになる]/
+begeben{vr}/行く[いく]/
+behelfen{vr}/済ませる[すませる]/
+bekreuzigen{vr}/十字を切る[じゅうじをきる]/
+bemühen{vr}/頑張る[がんばる]/
+beraten{vr}/諮る[はかる]/
+bereichern{vr}/肥やす[こやす]/
+berufen{vr}/参照する[さんしょうする]/
+beruhigen{vr}/安らぐ[やすらぐ]/
+beschäftigen{vr}/携わる[たずさわる]/
+besinnen{vr}/思い出す[おもいだす]/
+besprechen{vr}/計らう[はからう]/
+bestechen lassen{vr}/収賄する[しゅうわいする]/
+beteiligen{vr}/参加する[さんかする]/
+betätigen{vr}/働く[はたらく]/
+bewahrheiten{vr}/当たる[あたる]/
+bewegen{vr}/動く[うごく]/
+bewerben{vr}/申し込む[もうしこむ]/
+beziehen{vr}/関連する[かんれんする]/
+biegen{vr}/曲がる[まがる]/
+blamieren{vr}/失態を演ずる[しったいをえんずる]/
+brüsten{vr}/誇る[ほこる]/
+bücken{vr}/俯く[うつむく]/
+raufen{vr}/(sich die Haare ~) 髪の毛をかきむしる[かみのけをかきむしる]/
+drehen{vr}/回る[めぐる]/
+drücken{vr}/逃げる[にげる]/
+ducken{vr}/縮む[ちぢむ]/
+duellieren{vr}/決闘する[けっとうする]/
+durchboxen/罷り通る[まかりとおる]/
+durchkämpfen{vr}/無理に通る[むりにとおる]/
+durchzwängen{vr}/かき分ける[かきわける]/
+eignen{vr}/嵌る[はまる]/
+bahnen{vr}/(sich einen Weg ~) 血路を開く[けつろをひらく]/
+eingraben{vr}/焼き付く[やきつく]/
+einmischen{vr}/干渉する[かんしょうする]/
+einnisten{vr}/巣食う[すくう]/
+einschalten{vr}/一枚加わる[いちまいくわわる]/
+einschiffen{vr}/乗り込む[のりこむ]/
+einschmeicheln{vr}/媚びる[こびる]/
+einschränken{vr}/けちる[けちる]/
+einsetzen{vr}/乗り出す[のりだす]/
+ekeln{vr}/唾棄する[だきする]/
+engagieren{vr}/入れ込む[いれこむ]/
+enthalten{vr}/預かる[あずかる]/
+entkleiden{vr}/着物を脱ぐ[きものをぬぐ]/
+entledigen{vr}/脱却する[だっきゃくする]/
+entschuldigen{vr}/謝る[あやまる]/
+entwickeln{vr}/成長する[せいちょうする]/
+entzünden{vr}/火がつく[ひがつく]/
+erdreisten{vr}/敢行する[かんこうする]/
+ereifern{vr}/いきり立つ[いきりたつ]/
+ergeben{vr}/(hervorbringen) 生じる[しょうじる]/(kapitulieren) 降伏する[こうふくする]/
+ergießen{vr}/あふれる[あふれる]/
+ergötzen{vr}/楽しむ[たのしむ]/
+erheben{vr}/立ち上がる[たちあがる]/
+erhitzen{vr}/熱する[ねっする]/
+erholen{vr}/休まる[やすまる]/
+erkundigen{vr}/伺う[うかがう]/
+erniedrigen{vr}/縮こまる[ちぢこまる]/
+erschöpfen{vr}/絶える[たえる]/
+erstrecken{vr}/及ぶ[およぶ]/
+verbeißen{vr}/(sich etw. ~) 噛み殺す[かみころす]/
+vornehmen{vr}/(sich etw. ~) もくろみがある[もくろみがある]/
+vorstellen{vr}/(sich etw. ~) 心に描く[こころにえがく]/
+wünschen{vr}/(sich etw. ~) 憧憬する[しょうけいする]/
+fangen{vr}/倒れるのを免れる[たおれるのをまぬかれる]/
+fernhalten{vr}/遠ざかる[とおざかる]/
+festlegen{vr}/腹を据える[はらをすえる]/
+freuen{vr}/喜ぶ[よろこぶ]/
+färben{vr}/染まる[そまる]/
+fügen{vr}/諦める[あきらめる]/
+füllen{vr}/うまる[うまる]/
+begeistern{vr}/(sich für etw. ~) 興に入る[きょうにいる]/
+interessieren{vr}/(sich für etw. ) ...に感心する[...にかんしんする]/
+gabeln{vr}/2つに分かれる[ふたつにわかれる]/
+geschlagen geben/ぎゃふんと言う[ぎゃふんという]/
+halten{vr}/保つ[たもつ]/
+herausputzen/飾る[かざる]/
+herausreden{vr}/言い抜ける[いいぬける]/
+herausstellen{vr}/明らかになる[あきらかになる]/
+hinausschleichen{vr}/忍び出る[しのびでる]/
+hingeben{vr}/浸る[ひたる]/
+hinhocken{vr}/そんきょする[そんきょする]/
+häuten/脱皮する[だっぴする]/
+konzentrieren{vr}/集中する[しゅうちゅうする]/
+krümmen{vr}/曲がる[まがる]/
+langweilen{vr}/所在ない[しょざいない]/
+leisten{vr}/弾む[はずむ]/
+lockern{vr}/解ける[とける]/
+lohnen{vr}/(lohnend sein) かいのある[かいのある]/
+losmachen/振り切る[ふりきる]/
+losreißen{vr}/振り切る[ふりきる]/
+zufächeln{vr}/(Bsp: sich Luft ~) うちわを使う[うちわをつかう]/
+lösen{vr}/外れる[はずれる]/
+mausern{vr}/抜け替わる[ぬけかわる]/
+melden{vr}/申し出る[もうしでる]/
+neigen{vr}/傾く[かたぶく]/
+nähern{vr}/近づく[ちかづく]/
+offenbaren{vr}/吐露する[とろする]/
+profilieren{vr}/功名を争う[こうみょうをあらそう]/
+qualifizieren{vr}/予選を通過する[よせんをつうかする]/
+quälen{vr}/苦しむ[くるしむ]/
+ranken{vr}/巻き付く[まきつく]/
+rasieren{vr}/剃る[そる]/
+regenerieren{vr}/新陳代謝する[しんちんたいしゃする]/
+retten{vr}/助かる[たすかる]/
+revanchieren{vr}/報いる[むくいる]/
+rächen{vr}/報いる[むくいる]/
+räuspern{vr}/えへんとせき払いする[えへんとせきばらいする]/
+schlängeln{vr}/曲がる[まがる]/
+schminken{vr}/装う[よそおう]/
+schonen{vr}/勤める[つとめる]/
+schämen{vr}/照れる[てれる]/
+sehnen{vr}/(sich wünschen) 望む[のぞむ]/
+setzen{vr}/座る[すわる]/
+sonnen{vr}/日向ぼっこする[ひなたぼっこする]/
+sorgen{vr}/気になる[きになる]/
+spalten{vr}/分かれる[わかれる]/
+spiegeln{vr}/映る[うつる]/
+stauen{vr}/澱む[よどむ]/
+straffen{vr}/引き締まる[ひきしまる]/
+streiten{vr}/叩き合う[たたきあう]/
+sträuben{vr}/逆立つ[さかだつ]/
+stützen{vr}/掛かる[かかる]/
+teilen{vr}/分かれる[わかれる]/
+trennen{vr}/別れる[わかれる]/
+trüben{vr}/曇る[くもる]/
+tummeln/駆け回る[かけまわる]/
+täuschen{vr}/間違える[まちがえる]/
+unterhalten{vr}/話をする[はなしをする]/
+unterwerfen{vr}/守る[まもる]/
+verabschieden{vr}/辞する[じする]/
+verausgaben{vr}/精根尽き果てる[せいこんつきはてる]/
+verbrennen{vr}/やけどをする[やけどをする]/
+verbünden{vr}/結ぶ[むすぶ]/
+verdoppeln{vr}/倍になる[ばいになる]/
+vereinen{vr}/合わさる[あわさる]/
+vereinigen{vr}/集まる[あつまる]/
+verengen{vr}/迫る[せまる]/
+verfärben{vr}/褪める[さめる]/
+vergewissern{vr}/確かめる[たしかめる]/
+vergnügen{vr}/楽しむ[たのしむ]/
+verhalten{vr}/振舞う[ふるまう]/
+verhärten/固まる[かたまる]/
+verhören{vr}/聞き違える[ききちがえる]/
+verirren{vr}/迷う[まよう]/
+verkriechen{vr}/潜る[もぐる]/
+verlagern{vr}/移行する[いこうする]/
+verlassen{vr}/凭れる[もたれる]/
+verlesen{vr}/読み間違う[よみまちがう]/
+verlieren{vr}/紛れ込む[まぎれこむ]/
+verloben{vr}/婚約する[こんやくする]/
+vermessen{vr}/測定を誤る[そくていをあやまる]/
+vermindern{vr}/減る[へる]/
+verpflichten{vr}/コミットする[こみっとする]/
+verpuppen{vr}/さなぎになる[さなぎになる]/
+verraten{vr}/お里が知れる[おさとがしれる]/
+verschieben{vr}/ずれる[ずれる]/
+verschreiben{vr}/滑る[すべる]/
+verschwören{vr}/グルになる[ぐるになる]/
+versprechen{vr}/言い間違えする[いいまちがえする]/
+verspäten{vr}/遅れる[おくれる]/
+verstecken{vr}/潜む[ひそむ]/
+versteifen{vr}/引き締まる[ひきしまる]/
+vertiefen{vr}/凹む[くぼむ]/
+verwählen{vr}/電話をかけ違える[でんわをかけちがえる]/
+verzehren/焦がす[こがす]/
+verzweigen{vr}/分かれ出る[わかれでる]/
+vorbereiten{vr}/備える[そなえる]/
+vorbeugen{vt}/腰を折る[こしをおる]/
+vordrängeln/列に割り込む[れつにわりこむ]/
+vorsehen{vr}/警戒する[けいかいする]/
+wandeln{vr}/移る[うつる]/
+waschen{vr}/洗う[あらう]/
+weigern{vr}/指紋押捺を拒否する[しもんおうなつをきょひする]/
+wellen{vr}/縮れる[ちぢれる]/
+widersprechen{vr}/相容れない[あいいれない]/
+wiederholend/繰り返しの多い[くりかえしのおおい]/
+winden{vr}/曲がる[まがる]/
+wundern{vr}/驚く[おどろく]/
+zanken{vr}/やり合う[やりあう]/
+zeigen{vr}/現れる[あらわれる]/
+zersetzen{vr}/腐敗する[ふはいする]/
+zurückhalten{vr}/遠慮する[えんりょする]/
+zurücksehnen{vr}/追慕する[ついぼする]/
+zurückziehen{vr}/(zurück treten) 身を引く[みをひく]/
+zusammenballen{vr}/雲集する[うんしゅうする]/
+zusammendrängen{vr}/固まる[かたまる]/
+zusammenkauern{vr}/いじける[いじける]/
+zusammennehmen{vr}/落ち着く[おちつく]/
+zusammenreißen{vr}/落ち着く[おちつく]/
+zusammenrotten{vr}/一揆を起こす[いっきをおこす]/
+zusammenschließen{vr}/結ぶ[むすぶ]/
+zusammentun{vi}/組む[くむ]/
+zuspitzen{vr}/窄まる[つぼまる]/
+ähneln{vr}/似ている[にている]/
+ängstigen{vr}/怖がる[こわがる]/
+ärgern{vr}/怒る[いかる]/
+überarbeiten{vr}/激務に倒れる[げきむにたおれる]/
+übergeben{vr}/戻す[もどす]/
+überlappen{vr}/被る[かぶる]/
+überschlagen{vr}/逆巻く[さかまく]/
+überschneiden{vr}/被る[かぶる]/
+überstürzen{vr}/慌てる[あわてる]/
 Sichel{f}/鎌[かま]/
 sichelförmig{adj}/三日月形の[みかづきがたの]/
 Sichelzellenanämie{f}/鎌状赤血球症[かまじょうせっけっきゅうしょう]/
-sicher{adv}/確か[たしか]/必ずや[かならずや]/是非とも[ぜひとも]/定か[さだか]/心強い[こころづよい]/絶対[ぜったい]/大丈夫[だいじょうぶ]/安定した[あんていした]/正しく[まさしく]/力強い[ちからづよい]/明らか[あきらか]/確かに[たしかに]/必ず[かならず]/はっきり[はっきり]/違いない[ちがいない]/固い[かたい]/堅い[かたい]/硬い[かたい]/無事に[ぶじに]/てっきり[てっきり]/
+sicher{adv}/(gewiss) 確か[たしか]/(gefahrlos) 安全な[あんぜんな]/
 sicher sein/信じる[しんじる]/
-Sicherheit{f}/確か[たしか]/確実[かくじつ]/保障[ほしょう]/セキュリティー[せきゅりてぃー]/安全保障[あんぜんほしょう]/無事[ぶじ]/安全性[あんぜんせい]/セキュリティ[せきゅりてぃ]/安泰[あんたい]/不惑[ふわく]/安全[あんぜん]/落着[おちつき]/落ち着き[おちつき]/担保[たんぽ]/保証[ほしょう]/無難[ぶなん]/
+Sicherheit{f}/(Gewissheit) 確実[かくじつ]/(Gefahrlosigkeit) 安全性[あんぜんせい]/
 Sicherheitsaspekt{m}/安全面[あんぜんめん]/
 Sicherheitsausrüstung{f}/保安装置[ほあんそうち]/
 Sicherheitsberater{m}/安全指導官[あんぜんしどうかん]/
@@ -26109,13 +26085,13 @@ Sicherheitsvorkehrung{f}/安全措置[あんぜんそち]/
 Sicherheitszone{f}/安全地帯[あんぜんちたい]/
 sichern{vt}/繕う[つくろう]/
 sicherstellen{vt}/保障する[ほしょうする]/
-Sicherstellung{f}/確保[かくほ]/保全[ほぜん]/
-Sicherung{f}/確保[かくほ]/保全[ほぜん]/固定[こてい]/
+Sicherstellung{f}/保全[ほぜん]/
+Sicherung{f}/確保[かくほ]/{EDV} バックアップ[ばっくあっぷ]/
 Sicherungskasten{m}/安全器[あんぜんき]/
 Sicherungskopie{f}/バックアップ[ばっくあっぷ]/
 Sicherungssystem{n}/バックアップ･システム[ばっくあっぷしすてむ]/
 Sicherungsverwahrung{f}/予防拘禁[よぼうこうきん]/
-Sicht{f}/眺め[ながめ]/視界[しかい]/
+Sicht{f}/(Aus~) 眺望[ちょうぼう]/(Blickfeld) 視界[しかい]/
 sichtbar{adv}{adj}/逞しい[たくましい]/
 Sichtbarkeit{f}/可視[かし]/
 Sichtbarmachung{f}/可視化[かしか]/
@@ -26128,12 +26104,12 @@ Sichtprüfung{f}/目視[もくし]/
 Sichtwechsel{m}/一覧払い手形[いちらんばらいてがた]/
 Sichtweite{f}/眼界[がんかい]/
 Sick-Building-Syndrom{n}/タイト･ビルディング･シンドローム[たいとびるでぃんぐしんどろーむ]/
-sie{ppron}{ppron pl}/向こう[むこう]/あの人[あのひと]/その方[そのかた]/奴等[やつら]/向う[むこう]/あいつら[あいつら]/某氏[ぼうし]/先方[せんぽう]/あの方[あのかた]/
+sie{ppron}{ppron pl}/(3.Person Singular;diese Frau) 彼女が[かのじょが]/(3. Person Singular;diese Person) その方[そのかた]/(3. Person Plural) 彼等[かれら]/
 Sieb{n}/篩[ふるい]/
 Siebanalyse{f}/ふるい分け試験[ふるいわけしけん]/
 Siebdruck{m}/シルクスクリーン[しるくすくりーん]/
 Sieben{n}/裏ごし[うらごし]/
-sieben{num}{vt}/七[なな]/セブン[せぶん]/
+sieben{num}{vt}/七[なな]/七[しち]/七つ[ななつ]/
 Siebeneck{n}/七角形[しちかくけい]/
 siebenfach{adj}/七重の[ななえの]/
 siebenhundert{num}/七百[ななひゃく]/
@@ -26143,22 +26119,22 @@ Siebrückstand{m}/ふるいにかけたかす[ふるいにかけたかす]/
 siebzehn{num}/十七[じゅうなな]/
 siebzig{num}/七十[ななじゅう]/
 Siechenhaus{n}/避病院[ひびょういん]/
-sieden{vi}/煮る[にる]/沸く[わく]/
+sieden{vi}/沸騰する[ふっとうする]/
 Siedewasserreaktor{m}/沸騰水型原子炉[ふっとうすいがたげんしろ]/
 Siedler{m}/開拓者[かいたくしゃ]/
-Siedlung{f}/団地[だんち]/部落[ぶらく]/集落[しゅうらく]/
-Sieg{m}/優勝[ゆうしょう]/制覇[せいは]/ビクトリー[びくとりー]/勝利[しょうり]/利[り]/勝ち[かち]/圧倒[あっとう]/
-Siegel{n}/シール[しーる]/封印[ふういん]/封[ふう]/印[いん]/印鑑[いんかん]/
+Siedlung{f}/団地[だんち]/
+Sieg{m}/勝利[しょうり]/(Meisterschaft) 優勝[ゆうしょう]/(Eroberung) 制覇[せいは]/
+Siegel{n}/印鑑[いんかん]/
 Siegellack{m}/封蝋[ふうろう]/
 Siegelring{m}/印形指輪[いんぎょうゆびわ]/
 siegen{vi}/勝つ[かつ]/
-Sieger{m}/勝者[しょうしゃ]/覇者[はしゃ]/ビクター[びくたー]/
+Sieger{m}/勝者[しょうしゃ]/
 Siegerehrung{f}/表彰式[ひょうしょうしき]/
 Siegerpodest{n}/表彰台[ひょうしょうだい]/
 Siegeszeichen{n}/勝ち星[かちぼし]/
 Sieh dich vor!/うっかりするな。[うっかりするな。]/
 Siesta{f}/シエスタ[しえすた]/
-Signal{n}/記[しるし]/信号[しんごう]/サイン[さいん]/シグナル[しぐなる]/合図[あいず]/
+Signal{n}/信号[しんごう]/シグナル[しぐなる]/
 Signalanlage{f}/信号機[しんごうき]/
 Signalflagge{f}/信号旗[しんごうき]/
 Signalpfeife{f}/ホイッスル[ほいっする]/
@@ -26166,11 +26142,11 @@ Signaltafel{f}/表示器[ひょうじき]/
 Signalton{m}/信号音[しんごうおん]/
 Signalverarbeitung{f}/合図処理[あいずしょり]/
 Signatar{m}/加判人[かはんにん]/
-Signatur{f}{m}/署名[しょめい]/銘[めい]/
+Signatur{f}{m}/署名[しょめい]/
 signifikant{adj}/意義深い[いぎぶかい]/
 Silbe{f}/綴り[つづり]/
 Silbentrennung{f}/つづりの分け方[つづりのわけほう]/
-Silber{n}/銀[しろがね]/シルバー[しるばー]/白金[しろがね]/白銀[しろがね]/
+Silber{n}/銀[ぎん]/
 Silberbarren{m}/銀塊[ぎんかい]/
 Silberblick{m}/すがめ[すがめ]/
 Silberbronze{f}/銀泥[ぎんでい]/
@@ -26185,7 +26161,7 @@ Silberpappel{f}/白よう[はくよう]/
 Silberreiher{m}/白鷺[しらさぎ]/
 Silberschmied{m}/銀細工師[ぎんざいくし]/
 Silberwährung{f}/銀本位[ぎんほんい]/
-Silhouette{f}/影[かげ]/蔭[かげ]/シルエット[しるえっと]/
+Silhouette{f}/影[かげ]/シルエット[しるえっと]/
 Silikat{n}/ケイ酸塩[けいさんえん]/
 Silikon{n}/シリコン[しりこん]/
 Silikongummi{m}/シリコーンゴム[しりこーんごむ]/
@@ -26193,7 +26169,7 @@ Silikose{f}/珪肺症[けいはいしょう]/
 Silizium{n}/シリコン[しりこん]/
 Siliziumkarbid{n}/シリコンカーバイド[しりこんかーばいど]/
 Silo{n}/サイロ[さいろ]/
-Silvester{m}/大晦日[おおみそか]/年越し[としこし]/
+Silvester{m}/大晦日[おおみそか]/
 Simbabwer{m}/ジンバブエ人[じんばぶえじん]/
 simbabwisch{adj}/ジンバブエの[じんばぶえの]/
 Sims{m}{n}/棚[たな]/
@@ -26204,8 +26180,8 @@ Simultandolmetschen{n}/同時通訳[どうじつうやく]/
 Simultandolmetscher{m}/同時通訳[どうじつうやく]/
 Sinekure{f}/閑職[かんしょく]/
 Sinfonie{f}/交響曲[こうきょうきょく]/シンフォニー[しんふぉにー]/
-singen{vt}/鳴く[なく]/唸る[うなる]/唄う[うたう]/
-Singen{n}/歌声[うたごえ]/歌唱[かしょう]/
+singen{vt}/歌う[うたう]/
+Singen{n}/歌唱[かしょう]/
 Singlebörse{f}/出会い系サイト[であいけいさいと]/
 Singschwan{m}/オオハクチョウ[おおはくちょう]/
 Singspiel{n}/歌劇[かげき]/
@@ -26214,23 +26190,23 @@ Singularetantum{n}/絶対単数[ぜったいたんすう]/
 singularisch{adv}/単数の[たんすうの]/
 Singularität{f}/特異点[とくいてん]/
 Singvogel{m}/小鳥[ことり]/
-Sinken{n}/低下[ていか]/減少[げんしょう]/下降[かこう]/沈没[ちんぼつ]/
-sinken{vi}/落ちる[おちる]/沈む[しずむ]/下がる[さがる]/
+Sinken{n}/(Herab~) 低下[ていか]/(Schiffbruch) 沈没[ちんぼつ]/
+sinken{vi}/沈む[しずむ]/(Preise) 下がる[さがる]/
 Sinkgeschwindigkeit{f}/降下速度[こうかそくど]/
-Sinn{m}/意味[いみ]/感[かん]/精神[せいしん]/訳[わけ]/理屈[りくつ]/旨[むね]/脳裏[のうり]/官能[かんのう]/感覚[かんかく]/義[ぎ]/義理[ぎり]/趣旨[しゅし]/センス[せんす]/趣[おもむき]/意義[いぎ]/
-Sinnbild{n}/象徴[しょうちょう]/比喩[ひゆ]/例え[たとえ]/
+Sinn{m}/(Bedeutung) 意味[いみ]/(~eswahrnehmung) 感覚[かんかく]/
+Sinnbild{n}/(Symbol) 象徴[しょうちょう]/
 sinnbildlich{adj}{adv}/象徴的[しょうちょうてき]/
 Sinnesart{f}/気心[きごころ]/
 Sinneslust{f}/情欲[じょうよく]/
 Sinnesorgan{n}/感官[かんかん]/
-Sinnestäuschung{f}/迷い[まよい]/幻覚[げんかく]/錯覚[さっかく]/気のせい[きのせい]/
+Sinnestäuschung{f}/(Trugbild) 幻覚[げんかく]/
 Sinneswandel{m}/翻意[ほんい]/
 sinnlich{adv}/色っぽい[いろっぽい]/
-Sinnlichkeit{f}/ピンク[ぴんく]/官能[かんのう]/感性[かんせい]/
+Sinnlichkeit{f}/感性[かんせい]/
 sinnlos{adj}{adv}/他愛もない[たわいもない]/
 Sinnlosigkeit{f}/無意味[むいみ]/
 Sinologe{m}/シナ学者[しながくしゃ]/
-Sinologie{f}/シナ学[しながく]/
+Sinologie{f}/中国学[ちゅうごくがく]/
 Sinter{m}/湯の花[ゆのはな]/
 sintern{vt}/焼結する[しょうけつする]/
 Sintern{n}/焼結[しょうけつ]/
@@ -26238,14 +26214,14 @@ Sintflut{f}/大洪水[だいこうずい]/
 Sinus{m}/正弦[せいげん]/
 Sinuskurve{f}/正弦波[せいげんは]/
 Siphon{m}/サイフォン[さいふぉん]/
-Sippe{f}/大家族[だいかぞく]/部族[ぶぞく]/
+Sippe{f}/大家族[だいかぞく]/
 Sirene{f}/サイレン[さいれん]/
 Sirius{m}/シリウス[しりうす]/
-Sirup{m}/シロップ[しろっぷ]/蜜[みつ]/
+Sirup{m}/シロップ[しろっぷ]/
 Sisal{m}/サイザル麻[さいざるあさ]/
 Sisyphusarbeit{f}/賽の河原[さいのかわら]/
 Sitar{f}/シタール[したーる]/
-Sitte{f}/習慣[しゅうかん]/カスタム[かすたむ]/慣習[かんしゅう]/風俗[ふうぞく]/礼儀[れいぎ]/決まり[きまり]/
+Sitte{f}/習慣[しゅうかん]/
 Sittengesetz{n}/道徳律[どうとくりつ]/
 Sittenlosigkeit{f}/背徳[はいとく]/
 Sittenrichter{m}/道徳家[どうとくか]/
@@ -26253,35 +26229,35 @@ sittenstreng{adj}/方正な[ほうせいな]/
 Sittenstrolch{m}/痴漢[ちかん]/
 Sittenverfall{m}/退廃[たいはい]/
 Sittich{m}/インコ[いんこ]/
-Sittlichkeit{f}/倫理[りんり]/道徳[どうとく]/義理[ぎり]/
+Sittlichkeit{f}/(Moral) 倫理[りんり]/
 Sittlichkeitsverbrechen{n}/わいせつ罪[わいせつざい]/
 sittsam{adv}/礼儀正しい[れいぎただしい]/
-Situation{f}/状態[じょうたい]/様子[ようす]/局[きょく]/境地[きょうち]/シチュエーション[しちゅえーしょん]/風向き[かざむき]/色合い[いろあい]/場面[ばめん]/界[さかい]/境[きょう]/情勢[じょうせい]/有様[ありよう]/場合[ばあい]/位置[いち]/雲行き[くもゆき]/模様[もよう]/向き[むき]/状況[じょうきょう]/局面[きょくめん]/事態[じたい]/景気[けいき]/
-Sitz{m}/席[せき]/座席[ざせき]/椅子[いす]/座[ざ]/所在地[しょざいち]/議席[ぎせき]/本部[ほんぶ]/所在[しょざい]/
+Situation{f}/状態[じょうたい]/
+Sitz{m}/席[せき]/
 Sitzbad{n}/腰湯[こしゆ]/
 Sitzbank{f}/縁台[えんだい]/
 Sitzbein{n}/座骨[ざこつ]/
-sitzen{vi}/居る[いる]/座る[すわる]/
-Sitzen{n}/座り[すわり]/居[い]/
+sitzen{vi}/座る[すわる]/
+Sitzen{n}/座り[すわり]/
 sitzend{adj}/居乍ら[いながら]/
 Sitzgelegenheit{f}/腰掛け[こしかけ]/
 Sitzgurt{m}/シートベルト[しーとべると]/
 Sitzordnung{f}/席次[せきじ]/
-Sitzplatz{m}/場所[ばしょ]/座席[ざせき]/場[ば]/居[い]/席[せき]/観客席[かんきゃくせき]/
+Sitzplatz{m}/座席[ざせき]/
 Sitzstreik{m}/座り込み[すわりこみ]/
-Sitzung{f}/場[ば]/話し合い[はなしあい]/会議[かいぎ]/協議会[きょうぎかい]/
+Sitzung{f}/会議[かいぎ]/
 Sitzungsbericht{m}/会議録[かいぎろく]/
 Sitzungsprotokoll{n}/議事録[ぎじろく]/
 Sitzungssaal{m}/議場[ぎじょう]/
-Skala{f}/スケール[すけーる]/ダイヤル[だいやる]/
-Skalar{n}/スカラー[すからー]/
+Skala{f}/スケール[すけーる]/
+Skalar{n}/{Math.} スカラー[すからー]/
 Skaleneffekt{m}/スケールメリット[すけーるめりっと]/
 Skalenerträge{pl}/規模の経済性[きぼのけいざいせい]/
 skalierbar{adj}/スケーラブル[すけーらぶる]/
 Skalierung{f}/スケーリング[すけーりんぐ]/
 Skalierungsfaktor{m}/スケーリング･ファクター[すけーりんぐふぁくたー]/
 Skalpell{n}/解剖刀[かいぼうとう]/
-Skandal{m}/騒ぎ[さわぎ]/スキャンダル[すきゃんだる]/不祥事[ふしょうじ]/
+Skandal{m}/スキャンダル[すきゃんだる]/
 Skandalblatt{n}/赤新聞[あかしんぶん]/
 Skandalpresse{f}/赤新聞[あかしんぶん]/
 Skandalreporter{m}/事件記者[じけんきしゃ]/
@@ -26320,10 +26296,10 @@ Skispringen{n}/スキージャンプ[すきーじゃんぷ]/
 Skispringer{m}/ジャンプ選手[じゃんぷせんしゅ]/
 Skistock{m}/ストック[すとっく]/
 Skiurlaubsort{m}/スキー･リゾート[すきーりぞーと]/
-Skizze{f}/絵[え]/スケッチ[すけっち]/ドラフト[どらふと]/クロッキー[くろっきー]/輪郭[りんかく]/絵画[かいが]/
+Skizze{f}/スケッチ[すけっち]/
 Skizzenbuch{n}/スケッチブック[すけっちぶっく]/
 skizzieren{vt}/略記する[りゃっきする]/
-Sklave{m}/虜[とりこ]/奴隷[どれい]/
+Sklave{m}/奴隷[どれい]/
 Sklavenarbeit{f}/奴隷労働[どれいろうどう]/
 Sklavenhalter{m}/奴隷所有者[どれいしょゆうしゃ]/
 Sklavenhandel{m}/人身売買[じんしんばいばい]/
@@ -26345,16 +26321,16 @@ Slalom{m}{n}/スラローム[すらろーむ]/
 Slang{m}/スラング[すらんぐ]/
 Slawe{m}/スラヴ[すらう゛]/
 slawisch{adj}/スラブ語の[すらぶごの]/
-Slip{m}/パンツ[ぱんつ]/ブリーフ[ぶりーふ]/
-Slogan{m}/合言葉[あいことば]/スローガン[すろーがん]/
+Slip{m}/(Damen~) パンティー[ぱんてぃー]/(Herren~) ブリーフ[ぶりーふ]/
+Slogan{m}/スローガン[すろーがん]/
 Slot{m}/スロット[すろっと]/
 Slowake{m}/スロバキア人[すろばきあじん]/
 Slowakei{f}/スロバキア[すろばきあ]/
 slowakisch{adj}/スロバキアの[すろばきあの]/
-Slum{m}/スラム[すらむ]/谷間[たにま]/
+Slum{m}/スラム[すらむ]/
 Slup{f}/スループ[するーぷ]/
 Smaragd{m}/エメラルド[えめらるど]/
-Smiley{m}/顔文字[かおもじ]/スマイリー[すまいりー]/
+Smiley{m}/(Ideogramm) 絵文字[えもじ]/
 Smithsonit{m}/リョウ亜鉛鉱[りょうあえんこう]/
 Smog{m}/スモッグ[すもっぐ]/
 Smoking{m}/タキシード[たきしーど]/
@@ -26362,44 +26338,44 @@ Snob{m}/スノッブ[すのっぶ]/
 Snobismus{m}/スノビズム[すのびずむ]/
 snobistisch{adj}/紳士気取りの[しんしきどりの]/
 Snowboard{n}/スノーボード[すのーぼーど]/
-so{adv}/通り[とおり]/あんな風に[あんなふうに]/この様[このよう]/そんなに[そんなに]/こんなに[こんなに]/あんなに[あんなに]/その通り[そのとおり]/あれだけ[あれだけ]/
+so{adv}/そう[そう]/(in solch einer Weise) あんな風に[あんなふうに]/
 so schnell wie möglich/一刻も早く[いっこくもはやく]/
 Socke{f}/ソックス[そっくす]/
-Sockel{m}/台[だい]/靴[くつ]/座[ざ]/
+Sockel{m}/台[だい]/土台[どだい]/
 Sockenhalter{m}/ガーター[がーたー]/
 Soda{n}/ソーダ[そーだ]/
 Sodbrennen{n}/胸[むね]/
 Sodomie{f}/獣姦[じゅうかん]/
-Sofa{n}/ソファー[そふぁー]/ソファ[そふぁ]/
-sofort{adv}/早速[さっそく]/直ちに[ただちに]/直に[じきに]/急に[きゅうに]/直[じき]/即[そく]/即刻[そっこく]/とっとと[とっとと]/速い[はやい]/いち早く[いちはやく]/直ぐ[すぐ]/今すぐ[いますぐ]/次第[しだい]/直ぐに[すぐに]/間もなく[まもなく]/即時[そくじ]/取りあえず[とりあえず]/取り敢えず[とりあえず]/瞬く間に[またたくまに]/即座に[そくざに]/
+Sofa{n}/ソファー[そふぁー]/
+sofort{adv}/早速[さっそく]/
 Sofortbildkamera{f}/ポラロイドカメラ[ぽらろいどかめら]/
 sofortige Bezahlung{f}/即納[そくのう]/
 Sofortprogramm{n}/急造計画[きゅうぞうけいかく]/
-Software{f}/ソフトウェア[そふとうぇあ]/ソフトウエア[そふとうえあ]/
+Software{f}/ソフトウェア[そふとうぇあ]/
 Software-Entwicklung{f}/ソフトウェア開発[そふとうぇあかいはつ]/
 Sog{m}/渦中[かちゅう]/
-sogar{adv}/流石[さすが]/迄[まで]/
-Sohle{f}/底[そこ]/どん底[どんぞこ]/
+sogar{adv}/さえ[さえ]/
+Sohle{f}/{Anat.} 足の裏[あしのうら]/(Tiefe) どん底[どんぞこ]/
 Sohlenleder{n}/底革[そこがわ]/
-Sohn{m}/息子[むすこ]/ジュニア[じゅにあ]/坊や[ぼうや]/児[こ]/坊ちゃん[ぼっちゃん]/坊ちゃん[ぼっちゃん]/
+Sohn{m}/息子[むすこ]/
 Soja{m}/大豆[だいず]/
 Sojabohne{f}/大豆[だいず]/
-Sojasoße{f}/醤油[しょうゆ]/紫[むらさき]/
+Sojasoße{f}/醤油[しょうゆ]/
 solar{adj}/太陽の[たいようの]/
 Solarenergie{f}/太陽エネルギー[たいようえねるぎー]/
 Solarzelle{f}/太陽電池[たいようでんち]/
 solcherart{adj}/是程[これほど]/
 solchermaßen{adv}/斯く斯く[かくかく]/
 Sold{m}/給料[きゅうりょう]/
-Soldat{m}/戦士[せんし]/兵[へい]/兵隊[へいたい]/兵士[へいし]/軍人[ぐんじん]/
+Soldat{m}/兵[へい]/
 Soldatenbraut{f}/戦争花嫁[せんそうはなよめ]/
 Soldatin{f}/女兵[じょへい]/
 soldatisch{adv}/武張った[ぶはった]/
 solidarisch{adv}/連帯の[れんたいの]/
-Solidarität{f}/連帯[れんたい]/団結[だんけつ]/
+Solidarität{f}/団結[だんけつ]/
 Solidaritätsgefühl{n}/連帯感[れんたいかん]/
-solide{adj}{adv}/硬い[かたい]/固い[かたい]/堅い[かたい]/
-Solidität{f}/堅実[けんじつ]/固形[こけい]/強固[きょうこ]/固さ[かたさ]/硬さ[かたさ]/
+solide{adj}{adv}/丈夫な[じょうぶな]/
+Solidität{f}/堅実[けんじつ]/
 Solipsismus{m}/唯我論[ゆいがろん]/
 solipsistisch{adj}/唯我的[ゆいがてき]/
 Solist{m}/ソリスト[そりすと]/
@@ -26411,10 +26387,10 @@ Sologesang{n}/ソロ･ボーカル[そろぼーかる]/
 Solokonzert{n}/リサイタル[りさいたる]/
 somalisch{adj}/ソマリアの[そまりあの]/
 Somatotropin{n}/発育ホルモン[はついくほるもん]/
-Sommer{m}/サマー[さまー]/夏季[かき]/夏場[なつば]/夏期[かき]/
+Sommer{m}/夏[なつ]/
 Sommerferien{pl}/夏休み[なつやすみ]/
 Sommerfest{n}/夏祭り[なつまつり]/
-Sommerfrische{f}/夏場[なつば]/避暑地[ひしょち]/避暑[ひしょ]/
+Sommerfrische{f}/避暑[ひしょ]/
 Sommerfrischler{m}/避暑客[ひしょきゃく]/
 Sommergetreide{n}/夏作[なつさく]/
 Sommerhaus{n}/別荘[べっそう]/
@@ -26424,26 +26400,26 @@ Sommermonat{m}/文月[ふづき]/
 Sommersaison{f}/夏場[なつば]/
 Sommeruniversität{f}/夏期大学[かきだいがく]/
 Sommerwind{m}/南風[なんぷう]/
-Sommerzeit{f}/夏場[なつば]/夏期[かき]/サマータイム[さまーたいむ]/
+Sommerzeit{f}/(Sommersaison) 夏場[なつば]/(Zeitumstellung) サマータイム[さまーたいむ]/
 Sonate{f}/ソナタ[そなた]/
 Sonde{f}/探査機[たんさき]/
 Sonderanfertigung{f}/特製[とくせい]/
-Sonderangebot{n}/バーゲン[ばーげん]/特価[とっか]/特売[とくばい]/
+Sonderangebot{n}/バーゲン[ばーげん]/特売[とくばい]/
 Sonderaufgabe{f}/特別職[とくべつしょく]/
 Sonderauftrag{m}/特命[とくめい]/
-Sonderausgabe{f}/特集[とくしゅう]/番外[ばんがい]/
+Sonderausgabe{f}/(besondere Kosten) 特別の支出[とくべつのししゅつ]/(~ einer Zeitschrift) 増刊[ぞうかん]/
 Sonderausstattung{f}/オプション[おぷしょん]/
 Sonderband{m}/別冊[べっさつ]/
-sonderbar{adv}/怪しい[あやしい]/妖しい[あやしい]/乙[おつ]/異様[いよう]/
-Sonderbarkeit{f}/妙[みょう]/怪奇[かいき]/奇妙[きみょう]/奇[き]/一風[いっぷう]/
+sonderbar{adv}/奇妙な[きみょうな]/
+Sonderbarkeit{f}/奇妙[きみょう]/
 Sonderbehandlung{f}/特別扱い[とくべつあつかい]/
 Sonderbotschafter{m}/移動大使[いどうたいし]/
 Sonderdividende{f}/特別配当[とくべつはいとう]/
 Sonderdruck{m}/別刷り[べつずり]/
-Sonderfall{m}/別物[べつもの]/特例[とくれい]/
+Sonderfall{m}/特例[とくれい]/
 Sonderfrieden{m}/単独講和[たんどくこうわ]/
 Sonderklasse{f}/特等[とくとう]/
-Sonderling{m}/変人[へんじん]/変わり者[かわりもの]/
+Sonderling{m}/変人[へんじん]/
 Sondermaschine{f}/特別機[とくべつき]/
 Sondermüll{m}/有害廃棄物[ゆうがいはいきぶつ]/
 Sonderpreis{m}/サービス[さーびす]/
@@ -26457,7 +26433,7 @@ Sonderzug{m}/臨時列車[りんじれっしゃ]/
 Sonderzulage{f}/賞与[しょうよ]/
 sondieren{vt}/探りを入れる[さぐりをいれる]/
 Sonnabend{m}/土曜日[どようび]/
-Sonne{f}/日[ひ]/天日[てんぴ]/日の目[ひのめ]/お日様[おひさま]/太陽[たいよう]/
+Sonne{f}/太陽[たいよう]/
 Sonnenaufgang{m}/日の出[ひので]/
 Sonnenbad{n}/日光浴[にっこうよく]/
 Sonnenbestrahlung{f}/日射[にっしゃ]/
@@ -26478,9 +26454,9 @@ sonnengebräunt{adj}/赤銅色の[しゃくどういろの]/
 Sonnengeflecht{n}/太陽神経叢[たいようしんけいそう]/
 Sonnenjahr{n}/太陽年[たいようねん]/
 Sonnenkollektor{m}/ソーラーパネル[そーらーぱねる]/
-Sonnenlicht{n}/日[ひ]/太陽光[たいようこう]/影[かげ]/日差し[ひざし]/陽射し[ひざし]/日の目[ひのめ]/
-Sonnenschein{m}/日差し[ひざし]/照り[てり]/陽射し[ひざし]/陽光[ようこう]/サンシャイン[さんしゃいん]/
-Sonnenschirm{m}/日傘[ひがさ]/パラソル[ぱらそる]/
+Sonnenlicht{n}/日光[にっこう]/
+Sonnenschein{m}/陽光[ようこう]/
+Sonnenschirm{m}/日傘[ひがさ]/
 Sonnenschutz{m}/日よけ[ひよけ]/
 Sonnensegel{n}/オーニング[おーにんぐ]/
 Sonnenspektrum{f}/太陽スペクトル[たいようすぺくとる]/
@@ -26488,14 +26464,14 @@ Sonnenstich{m}/熱射病[ねっしゃびょう]/
 Sonnenstrahl{m}/日[ひ]/
 Sonnensystem{n}/太陽系[たいようけい]/
 Sonnenuhr{f}/日時計[ひどけい]/
-Sonnenuntergang{m}/暮れ[くれ]/日没[にちぼつ]/サンセット[さんせっと]/
+Sonnenuntergang{m}/日没[にちぼつ]/
 Sonnenverehrung{f}/太陽崇拝[たいようすうはい]/
 Sonnenwende{f}/ヘリオトロップ[へりおとろっぷ]/
 Sonnenwind{m}/太陽風[たいようふう]/
 Sonnenzeit{f}/太陽時[たいようじ]/
 sonnenüberflutet{adj}/日を一杯に浴びた[ひをいっぱいにあびた]/
 sonnig{adj}/明朗[めいろう]/
-Sonntag{m}/日曜日[にちようび]/日曜[にちよう]/
+Sonntag{m}/日曜日[にちようび]/
 Sonntagsanzug{m}/よそ行き[よそいき]/
 Sonntagsmaler{m}/日曜画家[にちようがか]/
 Sonntagsschule{f}/日曜学校[にちようがっこう]/
@@ -26508,7 +26484,7 @@ Sopran{m}/ソプラノ[そぷらの]/
 Sopranist{m}/ソプラノ歌手[そぷらのかしゅ]/
 Sopranistin{f}/ソプラノ歌手[そぷらのかしゅ]/
 Sorbet{n}{m}/冷菓[れいか]/
-Sorge{f}/心配[しんぱい]/ご苦労[ごくろう]/お世話[おせわ]/御世話[おせわ]/気がかり[きがかり]/留意[りゅうい]/重荷[おもに]/懸念[けねん]/不安[ふあん]/関心[かんしん]/心遣い[こころづかい]/配慮[はいりょ]/憂い[うれい]/恐れ[おそれ]/気遣い[きづかい]/世話[せわ]/
+Sorge{f}/心配[しんぱい]/
 sorgen{vi}/手がける[てがける]/
 sorgenfrei{adv}/呑気[のんき]/
 Sorgenkind{n}/問題児[もんだいじ]/
