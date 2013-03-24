@@ -25281,16 +25281,16 @@ Schwitzkasten{m}/ヘッドロック[へっどろっく]/
 Schwitzwasser{n}/汗[あせ]/
 Schwulenbar{f}/ゲイバー[げいばー]/
 Schwund{m}/目減り[めべり]/
-Schwung{m}/元気[げんき]/威勢[いせい]/振り[ふり]/スイング[すいんぐ]/盛況[せいきょう]/パンチ[ぱんち]/景気[けいき]/飛躍[ひやく]/
+Schwung{m}/振り[ふり]/{fig.}(Tatkraft) 勢い[いきおい]/
 schwunglos{adj}/緩い[ゆるい]/
 Schwungrad{n}/フライホイール[ふらいほいーる]/
 schwungvoll{adj}{adv}/雄こんな[ゆうこんな]/
 Schwur{m}/誓い[ちかい]/
 Schwurgericht{n}/陪審[ばいしん]/
-Schwäche{f}/苦手[にがて]/引け[ひけ]/弱気[よわき]/弱点[じゃくてん]/デメリット[でめりっと]/癖[くせ]/病気[びょうき]/衰弱[すいじゃく]/弱さ[よわさ]/弱体[じゃくたい]/脆弱[ぜいじゃく]/ウィーク[うぃーく]/弱み[よわみ]/傷[きず]/欠点[けってん]/足元[あしもと]/無気力[むきりょく]/短所[たんしょ]/
+Schwäche{f}/(Charakter~;Feigheit) 弱気[よわき]/(Nachteil) デメリット[でめりっと]/(Vorliebe) 偏愛[へんあい]/
 schwächen{vt}/傾ける[かたむける]/
 schwächlich{adj}/弱い[よわい]/
-Schwächlichkeit{f}/弱小[じゃくしょう]/華奢[きゃしゃ]/
+Schwächlichkeit{f}/(Körper) 華奢[きゃしゃ]/
 Schwächling{m}/弱虫[よわむし]/
 Schwächung{f}/無気力[むきりょく]/
 Schwägerin{f}/義姉[ぎし]/
@@ -25298,14 +25298,14 @@ schwängern{vt}/妊娠させる[にんしんさせる]/
 Schwänzeltanz{m}/尻振りダンス[しりふりだんす]/
 Schwänzen{n}/エスケープ[えすけーぷ]/
 schwänzen{vt}/サボる[さぼる]/
-schwärmen{vi}/恋する[こいする]/群がる[むらがる]/
+schwärmen{vi}/(sich begeistern) 熱中する[ねっちゅうする]/
 Schwärmer{m}/愛好者[あいこうしゃ]/
 Schwärmerei{f}/凝り屋[こりや]/
 schwärmerisch{adj}/感傷的[かんしょうてき]/
 Schwärze{f}/黒み[くろみ]/
 schwärzen{vt}/黒くする[くろくする]/
-schwärzlich{adj}/黒い[くろい]/黒っぽい[くろっぽい]/
-Schwätzer{m}/喋り[しゃべり]/お喋り[おしゃべり]/
+schwärzlich{adj}/黒っぽい[くろっぽい]/
+Schwätzer{m}/喋り[しゃべり]/
 schwören{vt}/誓う[ちかう]/
 schwül{adj}{adv}/蒸し暑い[むしあつい]/
 Schwüle{f}/温気[うんき]/
@@ -25325,22 +25325,21 @@ schäkern/いちゃつく[いちゃつく]/
 Schälen{n}/剥脱[はくだつ]/
 Schäler{m}/ピーラー[ぴーらー]/
 Schäm dich!/何たるざまだ。[なにたるざまだ。]/
-schändlich{adv}{adj}/恥ずかしい[はずかしい]/情けない[なさけない]/厚い[あつい]/醜い[みにくい]/見苦しい[みぐるしい]/
+schändlich{adv}{adj}/情けない[なさけない]/
 Schändung{f}/冒涜[ぼうとく]/
-Schärfe{f}/鮮明[せんめい]/辛味[からみ]/厳格[げんかく]/痛烈[つうれつ]/猛威[もうい]/厳重[げんじゅう]/厳密[げんみつ]/
+Schärfe{f}/(Deutlichkeit;z.B. eines Bildes) 鮮明[せんめい]/(scharfer Geschmack) 辛味[からみ]/(Bissigkeit;z.B. einer Bemerkung) 辛辣[しんらつ]/
 schärfen{vt}/研ぐ[とぐ]/
 Schärfentiefe{f}/焦点深度[しょうてんしんど]/
 Schärpe{f}/帯[おび]/
 schätzenswert{adj}{adv}/尊重すべき[そんちょうすべき]/
 Schätzpreis{m}/推定価格[すいていかかく]/
-Schätzung{f}/予想[よそう]/評価[ひょうか]/鑑定[かんてい]/勘定[かんじょう]/査定[さてい]/見積もり[みつもり]/計算[けいさん]/見当[けんとう]/
+Schätzung{f}/評価[ひょうか]/
 Schätzwert{m}/見当[けんとう]/
 schäumen{vi}/泡立つ[あわだつ]/
 Schöffe{m}/裁判員[さいばんいん]/
 Schöffengericht{n}/参審[さんしん]/
-schön{adj}{adv}/良い[いい]/ファイン[ふぁいん]/ナイス[ないす]/甘い[うまい]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/見事[みごと]/立派[りっぱ]/面白い[おもしろい]/美しい[うつくしい]/好い[いい]/可愛い[かわいい]/すっきり[すっきり]/洒落た[しゃれた]/ビューティフル[びゅーてぃふる]/
-Schöne{m}{f}/花[はな]/美女[びじょ]/美人[びじん]/華[はな]/
-Schönheit{f}/花[はな]/美女[びじょ]/シャン[しゃん]/美人[びじん]/美[び]/華[はな]/奇麗[きれい]/綺麗[きれい]/小町[こまち]/美容[びよう]/美姫[びき]/美麗[びれい]/ビューティ[びゅーてぃ]/ビューティー[びゅーてぃー]/
+schön{adj}{adv}/奇麗な[きれいな]/
+Schönheit{f}/美人[びじん]/
 Schönheitspflege{f}/美容術[びようじゅつ]/
 Schönheitssalon{m}/エステ[えすて]/美容院[びよういん]/
 Schönheitssinn{m}/美感[びかん]/
@@ -25353,11 +25352,11 @@ Schöpfer{m}/クリエーター[くりえーたー]/
 schöpferisch{adv}{adj}/独創的[どくそうてき]/
 Schöpfkelle{f}/杓子[しゃくし]/
 Schöpfrad{n}/揚水車[ようすいしゃ]/
-Schöpfung{f}/創作[そうさく]/創世[そうせい]/創造[そうぞう]/
+Schöpfung{f}/(ein neues Werk) 創作[そうさく]/(Erschaffung) 創造[そうぞう]/
 Schöpfungsgeschichte{f}/天地創造の神話[てんちそうぞうのしんわ]/
-schüchtern{adv}/恥ずかしい[はずかしい]/恐る恐る[おそるおそる]/
-Schüchternheit{f}/人見知り[ひとみしり]/シャイ[しゃい]/弱気[よわき]/怖がり[こわがり]/
-Schüler{m}/学生[がくせい]/教え子[おしえご]/弟子[ていし]/生徒[せいと]/
+schüchtern{adv}/内気な[うちきな]/
+Schüchternheit{f}/人見知り[ひとみしり]/
+Schüler{m}/学生[がくせい]/
 Schüleraustausch{m}/交換留学[こうかんりゅうがく]/
 Schülerin{f}/女生徒[じょせいと]/
 Schülerlotse{m}/学童擁護員[がくどうようごいん]/
@@ -25370,9 +25369,8 @@ Schürfrecht{n}/採鉱権[さいこうけん]/
 Schürfwunde{f}/掻き傷[かききず]/
 Schürze{f}/エプロン[えぷろん]/
 Schürzenjäger{m}/ナンパ[なんぱ]/
-Schüssel{f}/ボール[ぼーる]/鉢[はち]/皿[さら]/茶碗[ちゃわん]/丼[どんぶり]/ボウル[ぼうる]/
-Schüttelfrost{m}/震え[ふるえ]/寒気[さむけ]/悪寒[おかん]/
-Schütteln{n}/シェイク[しぇいく]/ガタガタ[がたがた]/
+Schüssel{f}/茶碗[ちゃわん]/
+Schüttelfrost{m}/悪寒[おかん]/
 schütter{adj}/疎ら[まばら]/
 Schüttgut{n}/畳築[じょうちく]/
 Schüttwinkel{m}/安息角[あんそくかく]/
@@ -25383,7 +25381,7 @@ Schützenkönig{m}/得点王[とくてんおう]/
 Schützenloch{n}/蛸壷[たこつぼ]/
 Schützenmine{f}/対人地雷[たいじんじらい]/
 Schützling{m}/子分[こぶん]/
-sechs{num}/六[むつ]/シックス[しっくす]/
+sechs{num}/六[ろく]/六つ[むっつ]/
 Sechseck{n}/六角[ろっかく]/
 sechsflächig{adj}/六面体の[ろくめんたいの]/
 sechshundert{num}/六百[ろっぴゃく]/
@@ -25399,7 +25397,8 @@ Sedimentationszyklus{m}/堆積輪廻[たいせきりんね]/
 sedimentieren{vi}/澱む[よどむ]/
 Sedimentologie{f}/堆積学[たいせきがく]/
 Sedimentschicht{f}/堆積層[たいせきそう]/
-See{f}{m}/海[うみ]/シー[しー]/池[ち]/湖[みずうみ]/海洋[かいよう]/
+See{f}/(Meer) 海[うみ]/
+See{m}/湖[みずうみ]/ 
 Seeanemone{f}/磯巾着[いそぎんちゃく]/
 Seebad{n}/海水浴[かいすいよく]/
 Seebeben{n}/海底地震[かいていじしん]/
@@ -25408,7 +25407,7 @@ Seebär{m}/老練の水夫[ろうれんのすいふ]/
 Seedienst{m}/航海勤務[こうかいきんむ]/
 Seeelefant{m}/セイウチ[せいうち]/
 Seefahrer{m}/船乗り[ふなのり]/
-Seefahrt{f}/航海[こうかい]/渡航[とこう]/
+Seefahrt{f}/航海[こうかい]/
 Seefeder{f}/海えら[うみえら]/
 Seefisch{m}/海魚[かいぎょ]/
 Seefrachtbrief{m}/船荷証券[ふなにしょうけん]/
@@ -25425,7 +25424,7 @@ Seekrankheit{f}/酔い[よい]/
 Seekuh{f}/海牛[かいぎゅう]/
 Seeküste{f}/海岸[かいがん]/
 Seelachs{m}/明太[めんたい]/
-Seele{f}/胸[むね]/精神[せいしん]/人物[じんぶつ]/魂[たま]/影[かげ]/心霊[しんれい]/スピリット[すぴりっと]/スピリッツ[すぴりっつ]/霊[たま]/生命[せいめい]/
+Seele{f}/精神[せいしん]/
 Seelenfrieden{m}/平静[へいせい]/
 Seelenheil{n}/菩提[ぼだい]/
 seelenlos{adj}{adv}/魂のない[たましいのない]/
@@ -25446,7 +25445,7 @@ Seenot{f}/水難[すいなん]/
 Seeohr{n}/鮑[あわび]/
 Seepferdchen{n}/シーホース[しーほーす]/
 Seerecht{n}/海法[かいほう]/
-Seereise{f}/航海[こうかい]/渡航[とこう]/
+Seereise{f}/船旅[ふなたび]/
 Seerose{f}/睡蓮[すいれん]/
 Seeräuber{m}/海賊[かいぞく]/
 Seesack{n}/雑嚢[ざつのう]/
@@ -25455,19 +25454,19 @@ Seeschlange{f}/海蛇[うみへび]/
 Seeschwalbe{f}/アジサシ[あじさし]/
 Seestadt{f}/海岸の町[かいがんのまち]/
 Seestern{m}/ヒトデ[ひとで]/
-Seetang{m}/昆布[こんぶ]/海藻[かいそう]/
+Seetang{m}/{Bot.} 海藻[かいそう]/
 Seeteufel{m}/アンコウ[あんこう]/
 Seetier{n}/海の生物[うみのせいぶつ]/
 Seetransport{m}/海運[かいうん]/
 seetüchtig/堪航性のある[たんこうせいのある]/
 Seetüchtigkeit{f}/堪航能力[たんこうのうりょく]/
-Seeufer{n}/岸[きし]/水辺[みずべ]/湖畔[こはん]/
+Seeufer{n}/岸[きし]/
 Seeunfall{m}/水難事故[すいなんじこ]/
 Seeventil{n}/海水弁[かいすいべん]/
 Seevolk{n}/海国民[かいこくみん]/
 Seewasser{n}/海水[かいすい]/
 Seeweg{m}/航路[こうろ]/
-Seewind{m}/海風[うみかぜ]/潮風[しおかぜ]/
+Seewind{m}/海風[うみかぜ]/
 seewärts/海に向かって[うみにむかって]/
 Segel{n}/帆[ほ]/
 Segelboot{n}/ヨット[よっと]/帆船[はんせん]/
@@ -25475,32 +25474,32 @@ Segeln{n}/帆走[はんそう]/
 segeln{vi}/航海する[こうかいする]/
 segeln gehen/ヨットに乗りに行く[よっとにのりにいく]/
 Segelschiff{n}/帆船[はんせん]/
-Segen{m}/幸い[さいわい]/恵み[めぐみ]/幸福[こうふく]/恩恵[おんけい]/福[ふく]/祝福[しゅくふく]/
+Segen{m}/祝福[しゅくふく]/
 segensreich/祝福された[しゅくふくされた]/
 Segerkegel{m}/ゼーゲルすい[ぜーげるすい]/
 Segler{m}/ヨットの操縦者[よっとのそうじゅうしゃ]/
 Segment{n}/分節[ぶんせつ]/
 Segmentierung{f}/分節[ぶんせつ]/
 Segnung{f}/恵み[めぐみ]/
-sehen{vt}/見る[みる]/ご覧になる[ごらんになる]/眺める[ながめる]/掛かる[かかる]/目にする[めにする]/
+sehen{vt}/見る[みる]/
 Sehenswürdigkeit{f}/見物[みもの]/
 Seher{m}/予言者[よげんしゃ]/
-Sehkraft{f}/目[め]/視力[しりょく]/ひかり[ひかり]/眼[め]/
-Sehne{f}/筋[きん]/腱[けん]/
+Sehkraft{f}/視力[しりょく]/
+Sehne{f}/腱[けん]/
 Sehnerv{m}/視神経[ししんけい]/
 sehnig{adj}/逞しい[たくましい]/
-Sehnsucht{f}/憧れ[あこがれ]/願望[がんもう]/山々[やまやま]/望み[のぞみ]/
+Sehnsucht{f}/憧れ[あこがれ]/
 sehnsüchtig{adv}{adj}/懐かしそうに[なつかしそうに]/
-sehr{adv}/本当に[ほんとうに]/多分に[たぶんに]/至極[しごく]/至って[いたって]/余りに[あまりに]/大分[だいぶん]/いと[いと]/中々[なかなか]/無性に[むしょうに]/どうも[どうも]/たっぷり[たっぷり]/一番[いちばん]/何とも[なんとも]/余程[よほど]/極めて[きわめて]/随分[ずいぶん]/凄く[すごく]/馬鹿に[ばかに]/大層[たいそう]/大変[たいへん]/まんまと[まんまと]/非常に[ひじょうに]/
+sehr{adv}/迚も[とても]/
 Sehr geehrte Damen und Herren/各位[かくい]/
 sehr oft/頻々[ひんぴん]/
 Sehschärfe{f}/視力[しりょく]/
 Sehtest{m}/視力検査[しりょくけんさ]/
-Sehvermögen{n}/目[め]/視力[しりょく]/ひかり[ひかり]/眼[め]/視覚[しかく]/
+Sehvermögen{n}/視力[しりょく]/
 Sei still!/うるさい、静かに！[うるさい、しずかに！]/
-seicht{adv}/浅い[あさい]/薄っぺら[うすっぺら]/
+seicht{adv}/浅い[あさい]/
 Seichtheit{f}/薄手[うすで]/
-Seide{f}/お腹[おなか]/絹[きぬ]/絹[きぬ]/シルク[しるく]/
+Seide{f}/絹[きぬ]/
 Seidelbast{m}/沈丁花[じんちょうげ]/
 seiden/絹布の[けんぷの]/
 Seidenbrokat{n}/金襴緞子[きんらんどんす]/
@@ -25512,7 +25511,7 @@ Seidenschwanz{m}/レンジャク[れんじゃく]/
 Seidenstoff{m}/絹[きぬ]/
 Seidenstraße{f}/シルクロード[しるくろーど]/
 seidig{adj}{adv}/シルキー[しるきー]/
-Seife{f}/石鹸[せっけん]/ソープ[そーぷ]/シャボン[しゃぼん]/
+Seife{f}/石鹸[せっけん]/
 Seifenblase{f}/シャボン玉[しゃぼんだま]/
 Seifenkiste{f}/石鹸箱[せっけんばこ]/
 Seifenoper{f}/ソープオペラ[そーぷおぺら]/
@@ -25527,7 +25526,7 @@ Seilrolle{f}/縄一巻き[なわいちまき]/
 Seilschaft{f}/登山隊[とざんたい]/
 Seilspringen{n}/縄跳び[なわとび]/
 Seiltänzer{m}/綱渡り[つなわたり]/
-sein{vi}/である[である]/御座います[ございます]/いらっしゃる[いらっしゃる]/居る[いる]/彼の[かれの]/在る[ある]/有る[ある]/其の[その]/
+sein{vi}/(Gegenstände) 有る[ある]/(Lebewesen) 居る[いる]/(Besitz, sein/ihr ...) 彼の...[かれの...]/
 Sein{n}/有[ゆう]/
 seine Meinung äußern/意見を吐く[いけんをはく]/
 seine Schuldigkeit tun/責めを果たす[せめをはたす]/
@@ -25535,9 +25534,9 @@ Seismologe{m}/地震学者[じしんがくしゃ]/
 Seismologie{f}/地震学[じしんがく]/
 seit{prp; +Dativ}/この方[このかた]/
 seit jeher/万古の[ばんこの]/
-Seite{f}/方[ほう]/傍ら[かたわら]/側[がわ]/脇[わき]/方面[ほうめん]/頁[ぺーじ]/頁[ぺーじ]/横向き[よこむき]/並[ならび]/部門[ぶもん]/横手[よこて]/横[よこ]/横[よこ]/側面[そくめん]/傍[はた]/際[きわ]/並び[ならび]/サイド[さいど]/
+Seite{f}/側[がわ]/
 Seite an Seite/くつわを並べて[くつわをならべて]/
-Seitenansicht{f}/プロフィール[ぷろふぃーる]/横顔[よこがお]/プレビュー[ぷれびゅー]/
+Seitenansicht{f}/プロフィール[ぷろふぃーる]/横顔[よこがお]/
 Seitenblick{m}/流し目[ながしめ]/
 Seitendruck{m}/側面圧力[そくめんあつりょく]/
 Seitendrucker{m}/ページプリンター[ぺーじぷりんたー]/
@@ -25549,7 +25548,7 @@ Seitennummerierung{f}/丁付け[ちょうづけ]/
 Seitenscheitel{m}/七三分け[しちさんわけ]/
 Seitenschlag{m}/横泳ぎ[よこおよぎ]/
 Seitenschwimmen{n}/サイドストローク[さいどすとろーく]/
-Seitensprung{m}/間違い[まちがい]/浮気[うわき]/
+Seitensprung{m}/{fig.} 情事[じょうじ]/
 Seitenstechen{n}/胸膜痛[きょうまくつう]/
 Seitenstreifen{m}/路側帯[ろそくたい]/
 Seitentasche{f}/サイドポケット[さいどぽけっと]/
@@ -25569,18 +25568,17 @@ seitwärts{adv}/…の側に[…のがわに]/
 Seiwal{m}/イワシクジラ[いわしくじら]/
 Sekante{f}/割線[かっせん]/
 Sekret{n}/分泌物[ぶんぴつぶつ]/
-Sekretariat{n}/事務局[じむきょく]/官房[かんぼう]/秘書課[ひしょか]/
-Sekretär{m}/幹事[かんじ]/秘書[ひしょ]/書記[しょき]/
+Sekretariat{n}/事務局[じむきょく]/
+Sekretär{m}/秘書[ひしょ]/(General~) 書記長[しょきちょう]/
 Sekretärin{f}/秘書[ひしょ]/
 Sekt{m}/シャンパン[しゃんぱん]/
-Sekte{f}/派[は]/宗派[しゅうは]/流派[りゅうは]/宗[しゅう]/カルト[かると]/支流[しりゅう]/
+Sekte{f}/分派[ぶんぱ]/
 Sektierer{m}/セクト主義者[せくとしゅぎしゃ]/
 Sektierertum{n}/セクト主義[せくとしゅぎ]/
-Sektion{f}/部[ぶ]/区分[くぶん]/区画[くかく]/セクション[せくしょん]/
+Sektion{f}/(Abteilung) 部局[ぶきょく]/
 Sektkühler{m}/アイスペール[あいすぺーる]/
 Sektor{m}/区画[くかく]/
-Sekundant{m}/セカンド[せかんど]/助っ人[すけっと]/
-Sekunde{f}/秒[びょう]/二度[にど]/
+Sekunde{f}/秒[びょう]/
 Sekundenkleber{m}/瞬間接着剤[しゅんかんせっちゃくざい]/
 Sekundenzeiger{m}/秒針[びょうしん]/
 sekundär/二の次[にのつぎ]/
@@ -25598,15 +25596,15 @@ Selbstbefleckung{f}/自涜[じとく]/
 Selbstbefruchtung{f}/自家受精[じかじゅせい]/
 Selbstbehauptung{f}/自己主張[じこしゅちょう]/
 selbstbeherrscht{adj}/克己心のある[こっきしんのある]/
-Selbstbeherrschung{f}/我慢[がまん]/平常心[へいじょうしん]/自戒[じかい]/
+Selbstbeherrschung{f}/自制[じせい]/
 Selbstbeobachtung{f}/内面考察[ないめんこうさつ]/
 Selbstbeschränkung{f}/自粛[じしゅく]/
 Selbstbesinnung{f}/内省[ないせい]/
 Selbstbestimmung{f}/自決[じけつ]/
 Selbstbestäubung{f}/自家受粉[じかじゅふん]/
 Selbstbetrachtung{f}/内省[ないせい]/
-Selbstbewusstsein{n}/意識[いしき]/鼻息[びそく]/意地[いじ]/意気揚々[いきようよう]/自覚[じかく]/自覚[じかく]/誇り[ほこり]/自意識[じいしき]/
-Selbstdisziplin{f}/自粛[じしゅく]/自戒[じかい]/
+Selbstbewusstsein{n}/自信[じしん]/
+Selbstdisziplin{f}/自粛[じしゅく]/
 Selbsteinschätzung{f}/自己評価[じこひょうか]/
 Selbstentfaltung{f}/自己啓発[じこけいはつ]/
 Selbstentzündung{f}/自然発火[しぜんはっか]/
@@ -25617,10 +25615,10 @@ Selbstgefälligkeit{f}/いい気[いいき]/
 Selbstgefühl{n}/自覚[じかく]/
 selbstgemacht{adj}/自作の[じさくの]/
 selbstgenügsam{adj}/自給自足の[じきゅうじそくの]/
-Selbstgenügsamkeit{f}/自足[じそく]/自給自足[じきゅうじそく]/
+Selbstgenügsamkeit{f}/自足[じそく]/
 selbstgerecht{adj}/独善的[どくぜんてき]/
 Selbstgerechtigkeit{f}/独善[どくぜん]/
-Selbstgespräch{n}/独り言[ひとりごと]/自問自答[じもんじとう]/ひとり言[ひとりごと]/
+Selbstgespräch{n}/独り言[ひとりごと]/
 Selbstgespräche führen/自問自答する[じもんじとうする]/
 selbstherrlich/嵩にかかって[かさにかかって]/
 Selbsthilfe{f}/自助[じじょ]/
