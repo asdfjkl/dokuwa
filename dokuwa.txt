@@ -26491,35 +26491,35 @@ Sorgenkind{n}/問題児[もんだいじ]/
 sorgenschwer{adj}/危うい[あやうい]/
 sorgenvoll{adj}/危うい[あやうい]/
 Sorgerecht{n}/親権[しんけん]/
-Sorgfalt{f}/丁寧[ていねい]/慎重[しんちょう]/細心[さいしん]/綿密[めんみつ]/丹念[たんねん]/入念[にゅうねん]/緻密[ちみつ]/
+Sorgfalt{f}/入念[にゅうねん]/
 Sorgfaltspflicht{f}/善管注意義務[ぜんかんちゅういぎむ]/
-sorgfältig{adv}/きちんと[きちんと]/じっくり[じっくり]/念入り[ねんいり]/細かく[こまかく]/
+sorgfältig{adv}/きちんと[きちんと]/
 sorgfältige Durchsicht{f}/熟覧[じゅくらん]/
 Sorgfältigkeit{f}/丁寧[ていねい]/
-sorglos{adv}/のんびり[のんびり]/至らない[いたらない]/呑気[のんき]/
-Sorglosigkeit{f}/気楽[きらく]/不覚[ふかく]/能天気[のうてんき]/脳天気[のうてんき]/気軽[きがる]/安易[あんい]/
-Sorte{f}/通り[とおり]/種[たね]/類[るい]/種目[しゅもく]/種類[しゅるい]/品種[ひんしゅ]/
+sorglos{adv}/(achtlos) 不注意な[ふちゅういな]/
+Sorglosigkeit{f}/不注意[ふちゅうい]/
+Sorte{f}/種類[しゅるい]/
 sortieren{vt}/分ける[わける]/
 Sortiermaschine{f}/ソーター[そーたー]/
 Sortierprogramm{n}/ソーター[そーたー]/
-Sortierung{f}/選別[せんべつ]/格付け[かくづけ]/
-Sortiment{n}/点数[てんすう]/品数[しなかず]/詰め合わせ[つめあわせ]/取り合わせ[とりあわせ]/
+Sortierung{f}/選別[せんべつ]/
+Sortiment{n}/(Zahl der Artikel) 品数[しなかず]/
 SOS{n}/海難信号[かいなんしんごう]/
 SOS-Ruf{m}/遭難信号[そうなんしんごう]/
 Souffleur{m}/プロンプター[ぷろんぷたー]/
 Souper{n}/晩餐[ばんさん]/
 souverän{adv}/自主的[じしゅてき]/
 Souveränität{f}/主権[しゅけん]/
-soviel{conj}/そんなに[そんなに]/
-soweit{conj}/なんて[なんて]/何て[なんて]/
-sowie{conj}/と[と]/も[も]/及び[および]/並びに[ならびに]/
+soviel/そんなに[そんなに]/
+soweit/(~ möglich) 出来るだけ[できるだけ]/(~ notwendig) 必要に応じて[ひつようにおうじて]/(solange man ... macht)...するかぎり[...するかぎり]/
+sowie/(sofort, wenn...) するとすぐ[するとすぐ]/(ferner) 更に[さらに]/
 sowjetisch{adj}/ソ連の[それんの]/
 Sowjetunion{f}/ソ連[それん]/
 Sozialamt{n}/福祉事務所[ふくしじむしょ]/
 Sozialarbeit{f}/ケースワーク[けーすわーく]/
 Sozialarbeiter{m}/ソーシャルワーカー[そーしゃるわーかー]/
 Sozialdemokratie{f}/社会民主主義[しゃかいみんしゅしゅぎ]/
-Sozialdemokratische Partei Deutschlands{f}/社会民主党[しゃかいみんしゅとう]/
+Sozialdemokratische Partei Deutschlands{f}/ドイツ社会民主党[どいつしゃかいみんしゅとう]/
 Sozialeinrichtung{f}/厚生施設[こうせいしせつ]/
 Sozialforschung{f}/社会調査[しゃかいちょうさ]/
 Sozialhilfe{f}/生活扶助[せいかつふじょ]/
@@ -26529,12 +26529,12 @@ Sozialismus{m}/社会主義[しゃかいしゅぎ]/
 Sozialist{m}/社会主義者[しゃかいしゅぎしゃ]/
 sozialistisch{adj}/社会主義的な[しゃかいしゅぎてきな]/
 Sozialistische Einheitspartei Deutschlands{f}/ドイツ社会主義統一党[どいつしゃかいしゅぎとういつとう]/
-Sozialkunde{f}/社会[しゃかい]/社会科[しゃかいか]/
+Sozialkunde{f}/社会科[しゃかいか]/
 Sozialministerium{n}/厚生省[こうせいしょう]/
 Sozialpolitik{f}/社会政策[しゃかいせいさく]/
 Sozialpsychologie{f}/社会心理学[しゃかいしんりがく]/
 Sozialstruktur{f}/社会機構[しゃかいきこう]/
-Sozialversicherung{f}/社会保険[しゃかいほけん]/社会保障[しゃかいほしょう]/
+Sozialversicherung{f}/社会保険[しゃかいほけん]/
 Sozialversicherungssystem{n}/社会保障制度[しゃかいほしょうせいど]/
 Sozietät{f}/協会[きょうかい]/
 Soziobiologie{f}/社会生物学[しゃかいせいぶつがく]/
@@ -26542,28 +26542,28 @@ Soziologe{m}/社会学者[しゃかいがくしゃ]/
 Soziologie{f}/社会学[しゃかいがく]/
 soziologisch{adj}{adv}/社会学の[しゃかいがくの]/
 sozusagen{adv}/言わば[いわば]/
-Soße{f}/汁[つゆ]/液[つゆ]/垂れ[たれ]/
+Soße{f}/{Kochk.} ソース[そーす]/
 Spachtel{m}/箆[へら]/
 Spachtelmasse{f}/フィラー[ふぃらー]/
 Spalier{n}/棚[たな]/
-Spalt{m}/隙間[すきま]/切れ目[きれめ]/隙[すき]/
+Spalt{m}/隙間[すきま]/
 Spaltbarkeit{f}/分裂性[ぶんれつせい]/
-Spalte{f}/穴[あな]/袋[ふくろ]/孔[あな]/亀裂[きれつ]/
+Spalte{f}/穴[あな]/
 spalten{vt}/割る[わる]/
 Spaltpilz{m}/分裂菌[ぶんれつきん]/
 Spaltprodukt{n}/核分裂生成物[かくぶんれつせいせいぶつ]/
-Spaltung{f}/分割[ぶんかつ]/分裂[ぶんれつ]/
+Spaltung{f}/分割[ぶんかつ]/
 Spanferkel{n}/子豚[こぶた]/
 Spange{f}/尾錠金[びじょうがね]/
 Spanien{n}/イスパニア[いすぱにあ]/
 Spanier{m}/スパニッシュ[すぱにっしゅ]/
 spanisch{adj}/スパニッシュ[すぱにっしゅ]/
 Spannbeton{m}/プレストレスト･コンコリート[ぷれすとれすとこんこりーと]/
-spannend{adj}/劇的[げきてき]/スリリング[すりりんぐ]/エキサイティング[えきさいてぃんぐ]/
+spannend{adj}/劇的[げきてき]/スリリング[すりりんぐ]/
 Spanner{m}/出歯かめ[でばかめ]/
 Spannfutter{n}/チャック[ちゃっく]/
-Spannkraft{f}/反発[はんぱつ]/弾力[だんりょく]/
-Spannung{f}/緊張[きんちょう]/緊迫[きんぱく]/迫力[はくりょく]/テンション[てんしょん]/テンション[てんしょん]/張り[はり]/張[はり]/サスペンス[さすぺんす]/
+Spannkraft{f}/(Elastizität) 弾力[だんりょく]/
+Spannung{f}/(An~) 緊張[きんちょう]/(elektrische ~) 電圧[でんあつ]/張力[ちょうりょく]/
 Spannungsabfall{m}/電位降下[でんいこうか]/
 Spannungsfestigkeit{f}/耐電圧[たいでんあつ]/
 spannungsgeladen{adj}/はらはらさせるような[はらはらさせるような]/
@@ -26572,13 +26572,13 @@ Spannvorrichtung{f}/ジグ[じぐ]/
 Spannweite{f}/翼幅[よくはば]/
 Spanplatte{f}/チップ･ボード[ちっぷぼーど]/
 Spant{n}/ろく材[ろくざい]/
-Sparbuch{n}/通い[かよい]/通帳[つうちょう]/アカウント[あかうんと]/
+Sparbuch{n}/通帳[つうちょう]/
 Sparbüchse{f}/貯金箱[ちょきんばこ]/
 Spareinlage{f}/預貯金[よちょきん]/
-Sparen{n}/貯金[ちょきん]/エコノミー[えこのみー]/セーブ[せーぶ]/
+Sparen{n}/貯金[ちょきん]/セーブ[せーぶ]/
 Sparer{m}/貯金者[ちょきんしゃ]/
 Spargel{m}/アスパラガス[あすぱらがす]/
-Spargeld{n}/貯金[ちょきん]/貯蓄[ちょちく]/貯蓄[ちょちく]/
+Spargeld{n}/貯金[ちょきん]/
 Spargroschen{m}/蓄え[たくわえ]/
 Sparguthaben{n}/貯金残高[ちょきんざんだか]/
 Sparhaushalt{m}/耐乏予算[たいぼうよさん]/
@@ -26586,26 +26586,26 @@ Sparkasse{f}/銀行[ぎんこう]/
 Sparkonto{n}/預金口座[よきんこうざ]/
 Sparneigung{f}/貯蓄性向[ちょちくせいこう]/
 Sparquote{f}/貯蓄率[ちょちくりつ]/
-Sparren{m}/桁[けた]/架[たるき]/
+Sparren{m}/{Archit.} 垂木[たるき]/
 Sparring{n}/スパーリング[すぱーりんぐ]/
 sparsam umgehen{vi}/貯蓄する[ちょちくする]/
-Sparsamkeit{f}/経済[けいざい]/節約[せつやく]/安上がり[やすあがり]/
+Sparsamkeit{f}/節約[せつやく]/
 spartanisch{adj}/スパルタの[すぱるたの]/
 Spatel{m}/箆[へら]/
-Spaten{m}/スペード[すぺーど]/スコップ[すこっぷ]/
-Spatz{m}/雀[すずめ]/スズメ[すずめ]/
+Spaten{m}/スコップ[すこっぷ]/
+Spatz{m}/雀[すずめ]/
 Spazierfahrt{f}/ドライブ[どらいぶ]/
-Spaziergang{m}/散歩[さんぽ]/散策[さんさく]/逍遥[しょうよう]/
+Spaziergang{m}/散歩[さんぽ]/
 Spazierstock{m}/ケイン[けいん]/
-Spaß{m}/遊び[あそび]/戯言[ぎげん]/愉快[ゆかい]/興[きょう]/戯れ[たわむれ]/戯れ[たわむれ]/戯れ言[ざれごと]/滑稽[こっけい]/ユーモア[ゆーもあ]/狂言[きょうげん]/冗談[じょうだん]/ジョイ[じょい]/曲[きょく]/
+Spaß{m}/(Freude) 楽しみ[たのしみ]/(Witz) 冗談[じょうだん]/
 spaßeshalber{adv}/遊び半分に[あそびはんぶんに]/
 Spaßhaftigkeit{f}/茶気[ちゃき]/
 Spaßmacher{m}/道化者[どうけもの]/
 Spaßvogel{m}/茶目[ちゃめ]/
 Specht{m}/啄木[たくぼく]/
-Speck{m}/脂肪[しぼう]/ベーコン[べーこん]/脂[あぶら]/
+Speck{m}/脂肪[しぼう]/ベーコン[べーこん]/
 Spediteur{m}/運送屋[うんそうや]/
-Spedition{f}/出荷[しゅっか]/物流[ぶつりゅう]/運送[うんそう]/
+Spedition{f}/(Transportgesellschaft) 運送会社[うんそうがいしゃ]/
 Speer{m}/槍[やり]/
 Speerspitze{f}/矛先[ほこさき]/
 Speerwurf{m}/槍投げ[やりなげ]/
@@ -26616,7 +26616,7 @@ Speichellecker{m}/腰巾着[こしぎんちゃく]/
 Speichelleckerei{m}/色目[いろめ]/
 Speichennippel{n}/ニップル[にっぷる]/
 Speichenrad{n}/スポークのついた車輪[すぽーくのついたしゃりん]/
-Speicher{m}/記憶[きおく]/メモリー[めもりー]/蔵[くら]/倉[くら]/ストア[すとあ]/メモリ[めもり]/倉庫[そうこ]/
+Speicher{m}/{EDV} メモリー[めもりー]/(Lagerhaus) 蔵[くら]/
 Speicheradresse{f}/メモリー･アドレス[めもりーあどれす]/
 Speicherblock{m}/メモリー･ブロック[めもりーぶろっく]/
 Speicherdichte{f}/記録密度[きろくみつど]/
