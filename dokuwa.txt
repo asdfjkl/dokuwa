@@ -19316,7 +19316,7 @@ muskulös{adj}{adv}/隆々[りゅうりゅう]/
 Mussehe{f}/できちゃった結婚[できちゃったけっこん]/
 Musselin{n}/唐ちりめん[とうちりめん]/
 Mussheirat{f}/できちゃった結婚[できちゃったけっこん]/
-Muster{n}/{Inf.} パターン[ぱたーん]/(Design){Bsp:Blumenmuster 花の絵柄[はなのえがら]} 絵柄[えがら]/(Schnitt~) 型紙[かたがみ]/(Vorlage) 手本[てほん]/
+Muster{n}/{Inf.} パターン[ぱたーん]/{Bsp:Blumenmuster 花の絵柄[はなのえがら]}(Design) 絵柄[えがら]/(Schnitt~) 型紙[かたがみ]/(Vorlage) 手本[てほん]/
 Musterbeispiel{n}/亀鑑[きかん]/
 Musterbetrieb{m}/模範経営[もはんけいえい]/
 Musterbuch{n}/サンプルブック[さんぷるぶっく]/
@@ -20610,7 +20610,7 @@ Orient{m}/東洋[とうよう]/
 Orientale{m}/東洋人[とうようじん]/
 orientalisch{adj}/東洋の[とうようの]/
 Orientalist{m}/東洋学者[とうようがくしゃ]/
-Orientierung{f}/志向[しこう]/指針[ししん]/(Ausrichtung) 方向性[ほうこうせい]/(Richtung){Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]} 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
+Orientierung{f}/志向[しこう]/指針[ししん]/(Ausrichtung) 方向性[ほうこうせい]/{Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]}(Richtung) 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
 Orientierungslauf{m}/オリエンテーション[おりえんてーしょん]/
 Orientierungspunkt{m}/ランドマーク[らんどまーく]/
 Orientierungssinn{m}/方向感覚[ほうこうかんかく]/
@@ -26990,7 +26990,7 @@ Spülwasser{n}/洗い水[あらいみず]/
 Spürhund{m}/警察犬[けいさつけん]/
 Spürsinn{m}/勘[かん]/
 Squash{n}/スカッシュ[すかっしゅ]/
-Staat{m}/国[くに]/国家[こっか]/天下[てんか]/
+Staat{m}/国家[こっか]/
 Staatenbündnis{n}/協商[きょうしょう]/
 staatenlos{adj}/無国籍の[むこくせきの]/
 staatlich{adj}/国立[こくりつ]/
@@ -27008,8 +27008,8 @@ Staatsbesitz{m}/国有[こくゆう]/
 Staatsbesuch{m}/外国訪問[がいこくほうもん]/
 Staatsbetrieb{m}/公社[こうしゃ]/
 Staatsdiener{m}/仕官[しかん]/
-Staatsdienst{m}/公務[こうむ]/国務[こくむ]/
-Staatsexamen{n}/検定[けんてい]/国家試験[こっかしけん]/検定試験[けんていしけん]/
+Staatsdienst{m}/公務[こうむ]/
+Staatsexamen{n}/国家試験[こっかしけん]/
 Staatsfeind{m}/公敵[こうてき]/
 Staatsform{f}/国体[こくたい]/
 Staatsgebiet{n}/版図[はんと]/
@@ -27029,7 +27029,7 @@ Staatspapiere{pl}/金縁証券[きんぶちしょうけん]/
 Staatsrat{m}/参議[さんぎ]/
 Staatsreligion{f}/国教[こっきょう]/
 Staatsräson{f}/国是[こくぜ]/
-Staatssekretär{m}/長官[ちょうかん]/次官[じかん]/事務次官[じむじかん]/
+Staatssekretär{m}/事務次官[じむじかん]/
 Staatsstraße{f}/国道[こくどう]/
 Staatsterrorismus{m}/国家テロ[こっかてろ]/
 Staatstrauer{f}/国喪[こくそう]/
@@ -27038,7 +27038,7 @@ Staatsverfassung{f}/朝憲[ちょうけん]/
 Staatsverwaltung{f}/国政[こくせい]/
 Staatswesen{n}/国体[こくたい]/
 Staatswissenschaft{f}/政治学[せいじがく]/
-Stab{m}/バトン[ばとん]/竿[さお]/棒[ぼう]/部員[ぶいん]/参謀[さんぼう]/幹部[かんぶ]/
+Stab{m}/(Stock) 棒[ぼう]/{Milit.} 幕僚[ばくりょう]/
 Stabantenne{f}/ロッドアンテナ[ろっどあんてな]/
 Stabeisen{n}/棒鋼[ぼうこう]/
 Stabhochspringer{m}/棒高跳びの選手[ぼうたかとびのせんしゅ]/
@@ -27049,23 +27049,23 @@ Stabilisator{m}/スタビライザー[すたびらいざー]/
 stabilisieren{vt}/引き締める[ひきしめる]/
 Stabilisierung{f}/安定[あんてい]/
 Stabilisierungspolitik{f}/安定化政策[あんていかせいさく]/
-Stabilität{f}/安定[あんてい]/安定性[あんていせい]/不動[ふどう]/座り[すわり]/強度[きょうど]/落着[おちつき]/落ち着き[おちつき]/
+Stabilität{f}/(Beständigkeit) 安定性[あんていせい]/(Robustheit) 頑丈[がんじょう]/
 Stabmagnet{m}/棒磁石[ぼうじしゃく]/
 Stabreim{m}/頭韻[とういん]/
 Stabschef{m}/参謀長[さんぼうちょう]/
 Stabsoffizier{m}/参謀[さんぼう]/
-Stachel{m}/針[はり]/刺[とげ]/鍼[はり]/
+Stachel{m}/虫の針[むしのはり]/
 Stachelbeere{f}/グーズベリー[ぐーずべりー]/
 Stacheldraht{m}/有刺鉄線[ゆうしてっせん]/
 Stachelrad{n}/スプロケット[すぷろけっと]/
 Stachelschwein{n}/ヤマアラシ[やまあらし]/
 Stadion{n}/競技場[きょうぎじょう]/
-Stadium{n}/段階[だんかい]/境[きょう]/域[いき]/運び[はこび]/スタジアム[すたじあむ]/
-Stadt{f}/都[と]/町[まち]/都会[とかい]/町内[ちょうない]/タウン[たうん]/街[まち]/都市[とし]/
+Stadium{n}/(Stufe) 段階[だんかい]/{Sport}(Sport~) スタジアム[すたじあむ]/
+Stadt{f}/町[まち]/(Groß~) 都会[とかい]/
 Stadtbahn{f}/電車[でんしゃ]/
-Stadtbewohner{m}/市民[しみん]/町民[ちょうみん]/
+Stadtbewohner{m}/町民[ちょうみん]/
 Stadtbezirk{m}/市区[しく]/
-Stadtbild{n}/町並み[まちなみ]/街並み[まちなみ]/
+Stadtbild{n}/町並み[まちなみ]/
 Stadtentwicklung{f}/市街地開発[しがいちかいはつ]/
 Stadterneuerung{f}/都市再開発[としさいかいはつ]/
 Stadtführer{m}/シティガイド[してぃがいど]/
@@ -27076,7 +27076,7 @@ Stadthalle{f}/公会堂[こうかいどう]/
 Stadthaus{n}/町家[ちょうか]/
 Stadtleben{n}/都市生活[としせいかつ]/
 Stadtmauer{f}/城府[じょうふ]/
-Stadtmitte{f}/街中[まちなか]/町中[まちなか]/
+Stadtmitte{f}/町中[まちなか]/
 Stadtplan{m}/地図[ちず]/
 Stadtplaner{m}/都市設計者[としせっけいしゃ]/
 Stadtplanung{f}/都市計画[としけいかく]/
@@ -27086,14 +27086,14 @@ Stadtrundfahrt{f}/サイトシーイング[さいとしーいんぐ]/
 Stadtstaat{m}/都市国家[としこっか]/
 Stadtteil{m}/区画[くかく]/
 Stadtverwaltung{f}/市政[しせい]/
-Stadtzentrum{n}/街中[まちなか]/ダウンタウン[だうんたうん]/町中[まちなか]/都心[としん]/
+Stadtzentrum{n}/都心[としん]/
 Staffel{f}/エチェロン[えちぇろん]/
 Staffelei{f}/イーゼル[いーぜる]/
 Staffelkommandant{m}/飛行大隊長[ひこうだいたいちょう]/
 Staffelstab{m}/バトン[ばとん]/
 Staffelung{f}/傾斜[けいしゃ]/
-Stagnation{f}/停滞[ていたい]/滞り[とどこおり]/不振[ふしん]/
-Stahl{m}/鉄[てつ]/鋼[はがね]/鋼鉄[こうてつ]/
+Stagnation{f}/停滞[ていたい]/
+Stahl{m}/鋼鉄[こうてつ]/
 Stahlbau{m}/鉄骨[てっこつ]/
 Stahlbeton{m}/鉄筋[てっきん]/
 Stahlblech{n}/鋼板[こうはん]/
@@ -27114,9 +27114,9 @@ Stall{m}/厩舎[きゅうしゃ]/
 Stallbursche{m}/口取り[くちとり]/
 Stallknecht{m}/別当[べっとう]/
 Stallung{f}/厩の設備[うまやのせつび]/
-Stamm{m}{f}/株[かぶ]/血統[けっとう]/藩[はん]/部族[ぶぞく]/家系[かけい]/
+Stamm{m}{f}/(Baum~) 木の幹[きのみき]/(Sippe) 部族[ぶぞく]/(Bakterien~) 菌株[きんかぶ]/
 Stammaktie{f}/親株[おやかぶ]/
-Stammbaum{m}/系譜[けいふ]/系図[けいず]/
+Stammbaum{m}/系図[けいず]/
 stammen{vi}{kommen aus}/発する[はっする]/
 Stammesangehörige{m}{f}/部族民[ぶぞくみん]/
 Stammeshäuptling{m}/族長[ぞくちょう]/
@@ -27124,20 +27124,19 @@ Stammform{f}/基本型[きほんけい]/
 Stammfunktion{f}/原始関数[げんしかんすう]/
 Stammgast{m}/常連[じょうれん]/
 Stammhalter{m}/太子[たいし]/
-Stammhaus{n}/本社[ほんしゃ]/総本家[そうほんけ]/本家[ほんけ]/
+Stammhaus{n}/(Hauptverwaltung) 本社[ほんしゃ]/
 Stammkapital{n}/固定資本[こていしほん]/
 Stammkunde{m}/得意先[とくいさき]/
 Stammpublikum{n}/常連[じょうれん]/
 Stammrolle{f}/軍籍[ぐんせき]/
 Stammtafel{f}/系図[けいず]/
 Stammtisch{m}/常連さんのテーブル[じょうれんさんのてーぶる]/
-Stammvater{m}/元祖[がんそ]/先祖[せんぞ]/
 Stammzelle{f}/幹細胞[かんさいぼう]/
 Stammzellenforschung{f}/幹細胞研究[かんさいぼうけんきゅう]/
 Stampfen{n}/動揺[どうよう]/足踏み[あしぶみ]/
 Stampfer{m}/杵[きね]/
-Stand{m}/町[まち]/出店[でみせ]/具合[ぐあい]/身分[みぶん]/情勢[じょうせい]/刻み[きざみ]/スタンド[すたんど]/街[まち]/際[きわ]/足場[あしば]/露店[ろてん]/地位[ちい]/
-Standard{m}/標準[ひょうじゅん]/規格[きかく]/基準法[きじゅんほう]/基準[きじゅん]/一定[いってい]/スタンダード[すたんだーど]/規範[きはん]/
+Stand{m}/(Sachlage) 情勢[じょうせい]/(Verkaufs~) 露店[ろてん]/
+Standard{m}/(Norm) 標準[ひょうじゅん]/
 Standardabweichung{f}/偏差値[へんさち]/
 Standardfehler{m}/標準誤差[ひょうじゅんごさ]/
 Standardgröße{f}/規格判[きかくばん]/
@@ -27150,15 +27149,15 @@ standfest{adj}/りょうりょうとした[りょうりょうとした]/
 Standfestigkeit{f}/足[あし]/
 Standfläche{f}/畳付き[たたみつき]/
 standhaft bleiben{vi}/てこでも動かない[てこでもうごかない]/
-Standhaftigkeit{f}/毅然[きぜん]/確固[かっこ]/
+Standhaftigkeit{f}/毅然[きぜん]/
 Standmiete{f}/場銭[ばせん]/
-Standort{m}/位置[いち]/所在地[しょざいち]/駐在[ちゅうざい]/ロケーション[ろけーしょん]/所在[しょざい]/向き[むき]/立地[りっち]/
+Standort{m}/所在地[しょざいち]/
 Standortwahl{f}/立地[りっち]/
 Standplatz{m}/足がかり[あしがかり]/
-Standpunkt{m}/目[め]/点[てん]/観点[かんてん]/立場[たちば]/心がけ[こころがけ]/意見[いけん]/視点[してん]/角度[かくど]/位置[いち]/眼[め]/見[けん]/
+Standpunkt{m}/(Gesichtspunkt) 立場[たちば]/(Meinung) 意見[いけん]/
 Standseilbahn{f}/鋼索鉄道[こうさくてつどう]/
 Standuhr{f}/クロック[くろっく]/
-Stange{f}/バー[ばー]/竿[さお]/ポール[ぽーる]/
+Stange{f}/竿[さお]/
 Stangenbohne{f}/隠元[いんげん]/
 Stanze{f}/打ち抜き[うちぬき]/
 Stanzen{n}/打ち抜き[うちぬき]/
@@ -27168,9 +27167,9 @@ Stapeldatei{f}/バッチファイル[ばっちふぁいる]/
 Stapellauf{m}/進水[しんすい]/
 Stapelverarbeitung{f}/バッチ処理[ばっちしょり]/
 Staphylokokkus{m}/葡萄状球菌[ぶどうじょうきゅうきん]/
-Star{m}/スター[すたー]/芸能人[げいのうじん]/明星[みょうじょう]/タレント[たれんと]/アイドル[あいどる]/
+Star{m}/芸能人[げいのうじん]/タレント[たれんと]/
 Stargast{m}/特別ゲスト[とくべつげすと]/
-stark{adv}{adj}/大丈夫[だいじょうぶ]/太い[ふとい]/激しい[はげしい]/酷い[ひどい]/こってり[こってり]/きつい[きつい]/がんがん[がんがん]/ガンガン[がんがん]/強い[つよい]/猛烈[もうれつ]/逞しい[たくましい]/どんどん[どんどん]/
+stark{adv}{adj}/強い[つよい]/
 Starkbier{n}/ヘビー･ビール[へびーびーる]/
 starke Zunahme{f}/激増[げきぞう]/
 Starkstrom{m}/強電[きょうでん]/
@@ -27180,12 +27179,12 @@ starrend{adj}/目を据えて[めをすえて]/
 Starrflügler{m}/固定翼機[こていつばさき]/
 Starrheit{f}/硬さ[かたさ]/固さ[かたさ]/
 Starrkrampf{m}/破傷風[はしょうふう]/
-starrköpfig{adj}/硬い[かたい]/固い[かたい]/堅い[かたい]/
-Starrsinn{m}/我慢[がまん]/意地[いじ]/頑な[かたくな]/頑固[がんこ]/
-Start{m}/スタート[すたーと]/発足[ほっそく]/出走[しゅっそう]/離陸[りりく]/始動[しどう]/出発点[しゅっぱつてん]/立ち上がり[たちあがり]/開始[かいし]/
+starrköpfig{adj}/(eigensinnig) 頑固な[がんこな]/(inflexibel) 頭が固い[あたまがかたい]/
+Starrsinn{m}/頑固[がんこ]/
+Start{m}/スタート[すたーと]/発足[ほっそく]/
 Startaufstellung{f}/スタメン[すためん]/
 Startblock{m}/スターティングブロック[すたーてぃんぐぶろっく]/
-starten{vi}/掛かる[かかる]/立ち上がる[たちあがる]/動き出す[うごきだす]/立ち上げる[たちあげる]/
+starten{vi}/スタートする[すたーとする]/(beginnen) 始まる[はじまる]/(abfliegen) 離陸する[りりくする]/
 Starter{m}/スターター[すたーたー]/
 Starterlaubnis{f}/クリアランス[くりあらんす]/
 Startgewicht{n}/離陸重量[りりくじゅうりょう]/
@@ -27197,7 +27196,7 @@ Startschuss{m}/号音[ごうおん]/
 Startseite{f}/ウェルカム･ページ[うぇるかむぺーじ]/
 Startzeit{f}/起動時[きどうじ]/
 Statik{f}/静力学[せいりきがく]/
-Station{f}/次[つぎ]/ステーション[すてーしょん]/局[きょく]/合[ごう]/節目[ふしめ]/駅[えき]/
+Station{f}/(Bahnhof) 駅[えき]/(Ruhepause) 休憩[きゅうけい]/
 Stationierung{f}/駐留[ちゅうりゅう]/
 Stationsvorsteher{m}/駅長[えきちょう]/
 stationär{adj}/据え付けの[すえつけの]/
@@ -27206,24 +27205,24 @@ Statist{m}/エキストラ[えきすとら]/
 Statistik{f}/統計[とうけい]/
 Statistiker{m}/統計学者[とうけいがくしゃ]/
 statistisch{adj}/統計的[とうけいてき]/
-stattfinden{vi}/起こる[おこる]/在る[ある]/有る[ある]/
+stattfinden{vi}/行われる[おこなわれる]/
 Statthalter{m}/代官[だいかん]/
-stattlich{adj}/立派[りっぱ]/堂々[どうどう]/颯爽[さっそう]/どっしり[どっしり]/
+stattlich{adj}/(prächtig) 立派[りっぱ]/(von ~er Statur;kräftig gebaut sein) 格幅がいい[かっぷくがいい]/
 stattliche Erscheinung{f}/堂々たる姿[どうどうたるすがた]/
-Statur{f}/なり[なり]/体[からだ]/背[せい]/身体[からだ]/体格[たいかく]/姿[すがた]/
-Status{m}/資格[しかく]/待遇[たいぐう]/座[ざ]/ステータス[すてーたす]/
+Statur{f}/(Körperbau) 体格[たいかく]/
+Status{m}/(Sachlage) 情況[じょうきょう]/
 Status quo{m}/現状[げんじょう]/
 Statusleiste{f}/ステータスバー[すてーたすばー]/
 Statussymbol{n}/ステータスシンボル[すてーたすしんぼる]/
-Statut{m}/規則[きそく]/掟[おきて]/
+Statut{m}/(Satzung) 定款[ていかん]/
 Stau{m}/交通マヒ[こうつうまひ]/
-Staub{m}/ゴミ[ごみ]/ちり[ちり]/埃[ほこり]/チリ[ちり]/粉末[ふんまつ]/ダスト[だすと]/塵[ごみ]/
+Staub{m}/(Schmutz) 塵[ちり]/埃[ほこり]/
 Staubbeutel{m}/葯[やく]/
 Staubecken{n}/排水桝[はいすいます]/
 Staubfaden{m}/雄しべ[おしべ]/
 Staublunge{f}/じん肺[じんぱい]/
 Staubmantel{m}/ダスターコート[だすたーこーと]/
-Staubsauger{m}/掃除機[そうじき]/クリーナー[くりーなー]/
+Staubsauger{m}/掃除機[そうじき]/
 Staubsturm{m}/ダスト･ストーム[だすとすとーむ]/
 Staubtuch{n}/ダスター[だすたー]/
 Staubwedel{m}/采配[さいはい]/
@@ -27231,29 +27230,29 @@ Staubwolke{f}/砂塵[さじん]/
 Staudamm{m}/ダム[だむ]/
 Staude{f}/宿根[しゅくこん]/
 Stauer{m}/沖仲仕[おきなかし]/
-staunen{vi}/…に驚がくする[…にきょうがくする]/
+staunen{vi}/...に驚がくする[...にきょうがくする]/
 Stausee{m}/人造湖[じんぞうこ]/
-Stauung{f}/渋滞[じゅうたい]/停滞[ていたい]/
+Stauung{f}/停滞[ていたい]/
 Steak{n}/ステーキ[すてーき]/
 Stechapfel{m}/白花洋種朝鮮朝顔[しろばなようしゅちょうせんあさがお]/
-stechen{vt}/切る[きる]/突く[つく]/刺す[さす]/刺す[さす]/食う[くう]/喰う[くう]/斬る[きる]/
+stechen{vt}/刺す[さす]/
 Stechen{n}/突貫[とっかん]/
 Stechkarte{f}/タイムカード[たいむかーど]/
 Stechmücke{f}/蚊[か]/
 Stechpalme{f}/柊[ひいらぎ]/
 Stechuhr{f}/タイムレコーダー[たいむれこーだー]/
 Steckbrief{m}/令状[れいじょう]/
-Steckdose{f}/ジャック[じゃっく]/アウトレット[あうとれっと]/コンセント[こんせんと]/タップ[たっぷ]/
+Steckdose{f}/コンセント[こんせんと]/
 stecken{vt}/はめ込む[はめこむ]/
 Steckenpferd{n}/道楽[どうらく]/
 Stecker{m}/プラグ[ぷらぐ]/
 Steckkontakt{m}/差し込み[さしこみ]/
 Steckling{m}/取り木[とりき]/
-Stecknadel{f}/ピン[ぴん]/針[はり]/鍼[はり]/
+Stecknadel{f}/ピン[ぴん]/留針[とめばり]/
 Steckplatz{m}/スロット[すろっと]/
 Steckschlüssel{m}/ボックスレンチ[ぼっくすれんち]/
 Steckschuss{m}/盲管銃創[もうかんじゅうそう]/
-Steg{m}/ウェブ[うぇぶ]/ブリッジ[ぶりっじ]/
+Steg{m}/(Boots~) ボート乗り場[ぼーとのりば]/
 Stegosaurus{n}/ステゴザウルス[すてござうるす]/
 Stehaufmännchen{n}/達磨[だるま]/
 Stehempfang{m}/立食パーティー[りっしょくぱーてぃー]/
@@ -27263,26 +27262,26 @@ Stehlampe{f}/スタンド[すたんど]/
 Stehleiter{f}/踏み台[ふみだい]/
 stehlen{vt}/盗む[ぬすむ]/
 Stehplatz{m}/立ち見席[たちみせき]/
-steif{adj}/硬い[かたい]/ぎこちない[ぎこちない]/固い[かたい]/堅い[かたい]/
-Steife{m}/硬さ[かたさ]/固さ[かたさ]/
-Steifheit{f}/窮屈[きゅうくつ]/硬直[こうちょく]/凝り[こり]/固さ[かたさ]/硬さ[かたさ]/
+steif{adj}/固い[かたい]/
+Steife{m}/固さ[かたさ]/
+Steifheit{f}/(Förmlichkeit) 虚礼[きょれい]/固さ[かたさ]/
 Steigbügel{m}/鐙[あぶみ]/
 Steigeisen{n}/アイゼン[あいぜん]/
-steigen{vi}/乗る[のる]/上がる[あがる]/上る[のぼる]/登る[のぼる]/昇る[のぼる]/高まる[たかまる]/増す[ます]/
+steigen{vi}/(in ein Fahrzeug ein~) 乗る[のる]/(auf einen Berg ~) 登る[のぼる]/
 steigend{adj}/好況の[こうきょうの]/
 Steiger{m}/鉱山労働者[こうざんろうどうしゃ]/
-Steigerung{f}/高揚[こうよう]/高まり[たかまり]/
+Steigerung{f}/{Gramm.} 比較変化[ひかくへんか]/(Erhöhnung) 高まり[たかまり]/
 Steiggeschwindigkeit{f}/上昇速度[じょうしょうそくど]/
 Steighöhe{f}/上昇限度[じょうしょうげんど]/
-Steigung{f}/坂[さか]/登り[のぼり]/傾斜[けいしゃ]/上り坂[のぼりざか]/勾配[こうばい]/
+Steigung{f}/(Anstieg) 上り坂[のぼりざか]/{Mathematik}(~ einer Geraden) 傾き[かたむき]/
 steil hochziehen{vt}/急上昇する[きゅうじょうしょうする]/
 Steilflug{m}/急上昇[きゅうじょうしょう]/
-Steilhang{m}/崖[がけ]/岸[きし]/
+Steilhang{m}/崖[がけ]/
 Steilheit{f}/急[きゅう]/
 Steilküste{f}/切り立った崖[きりたったがけ]/
 Steilufer{n}/岸壁[がんぺき]/
 Steilwand{f}/絶壁[ぜっぺき]/
-Stein{m}/種[たね]/結石[けっせき]/石[いし]/核[さね]/
+Stein{m}/石[いし]/
 Steinbock{m}/山羊座[やぎざ]/
 Steinbrecher{m}/圧砕機[あっさいき]/
 Steinbruch{m}/採石場[さいせきじょう]/
@@ -27311,31 +27310,31 @@ Steinzeit{f}/石器時代[せっきじだい]/
 Steißbein{n}/尾てい骨[びていこつ]/
 Steißgeburt{f}/倒産[とうさん]/
 stellar{adj}/星の[ほしの]/
-Stelldichein{n}/デート[でーと]/待ち合わせ[まちあわせ]/
-Stelle{f}/サイト[さいと]/節[ふし]/条[くだり]/場[ば]/場面[ばめん]/界[さかい]/境[きょう]/職業[しょくぎょう]/部署[ぶしょ]/椅子[いす]/園[その]/職[しょく]/ロケーション[ろけーしょん]/位置[いち]/位[くらい]/席[せき]/傷[きず]/地点[ちてん]/箇所[かしょ]/件[くだり]/場所[ばしょ]/苑[その]/プレイス[ぷれいす]/地位[ちい]/
+Stelldichein{n}{veraltet}/(Date) デート[でーと]/(Rendezvous) ランデブー[らんでぶー]/
+Stelle{f}/(Ort) 場所[ばしょ]/(Posten) 地位[ちい]/{Bsp:eine Arbeitsstelle suchen 勤め口ちをさがす[つとめぐちをさがす]}(Arbeits~) 勤め口[つとめぐち]/
 Stellen{n}/節々[ふしぶし]/
-stellen{vt}/与える[あたえる]/置く[おく]/掛ける[かける]/詰める[つめる]/
+stellen{vt}/置く[おく]/
 Stellenangebot{n}/求人広告[きゅうじんこうこく]/
 Stellenanzeige{f}/求人広告[きゅうじんこうこく]/
 Stellensuche{f}/求職[きゅうしょく]/
 stellenweise{adv}/部分的[ぶぶんてき]/
 Stellknorpel{m}/披裂軟骨[ひれつなんこつ]/
 Stellnetz{n}/刺し網[さしあみ]/
-Stellung{f}/位[くらい]/陣[じん]/椅子[いす]/宿舎[しゅくしゃ]/地盤[じばん]/位置[いち]/ポジション[ぽじしょん]/構[かまえ]/スタンス[すたんす]/てい[てい]/地位[ちい]/構え[かまえ]/
-Stellungnahme{f}/コメント[こめんと]/観点[かんてん]/
+Stellung{f}/(Körperhaltung) 姿勢[しせい]/(Posten) 地位[ちい]/
+Stellungnahme{f}/(Kommentar) コメント[こめんと]/観点[かんてん]/
 Stellungskrieg{m}/持久戦[じきゅうせん]/
-stellvertretend{adj}{adv}/副…[ふく]/
-stellvertretender Direktor/次長[じちょう]/副社長[ふくしゃちょう]/
-Stellvertreter{m}/代[だい]/代役[だいやく]/代理人[だいりにん]/代理[だいり]/影[かげ]/代表[だいひょう]/代人[だいにん]/代わり[かわり]/替わり[かわり]/
+stellvertretend{adj}{adv}/副...[ふく]/
+stellvertretender Direktor/副社長[ふくしゃちょう]/
+Stellvertreter{m}/代理人[だいりにん]/
 Stellvertreterkrieg{m}/代理戦争[だいりせんそう]/
-Stellvertretung{f}/代表[だいひょう]/代理[だいり]/補欠[ほけつ]/代行[だいこう]/
+Stellvertretung{f}/代表[だいひょう]/
 Stellwerk{n}/開閉室[かいへいしつ]/
 Stelze{f}/ピロティ[ぴろてぃ]/
 Stelzenläufer{m}/せいたかしぎ[せいたかしぎ]/
 Stemmbogen{m}/シュテムボーゲン[しゅてむぼーげん]/
 Stemmeisen{n}/彫刻刀[ちょうこくとう]/
 stemmen{vt}/制動する[せいどうする]/
-Stempel{m}/印[いん]/判[はん]/スタンプ[すたんぷ]/
+Stempel{m}/印章[いんしょう]/
 Stempelfarbe{f}/印肉[いんにく]/
 Stempelkissen{n}/肉[にく]/
 Stenograf{m}/速記者[そっきしゃ]/
@@ -27350,8 +27349,8 @@ Stepptänzer{m}/タップダンサー[たっぷだんさー]/
 Sterbebegleitung{f}/終末医療[しゅうまついりょう]/
 Sterbegeld{n}/死亡保険金[しぼうほけんきん]/
 Sterbehilfe{f}/安楽死[あんらくし]/
-sterben{vi}/死ぬ[しぬ]/眠る[ねむる]/隠れる[かくれる]/倒れる[たおれる]/亡くなる[なくなる]/陥る[おちいる]/止む[やむ]/逝く[ゆく]/
-Sterben{n}/死[しに]/亡き[なき]/瀕死[ひんし]/昇天[しょうてん]/死亡[しぼう]/
+sterben{vi}/死ぬ[しぬ]/
+Sterben{n}/死亡[しぼう]/
 sterbend{adj}{adv}/今はの際の[いまはのさいの]/
 Sterbeort{m}/死に場所[しにばしょ]/
 Sterbeurkunde{f}/死亡証書[しぼうしょうしょ]/
@@ -27368,14 +27367,14 @@ Stereoskop{n}/ステレオスコープ[すてれおすこーぷ]/
 Stereotypie{f}/鉛版印刷[えんばんいんさつ]/
 stereotypieren{vt}/鉛版にとる[えんばんにとる]/
 steril{adv}/雄花の[ゆうかの]/
-Sterilisation{f}/消毒[しょうどく]/殺菌[さっきん]/
+Sterilisation{f}/(Desinfektion) 消毒[しょうどく]/(Kastration) 断種[だんしゅ]/
 Sterilisator{m}/消毒器[しょうどくき]/
 sterilisieren{vt}/殺菌する[さっきんする]/
 sterilisiert{adj}/消毒した[しょうどくした]/
-Sterilität{f}/不妊[ふにん]/不妊症[ふにんしょう]/
-Stern{m}/星[ほし]/明星[みょうじょう]/スター[すたー]/
+Sterilität{f}/(Unfruchtbarkeit) 不妊[ふにん]/(Keimfreiheit) 無菌状態[むきんじょうたい]/
+Stern{m}/星[ほし]/
 Sternbild{n}/星座[せいざ]/
-Sternchen{n}/星[ほし]/明星[みょうじょう]/スター[すたー]/
+Sternchen{n}/星[ほし]/
 Sternenbanner{m}/星条旗[せいじょうき]/
 Sternenhimmel{m}/星空[ほしぞら]/
 Sternenlicht{n}/スターライト[すたーらいと]/
@@ -27384,15 +27383,15 @@ sternförmig{adv}{adj}/星型の[ほしがたの]/
 Sternkarte{f}/星図[せいず]/
 Sternkonstellation{f}/星運[ほしうん]/
 Sternsaphir{m}/スターサファイア[すたーさふぁいあ]/
-Sternschnuppe{f}/流星[りゅうせい]/流れ星[ながれぼし]/
+Sternschnuppe{f}/流星[りゅうせい]/
 Sterntaucher{m}/アビ[あび]/
 Sternwarte{f}/天文台[てんもんだい]/
 Steroid{n}/ステロイド[すてろいど]/
 steter Wandel{m}/流転[るてん]/
 Stethoskop{n}/聴診器[ちょうしんき]/
-stetig{adj}/ぐんぐん[ぐんぐん]/継続的[けいぞくてき]/ジワジワ[じわじわ]/
-Steuer{f}{n}/税金[ぜいきん]/課税[かぜい]/タックス[たっくす]/調[みつぎ]/税[ぜい]/
-Steuer{m}/課税控除[かぜいこうじょ]/
+stetig{adj}/(fortdauernd) 継続的[けいぞくてき]/
+Steuer{f}/税金[ぜいきん]/
+Steuer{n}/(Flugzeug) 操縦桿[そうじゅうかん]/(Lenkrad) ハンドル[はんどる]/
 Steueraufkommen{n}/税収[ぜいしゅう]/
 Steuerbefreiung{f}/免税[めんぜい]/
 Steuerbehörde{f}/税務署[ぜいむしょ]/
@@ -27431,7 +27430,7 @@ Steuerruder{n}/舵[かじ]/
 Steuersatz{m}/税率[ぜいりつ]/
 Steuersenkung{f}/減税[げんぜい]/
 Steuersystem{n}/税制[ぜいせい]/
-Steuerung{f}/運転[うんてん]/操縦[そうじゅう]/制御[せいぎょ]/
+Steuerung{f}/操縦[そうじゅう]/(Kontrolle) 制御[せいぎょ]/
 Steuerungstechnik{f}/操縦法[そうじゅうほう]/
 Steuerveranlagung{f}/課税[かぜい]/
 Steuerverwaltung{f}/税務[ぜいむ]/
@@ -27450,9 +27449,9 @@ Stichprobenprüfung{f}/抽出検査[ちゅうしゅつけんさ]/
 Stichsäge{f}/ジグソー[じぐそー]/
 Stichtag{m}/タイムリミット[たいむりみっと]/
 Stichwahl{f}/決選[けっせん]/
-Stichwort{n}/キーワード[きーわーど]/項目[こうもく]/
+Stichwort{n}/キーワード[きーわーど]/
 Stichwunde{f}/刺し傷[さしきず]/
-sticken{vt}/刺す[さす]/縫う[ぬう]/
+sticken{vt}/縫う[ぬう]/
 Stickerei{f}/刺繍[ししゅう]/
 stickig{adj}{adv}/息苦しい[いきぐるしい]/
 Stickmuster{n}/縫い模様[ぬいもよう]/
@@ -27460,7 +27459,7 @@ Stickoxid{n}/窒素酸化物[ちっそさんかぶつ]/
 Stickrahmen{m}/タンブール[たんぶーる]/
 Stickstoff{m}/窒素[ちっそ]/
 stickstoffhaltig{adj}/窒素質の[ちっそしつの]/
-Stiefel{m}/靴[くつ]/長靴[ながぐつ]/ブーツ[ぶーつ]/
+Stiefel{m}/長靴[ながぐつ]/ブーツ[ぶーつ]/
 Stiefelknecht{m}/ブーツぬぎ[ぶーつぬぎ]/
 Stiefeltern{pl}/継父母[けいふぼ]/
 Stiefgeschwister{pl}/異父兄弟[いふきょうだい]/
@@ -27471,7 +27470,7 @@ Stiefsohn{m}/継子[けいし]/
 Stieftochter{f}/継子[けいし]/
 Stiefvater{m}/義父[ぎふ]/
 Stiege{f}/階段[かいだん]/
-Stiel{m}/足[あし]/幹[から]/幹[から]/茎[くき]/軸[じく]/握り[にぎり]/
+Stiel{m}/(Handgriff) 柄[え]/
 Stielauge{n}/有柄眼[ゆうへいめ]/
 Stier{m}/牛[うし]/
 Stierkampf{m}/コリーダ[こりーだ]/
