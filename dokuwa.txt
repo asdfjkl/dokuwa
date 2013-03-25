@@ -26628,13 +26628,13 @@ Speichermedium{n}/記録媒体[きろくばいたい]/
 speichern{vt}/蓄える[たくわえる]/
 Speichern{n}/セーブ[せーぶ]/
 Speicherplatz{m}/ディスクスペース[でぃすくすぺーす]/
-Speicherung{f}/記録[きろく]/収納[しゅうのう]/蓄積[ちくせき]/
+Speicherung{f}/(Lagerung) 格納[かくのう]/
 speien{vi}/噴く[ふく]/
 Speigatt{m}/排水孔[はいすいこう]/
-Speise{f}/料理[りょうり]/糧[りょう]/食べ物[たべもの]/食物[しょくもつ]/食い物[くいもの]/
-Speisehaus{n}/飲食店[いんしょくてん]/飯屋[めしや]/
+Speise{f}/料理[りょうり]/
+Speisehaus{n}/飲食店[いんしょくてん]/
 Speisekammer{f}/パントリー[ぱんとりー]/
-Speisekarte{f}/献立[こんだて]/品書き[しながき]/
+Speisekarte{f}/メニュー[めにゅー]/
 Speisenfolge{f}/献立[こんだて]/
 Speiseröhre{f}/食道[しょくどう]/
 Speiseröhrenkrebs{m}/食道がん[しょくどうがん]/
@@ -26657,9 +26657,9 @@ spekulativ{adj}{adv}/思索的[しさくてき]/
 spekulieren{vi}/見越す[みこす]/
 Spelunke{f}/飲み屋[のみや]/
 spendabel{adj}/気前のいい[きまえのいい]/
-Spende{f}/贈り物[おくりもの]/寄贈[きぞう]/
-spenden{vi}/下さる[くださる]/納める[おさめる]/収める[おさめる]/
-Spender{m}/施主[せしゅ]/ドナー[どなー]/
+Spende{f}/寄贈[きぞう]/
+spenden{vi}/贈る[おくる]/
+Spender{m}/施主[せしゅ]/
 Sperber{m}/ハイタカ[はいたか]/
 Sperma{n}/精液[せいえき]/
 Spermatogenese{f}/精子発生[せいしはっせい]/
@@ -26674,26 +26674,26 @@ Sperrholz{n}/プライウッド[ぷらいうっど]/
 Sperrkonto{n}/封鎖勘定[ふうさかんじょう]/
 Sperrmüll{m}/粗大ごみ[そだいごみ]/
 Sperrstunde{f}/看板[かんばん]/
-Sperrung{f}/閉鎖[へいさ]/閉塞[へいそく]/
+Sperrung{f}/(Barrikade) バリケード[ばりけーど]/(Blockade) 封鎖[ふうさ]/
 Sperrzone{f}/オフリミット[おふりみっと]/
 Spezialeffekt{m}/特撮[とくさつ]/
 Spezialeinheit{f}/特殊部隊[とくしゅぶたい]/
-Spezialgebiet{n}/領域[りょういき]/専門分野[せんもんぶんや]/
-Spezialisierung{f}/専業[せんぎょう]/特化[とっか]/
-Spezialist{m}/専門家[せんもんか]/専門職[せんもんしょく]/スペシャリスト[すぺしゃりすと]/研究家[けんきゅうか]/
-speziell{adj}/特に[とくに]/特別[とくべつ]/折角[せっかく]/格別[かくべつ]/別段[べつだん]/
+Spezialgebiet{n}/専門分野[せんもんぶんや]/
+Spezialisierung{f}/専業[せんぎょう]/
+Spezialist{m}/専門家[せんもんか]/
+speziell{adj}/特別[とくべつ]/
 Spezies{f}/類[るい]/
-Spezifikation{f}/仕様[しよう]/規格[きかく]/
+Spezifikation{f}/規格[きかく]/
 Spezifikum{n}/特効薬[とっこうやく]/
 spezifizieren{vt}/書き上げる[かきあげる]/
 Sphinx{f}/奥底の知れない人物[おくそこのしれないじんぶつ]/
-Sphäre{f}/範囲[はんい]/サークル[さーくる]/域[いき]/圏[けん]/領域[りょういき]/
+Sphäre{f}/{fig.}(Bereich) 範囲[はんい]/(Himmelskugel) 天球[てんきゅう]/
 sphärisch{adj}/丸い[まるい]/
 Sphäroid{m}/扁球[へんきゅう]/
 spicken{vt}/カンニングする[かんにんぐする]/
 Spickzettel{m}/カンニングペーパー[かんにんぐぺーぱー]/
-Spiegel{m}/鏡[かがみ]/鑑[かん]/ミラー[みらー]/
-Spiegelbild{n}/映像[えいぞう]/映り[うつり]/写り[うつり]/影[かげ]/
+Spiegel{m}/鏡[かがみ]/
+Spiegelbild{n}/映像[えいぞう]/
 Spiegelebene{f}/対称面[たいしょうめん]/
 Spiegelei{n}/目玉焼き[めだまやき]/
 Spiegelfechterei{f}/一人相撲[ひとりずもう]/
@@ -26701,7 +26701,7 @@ Spiegelglas{n}/ガラス板[がらすいた]/
 spiegeln{vt}/反映する[はんえいする]/
 Spiegelreflexkamera{f}/レフレックスカメラ[れふれっくすかめら]/
 Spiegelsaal{m}/鏡の間[かがみのま]/
-Spiel{n}/ゲーム[げーむ]/余裕[よゆう]/遊戯[ゆうぎ]/遊戯[ゆうぎ]/遊び[あそび]/遊び[あそび]/ゆとり[ゆとり]/試合[しあい]/競技[きょうぎ]/上演[じょうえん]/戦い[たたかい]/闘い[たたかい]/勝負[しょうぶ]/翻弄[ほんろう]/演技[えんぎ]/
+Spiel{n}/ゲーム[げーむ]/遊び[あそび]/
 Spielart{f}/変種[へんしゅ]/
 Spielautomat{m}/スロットマシン[すろっとましん]/
 Spielball{m}/槍玉[やりだま]/
@@ -26709,9 +26709,9 @@ Spielbank{f}/賭場[とば]/
 Spielbeginn{m}/オフ[おふ]/
 Spielbrett{n}/盤[ばん]/
 Spieldose{f}/オルゴール[おるごーる]/
-Spielen{n}/遊び[あそび]/博打[ばくち]/ギャンブル[ぎゃんぶる]/遊戯[ゆうぎ]/戯れ[たわむれ]/プレー[ぷれー]/
-spielen{vt}/遊ぶ[あそぶ]/狂う[くるう]/プレイ[ぷれい]/戯れる[じゃれる]/戦う[たたかう]/闘う[たたかう]/演じる[えんじる]/
-Spieler{m}/選手[せんしゅ]/遊び人[あそびにん]/ゲーマー[げーまー]/ギャンブラー[ぎゃんぶらー]/プレイヤー[ぷれいやー]/プレーヤー[ぷれーやー]/
+Spielen{n}/遊び[あそび]/
+spielen{vt}/遊ぶ[あそぶ]/
+Spieler{m}/(Sportler) 選手[せんしゅ]/
 Spielerei{f}/絵空事[えそらごと]/
 Spielergebnis{n}/試合結果[しあいけっか]/
 spielerisch{adj}/遊戯的[ゆうぎてき]/
@@ -26727,8 +26727,8 @@ Spielleidenschaft{f}/射幸心[しゃこうしん]/
 Spielmacher{m}/司令塔[しれいとう]/
 Spielpartner{m}/具[ぐ]/
 Spielplan{m}/番付[ばんづけ]/
-Spielplatz{m}/遊園地[ゆうえんち]/遊び場[あそびば]/
-Spielraum{m}/余裕[よゆう]/ゆとり[ゆとり]/余地[よち]/空き[あき]/
+Spielplatz{m}/遊園地[ゆうえんち]/
+Spielraum{m}/(beim Handwerken:zu viel Spiel haben) 遊びが多すぎる[あそびがおおすぎる]/
 Spielstand{m}/スコア[すこあ]/
 Spielstein{m}/将棋の駒[しょうぎのこま]/
 Spieltheorie{f}/ゲーム理論[げーむりろん]/
@@ -26740,7 +26740,7 @@ Spielzeit{f}/回[かい]/
 Spielzeug{n}/玩具[がんぐ]/
 Spielzimmer{n}/遊戯室[ゆうぎしつ]/
 Spiere{f}/桁[けた]/
-Spieß{m}/串[くし]/槍[やり]/
+Spieß{m}/(Brat~) 串[くし]/
 Spießbürger{m}/俗人[ぞくじん]/
 Spießente{f}/尾長がも[おなががも]/
 spießig{adj}/せこい[せこい]/
@@ -26754,17 +26754,17 @@ spindeldürr{adj}/ひょろ長い[ひょろながい]/
 spindelförmig{adj}/紡錘形の[ぼうすいけいの]/
 Spindelstock{m}/ヘッド･ストック[へっどすとっく]/
 Spinell{m}/せん晶石[せんしょうせき]/
-Spinne{f}/スパイダー[すぱいだー]/蜘蛛[くも]/
+Spinne{f}/蜘蛛[くも]/
 Spinner{m}/糸繰り[いとくり]/
 Spinnerei{f}/紡績[ぼうせき]/
 Spinnfaden{m}/網[い]/
 Spinnmaschine{f}/ミュール[みゅーる]/
 Spinnrad{n}/糸車[いとぐるま]/
-Spion{m}/犬[いぬ]/スパイ[すぱい]/
+Spion{m}/スパイ[すぱい]/
 Spionage{f}/諜報[ちょうほう]/
 Spionageabwehr{f}/特務機関[とくむきかん]/
 Spionagering{m}/スパイ団[すぱいだん]/
-Spirale{f}/スパイラル[すぱいらる]/螺旋[らせん]/
+Spirale{f}/スパイラル[すぱいらる]/螺旋[らせん]/(Verhütungsmittel) 子宮内避妊器具[しきゅうないひにんきぐ]/
 spiralig{adj}/螺旋形の[らせんけいの]/
 Spiralnebel{m}/渦状星雲[かじょうせいうん]/
 Spiritismus{m}/スピリチュアリズム[すぴりちゅありずむ]/
@@ -26781,12 +26781,12 @@ Spital{n}/治療所[ちりょうしょ]/
 Spitz{m}/ポメラニアン[ぽめらにあん]/
 Spitzbogen{m}/尖頭アーチ[せんとうあーち]/
 Spitzbube{m}/茶目[ちゃめ]/
-Spitze{f}/トップ[とっぷ]/首脳[しゅのう]/天井[てんじょう]/首位[しゅい]/末端[まったん]/頂上[ちょうじょう]/先端[せんたん]/頂点[ちょうてん]/頂[いただき]/頂き[いただき]/レース[れーす]/先[さき]/そら[そら]/先頭[せんとう]/首席[しゅせき]/
+Spitze{f}/(Spitzenklasse) トップ[とっぷ]/(eines Objekts) 先端[せんたん]/
 Spitzel{m}/回し者[まわしもの]/
 Spitzenbelastung{f}/尖頭負荷[せんとうふか]/
 Spitzengeschwindigkeit{f}/最高速度[さいこうそくど]/
 Spitzengruppe{f}/トップグループ[とっぷぐるーぷ]/
-Spitzenklasse{f}/トップ[とっぷ]/トップクラス[とっぷくらす]/
+Spitzenklasse{f}/トップ[とっぷ]/
 Spitzensportler{m}/一流選手[いちりゅうせんしゅ]/
 Spitzenstellung{f}/上位[じょうい]/
 Spitzentechnologie{f}/先端技術[せんたんぎじゅつ]/
@@ -26794,13 +26794,13 @@ spitzfindig{adj}/口うるさい[くちうるさい]/
 Spitzfindigkeit{f}/理屈[りくつ]/
 Spitzhacke{f}/鶴嘴[つるはし]/
 Spitzmaus{f}/ジネズミ[じねずみ]/
-Spitzname{m}/あだ名[あだな]/異名[いめい]/ニックネーム[にっくねーむ]/
+Spitzname{m}/綽名[あだな]/
 Spitzzange{f}/ラジオペンチ[らじおぺんち]/
 Spleen{m}/酔狂[すいきょう]/
 Spline{m}/スプライン関数[すぷらいんかんすう]/
 Splint{m}/白身[しろみ]/
 Splintholz{n}/白身[しろみ]/
-Splitter{m}/切れ[きれ]/刺[とげ]/破片[はへん]/欠け[かけ]/欠片[かけら]/
+Splitter{m}/(Bruchstück) 破片[はへん]/
 Splittereis{n}/氷[こおり]/
 Splittergruppe{f}/支流[しりゅう]/
 splitternackt{adj}/赤裸々[せきらら]/
@@ -26814,25 +26814,25 @@ Spontaneität{f}/自然発生[しぜんはっせい]/
 Spontanheilung{f}/自然治癒[しぜんちゆ]/
 sporadisch{adv}/パラパラ[ぱらぱら]/
 Sporn{m}/拍車[はくしゃ]/
-Sport{m}/スポーツ[すぽーつ]/体操[たいそう]/遊び[あそび]/体育[たいいく]/競技[きょうぎ]/運動[うんどう]/
+Sport{m}/スポーツ[すぽーつ]/
 Sportanlage{f}/競技施設[きょうぎしせつ]/
 Sportanzug{m}/運動服[うんどうふく]/
 Sportartikel{pl}/運動具[うんどうぐ]/
 Sportbericht{m}/観戦記[かんせんき]/
 Sportereignis{n}/競技会[きょうぎかい]/
-Sportfest{n}/大会[たいかい]/体育祭[たいいくさい]/運動会[うんどうかい]/競技会[きょうぎかい]/
+Sportfest{n}/運動会[うんどうかい]/
 Sportgeschäft{n}/運動具店[うんどうぐてん]/
-Sporthalle{f}/ジム[じむ]/体育館[たいいくかん]/競技場[きょうぎじょう]/
+Sporthalle{f}/ジム[じむ]/体育館[たいいくかん]/
 Sporthemd{n}/運動シャツ[うんどうしゃつ]/
 Sportkleidung{f}/スポーツ･ウェア[すぽーつうぇあ]/
 Sportlehrer{m}/体操教師[たいそうきょうし]/
-Sportler{m}/選手[せんしゅ]/スポーツ選手[すぽーつせんしゅ]/スポーツマン[すぽーつまん]/
+Sportler{m}/スポーツ選手[すぽーつせんしゅ]/
 Sportlerin{f}/スポーツウーマン[すぽーつうーまん]/
 sportlich sein/運動神経が発達している[うんどうしんけいがはったつしている]/
 Sportlichkeit{f}/スポーティー[すぽーてぃー]/
 Sportmedizin{f}/スポーツ医学[すぽーついがく]/
 Sportnachrichten{pl}/運動記事[うんどうきじ]/
-Sportplatz{m}/フィールド[ふぃーるど]/グラウンド[ぐらうんど]/運動場[うんどうじょう]/競技場[きょうぎじょう]/
+Sportplatz{m}/フィールド[ふぃーるど]/運動場[うんどうじょう]/
 Sportreporter{m}/スポーツライター[すぽーつらいたー]/
 Sportsendung{f}/スポーツ放送[すぽーつほうそう]/
 Sportveranstaltung{f}/競技会[きょうぎかい]/
@@ -26849,7 +26849,7 @@ Spottname{m}/あだ名[あだな]/
 Spottpreis{m}/二束三文[にそくさんもん]/
 Sprachatlas{m}/言語地理[げんごちり]/
 Sprachbarriere{f}/言葉の壁[ことばのかべ]/
-Sprache{f}/言葉[ことば]/言の葉[ことのは]/言語[げんご]/辞令[じれい]/詞[ことば]/語[ご]/辞[ことば]/言葉遣い[ことばづかい]/用語[ようご]/
+Sprache{f}/言葉[ことば]/言語[げんご]/
 Spracherkennung{f}/音声認識[おんせいにんしき]/
 Spracherwerb{m}/言語の習得[げんごのしゅうとく]/
 Sprachfamilie{f}/語族[ごぞく]/
@@ -26865,7 +26865,7 @@ Sprachlabor{n}/エルエル[えるえる]/
 Sprachlehrer{m}/語学教師[ごがくきょうし]/
 sprachlich{adj}/言葉の[ことばの]/
 sprachlos{adj}/おたおた[おたおた]/
-sprachlos sein/恐れる[おそれる]/呆れる[あきれる]/
+sprachlos/(~ sein) 呆れる[あきれる]/
 Sprachlosigkeit{f}/閉口[へいこう]/
 Sprachreform{f}/言語改革[げんごかいかく]/
 Sprachrohr{n}/代弁業[だいべんぎょう]/
@@ -26883,9 +26883,9 @@ Sprechakt{m}/言語行為[げんごこうい]/
 Sprechanlage{f}/インターフォン[いんたーふぉん]/
 Sprechart{f}/口吻[こうふん]/
 Sprechchor{m}/シュプレヒコール[しゅぷれひこーる]/
-sprechen{vi}/言う[いう]/曰く[いわく]/話をする[はなしをする]/話す[はなす]/云う[いう]/
+sprechen{vi}/(sagen) 言う[いう]/(reden) 話す[はなす]/
 Sprechen{n}/言語[げんご]/
-Sprecher{m}/アナ[あな]/アナウンサー[あなうんさー]/スピーカー[すぴーかー]/ナレーター[なれーたー]/
+Sprecher{m}/(im TV) アナウンサー[あなうんさー]/
 Sprecherin{f}/アナ[あな]/
 Sprechmuschel{f}/通話口[つうわぐち]/
 Sprechstimme{f}/話し声[はなしごえ]/
@@ -26905,12 +26905,12 @@ Sprengkraft{f}/爆破力[ばくはりょく]/
 Sprengmittel{n}/爆薬[ばくやく]/
 Sprengring{m}/サークリップ[さーくりっぷ]/
 Sprengstoff{m}/爆発物[ばくはつぶつ]/
-Sprengung{f}/爆破[ばくは]/爆裂[ばくれつ]/
+Sprengung{f}/(Explosion) 爆破[ばくは]/
 Sprengwerk{n}/方丈ラーメン[ほうじょうらーめん]/
 Spreu{f}/籾[もみ]/
-Sprichwort{n}/例え[たとえ]/格言[かくげん]/諺[ことわざ]/
-Springen{n}/ジャンプ[じゃんぷ]/跳ね[はね]/飛び込み[とびこみ]/バウンド[ばうんど]/
-springen{vi}/飛ぶ[とぶ]/躍る[おどる]/割れる[われる]/
+Sprichwort{n}/諺[ことわざ]/
+Springen{n}/ジャンプ[じゃんぷ]/
+springen{vi}/躍る[おどる]/
 Springer{m}/ナイト[ないと]/
 Springflut{f}/大潮[おおしお]/
 Springkraut{n}/鳳仙花[ほうせんか]/
@@ -26926,13 +26926,13 @@ Spritzguss{m}/ダイ･カスト[だいかすと]/
 Spritzpistole{f}/ブラシ[ぶらし]/
 Spritzschutz{m}/スプラッシャー[すぷらっしゃー]/
 Spritzwasser{n}/飛沫[しぶき]/
-Spross{m}/子供[こども]/枝[えだ]/芽[め]/兆し[きざし]/子ども[こども]/
+Spross{m}/{fig.}(Kind) 子供[こども]/(junger Zweig) 若枝[わかえだ]/
 Sprosse{f}/一歩[いっぽ]/
 Sprossenwand{f}/肋木[ろくぼく]/
-Spruch{m}/宣告[せんこく]/格言[かくげん]/諺[ことわざ]/
+Spruch{m}/(Urteil) 宣告[せんこく]/(Sprichwort) 諺[ことわざ]/
 Sprudel{m}/炭酸[たんさん]/
 sprudelnd{adj}/滾々と[こんこんと]/
-Sprung{m}/ジャンプ[じゃんぷ]/スキップ[すきっぷ]/傷[きず]/欠け[かけ]/亀裂[きれつ]/飛躍[ひやく]/
+Sprung{m}/ジャンプ[じゃんぷ]/
 Sprungbein{n}/距骨[きょこつ]/
 Sprungbrett{n}/足がかり[あしがかり]/
 Sprungfeder{f}/発条[はつじょう]/
@@ -26949,30 +26949,29 @@ Sprühnebel{m}/飛沫[しぶき]/
 Sprühregen{m}/霧雨[きりあめ]/
 Spucke{f}/つ[つ]/
 Spucknapf{m}/痰壷[たんつぼ]/
-Spuk{m}/妖怪[ようかい]/お化け[おばけ]/幽霊[ゆうれい]/
+Spuk{m}/幽霊[ゆうれい]/
 Spukgeschichte{f}/怪談[かいだん]/
 Spukhaus{n}/お化け屋敷[おばけやしき]/
-Spule{f}/枠[わく]/コイル[こいる]/
+Spule{f}/(Rolle) 巻き枠[まきわく]/{Elektrotechnik} コイル[こいる]/
 Spulwurm{m}/回虫[かいちゅう]/
-Spund{m}/栓[せん]/蛇口[じゃぐち]/
 Spundloch{n}/飲み口[のみぐち]/
-Spur{f}/影[かげ]/面影[おもかげ]/宛[あて]/軌道[きどう]/名残り[なごり]/名残[なごり]/当て[あて]/宛て[あて]/痕跡[こんせき]/軌跡[きせき]/手がかり[てがかり]/跡[あと]/形跡[けいせき]/車線[しゃせん]/レーン[れーん]/
+Spur{f}/(Fuß~) 足跡[あしあと]/(eine ~;eine wenig) 少しの[すこしの]/(Fahr~) 車線[しゃせん]/
 Spurbreite{f}/軌間[きけん]/
 Spureinstellung{f}/ホイール･アライメント[ほいーるあらいめんと]/
 Spurenelement{n}/微量元素[びりょうげんそ]/
 Spurenfossil{n}/生痕化石[せいこんかせき]/
 Spurensicherung{f}/初動捜査[しょどうそうさ]/
 spurlos{adj}{adv}/跡形も無く[あとかたもなく]/
-Spurt{m}/スパート[すぱーと]/追い込み[おいこみ]/
+Spurt{m}/{Sport} スパート[すぱーと]/
 Spurweite{f}/ゲージ[げーじ]/
 Sputum{n}/痰[たん]/
 spähen{vi}/偵察する[ていさつする]/
 Späherei{f}/偵察[ていさつ]/
 Späne{pl}/切り屑[きりくず]/
 Spärlichkeit{f}/払底[ふってい]/
-spät{adj}/遅く[おそく]/遅い[おそい]/
+spät{adj}/遅い[おそい]/
 Spätentwickler{m}/奥手[おくて]/
-später{adj}/後[あと]/以後[いご]/改めて[あらためて]/後日[ごにち]/後で[あとで]/その後[そのご]/追って[おって]/
+später{adj}/後で[あとで]/
 Spätherbst{m}/晩秋[ばんしゅう]/
 Spätlese{f}/シュペートレーゼ[しゅぺーとれーぜ]/
 Spätschaden{m}/晩発性障害[ばんぱつせいしょうがい]/
