@@ -27476,33 +27476,33 @@ Stier{m}/牛[うし]/
 Stierkampf{m}/コリーダ[こりーだ]/
 Stierkämpfer{m}/闘牛士[とうぎゅうし]/
 stiernackig{adj}/猪首の[いくびの]/
-stiften{vt}/立てる[たてる]/納める[おさめる]/収める[おさめる]/
+stiften{vt}/設立する[せつりつする]/
 Stifter{m}/初代[しょだい]/
-Stiftung{f}/開設[かいせつ]/創立[そうりつ]/寄贈[きぞう]/ファンデーション[ふぁんでーしょん]/樹立[じゅりつ]/基金[ききん]/財団[ざいだん]/創始[そうし]/設立[せつりつ]/
+Stiftung{f}/財団[ざいだん]/
 Stiftzahn{m}/差し歯[さしば]/
 Stigma{n}/気孔[きこう]/
-Stil{m}/作り[つくり]/方式[ほうしき]/雅[みやび]/造り[つくり]/式[しき]/手法[しゅほう]/様式[ようしき]/様式[ようしき]/構[かまえ]/文体[ぶんたい]/スタイル[すたいる]/スタイル[すたいる]/風格[ふうかく]/構え[かまえ]/作風[さくふう]/流儀[りゅうぎ]/
+Stil{m}/スタイル[すたいる]/
 stilisieren{vt}/様式化する[ようしきかする]/
 Stilisierung{f}/様式化[ようしきか]/
 Stilist{m}/文章家[ぶんしょうか]/
 Stilistik{f}/文体論[ぶんたいろん]/
-still{adv}/静か[しずか]/静かに[しずかに]/しっとりと[しっとりと]/おっとり[おっとり]/じっと[じっと]/そっと[そっと]/
-Stille{f}/沈黙[ちんもく]/太平[たいへい]/平安[へいあん]/不振[ふしん]/しんみり[しんみり]/安静[あんせい]/静けさ[しずけさ]/閑散[かんさん]/静止[せいし]/平穏[へいおん]/
-stillen{vt}/落ち着ける[おちつける]/飲ませる[のませる]/
+still{adv}/静か[しずか]/
+Stille{f}/静けさ[しずけさ]/
+stillen{vt}/(die Brust geben) 乳を飲ませる[ちちをのませる]/
 Stillen{n}/授乳[じゅにゅう]/
 Stillhalteabkommen{n}/現状維持協定[げんじょういじきょうてい]/
 stillhalten{vi}/控える[ひかえる]/
 Stillleben{n}/静物[せいぶつ]/
 Stilllegung{f}/停止[ていし]/
 stillschweigend{adv}/暗に[あんに]/
-Stillstand{m}/停止[ていし]/不振[ふしん]/足踏み[あしぶみ]/停滞[ていたい]/静止[せいし]/麻痺[まひ]/
+Stillstand{m}/(Stoppen) 停止[ていし]/(Stagnation) 停滞[ていたい]/
 stillstehend{adv}/静的[せいてき]/
 stilvoll{adj}{adv}/スタイリッシュ[すたいりっしゅ]/
 Stimmabgabe{f}/投票[とうひょう]/
 Stimmband{n}/声帯[せいたい]/
 Stimmbildung{f}/発声[はっせい]/
 Stimmbruch{m}/声変わり[こえがわり]/
-Stimme{f}/声[こえ]/音声[おんじょう]/喉[のど]/票[ひょう]/
+Stimme{f}/声[こえ]/
 Stimmenfang{m}/票集め[ひょうあつめ]/
 Stimmengleichheit{f}/可否同数[かひどうすう]/
 Stimmenkauf{m}/選挙買収[せんきょばいしゅう]/
@@ -27514,17 +27514,17 @@ stimmhaft{adj}/有声の[ゆうせいの]/
 stimmhafter Laut/濁音[だくおん]/
 Stimmlage{f}/声域[せいいき]/
 stimmlos{adj}/無声の[むせいの]/
-Stimmrecht{n}/参政権[さんせいけん]/選挙権[せんきょけん]/
+Stimmrecht{n}/(aktives Wahlrecht) 選挙権[せんきょけん]/
 Stimmritze{f}/声門[せいもん]/
 Stimmumfang{m}/音域[おんいき]/
-Stimmung{f}/感じ[かんじ]/情緒[じょうしょ]/心地[ここち]/鼻息[びそく]/節[ふし]/風向き[かざむき]/風[かぜ]/ムード[むーど]/気合い[きあい]/気合[きあい]/息[いき]/含み[ふくみ]/テンション[てんしょん]/息吹[いぶき]/機嫌[きげん]/気持ち[きもち]/気持[きもち]/雰囲気[ふんいき]/お天気[おてんき]/気分[きぶん]/情景[じょうけい]/景気[けいき]/調子[ちょうし]/
+Stimmung{f}/(Atmosphäre) 雰囲気[ふんいき]/(Gemüts~) 気分[きぶん]/
 Stimmungsmensch{m}/気分屋[きぶんや]/
 stimmungsvoll{adj}/ムーディー[むーでぃー]/
 Stimmwechsel{m}/声変わり[こえがわり]/
 Stimmzettel{m}/票[ひょう]/
 Stimulans{n}/覚せい剤[かくせいざい]/
 Stimulus{m}/刺激[しげき]/
-stinken{vi}/プンプン[ぷんぷん]/ぷんぷん[ぷんぷん]/
+stinken{vi}/匂う[におう]/
 stinkend{adj}{adv}/鼻持ちならない[はなもちならない]/
 Stinktier{n}/スカンク[すかんく]/
 Stint{m}/シシャモ[ししゃも]/
@@ -27539,31 +27539,31 @@ Stirnhaar{n}/前髪[まえがみ]/
 Stirnhöhle{f}/前頭洞[ぜんとうどう]/
 Stirnhöhlenvereiterung{f}/蓄膿症[ちくのうしょう]/
 Stirnrunzeln{n}/顰蹙[ひんしゅく]/
-Stirnseite{f}/前面[ぜんめん]/真正面[ましょうめん]/
+Stirnseite{f}/(Vorderseite) 前面[ぜんめん]/
 stochastisch{adj}/確率的[かくりつてき]/
 stochern{vi}/穿る[ほじくる]/
-Stock{m}/棒[ぼう]/ストック[すとっく]/スティック[すてぃっく]/杖[つえ]/
+Stock{m}/棒[ぼう]/
 Stockdegen{m}/仕込み杖[しこみづえ]/
 stockend{adj}{adv}/たどたどしい[たどたどしい]/
 Stockente{f}/マガモ[まがも]/
 Stockfisch{m}/棒鱈[ぼうだら]/
-Stockung{f}/渋滞[じゅうたい]/不振[ふしん]/足踏み[あしぶみ]/停滞[ていたい]/中断[ちゅうだん]/
-Stockwerk{n}/フロア[ふろあ]/フロアー[ふろあー]/階層[かいそう]/
-Stoff{m}/物[もの]/題材[だいざい]/材[ざい]/切れ[きれ]/地[じ]/素材[そざい]/モノ[もの]/布[ぬの]/スタッフ[すたっふ]/質[しつ]/材料[ざいりょう]/資料[しりょう]/マテリアル[まてりある]/物質[ぶっしつ]/
+Stockung{f}/(Verzögerung) 渋滞[じゅうたい]/
+Stockwerk{n}/階層[かいそう]/
+Stoff{m}/(Thema) テーマ[てーま]/(Tuch) 布[ぬの]/(Ausgangsmaterial) 材料[ざいりょう]/
 Stofffetzen{m}/布切れ[ぬのぎれ]/
 Stoffrest{m}/端切れ[はぎれ]/
-Stoffwechsel{m}/代謝[たいしゃ]/新陳代謝[しんちんたいしゃ]/
+Stoffwechsel{m}/新陳代謝[しんちんたいしゃ]/
 Stoiker{m}/ストイック[すといっく]/
 stoisch{adj}{adv}/ストイック[すといっく]/
 Stola{f}/ストール[すとーる]/
 Stollen{m}/滑り止め[すべりどめ]/
 Stolleneingang{m}/坑口[こうこう]/
 Stolperstein{m}/つまずきの石[つまずきのいし]/
-Stolz{m}/我慢[がまん]/見識[けんしき]/鼻[はな]/得意[とくい]/自慢[じまん]/誇り[ほこり]/プライド[ぷらいど]/誇らしげ[ほこらしげ]/
-stolz{adv}/高[こう]/揚々[ようよう]/
+Stolz{m}/(Hochmut) 得意[とくい]/誇り[ほこり]/
+stolz{adv}/誇らしげに[ほこらしげに]/
 Stolzieren{n}/闊歩[かっぽ]/
 Stomatitis{f}/口内炎[こうないえん]/
-Stopfen{m}{n}/詰め[つめ]/栓[せん]/
+Stopfen{m}{n}/(Stöpsel) 栓[せん]/
 Stopfgarn{n}/縢り糸[かがりいと]/
 Stopfleber{f}/フォアグラ[ふぉあぐら]/
 Stopfnadel{f}/縢り針[かがりはり]/
