@@ -27975,10 +27975,10 @@ Sublimität{f}/崇高[すうこう]/
 Subsidiarität{f}/補完性[ほかんせい]/
 Subsidiaritätsprinzip{n}/補完原則[ほかんげんそく]/
 Subsistenzwirtschaft{f}/自給自足経済[じきゅうじそくけいざい]/
-Subskription{f}/予約[よやく]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/購読[こうどく]/
+Subskription{f}/(Abonnement) 購読[こうどく]/
 Subspezies{f}/亜種[あしゅ]/
 Substantiv{n}/名詞[めいし]/
-Substanz{f}/内容[ないよう]/実体[じったい]/実[み]/物[もの]/モノ[もの]/質[しつ]/本質[ほんしつ]/中身[なかみ]/中味[なかみ]/本体[ほんたい]/実質[じっしつ]/物質[ぶっしつ]/
+Substanz{f}/(Wesen) 実質[じっしつ]/(Stoff) 物質[ぶっしつ]/
 Substitution{f}/代償[だいしょう]/
 Substrat{n}/基質[きしつ]/
 Subsystem{n}/サブシステム[さぶしすてむ]/
@@ -27990,39 +27990,39 @@ Subtraktion{f}/控除[こうじょ]/
 Subtropen{pl}/亜熱帯[あねったい]/
 subtropisch{adj}/亜熱帯の[あねったいの]/
 Subunternehmer{m}/下請け[したうけ]/
-Subvention{f}/補助[ほじょ]/助成金[じょせいきん]/補助金[ほじょきん]/
+Subvention{f}/補助金[ほじょきん]/
 subversiv{adv}/破壊的な[はかいてきな]/
-Suchaktion{f}/捜査[そうさ]/捜索[そうさく]/探索[たんさく]/
+Suchaktion{f}/捜索[そうさく]/
 Suchbegriff{m}/検索語[けんさくご]/
-Suche{f}/検索[けんさく]/シーク[しーく]/サーチ[さーち]/探し物[さがしもの]/捜索[そうさく]/模索[もさく]/捜査[そうさ]/
-suchen{vt}/探す[さがす]/探る[さぐる]/求める[もとめる]/尋ねる[たずねる]/捜す[さがす]/見つける[みつける]/
+Suche{f}/捜索[そうさく]/
+suchen{vt}/探す[さがす]/
 Sucher{m}/ファインダー[ふぁいんだー]/
 Suchergebnis{n}/検索結果[けんさくけっか]/
 Suchfehler{m}/シーク･エラー[しーくえらー]/
 Suchkriterium{n}/検索条件[けんさくじょうけん]/
-Suchmaschine{f}/サーチエンジン[さーちえんじん]/検索エンジン[けんさくえんじん]/
-Sucht{f}/病気[びょうき]/中毒[ちゅうどく]/癖[くせ]/マニア[まにあ]/
+Suchmaschine{f}/サーチエンジン[さーちえんじん]/
+Sucht{f}/中毒[ちゅうどく]/
 Suchtrupp{m}/捜索隊[そうさくたい]/
 Sud{m}/茹で汁[ゆでじる]/
 Sudanese{m}/スーダン人[すーだんじん]/
 sudanesisch{adj}/スーダンの[すーだんの]/
 Sudelei{f}/殴り書き[なぐりがき]/
 suggerieren/示唆を与える[しさをあたえる]/
-Suggestion{f}/示唆[しさ]/暗示[あんじ]/
+Suggestion{f}/暗示[あんじ]/
 suggestiv{adj}/艶っぽい[つやっぽい]/
 Suggestivfrage{f}/誘導尋問[ゆうどうじんもん]/
 Suite{f}/組曲[くみきょく]/
-Suizid{m}/自殺[じさつ]/自決[じけつ]/
+Suizid{m}/自殺[じさつ]/
 Sulfid{n}/硫化物[りゅうかぶつ]/
 Sulfit{n}/亜硫酸塩[ありゅうさんえん]/
 Sultan{m}/サルタン[さるたん]/
 summarisch{adj}/簡略な[かんりゃくな]/
-Summe{f}/和[わ]/合計[ごうけい]/延べ[のべ]/
-Summen{n}/ぶんぶん[ぶんぶん]/ハミング[はみんぐ]/鼻歌[はなうた]/
+Summe{f}/合計[ごうけい]/
+Summen{n}/ぶんぶん[ぶんぶん]/
 summen{vi}{vt}/唄う[うたう]/
 Summer{m}/ブザー[ぶざー]/
 Summierung{f}/総和[そうわ]/
-Sumpf{m}/沢[さわ]/泥沼[どろぬま]/沼[ぬま]/湿原[しつげん]/
+Sumpf{m}/沼[ぬま]/
 Sumpfboden{m}/沼地[ぬまち]/
 Sumpfgas{n}/メタン[めたん]/
 Sumpfgebiet{n}/湿地帯[しっちたい]/
@@ -28038,12 +28038,12 @@ superklug{adj}/目から鼻へ抜けるような[めからはなへぬけるよ�
 Superlativ{m}/最上級[さいじょうきゅう]/
 Supermacht{f}/超大国[ちょうたいこく]/
 Supermann{m}/超人[ちょうじん]/
-Supermarkt{m}/スーパー[すーぱー]/スーパーマーケット[すーぱーまーけっと]/
+Supermarkt{m}/スーパーマーケット[すーぱーまーけっと]/
 Supernova{f}/超新星[ちょうしんせい]/
 Superposition{f}/重ね合わせ[かさねあわせ]/
 Superstar{m}/スーパースター[すーぱーすたー]/
 Supertanker{m}/スーパータンカー[すーぱーたんかー]/
-Suppe{f}/スープ[すーぷ]/液[つゆ]/吸い物[すいもの]/汁[つゆ]/
+Suppe{f}/スープ[すーぷ]/
 Suppeneinlage{f}/実[み]/
 Suppenschüssel{f}/汁椀[しるわん]/
 Suppenteller{m}/スープ皿[すーぷざら]/
@@ -28051,7 +28051,7 @@ Suppenwürfel{m}/固形スープ[こけいすーぷ]/
 Supraleitfähigkeit{f}/超伝導性[ちょうでんどうせい]/
 Supremat{n}/至上権[しじょうけん]/
 Surfbrett{n}/サーフボード[さーふぼーど]/
-Surfen{n}/サーフィン[さーふぃん]/サーフ[さーふ]/
+Surfen{n}/サーフィン[さーふぃん]/
 Surfer{m}/サーファー[さーふぁー]/
 Surfing{n}/波乗り[なみのり]/
 Surrealismus{m}/超現実主義[ちょうげんじつしゅぎ]/
@@ -28063,9 +28063,9 @@ Suspendierung{f}/中止[ちゅうし]/
 Suspension{f}/停止[ていし]/
 Sutur{f}/縫合[ほうごう]/
 Sweatshirt{n}/トレーナー[とれーなー]/
-Swing{m}/スイング[すいんぐ]/スウィング[すうぃんぐ]/
+Swing{m}/{Musik} スイング[すいんぐ]/
 Symbiose{f}/共生[きょうせい]/
-Symbol{n}/記[しるし]/象徴[しょうちょう]/シンボル[しんぼる]/記号[きごう]/
+Symbol{n}/(Wahrzeichen) 象徴[しょうちょう]/(Zeichen) 記号[きごう]/
 symbolisch{adj}{adv}/象徴的[しょうちょうてき]/
 Symbolzeichen{n}/シンボルマーク[しんぼるまーく]/
 Symmetrie{f}/対称[たいしょう]/
@@ -28074,10 +28074,10 @@ Symmetrieebene{f}/対称面[たいしょうめん]/
 symmetrisch{adj}{adv}/対称的[たいしょうてき]/
 Sympathiestreik{m}/同情スト[どうじょうすと]/
 Sympathisant{m}/支援者[しえんしゃ]/
-sympathisch{adv}{adj}/結構[けっこう]/好ましい[このましい]/
+sympathisch{adv}{adj}/好ましい[このましい]/
 sympathisieren{vi}/察する[さっする]/
 Symposium{n}/シンポジウム[しんぽじうむ]/座談会[ざだんかい]/
-Symptom{n}/症状[しょうじょう]/兆候[ちょうこう]/表れ[あらわれ]/現れ[あらわれ]/兆し[きざし]/
+Symptom{n}/{Med.} 症状[しょうじょう]/(Anzeichen) 兆候[ちょうこう]/
 Symptomatologie{f}/症候学[しょうこうがく]/
 Synagoge{f}/ユダヤ教会[ゆだやきょうかい]/
 synchron{adv}/シンクロナス[しんくろなす]/
@@ -28089,7 +28089,7 @@ Synchronschwimmen{n}/シンクロナイズドスイミング[しんくろない�
 Synchronsprecher{m}/声優[せいゆう]/
 Syndikalismus{m}/サンジカリズム[さんじかりずむ]/
 Syndikat{n}/シンジケート[しんじけーと]/
-Syndrom{n}/症候群[しょうこうぐん]/シンドローム[しんどろーむ]/
+Syndrom{n}/{Med.} 症候群[しょうこうぐん]/{Med.} シンドローム[しんどろーむ]/
 Synergie{f}/相乗効果[そうじょうこうか]/
 Synklinale{f}/向斜[こうしゃ]/
 Synkope{f}/シンコペーション[しんこぺーしょん]/
@@ -28101,7 +28101,7 @@ Synopse{f}/一覧表[いちらんひょう]/
 syntaktisch{adj}{adv}/統語的な[とうごてきな]/
 Syntax{f}/記法[きほう]/
 Syntaxanalyse{f}/構文解析[こうぶんかいせき]/
-Synthese{f}/総合[そうごう]/合成[ごうせい]/
+Synthese{f}/総合[そうごう]/
 Synthesizer{m}/シンセサイザー[しんせさいざー]/
 synthetisch{adv}/総合的[そうごうてき]/
 Synästhesie{f}/共感覚[きょうかんかく]/
@@ -28109,13 +28109,13 @@ Syphilis{f}/梅毒[ばいどく]/
 Syphilitiker{m}/梅毒患者[ばいどくかんじゃ]/
 Syrer{m}/シリア人[しりあじん]/
 syrisch{adj}/シリア人の[しりあじんの]/
-System{n}/システム[しすてむ]/方式[ほうしき]/制度[せいど]/順序[じゅんじょ]/組織[そしき]/秩序[ちつじょ]/体制[たいせい]/機関[きかん]/構造[こうぞう]/制[せい]/系統[けいとう]/規則[きそく]/分類[ぶんるい]/体系[たいけい]/
+System{n}/システム[しすてむ]/方式[ほうしき]/
 Systemabsturz{m}/システムダウン[しすてむだうん]/
 Systemanalyse{f}/システム分析[しすてむぶんせき]/
 Systemanalytiker{m}/システムアナリスト[しすてむあなりすと]/
 Systemanforderungen{pl}/動作環境[どうさかんきょう]/
 Systematik{f}/分類学[ぶんるいがく]/
-systematisch{adv}/計画的[けいかくてき]/組織的[そしきてき]/整然[せいぜん]/規則正しい[きそくただしい]/
+systematisch{adv}/組織的[そしきてき]/
 systematisieren{vt}/秩序立てる[ちつじょたてる]/
 Systematisierung{f}/組織化[そしきか]/
 Systementwickler{m}/組織工学の専門家[そしきこうがくのせんもんか]/
@@ -28127,9 +28127,9 @@ Systemtechnik{f}/システムエンジニアリング[しすてむえんじに�
 Systemuhr{f}/システムクロック[しすてむくろっく]/
 Systole{f}/心収縮期[しんしゅしゅくき]/
 systolisch{adj}/心収縮[しんしゅしゅく]/
-Szene{f}/場[ば]/場面[ばめん]/光景[こうけい]/口論[こうろん]/景観[けいかん]/
+Szene{f}/(Schauplatz) 場面[ばめん]/
 Szenenwechsel{m}/場面の転換[ばめんのてんかん]/
-Szenerie{f}/風景[ふうけい]/風物[ふうぶつ]/景色[けしき]/景観[けいかん]/背景[はいけい]/
+Szenerie{f}/景色[けしき]/
 Säbel{m}/サーベル[さーべる]/
 Säbelzahntiger{m}/サーベルタイガー[さーべるたいがー]/
 sächlich{adj}/中性の[ちゅうせいの]/
@@ -28149,32 +28149,32 @@ Sämling{m}/実生[みしょう]/
 sämtlich/残らず[のこらず]/
 Sänfte{f}/駕籠[かご]/
 Sänftenträger{m}/片棒[かたぼう]/
-Sänger{m}/歌手[かしゅ]/歌い手[うたいて]/
-Sängerin{f}/歌手[かしゅ]/歌姫[うたひめ]/歌い手[うたいて]/
+Sänger{m}/歌手[かしゅ]/
+Sängerin{f}/歌手[かしゅ]/(Diva) 歌姫[うたひめ]/
 sättigen/染み込ませる[しみこませる]/
 Sättigung{f}/満腹[まんぷく]/
 Sättigungsgrad{m}/飽和度[ほうわど]/
 Sättigungskurve{f}/飽和曲線[ほうわきょくせん]/
 Sättigungspunkt{m}/飽和点[ほうわてん]/
 Sättigungstemperatur{f}/飽和温度[ほうわおんど]/
-Säuberung{f}/浄化[じょうか]/追放[ついほう]/
+Säuberung{f}/{auch fig.} 浄化[じょうか]/
 säuerlich{adj}{adv}/酸っぱい[すっぱい]/
 Säuerung{f}/酸敗[さんぱい]/
-Säufer{m}/酒飲み[さけのみ]/上戸[じょうご]/
+Säufer{m}/酒飲み[さけのみ]/
 Säugen{n}/哺乳[ほにゅう]/
-Säugling{m}/子供[こども]/赤ちゃん[あかちゃん]/児[こ]/赤ん坊[あかんぼう]/子ども[こども]/乳児[にゅうじ]/
+Säugling{m}/赤ちゃん[あかちゃん]/
 Säuglingsalter{n}/乳児期[にゅうじき]/
 Säuglingsheim{n}/育児園[いくじえん]/
 Säuglingspflege{f}/育児[いくじ]/
 Säuglingssterblichkeit{f}/乳幼児の死亡率[にゅうようじのしぼうりつ]/
-Säule{f}/柱[はしら]/支柱[しちゅう]/
+Säule{f}/柱[はしら]/
 säulenförmig{adj}/円柱状の[えんちゅうじょうの]/
 Säulengang{m}/柱廊[ちゅうろう]/
 säumen{vt}/そう[そう]/
 säumig{adj}/愚図愚図[ぐずぐず]/
 säumig sein{vi}/滞納する[たいのうする]/
-Säumigkeit{f}/遅延[ちえん]/不払い[ふばらい]/滞納[たいのう]/
-Säure{f}/酸味[すみ]/酸[さん]/
+Säumigkeit{f}/(Verspätung) 遅延[ちえん]/(Zahlungsverzug) 滞納[たいのう]/
+Säure{f}/酸味[すみ]/
 Säurefarbstoff{m}/酸性染料[さんせいせんりょう]/
 Säuregehalt{m}/酸度[さんど]/
 Söldner{m}/傭兵[ようへい]/
@@ -28183,16 +28183,16 @@ Südamerika{n}/南米[なんべい]/ラテンアメリカ[らてんあめりか]
 Süddeutschland{n}/南ドイツ[みなみどいつ]/
 Süden{m}/南[みんなみ]/
 südlich{adj}{adv}/南の[みなみの]/
-Südosten{m}/東南[とうなん]/南東[みなみひがし]/
+Südosten{m}/東南[とうなん]/
 Südostwind{m}/南東の風[なんとうのかぜ]/
 Südpol{m}/南極[なんきょく]/
-Südwesten{m}/南西[みなみにし]/西南[せいなん]/
+Südwesten{m}/西南[せいなん]/
 südwestlich{adj}{adv}/西南の[せいなんの]/
 Südwestwind{m}/南西の風[なんせいのかぜ]/
 Südwind{m}/南風[なんぷう]/
 südöstlich{adj}{adv}/東南の[とうなんの]/
 Sühne{f}/贖罪[しょくざい]/
-Sünde{f}/罪[つみ]/邪悪[じゃあく]/
+Sünde{f}/罪[つみ]/
 Sündenbekenntnis{n}/懺悔[ざんげ]/
 Sündenbock{m}/身代わり[みがわり]/
 Sündenpfuhl{m}/悪の巣[あくのす]/
@@ -28200,12 +28200,12 @@ Sünder{m}/罪人[つみびと]/
 sündhaft{adv}/罪深い[つみぶかい]/
 Sündhaftigkeit{f}/罪作り[つみつくり]/
 sündlos{adv}/罪のない[つみのない]/
-süß{adj}{adv}/可愛い[かわいい]/スイート[すいーと]/スイート[すいーと]/スウィート[すうぃーと]/スウィート[すうぃーと]/愛らしい[あいらしい]/愛くるしい[あいくるしい]/プリティ[ぷりてぃ]/可愛らしい[かわいらしい]/
+süß{adj}{adv}/(niedlich) 可愛い[かわいい]/(Geschmack) 甘い[あまい]/
 Süße{f}{m}{f}/甘味[かんみ]/甘口[あまくち]/
 süßen{vt}/加糖する[かとうする]/
-Süßigkeit{f}/菓子[かし]/キャンディー[きゃんでぃー]/キャンディ[きゃんでぃ]/
-Süßigkeiten{pl}/お菓子[おかし]/甘味[かんみ]/甘い物[あまいもの]/甘いもの[あまいもの]/
-Süßkartoffel{f}/芋[いも]/スイートポテト[すいーとぽてと]/
+Süßigkeit{f}/お菓子[おかし]/
+Süßigkeiten{pl}/お菓子[おかし]/
+Süßkartoffel{f}/薩摩芋[さつまいも]/スイートポテト[すいーとぽてと]/
 süßlich{adj}{adv}/甘ったるい[あまったるい]/
 süßsauer{adj}/甘酸っぱい[あまずっぱい]/
 Süßstoff{m}/サッカリン[さっかりん]/
