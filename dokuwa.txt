@@ -9897,7 +9897,7 @@ Frustration{f}/欲求不満[よっきゅうふまん]/
 Fräse{f}/フライス盤[ふらいすばん]/
 Fräser{m}/フライス[ふらいす]/
 Fräswerkzeug{n}/フライス[ふらいす]/
-Fräulein{n}{veraltet}/(Anrede) おじょうさま 【お嬢様】/(junge Frau) 若い女性[わかいじょせい]/
+Fräulein{n}{altertümlich}/(Anrede) おじょうさま 【お嬢様】/(junge Frau) 若い女性[わかいじょせい]/
 fröhlich{adj}{adv}/(lustig) 楽しい[たのしい]/(glücklich) 嬉しい[うれしい]/
 Fröhlichkeit{f}/愉快[ゆかい]/
 Frömmigkeit{f}/信心[しんじん]/
@@ -10273,9 +10273,9 @@ Gasversorgung{f}/ガス供給[がすきょうきゅう]/
 Gaszustand{m}/ガス体[がすたい]/
 Gaszähler{m}/ガスメーター[がすめーたー]/
 Gateway{n}/ゲートウェイ[げーとうぇい]/
-Gatte{m}{veraltet}(=> Ehemann)/(eigener ~) 夫[おっと]/(~ einer anderen Frau) ご主人[ごしゅじん]/
+Gatte{m}{altertümlich}(=> Ehemann)/(eigener ~) 夫[おっと]/(~ einer anderen Frau) ご主人[ごしゅじん]/
 Gatter{n}/格子[こうし]/
-Gattin{f}{veraltet}(=> Ehefrau)/(eigene ~) 妻[つま]/(~ eines anderen Mann)  奥さん[おくさん]/
+Gattin{f}{altertümlich}(=> Ehefrau)/(eigene ~) 妻[つま]/(~ eines anderen Mann)  奥さん[おくさん]/
 Gattung{f}/種類[しゅるい]/
 Gattungsbegriff{m}/類概念[るいがいねん]/
 Gattungsname{m}/総称[そうしょう]/
@@ -10739,7 +10739,7 @@ gelehrig{adj}{adv}/素直[すなお]/
 Gelehrigkeit{f}/実力[じつりょく]/
 Gelehrsamkeit{f}/学識[がくしき]/
 gelehrt{adv}{adj}/アカデミック[あかでみっく]/
-Geleise{pl}{veraltet}/(Gleis) 線[せん]/
+Geleise{pl}{altertümlich}/(Gleis) 線[せん]/
 Geleit{n}/護衛[ごえい]/
 Geleitschiff{n}/護衛艦[ごえいかん]/
 Geleitwort{n}/序文[じょぶん]/
@@ -10898,7 +10898,7 @@ Genmutation{f}/遺伝子突然変異[いでんしとつぜんへんい]/
 Genom{n}/ゲノム[げのむ]/
 Genomik{f}/ジェノミクス[じぇのみくす]/
 Genort{m}/遺伝子座[いでんしざ]/
-Genosse{m}{veraltet}/同志[どうし]/
+Genosse{m}{altertümlich}/同志[どうし]/
 Genossenschaft{f}/協同組合[きょうどうくみあい]/
 Genpool{m}/遺伝子プール[いでんしぷーる]/
 Genre{n}/ジャンル[じゃんる]/
@@ -13441,7 +13441,7 @@ Hufschmied{m}/装蹄師[そうていし]/
 Huftier{n}/有てい動物[ゆうていどうぶつ]/
 Huhn{n}/鳥[とり]/
 Huka{f}/水ギセル[みずぎせる]/
-Huld{f}{veraltet}/(Wohlwollen) 好意[こうい]/
+Huld{f}{altertümlich}/(Wohlwollen) 好意[こうい]/
 Huldigung{f}/帰順[きじゅん]/
 human{adj}{adv}/人間的[にんげんてき]/
 Humangenom{n}/ヒトの遺伝子[ひとのいでんし]/
@@ -18245,7 +18245,7 @@ Marschflugkörper{m}/巡航ミサイル[じゅんこうみさいる]/
 marschieren{vi}/進む[すすむ]/
 Marschmusik{f}/行進曲[こうしんきょく]/
 Marsmensch{m}/宇宙人[うちゅうじん]/
-Marter{f}{veraltet}/(Folter) 拷問[ごうもん]/
+Marter{f}{altertümlich}/(Folter) 拷問[ごうもん]/
 Marxismus{m}/マルクス主義[まるくすしゅぎ]/
 Marxist{m}/マルキスト[まるきすと]/
 marxistisch{adj}/マルクス主義の[まるくすしゅぎの]/
@@ -23420,7 +23420,7 @@ Rosette{f}/ロゼット[ろぜっと]/
 rosig{adj}/{fig.} 輝かしい[かがやかしい]/
 Rosine{f}/干し葡萄[ほしぶどう]/
 Rosmarin{m}/ローズマリー[ろーずまりー]/
-Ross{n}{veraltet}/馬[うま]/
+Ross{n}{altertümlich}/馬[うま]/
 Rosskur{f}/荒療治[あらりょうじ]/
 Rosstäuscher{m}/インチキ商人[いんちきしょうにん]/
 Rost{m}/サビ[さび]/
@@ -24405,7 +24405,7 @@ schlammig{adv}{adj}/ぐちゃぐちゃ[ぐちゃぐちゃ]/
 Schlammschlacht{f}/泥仕合[どろじあい]/
 Schlammspringer{pl}/ムツゴロウ[むつごろう]/
 Schlammvulkan{m}/泥火山[でいかざん]/
-Schlampe{f}{veraltet}/(unordentliche Frau) だらしない女[だらしないおんな]/
+Schlampe{f}{altertümlich}/(unordentliche Frau) だらしない女[だらしないおんな]/
 Schlampe{f}{vulg.}/{vulg.} 売女[ばいた]/
 schlampig{adj}{adv}/だらしない[だらしない]/
 Schlampigkeit{f}/自堕落[じだらく]/
@@ -27310,7 +27310,7 @@ Steinzeit{f}/石器時代[せっきじだい]/
 Steißbein{n}/尾てい骨[びていこつ]/
 Steißgeburt{f}/倒産[とうさん]/
 stellar{adj}/星の[ほしの]/
-Stelldichein{n}{veraltet}/(Date) デート[でーと]/(Rendezvous) ランデブー[らんでぶー]/
+Stelldichein{n}{altertümlich}/(Date) デート[でーと]/(Rendezvous) ランデブー[らんでぶー]/
 Stelle{f}/(Ort) 場所[ばしょ]/(Posten) 地位[ちい]/{Bsp:eine Arbeitsstelle suchen 勤め口ちをさがす[つとめぐちをさがす]}(Arbeits~) 勤め口[つとめぐち]/
 Stellen{n}/節々[ふしぶし]/
 stellen{vt}/置く[おく]/
@@ -27581,13 +27581,13 @@ Stotterer{m}/吃り[どもり]/
 Stottern{n}/吃音[きつおん]/
 stottern{vi}/吃る[どもる]/
 stotternd{adv}/訥訥[とつとつ]/
-Stoß{m}/衝撃[しょうげき]/プッシュ[ぷっしゅ]/押し[おし]/揺れ[ゆれ]/突き[つき]/一押し[ひとおし]/
+Stoß{m}/衝撃[しょうげき]/(Kollision) 衝突[しょうとつ]/
 Stoßbelastung{f}/衝撃荷重[しょうげきかじゅう]/
 Stoßdämpfer{m}/ショックアブソーバー[しょっくあぶそーばー]/
-stoßen{vt}/当たる[あたる]/突く[つく]/当る[あたる]/押す[おす]/
+stoßen{vt}/突く[つく]/(auf~) 押す[おす]/
 Stoßen{n}/プッシュ[ぷっしゅ]/
-Stoßseufzer{m}/ため息[ためいき]/溜息[ためいき]/吐息[といき]/
-Stoßstange{f}/フェンダー[ふぇんだー]/バンパー[ばんぱー]/
+Stoßseufzer{m}/溜息[ためいき]/
+Stoßstange{f}/バンパー[ばんぱー]/
 Stoßtrupp{m}/先陣[せんじん]/
 Stoßverbindung{f}/芋継ぎ[いもつぎ]/
 Stoßwelle{f}/衝撃波[しょうげきは]/
@@ -27596,7 +27596,7 @@ Stoßzeit{f}/ラッシュ[らっしゅ]/
 Strafbank{f}/ペナルティーボックス[ぺなるてぃーぼっくす]/
 Strafbarkeit{f}/有罪[ゆうざい]/
 Strafbefehl{m}/略式命令[りゃくしきめいれい]/
-Strafe{f}/科[とが]/処罰[しょばつ]/刑[けい]/罰[ばち]/処分[しょぶん]/罪[つみ]/ペナルティ[ぺなるてぃ]/
+Strafe{f}/罰[ばつ]/
 Straferlass{m}/御免[ごめん]/
 Strafexpedition{f}/征伐[せいばつ]/
 straff{adv}/締まりのある[しまりのある]/
@@ -27604,7 +27604,7 @@ Straffheit{f}/引き締め[ひきしめ]/
 Strafgefangene{m}{f}/服役囚[ふくえきしゅう]/
 Strafgeld{n}/罰金[ばっきん]/
 Strafgericht{n}/刑事裁判所[けいじさいばんしょ]/
-Strafgesetz{n}/罰則[ばっそく]/刑法[けいほう]/
+Strafgesetz{n}/刑法[けいほう]/
 Strafpredigt{f}/説教[せっきょう]/
 Strafprozess{m}/刑事裁判[けいじさいばん]/
 Strafprozessordnung{f}/刑事訴訟法[けいじそしょうほう]/
@@ -27621,28 +27621,28 @@ Strafverfahren{n}/刑事裁判[けいじさいばん]/
 Strafverfolgung{f}/訴追[そつい]/
 Strafversetzung{f}/左遷[させん]/
 Strafvollzug{m}/行刑[ぎょうけい]/
-Strafvollzugsanstalt{f}/刑務所[けいむしょ]/監獄[かんごく]/
+Strafvollzugsanstalt{f}/(Gefängnis) 刑務所[けいむしょ]/
 Strafzettel{m}/交通切符[こうつうきっぷ]/
 Strahl{m}/線[せん]/
 Strahlantrieb{m}/ジェット推進[じぇっとすいしん]/
-Strahlen{n}/さん[さん]/輝き[かがやき]/
+Strahlen{n}/(Licht~) 光[ひかり]/(Funkeln) 輝き[かがやき]/
 Strahlenbehandlung{f}/放射線療法[ほうしゃせんりょうほう]/
 Strahlenbelastung{f}/被曝[ひばく]/
 Strahlenbündel{n}/ビーム[びーむ]/
-strahlend{adj}{adv}/白い[しろい]/鮮やか[あざやか]/輝かしい[かがやかしい]/艶やか[あでやか]/晴れやか[はれやか]/華やか[はなやか]/
+strahlend{adj}{adv}/(glänzend) 輝かしい[かがやかしい]/{Bsp}(strahlendes Gesicht) にこにこ顔[にこにこがお]/
 Strahlendosis{f}/線量[せんりょう]/
 Strahlenkrankheit{f}/原爆症[げんばくしょう]/
 Strahlenkranz{m}/後光[ごこう]/
 Strahlenschutz{m}/放射線防護材[ほうしゃせんぼうござい]/
 Strahlentierchen{n}/放散虫[ほうさんちゅう]/
 Strahlenunfall{m}/放射能事故[ほうしゃのうじこ]/
-Strahlung{f}/放射線[ほうしゃせん]/放射[ほうしゃ]/放射能[ほうしゃのう]/
+Strahlung{f}/{Phys.}(radioaktive ~) 放射線[ほうしゃせん]/
 Strahlungsdruck{m}/放射圧[ほうしゃあつ]/
 Strahlungsenergie{f}/放射エネルギー[ほうしゃえねるぎー]/
 Strahlungsmesser{m}/放射能測定器[ほうしゃのうそくていき]/
 Strahlungswärme{f}/輻射熱[ふくしゃねつ]/
 Strampelhöschen{n}/ロンパース[ろんぱーす]/
-Strand{m}/浜[はま]/ビーチ[びーち]/潟[かた]/渚[みぎわ]/岸[きし]/海辺[うみべた]/海浜[かいひん]/海岸[かいがん]/浦[うら]/
+Strand{m}/浜[はま]/
 Strandbad{n}/海水浴場[かいすいよくじょう]/
 Stranden{n}/座礁[ざしょう]/
 stranden{vi}/乗り上げる[のりあげる]/
@@ -27652,10 +27652,10 @@ Strandpromenade{f}/海岸通り[かいがんどおり]/
 Strandschnecke{f}/細螺[きしゃご]/
 Strandung{f}/座礁[ざしょう]/
 Strangulierung{f}/絞殺[こうさつ]/
-Strapaze{f}/苦難[くなん]/難儀[なんぎ]/
+Strapaze{f}/苦難[くなん]/
 strapaziös{adj}/難儀な[なんぎな]/
 Stratege{m}/軍師[ぐんし]/
-Strategie{f}/作戦[さくせん]/駆け引き[かけひき]/戦略[せんりゃく]/方策[ほうさく]/戦術[せんじゅつ]/戦法[せんぽう]/
+Strategie{f}/戦略[せんりゃく]/
 strategisch{adj}{adv}/戦略的[せんりゃくてき]/
 stratosphärisch{adj}/成層圏の[せいそうけんの]/
 Stratus{m}/層雲[そううん]/
@@ -27663,10 +27663,10 @@ Stratuswolke{f}/層雲[そううん]/
 Strauchwerk{n}/植え込み[うえこみ]/
 Strauß{m}/花束[はなたば]/
 Straußenei{n}/ダチョウの卵[だちょうのたまご]/
-Straße{f}/道[みち]/街角[まちかど]/ロード[ろーど]/海峡[かいきょう]/通り[とおり]/町内[ちょうない]/街頭[がいとう]/車道[しゃどう]/往来[おうらい]/巷[ちまた]/路[みち]/道路[どうろ]/横丁[よこちょう]/辻[つじ]/ウェイ[うぇい]/
+Straße{f}/道[みち]/道路[どうろ]/
 Straßenanzug{m}/事務服[じむふく]/
 Straßenarbeiter{m}/道路工夫[どうろこうふ]/
-Straßenbahn{f}/電車[でんしゃ]/路面電車[ろめんでんしゃ]/
+Straßenbahn{f}/路面電車[ろめんでんしゃ]/
 Straßenbahnhaltestelle{f}/電車停留所[でんしゃていりゅうしょ]/
 Straßenbau{m}/道路工事[どうろこうじ]/
 Straßenbaum{m}/街路樹[がいろじゅ]/
@@ -27689,32 +27689,32 @@ Straßenlärm{m}/町の騒音[まちのそうおん]/
 Straßenmarkierung{f}/道路標示[どうろひょうじ]/
 Straßenmusikant{m}/門付け[かどづけ]/
 Straßennetz{n}/道路網[どうろもう]/
-Straßenrand{m}/辻[つじ]/道端[みちばた]/街角[まちかど]/
+Straßenrand{m}/道端[みちばた]/
 Straßenraub{m}/追い剥ぎ[おいはぎ]/
 Straßenreinigung{f}/道路掃除[どうろそうじ]/
 Straßenrennen{n}/ロードレース[ろーどれーす]/
 Straßenräuber{m}/路上強盗[ろじょうごうとう]/
 Straßensammlung{f}/街頭募金[がいとうぼきん]/
 Straßenschild{n}/道路標識[どうろひょうしき]/
-Straßenverkehr{m}/通り[とおり]/道路交通[どうろこうつう]/
+Straßenverkehr{m}/道路交通[どうろこうつう]/
 Straßenwalze{f}/ローラー[ろーらー]/
 Straßenüberführung{f}/跨線橋[こせんきょう]/
 Streb{m}/切羽[きりは]/
 Strebe{f}/控え[ひかえ]/
-Streben{n}/追求[ついきゅう]/望み[のぞみ]/抱負[ほうふ]/
+Streben{n}/抱負[ほうふ]/
 streben{vi}/追求する[ついきゅうする]/
 Streber{m}/がり勉[がりべん]/
 streberhaft{adj}/汲々として[きゅうきゅうとして]/
 strebsam{adj}/心がけのいい[こころがけのいい]/
 Strebsamkeit{f}/黽勉[びんべん]/
 Streckbarkeit{f}/伸度[しんど]/
-Strecke{f}/道[みち]/区間[くかん]/道程[みちのり]/行程[こうてい]/路線[ろせん]/路[みち]/道のり[みちのり]/
+Strecke{f}/(Weg~) 区間[くかん]/
 Strecken{n}/伸び[のび]/
 Streckenarbeiter{m}/工手[こうしゅ]/
 Streckenwärter{m}/線路番[せんろばん]/
 Streckmuskel{m}/伸筋[しんきん]/
-Streich{m}/悪さ[わるさ]/戯れ[たわむれ]/狂言[きょうげん]/
-streichen/消す[けす]/塗る[ぬる]/彩る[いろどる]/
+Streich{m}/(Spaß) 悪さ[わるさ]/(Staats~) クーデター[くーでたー]/
+streichen/(löschen) 消す[けす]/(an~) 塗る[ぬる]/
 Streichen{n}/削除[さくじょ]/
 Streichholz{n}/マッチ[まっち]/
 Streichholzbriefchen{n}/マッチ[まっち]/
@@ -27724,12 +27724,12 @@ Streichquartett{n}/弦楽四重奏[げんがくしじゅうそう]/
 Streichriemen{m}/剃刀砥[かみそりと]/
 Streifblick{m}/瞥見[べっけん]/
 Streife{f}/パトロール[ぱとろーる]/
-Streifen{m}/リボン[りぼん]/一帯[いったい]/縞[しま]/ストライプ[すとらいぷ]/
-streifen{vi}/当たる[あたる]/当る[あたる]/
+Streifen{m}/(Band) リボン[りぼん]/ストライプ[すとらいぷ]/
+streifen{vi}/軽く触れる[かるくふれる]/
 Streifenhörnchen{n}/縞栗鼠[しまりす]/
 Streifenschwirl{f}/シベリア潜入[しべりあせんにゅう]/
 Streifenwagen{m}/パトカー[ぱとかー]/
-Streik{m}/スト[すと]/闘争[とうそう]/ストライキ[すとらいき]/
+Streik{m}/ストライキ[すとらいき]/
 Streikbrecher{m}/スト破り[すとやぶり]/
 streiken{vi}/罷業をする[ひぎょうをする]/
 Streikende{m}{f}/争議団[そうぎだん]/
@@ -27737,9 +27737,9 @@ Streikkasse{f}/闘争資金[とうそうしきん]/
 Streikposten{m}/ピケ[ぴけ]/
 Streikpostenkette{f}/ピケット･ライン[ぴけっとらいん]/
 Streikrecht{n}/ストライキ権[すとらいきけん]/
-Streit{m}/間違い[まちがい]/紛争[ふんそう]/闘争[とうそう]/葛藤[かっとう]/口論[こうろん]/取り合い[とりあい]/抗争[こうそう]/確執[かくしつ]/言い分[いいぶん]/騒動[そうどう]/戦い[たたかい]/闘い[たたかい]/物言い[ものいい]/喧嘩[けんか]/
+Streit{m}/(Debatte) 議論[ぎろん]/(Disput) 口論[こうろん]/(Zank) 喧嘩[けんか]/
 Streitaxt{f}/鉞[まさかり]/
-streiten{vi}/戦う[たたかう]/闘う[たたかう]/
+streiten{vi}/喧嘩する[けんかする]/
 Streitereien{pl}/きん端[きんたん]/
 Streitfrage{f}/争点[そうてん]/
 Streitigkeit{f}/紛争[ふんそう]/
@@ -27748,12 +27748,12 @@ Streitlust{f}/向こう意気[むこういき]/
 streitlustig{adv}/議論好きな[ぎろんすきな]/
 Streitmacht{f}/フォース[ふぉーす]/
 Streitobjekt{n}/係争物[けいそうぶつ]/
-Streitpunkt{m}/論点[ろんてん]/争点[そうてん]/
+Streitpunkt{m}/論点[ろんてん]/
 streitsüchtig{adj}{adv}/気の荒い[きのあらい]/
 Streitwagen{m}/戦車[せんしゃ]/
-streng{adv}/厳しい[きびしい]/激しい[はげしい]/険しい[けわしい]/きつい[きつい]/辛い[からい]/固い[かたい]/堅い[かたい]/硬い[かたい]/シビア[しびあ]/
+streng{adv}/厳しい[きびしい]/
 Streng dich an!/がんばれ![がんばれ!]/
-Strenge{f}/急[きゅう]/厳格[げんかく]/過酷[かこく]/痛烈[つうれつ]/厳重[げんじゅう]/
+Strenge{f}/厳格[げんかく]/
 Streptokokkus{m}/連鎖球菌[れんさきゅうきん]/
 Stress{m}/ストレス[すとれす]/
 Streu{f}/敷き藁[しきわら]/
@@ -27761,26 +27761,26 @@ Streubesitz{m}/分散保有[ぶんさんほゆう]/
 streuen{vt}/振る[ふる]/
 Streuer{m}/カスター[かすたー]/
 Streusalz{n}/振り塩[ふりしお]/
-Streuung{f}/分散[ぶんさん]/散乱[さんらん]/
-Strich{m}/棒[ぼう]/ツー[つー]/木目[きめ]/ダッシュ[だっしゅ]/
+Streuung{f}/{Phys.} 散乱[さんらん]/
+Strich{m}/線[せん]/
 Strichcode{m}/バーコード[ばーこーど]/
 Strichjunge{m}/男娼[だんしょう]/
 Strichzeichnung{f}/線画[せんが]/
-Strick{m}/紐[ひも]/緒[お]/縄[なわ]/
+Strick{m}/紐[ひも]/
 Strickarbeit{f}/編み物[あみもの]/
 stricken{vt}/編む[あむ]/
 Stricker{m}/メリヤス工[めりやすこう]/
 Strickgarn{n}/編み糸[あみいと]/
-Strickjacke{f}/ジャージ[じゃーじ]/セーター[せーたー]/ジャージー[じゃーじー]/カーディガン[かーでぃがん]/
+Strickjacke{f}/カーディガン[かーでぃがん]/
 Strickleiter{f}/縄梯子[なわばしご]/
 Strickmaschine{f}/編み機[あみき]/
 Stricknadel{f}/編み棒[あみぼう]/
-Strickwaren{pl}/ジャージ[じゃーじ]/ジャージー[じゃーじー]/
+Strickwaren{pl}/ニット製品[にっとせいひん]/
 Strickwolle{f}/毛糸[けいと]/
 Striegel{m}/馬櫛[うまぐし]/
 striegeln{vt}/毛づくろいする[けづくろいする]/
 Striemen{m}/みみずばれ[みみずばれ]/
-strikt{adj}{adv}/厳しい[きびしい]/辛い[からい]/
+strikt{adj}{adv}/厳しい[きびしい]/
 stringent{adj}/一分のすきもない[いちぶのすきもない]/
 strippen{vi}/ストリップする[すとりっぷする]/
 Strippenzieher{m}/黒衣[くろこ]/
@@ -27793,25 +27793,25 @@ Strohfeuer{n}/線香花火的企て[せんこうはなびてきくわだて]/
 Strohhalm{m}/ストロー[すとろー]/
 Strohhut{m}/笠[かさ]/
 Strohlager{n}/寝藁[ねわら]/
-Strohmann{m}/置物[おきもの]/案山子[かかし]/
+Strohmann{m}/{fig.} 傀儡[かいらい]/(Vogelscheuche) 案山子[かかし]/
 Strohmatte{f}/筵[むしろ]/
 Strohpuppe{f}/藁人形[わらにんぎょう]/
 Strohsack{m}/俵[ひょう]/
 Strohwitwe{f}/空閨を守る妻[くうけいをまもるつま]/
 Strolch{m}/放浪者[ほうろうしゃ]/
-Strom{m}/川[かわ]/電気[でんき]/流水[りゅうすい]/河[かわ]/流れ[ながれ]/流れ[ながれ]/
+Strom{m}/(elektrischer ~) 電気[でんき]/(Fließwasser) 流れ[ながれ]/
 Stromabnehmer{m}/ポール[ぽーる]/
 Stromausfall{m}/停電[ていでん]/
 Strombelastbarkeit{f}/アンペア容量[あんぺあようりょう]/
 Stromerzeugung{f}/発電[はつでん]/
-Stromkreis{m}/サーキット[さーきっと]/回路[かいろ]/回線[かいせん]/
+Stromkreis{m}/サーキット[さーきっと]/回線[かいせん]/
 stromlinienförmig{adj}/流線型の[りゅうせんけいの]/
 Stromlinienzug{m}/キャノンボール[きゃのんぼーる]/
 Strommast{m}/電柱[でんちゅう]/
 Stromrechnung{f}/電気代[でんきだい]/
 Stromschiene{f}/母線[ぼせん]/
 Stromschlag{m}/感電[かんでん]/
-Stromschnelle{f}/滝[たき]/瀧[たき]/瀬[せ]/
+Stromschnelle{f}/早瀬[はやせ]/
 Stromspannung{f}/ボルテージ[ぼるてーじ]/
 Stromstärke{f}/アンペア数[あんぺあすう]/
 Stromunterbrecher{m}/サーキットブレーカー[さーきっとぶれーかー]/
@@ -27819,11 +27819,11 @@ Stromverbrauch{m}/電力消費量[でんりょくしょうひりょう]/
 Stromversorgung{f}/電力供給[でんりょくきょうきゅう]/
 Stromversorgungsunternehmen{n}/電気事業[でんきじぎょう]/
 Stromzähler{m}/電気のメーター[でんきのめーたー]/
-Strophe{f}/句[く]/一節[いっせつ]/
+Strophe{f}/ストローフィ[すとろーふぇ]/
 strotzen{vi}/満ち溢れる[みちあふれる]/
 strubbelig{adj}/むくむく[むくむく]/
-Strudel{m}/渦[うず]/うず[うず]/渦中[かちゅう]/
-Struktur{f}/結構[けっこう]/成り立ち[なりたち]/掛かり[かかり]/木目[きめ]/作り[つくり]/造り[つくり]/組織[そしき]/規模[きぼ]/体制[たいせい]/構成[こうせい]/構[かまえ]/構造[こうぞう]/組み立て[くみたて]/組立[くみたて]/構え[かまえ]/
+Strudel{m}/渦[うず]/
+Struktur{f}/構造[こうぞう]/
 Strukturanalyse{f}/構造分析[こうぞうぶんせき]/
 Strukturanpassung{f}/構造調整[こうぞうちょうせい]/
 strukturell{adj}{adv}/構造上の[こうぞうじょうの]/
@@ -27835,26 +27835,26 @@ Strumpfhose{f}/パンスト[ぱんすと]/
 Strumpfwaren{pl}/メリヤス衣類[めりやすいるい]/
 struppig{adv}{adj}/茫々[ぼうぼう]/
 strömen{vi}/流れる[ながれる]/
-Strömung{f}/流れ[ながれ]/風潮[ふうちょう]/勢い[いきおい]/勢[いきおい]/
+Strömung{f}/流れ[ながれ]/(Zeit~) 風潮[ふうちょう]/
 Strömungsgeschwindigkeit{f}/流速[りゅうそく]/
 Strömungslehre{f}/流体力学[りゅうたいりきがく]/
 Strömungsmessgerät{n}/流速計[りゅうそくけい]/
 Strömungsrichtung{f}/水先[みずさき]/
-Strümpfe{pl}/靴下[くつした]/ストッキング[すとっきんぐ]/
+Strümpfe{pl}/靴下[くつした]/(Damen~) ストッキング[すとっきんぐ]/
 Stubenarrest{m}/禁足[きんそく]/
 Stubenfliege{f}/イエバエ[いえばえ]/
 Stubenhocker{m}/出不精[でぶしょう]/
 Stubenmädchen{n}/小間使い[こまづかい]/
 Stuck{m}/漆喰[しっくい]/
 Stuckarbeit{f}/スタッコ仕上げ[すたっこしあげ]/
-Student{m}/学生[がくせい]/大学生[だいがくせい]/
+Student{m}/学生[がくせい]/
 Studentenaustausch{m}/交換留学[こうかんりゅうがく]/
 Studentenausweis{m}/学生証[がくせいしょう]/
 Studentenblume{f}/マリーゴールド[まりーごーるど]/
 Studentenleben{n}/学生生活[がくせいせいかつ]/
 Studentenrat{m}/自治会[じちかい]/
 Studentenwohnheim{n}/学生寮[がくせいりょう]/
-Studentin{f}/女子大生[じょしだいせい]/女子学生[じょしがくせい]/
+Studentin{f}/女子学生[じょしがくせい]/
 Studie{f}/試作[しさく]/
 Studienberatung{f}/進路指導[しんろしどう]/
 Studienbescheinigung{f}/在学証明書[ざいがくしょうめいしょ]/
@@ -27866,19 +27866,19 @@ Studienplan{m}/カリキュラム[かりきゅらむ]/
 Studienrat{m}/教師[きょうし]/
 Studienreise{f}/見学[けんがく]/
 Studienzeit{f}/学生時代[がくせいじだい]/
-studieren{vt}/学ぶ[まなぶ]/習う[ならう]/教わる[おそわる]/味わう[あじわう]/
+studieren{vt}/学ぶ[まなぶ]/
 Studiopublikum{n}/スタジオ観覧者[すたじおかんらんしゃ]/
-Studium{n}/勉強[べんきょう]/勉学[べんがく]/学習[がくしゅう]/修業[しゅうぎょう]/修学[しゅうがく]/課程[かてい]/研修[けんしゅう]/学問[がくもん]/探究[たんきゅう]/研究[けんきゅう]/学び[まなび]/学業[がくぎょう]/学[がく]/
-Stufe{f}/程度[ていど]/段階[だんかい]/階段[かいだん]/域[いき]/一歩[いっぽ]/段差[だんさ]/度合い[どあい]/
+Studium{n}/勉強[べんきょう]/
+Stufe{f}/段階[だんかい]/(Treppe) 階段[かいだん]/
 Stufenbarren{m}/段違い平行棒[だんちがいへいこうぼう]/
 stufenförmig{adj}/ひな壇式に[ひなだんしきに]/
 Stufenheck{n}/ノッチバック[のっちばっく]/
 Stufenleiter{f}/脚立[きゃたつ]/
 stufenlos{adj}/無段の[むだんの]/
 stufenweise{adv}/段々[だんだん]/
-Stuhl{m}/席[せき]/椅子[いす]/座[ざ]/チェア[ちぇあ]/
+Stuhl{m}/椅子[いす]/
 Stuhlbein{n}/椅子の脚[いすのあし]/
-Stuhlgang{m}/通用[つうよう]/通じ[つうじ]/うんこ[うんこ]/
+Stuhlgang{m}/{Physiol.} 便通[べんつう]/
 Stuhllehne{f}/椅子の背[いすのせ]/
 stumm{adv}/口の利けない[くちのきけない]/
 Stummel{m}/切り株[きりかぶ]/
@@ -27890,82 +27890,82 @@ stumpf machen{vt}/くすませる[くすませる]/
 Stumpfheit{f}/鈍化[どんか]/
 Stumpfsinn{m}/愚鈍[ぐどん]/
 stumpfsinnig{adv}/どん[どん]/
-Stunde{f}/時[とき]/アワー[あわー]/時刻[じこく]/時間[じかん]/時限[じげん]/
+Stunde{f}/時間[じかん]/
 Stundengeschwindigkeit{f}/時速[じそく]/
 stundenlang{adv}/何時間も続けて[なんじかんもつづけて]/
 Stundenlohn{m}/時給[じきゅう]/
-Stundenplan{m}/メニュー[めにゅー]/日程[にってい]/
+Stundenplan{m}/時間割[じかんわり]/
 Stundenzeiger{m}/短針[たんしん]/
 Stundung{f}/猶予[ゆうよ]/
 Stupsnase{f}/ししっ鼻[ししっぱな]/
-stur{adv}/硬い[かたい]/固い[かたい]/堅い[かたい]/
+stur{adv}/頑固な[がんこな]/
 Sturheit{f}/石頭[いしあたま]/
-Sturm{m}/風[かぜ]/ストーム[すとーむ]/嵐[あらし]/攻撃[こうげき]/攻撃[こうげき]/進撃[しんげき]/荒れ[あれ]/暴風[ぼうふう]/フォワード[ふぉわーど]/強風[きょうふう]/
+Sturm{m}/嵐[あらし]/
 Sturmabteilung{f}/奇兵[きへい]/
 Sturmgewehr{n}/アサルト･ライフル[あさるとらいふる]/
 Sturmglocke{f}/警鐘[けいしょう]/
 Sturmmöwe{f}/鴎[かもめ]/
 Sturmschwalbe{f}/海燕[たこのまくら]/
 Sturmwarnung{f}/強風注意報[きょうふうちゅういほう]/
-Sturmwind{m}/風[かぜ]/嵐[あらし]/暴風[ぼうふう]/
-Sturz{m}/倒れ[たおれ]/スランプ[すらんぷ]/陥落[かんらく]/降下[こうか]/下降[かこう]/転落[てんらく]/下落[げらく]/落ち込み[おちこみ]/
+Sturmwind{m}/嵐[あらし]/
+Sturz{m}/(Hinfallen) 落下[らっか]/(Preis~) 暴落[ぼうらく]/(Verlust eines Amtes) 失脚[しっきゃく]/
 Sturzbach{m}/激流[げきりゅう]/
-Sturzflug{m}/ダイビング[だいびんぐ]/ダイブ[だいぶ]/急降下[きゅうこうか]/
+Sturzflug{m}/急降下[きゅうこうか]/
 Sturzhelm{m}/ヘルメット[へるめっと]/
-Stute{f}/馬[うま]/牝馬[ひんば]/
+Stute{f}/{Zool.} 雌馬[めうま]/
 Stutzen{m}/剪定[せんてい]/
-Stutzer{m}/お洒落[おしゃれ]/ダンディ[だんでぃ]/ダンディー[だんでぃー]/
+Stutzer{m}{altertümlich}/(Modenarr) 流行を追う人[りゅうこうをおうひと]/
 Styling{n}/スタイリング[すたいりんぐ]/
 Styren{n}/スチロール[すちろーる]/
 Styropor{n}/発泡スチロール[はっぽうすちろーる]/
 Städtebau{m}/都市計画[としけいかく]/
-Städter{pl}{m}/市民[しみん]/町民[ちょうみん]/
+Städter{pl}{m}/(Großstadtmensch) 都会人[とかいじん]/
 stählen{vt}/鍛える[きたえる]/
 Stämmigkeit{f}/屈強[くっきょう]/
 Ständeordnung{f}/身分制度[みぶんせいど]/
 Ständer{m}/台[だい]/
-Stängel{m}/軸[じく]/幹[から]/茎[くき]/
-Stärke{f}/肉[にく]/長所[ちょうしょ]/厚手[あつで]/得意[とくい]/強み[つよみ]/強度[きょうど]/強烈[きょうれつ]/強力[ごうりき]/強弱[きょうじゃく]/強固[きょうこ]/威力[いりょく]/特長[とくちょう]/頑丈[がんじょう]/強さ[つよさ]/濃厚[のうこう]/
+Stängel{m}/葉柄[ようへい]/
+Stärke{f}/(Körperkraft) 力[ちから]/(starke Seite) 長所[ちょうしょ]/(~mehl) 澱粉[でんぷん]/
 Stärkemehl{n}/スターチ[すたーち]/
 stärken{vt}/深める[ふかめる]/
 Stärkungsmittel{n}/トニック[とにっく]/
-Stöhnen{n}/うーん[うーん]/ぐう[ぐう]/ウーン[うーん]/ううん[ううん]/うんうん[うんうん]/ウンウン[うんうん]/
+Stöhnen{n}/呻き[うめき]/
 stöhnen{vi}/唸る[うなる]/
 Stöpsel{m}/栓[せん]/
 Stör{m}/鰉[ちょうざめ]/
 stören{vt}/妨げる[さまたげる]/
-störend{adj}{adv}/面倒くさい[めんどうくさい]/うざい[うざい]/鬱陶しい[うっとうしい]/
+störend{adj}{adv}/面倒くさい[めんどうくさい]/
 Störenfried{m}/お邪魔虫[おじゃまむし]/
 Störer{m}/阻害者[そがいしゃ]/
 Störgeräusch{n}/雑音[ざつおん]/
 störrisch{adv}/しぶとい[しぶとい]/
 Störsender{m}/ジャマー[じゃまー]/
-Störung{f}/事故[じこ]/関[せき]/お邪魔[おじゃま]/滞り[とどこおり]/支え[つかえ]/妨害[ぼうがい]/迷惑[めいわく]/阻害[そがい]/邪魔[じゃま]/こだわり[こだわり]/乱れ[みだれ]/狂い[くるい]/故障[こしょう]/中断[ちゅうだん]/障害[しょうがい]/変わり[かわり]/
+Störung{f}/邪魔[じゃま]/
 störungsfrei{adj}/滞りなく[とどこおりなく]/
 Stößel{m}/杵[きね]/
-Stück{n}{pl}/トラック[とらっく]/切れ[きれ]/スライス[すらいす]/固まり[かたまり]/切り身[きりみ]/
-Stückchen{n}/切れ[きれ]/片鱗[へんりん]/微塵[みじん]/端くれ[はしくれ]/切れ端[きれはし]/
+Stück{n}/(Teil) 部分[ぶぶん]/
+Stückchen{n}/(kleiner Teil) 小さい部分[ちいさいぶぶん]/
 Stückgut{n}/混載[こんさい]/
 Stückkosten{pl}/平均費用[へいきんひよう]/
 Stückpreis{m}/単価[たんか]/
-stückweise{adv}{adj}/ボロボロ[ぼろぼろ]/ぼろぼろ[ぼろぼろ]/
+stückweise{adv}{adj}/(eins nach dem anderen) 一つずつ[ひとつずつ]/
 Stückzahl{f}/個数[こすう]/
-Stümper{m}/へっぽこ[へっぽこ]/下手くそ[へたくそ]/
-Stümperei{f}/不器用[ぶきよう]/へっぽこ[へっぽこ]/駄作[ださく]/ぶきっちょ[ぶきっちょ]/
+Stümper{m}/へっぽこ[へっぽこ]/
+Stümperei{f}/不器用[ぶきよう]/
 stümperhaft/不器用な[ぶきような]/
-Stümperhaftigkeit{f}/不細工[ぶさいく]/下手くそ[へたくそ]/
+Stümperhaftigkeit{f}/不細工[ぶさいく]/
 stümpern/へまをする[へまをする]/
 stündlich{adj}/刻々[こっこく]/
 stürmen{vi}/駆ける[かける]/
-Stürmer{m}/前衛[ぜんえい]/ストライカー[すとらいかー]/
-stürmisch{adj}{adv}/猛烈[もうれつ]/荒い[あらい]/
-Stütze{f}/控え[ひかえ]/掛かり[かかり]/柱[はしら]/杖[つえ]/受け[うけ]/支柱[しちゅう]/支柱[しちゅう]/手がかり[てがかり]/中堅[ちゅうけん]/
+Stürmer{m}/{Fussball} ストライカー[すとらいかー]/
+stürmisch{adj}{adv}/猛烈[もうれつ]/
+Stütze{f}/支え[ささえ]/
 Stützkonstruktion{f}/架台[かだい]/
-Stützpfeiler{m}/控え[ひかえ]/支柱[しちゅう]/
-Stützpunkt{m}/基地[きち]/拠点[きょてん]/地盤[じばん]/足場[あしば]/
+Stützpfeiler{m}/支柱[しちゅう]/
+Stützpunkt{m}/基地[きち]/
 Stützungskauf{m}/防戦買い[ぼうせんがい]/
 Suaheli{n}/スワヒリ語[すわひりご]/
-Subjekt{n}/主体[しゅたい]/主観[しゅかん]/
+Subjekt{n}/主体[しゅたい]/
 subjektiv{adj}{adv}/主観的[しゅかんてき]/
 Subjektivismus{m}/主観主義[しゅかんしゅぎ]/
 Subjektivität{f}/主観[しゅかん]/
