@@ -28479,12 +28479,12 @@ Teflon{n}/テフロン[てふろん]/
 Teich{m}/池[ち]/
 Teichhuhn{n}/鷭[ばん]/
 Teig{m}/練り粉[ねりこな]/
-Teil{m}{n}/部[ぶ]/奴[やつ]/お裾分け[おすそわけ]/片鱗[へんりん]/部位[ぶい]/裾分け[すそわけ]/箇所[かしょ]/部品[ぶひん]/部分[ぶぶん]/
+Teil{m}{n}/(ein ~ von etwas) 部分[ぶぶん]/
 Teilbarkeit{f}/整除[せいじょ]/
 Teilchen{n}/粒子[りゅうし]/
 Teilchenbeschleuniger{m}/加速器[かそくき]/
 Teilchengrößenverteilung{f}/粒度分布[りゅうどぶんぷ]/
-teilen{vt}/分ける[わける]/給[きゅう]/割る[わる]/割る[わる]/
+teilen{vt}/分ける[わける]/
 Teilenummer{f}/部品番号[ぶひんばんごう]/
 Teiler{m}/約数[やくすう]/
 Teilhabe{f}/相伴[しょうばん]/
@@ -28492,18 +28492,18 @@ Teilhaber{m}/共有者[きょうゆうしゃ]/
 Teilkreis{m}/刻み円[きざみえん]/
 Teillieferung{f}/分納[ぶんのう]/
 Teilmenge{f}/部分集合[ぶぶんしゅうごう]/
-Teilnahme{f}/参加[さんか]/参入[さんにゅう]/熱心[ねっしん]/同情[どうじょう]/出席[しゅっせき]/関与[かんよ]/配慮[はいりょ]/参列[さんれつ]/関係[かんけい]/共感[きょうかん]/加担[かたん]/察し[さっし]/
+Teilnahme{f}/参加[さんか]/
 teilnahmslos{adv}/素っ気ない[そっけない]/
 teilnahmsvoll{adj}/熱心な[ねっしんな]/
 teilnehmend{adj}/情深い[なさけぶかい]/
-Teilnehmer{m}/参加者[さんかしゃ]/出場者[しゅつじょうしゃ]/受講者[じゅこうしゃ]/入場者[にゅうじょうしゃ]/加入者[かにゅうしゃ]/出席者[しゅっせきしゃ]/
+Teilnehmer{m}/参加者[さんかしゃ]/
 Teilnehmerliste{f}/メンバー表[めんばーひょう]/
 Teilstrecke{f}/線分[せんぶん]/
-Teilung{f}/分割[ぶんかつ]/分離[ぶんり]/分裂[ぶんれつ]/区画[くかく]/
-teilweise{adv}/半ば[なかば]/不全[ふぜん]/部分的[ぶぶんてき]/
+Teilung{f}/分割[ぶんかつ]/
+teilweise{adv}/部分的[ぶぶんてき]/
 Teilzahlung{f}/なし崩し[なしくずし]/
 Teilzahlungskauf{m}/割賦[わっぷ]/
-Teilzeitarbeit{f}/バイト[ばいと]/アルバイト[あるばいと]/
+Teilzeitarbeit{f}/アルバイト[あるばいと]/
 Tektonik{f}/構造[こうぞう]/
 tektonische Platte{f}/構造平野[こうぞうへいや]/
 Telearbeit{f}/在宅勤務[ざいたくきんむ]/
@@ -28545,62 +28545,62 @@ Teleprompter{m}/プロンプター[ぷろんぷたー]/
 Teleshopping{n}/テレビショッピング[てれびしょっぴんぐ]/
 Teleskop{n}/望遠鏡[ぼうえんきょう]/
 Television{f}/テレビジョン[てれびじょん]/
-Teller{m}/皿[さら]/プレート[ぷれーと]/
+Teller{m}/皿[さら]/
 Tellermütze{f}/大黒頭巾[だいこくずきん]/
 Tellerventil{n}/ポペット[ぽぺっと]/
 Tellerwäscher{m}/皿洗い[さらあらい]/
 Tellurit{n}/亜テルル酸塩[あてるるさんえん]/
 Telomer{n}/テロメア[てろめあ]/
 Telomerase{f}/テロメラーゼ[てろめらーぜ]/
-Tempel{m}/堂[どう]/殿堂[でんどう]/山門[さんもん]/
+Tempel{m}/神殿[しんでん]/
 Temperafarbe{f}/泥絵の具[どろえのぐ]/
 Temperamalerei{f}/テンペラ画[てんぺらが]/
-Temperament{n}/虫[むし]/性質[せいしつ]/意地[いじ]/気質[かたぎ]/気象[きしょう]/意気[いき]/性分[しょうぶん]/
+Temperament{n}/気質[かたぎ]/
 temperamentvoll{adj}{adv}/歯切れのよい[はぎれのよい]/
-Temperatur{f}/暑さ[あつさ]/寒暖[かんだん]/気温[きおん]/温度[おんど]/
+Temperatur{f}/温度[おんど]/
 temperaturabhängig{adj}/感温性の[かんおんしせいの]/
 Temperaturabhängigkeit{f}/感温性[かんおんせい]/
 Temperaturmessung{f}/検温[けんおん]/
 Temperaturwechsel{m}/気温の変化[きおんのへんか]/
-Tempo{n}/調子[ちょうし]/タクト[たくと]/ペース[ぺーす]/拍子[ひょうし]/ピッチ[ぴっち]/速度[そくど]/
-temporär{adj}/臨時[りんじ]/仮に[かりに]/一時的[いちじてき]/
-Tendenz{f}/嫌い[きらい]/動向[どうこう]/傾斜[けいしゃ]/色合い[いろあい]/偏向[へんこう]/風潮[ふうちょう]/勢い[いきおい]/勢[いきおい]/傾向[けいこう]/傾向[けいこう]/傾向[けいこう]/素質[そしつ]/動き[うごき]/
+Tempo{n}/速度[そくど]/
+temporär{adj}/臨時[りんじ]/
+Tendenz{f}/動向[どうこう]/
 tendenziös{adj}{adv}/宣伝的[せんでんてき]/
 Tender{m}/ホッパー[ほっぱー]/
 Teneriffa{n}/テネリフェ島[てねりふぇとう]/
 Tenne{f}/脱穀場[だっこくじょう]/
 Tennis{n}/テニス[てにす]/
 Tennisball{m}/テニスボール[てにすぼーる]/
-Tennisplatz{m}/コート[こーと]/テニスコート[てにすこーと]/
+Tennisplatz{m}/テニスコート[てにすこーと]/
 Tennisschläger{m}/テニスラケット[てにすらけっと]/
 Tennisspieler{m}/テニスの選手[てにすのせんしゅ]/
 Tennisturnier{n}/テニス大会[てにすたいかい]/
-Tenor{m}/テナー[てなー]/主旨[しゅし]/
+Tenor{m}/{Mus.} テナー[てなー]/(wesentlicher Inhalt) 主旨[しゅし]/
 Tenorsaxophon{n}/テナー･サキソホン[てなーさきそほん]/
 Tensid{n}/界面活性剤[かいめんかっせいざい]/
 Tensiometer{n}/張力計[ちょうりょくけい]/
 Teppich{m}/カーペット[かーぺっと]/絨毯[じゅうたん]/
 Teppichkehrmaschine{f}/絨緞掃除機[じゅうたんそうじき]/
 Tequila{m}/テキーラ[てきーら]/
-Termin{m}/日々[ひにち]/期日[きじつ]/日日[ひにち]/期限[きげん]/期[ご]/時間[じかん]/時限[じげん]/日にち[ひにち]/
-Terminal{n}/ターミナル[たーみなる]/端末[たんまつ]/
+Termin{m}/期限[きげん]/
+Terminal{n}/(Bus, Bahn und Flughafen) ターミナル[たーみなる]/{EDV} 端末[たんまつ]/
 terminal{adj}/終端の[しゅうたんの]/
 termingebunden{adj}/有期の[ゆうきの]/
-Termingeschäft{n}/先物取引[さきものとりひき]/延べ[のべ]/
+Termingeschäft{n}/先物取引[さきものとりひき]/
 Terminmarkt{m}/先物市場[さきものしじょう]/
-Terminologie{f}/用語[ようご]/専門用語[せんもんようご]/
+Terminologie{f}/専門用語[せんもんようご]/
 Terminplan{m}/デート･コース[でーとこーす]/
 Termite{f}/白蟻[しろあり]/
 Terpentinöl{n}/テレビン油[てれびんゆ]/
 Terrakotta{f}/テラコッタ[てらこった]/
 Terrarium{n}/テラリウム[てらりうむ]/
-Terrasse{f}/段々[だんだん]/テラス[てらす]/
+Terrasse{f}/テラス[てらす]/
 Terrassentür{f}/フランス窓[ふらんすまど]/
 terrestrisch{adj}/地球の[ちきゅうの]/
 Terrier{m}/テリア[てりあ]/
 territorial{adj}/領土の[りょうどの]/
 Territorialgewässer{pl}/領海[りょうかい]/
-Territorium{n}/地[じ]/テリトリー[てりとりー]/領域[りょういき]/領土[りょうど]/
+Territorium{n}/領土[りょうど]/
 Terror{m}/テロ[てろ]/
 Terrorakt{m}/テロ行為[てろこうい]/
 Terroranschlag{m}/テロ行為[てろこうい]/
@@ -28611,7 +28611,7 @@ tertiär{adj}/第三次[だいさんじ]/
 Terz{f}/三度[さんど]/
 Terzett{n}/三重奏[さんじゅうそう]/
 Tesafilm{m}/セロテープ[せろてーぷ]/
-Test{m}/経験[けいけん]/テスト[てすと]/実験[じっけん]/試験[しけん]/試み[こころみ]/
+Test{m}/(Probe) テスト[てすと]/(Prüfung) 試験[しけん]/
 Testament{n}/遺書[いしょ]/
 testamentarisch{adj}{adv}/遺言通りに[ゆいごんどおりに]/
 Testamentsvollstrecker{m}/遺言執行者[いごんしっこうしゃ]/
@@ -28636,8 +28636,8 @@ Tetanus{m}/破傷風[はしょうふう]/
 Tetrachlorkohlenstoff{m}/四塩化炭素[しえんかたんそ]/
 Tetrade{f}/四分染色体[よんふんせんしょくたい]/
 Tetraeder{n}/四面体[しめんたい]/
-teuer{adv}{adj}/高い[たかい]/尊い[とうとい]/懐かしい[なつかしい]/愛しい[いとしい]/惜しい[おしい]/大切[たいせつ]/恋しい[こいしい]/
-Teufel{m}/鬼[おに]/亡霊[ぼうれい]/デビル[でびる]/魔[ま]/魔王[まおう]/悪魔[あくま]/魔物[まもの]/
+teuer{adv}{adj}/値段が高い[ねだんがたかい]/
+Teufel{m}/鬼[おに]/
 Teufelei{f}/悪逆[あくぎゃく]/
 Teufelsbraten{m}/ガキ[がき]/
 Teufelskerl{m}/鬼才[きさい]/
@@ -28645,11 +28645,11 @@ Teufelskreis{m}/悪循環[あくじゅんかん]/
 Teufelszeug{n}/悪魔の産物[あくまのさんぶつ]/
 teuflisch{adj}{adv}/魔性の[ましょうの]/
 teutonisch{adj}/チュートンの[ちゅーとんの]/
-Text{m}/本文[ほんもん]/歌詞[かし]/条文[じょうぶん]/台詞[せりふ]/セリフ[せりふ]/文章[ぶんしょう]/テキスト[てきすと]/
+Text{m}/文章[ぶんしょう]/テキスト[てきすと]/
 Texteditor{m}/テキスト･エディター[てきすとえでぃたー]/
 Texter{m}/作詞家[さくしか]/
 Textilfabrik{f}/織元[おりもと]/
-Textilien{pl}/織[おり]/織り[おり]/
+Textilien{pl}/繊維製品[せんいせいひん]/
 Textilindustrie{f}/繊維工業[せんいこうぎょう]/
 Textilmaschine{f}/繊維機械[せんいきかい]/
 Textilwaren{pl}/織物[おりもの]/
@@ -28660,19 +28660,19 @@ Textverarbeitungssystem{n}/ワードプロセッサー[わーどぷろせっさ�
 Thai{m}{f}/タイ人[たいじん]/
 thailändisch{adj}/タイの[たいの]/
 Thanatologie{f}/死亡論[しぼうろん]/
-Theater{n}/劇場[げきじょう]/劇[げき]/シアター[しあたー]/演劇[えんげき]/騒ぎ[さわぎ]/
+Theater{n}/(Schauspielhaus) 劇場[げきじょう]/(Schauspiel) 劇[げき]/
 Theater spielen{vt}/劇を演じる[げきをえんじる]/
 Theaterbesucher{m}/客[きゃく]/
 Theaterdirektor{m}/座元[ざもと]/
 Theaterkritiker{m}/劇評家[げきひょうか]/
-Theaterstück{n}/プレイ[ぷれい]/プレー[ぷれー]/脚本[きゃくほん]/
+Theaterstück{n}/プレー[ぷれー]/脚本[きゃくほん]/
 Theatervorstellung{f}/演劇[えんげき]/
 Theatralik{f}/物体[もったい]/
 theatralisch{adj}{adv}/物々しい[ものものしい]/
 Theismus{m}/有神論[ゆうしんろん]/
 Theist{m}/有神論者[ゆうしんろんしゃ]/
 Theke{f}/カウンター[かうんたー]/
-Thema{n}/問題[もんだい]/題目[だいもく]/題材[だいざい]/種[たね]/本筋[ほんすじ]/テーマ[てーま]/課題[かだい]/題[だい]/基調[きちょう]/トピック[とぴっく]/主題[しゅだい]/
+Thema{n}/テーマ[てーま]/主題[しゅだい]/
 thematisieren{vt}/論じる[ろんじる]/
 Themenpark{m}/テーマパーク[てーまぱーく]/
 Theodizee{f}/神義論[しんぎろん]/
@@ -28682,8 +28682,8 @@ Theologe{m}/神学者[しんがくしゃ]/
 Theologie{f}/神学[しんがく]/
 Theorem{n}/定理[ていり]/
 Theoretiker{m}/理論家[りろんか]/
-theoretisch{adj}{adv}/机上[きじょう]/理論的[りろんてき]/
-Theorie{f}/理論[りろん]/理屈[りくつ]/イズム[いずむ]/セオリー[せおりー]/説[せつ]/原理[げんり]/
+theoretisch{adj}{adv}/理論的[りろんてき]/
+Theorie{f}/理論[りろん]/
 Therapeut{m}/セラピスト[せらぴすと]/療法士[りょうほうし]/
 Therapeutik{f}/治療学[ちりょうがく]/
 Therapeutikum{n}/治療薬[ちりょうやく]/
@@ -28705,7 +28705,7 @@ Threonin{n}/トレオニン[とれおにん]/
 Thriller{m}/スリラー[すりらー]/
 Thrombose{f}/血栓症[けっせんしょう]/
 Thrombus{m}/血栓[けっせん]/
-Thron{m}/王座[おうざ]/王位[おうい]/
+Thron{m}/王座[おうざ]/
 Thronfolge{f}/王位継承[おういけいしょう]/
 Thronrede{f}/勅語[ちょくご]/
 Thronräuber{m}/簒奪者[さんだつしゃ]/
@@ -28720,12 +28720,12 @@ ticken{vi}/カチカチと音を立てる[かちかちとおとをたてる]/
 Ticker{m}/カチカチいうもの[かちかちいうもの]/
 Ticktack{n}/かちかち[かちかち]/
 Tidebecken{n}/潮溜まり[しおたまり]/
-tief{adj}{adv}/高い[たかい]/激しい[はげしい]/低い[ひくい]/奥深い[おくふかい]/厚い[あつい]/強い[つよい]/低く[ひくく]/ざっくり[ざっくり]/深い[ふかい]/ディープ[でぃーぷ]/
+tief{adj}{adv}/深い[ふかい]/
 Tiefbau{m}/土木[どぼく]/
 tiefblau{adj}/真っ青[まっさお]/
 Tiefdruck{m}/低気圧[ていきあつ]/
 Tiefdruckrinne{f}/トラフ[とらふ]/
-Tiefe{f}/内容[ないよう]/深み[ふかみ]/奥底[おくそこ]/厚み[あつみ]/深さ[ふかさ]/底[そこ]/重厚[じゅうこう]/深層[しんそう]/どん底[どんぞこ]/淵[ふち]/奥深さ[おくふかさ]/
+Tiefe{f}/深み[ふかみ]/
 Tiefebene{f}/低地[ていち]/
 tiefempfunden{adj}/心から[こころから]/
 Tiefengestein{n}/深成岩[しんせいがん]/
@@ -28734,8 +28734,8 @@ Tiefenpsychologie{f}/深層心理学[しんそうしんりがく]/
 Tiefflieger{m}/低空を飛行中の航空機[ていくうをひこうちゅうのこうくうき]/
 Tiefflug{m}/低空飛行[ていくうひこう]/
 Tiefgang{m}/突っ込み[つっこみ]/
-tiefgehend/強い[つよい]/深い[ふかい]/
-Tiefgründigkeit{f}/深み[ふかみ]/厚み[あつみ]/重厚[じゅうこう]/
+tiefgehend/深い[ふかい]/
+Tiefgründigkeit{f}/重厚[じゅうこう]/
 tiefkühlen{vt}/冷凍する[れいとうする]/
 Tiefkühlkost{f}/冷凍食品[れいとうしょくひん]/
 Tiefkühlung{f}/冷凍[れいとう]/
@@ -28750,9 +28750,9 @@ tiefsinnig{adj}/奥深い[おくふかい]/
 Tiefstpreis{m}/最低価格[さいていかかく]/
 Tieftemperaturtechnik{f}/低温工学[ていおんこうがく]/
 Tieftonlautsprecher{m}/ウーファー[うーふぁー]/
-Tier{n}/動物[どうぶつ]/アニマル[あにまる]/獣[けだもの]/
+Tier{n}/動物[どうぶつ]/
 Tierarzt{m}/獣医[じゅうい]/
-Tierhalter{m}/飼い主[かいぬし]/飼主[かいぬし]/
+Tierhalter{m}/(Besitzer eines Tieres) 飼い主[かいぬし]/
 Tierhandlung{f}/ペットショップ[ぺっとしょっぷ]/
 tierisch{adj}{adv}/動物性の[どうぶつせいの]/
 Tierklinik{f}/家畜病院[かちくびょういん]/
@@ -28770,7 +28770,7 @@ Tierschutzverein{m}/動物愛護協会[どうぶつあいごきょうかい]/
 Tierversuch{m}/動物実験[どうぶつじっけん]/
 Tierwelt{f}/ファウナ[ふぁうな]/
 Tierzucht{f}/畜[ちく]/
-Tiger{m}/虎[とら]/トラ[とら]/トラ[とら]/タイガー[たいがー]/寅[とら]/寅[とら]/
+Tiger{m}/{Zool.} 虎[とら]/
 Tigerauge{n}/タイガー･アイ[たいがーあい]/
 Tigerfink{m}/紅雀[べにすずめ]/
 Tigerkatze{f}/ぶち猫[ぶちねこ]/
@@ -28783,7 +28783,7 @@ Timbre{n}/音色[おんしょく]/
 Tingeltangel{n}/席[せき]/
 Tinktur{f}/チンキ[ちんき]/
 Tinnitus{m}/耳鳴り[みみなり]/
-Tinte{f}/色[いろ]/インク[いんく]/
+Tinte{f}/インク[いんく]/
 Tintenfass{n}/墨壷[すみつぼ]/
 Tintenfisch{m}/烏賊[いか]/
 Tintenfleck{m}/インクのしみ[いんくのしみ]/
@@ -28793,7 +28793,7 @@ Tintenstrahldrucker{m}/インクジェット･プリンター[いんくじぇ�
 Tipp{m}/ヒント[ひんと]/
 tippeln{vi}/テクシーで行く[てくしーでいく]/
 Tippfehler{m}/間違い[まちがい]/
-Tisch{m}/テーブル[てーぶる]/卓[たく]/食卓[しょくたく]/
+Tisch{m}/テーブル[てーぶる]/机[つくえ]/
 Tischdecke{f}/テーブルクロス[てーぶるくろす]/
 Tischgebet{n}/祈祷[きとう]/
 Tischgespräch{n}/座談[ざだん]/
@@ -28807,17 +28807,17 @@ Tischrechner{m}/電卓[でんたく]/
 Tischrede{f}/テーブルスピーチ[てーぶるすぴーち]/
 Tischsitten{pl}/食べ方[たべかた]/
 Tischtelefon{n}/卓上電話[たくじょうでんわ]/
-Tischtennis{n}/卓球[たっきゅう]/ピンポン[ぴんぽん]/
+Tischtennis{n}/卓球[たっきゅう]/
 Tischtuch{n}/卓布[たくふ]/
 Titan{m}{n}/巨漢[きょかん]/
-Titel{m}/名[な]/題目[だいもく]/選手権[せんしゅけん]/称号[しょうごう]/名称[めいしょう]/名目[めいもく]/題[だい]/見出し[みだし]/主題[しゅだい]/表題[ひょうだい]/
+Titel{m}/(Amtstitel;Ehrengrad) 称号[しょうごう]/(Meisterschafts~) 選手権[せんしゅけん]/(~ eines Textes, Filmes) タイトル[たいとる]/
 Titelbild{n}/扉絵[とびらえ]/
 Titelblatt{n}/扉[とびら]/
 Titelgeschichte{f}/トップ記事[とっぷきじ]/
 Titelhalter{m}/選手権保持者[せんしゅけんほじしゃ]/
 Titelkampf{m}/争覇戦[そうはせん]/
 Titelmusik{f}/タイトル･ミュージック[たいとるみゅーじっく]/
-Titelrolle{f}/主演[しゅえん]/主役[しゅやく]/
+Titelrolle{f}/主演[しゅえん]/
 Titelseite{f}/扉[とびら]/
 Titelverteidiger{m}/タイトル保持者[たいとるほじしゃ]/
 Titer{m}/番手[ばんて]/
@@ -28827,9 +28827,9 @@ toasten{vt}/トーストにする[とーすとにする]/
 Toaster{m}/トースター[とーすたー]/
 tobend{adj}{adv}/騒がしい[さわがしい]/
 tobsüchtig{adj}/狂気の[きょうきの]/
-Tochter{f}/娘[むすめ]/児[こ]/嬢[じょう]/
+Tochter{f}/娘[むすめ]/
 Tochtergesellschaft{f}/子会社[こがいしゃ]/
-Tod{m}/死[しに]/死去[しきょ]/上り[あがり]/没[ぼつ]/往生[おうじょう]/不幸[ふこう]/最期[さいご]/昇天[しょうてん]/終焉[しゅうえん]/逝去[せいきょ]/死亡[しぼう]/上がり[あがり]/
+Tod{m}/死亡[しぼう]/
 todernst{adj}/糞真面目[くそまじめ]/
 Todesangst{f}/死の恐怖[しのきょうふ]/
 Todesart{f}/死に様[しによう]/
@@ -28847,20 +28847,20 @@ Todeswunsch{m}/死の願望[しのがんぼう]/
 Todeszelle{f}/死刑囚監房[しけいしゅうかんぼう]/
 Todfeind{m}/仇敵[きゅうてき]/
 todkrank{adj}/ひん死の[ひんしの]/
-todmüde{adj}/ぐったり[ぐったり]/くたくた[くたくた]/
+todmüde{adj}/ぐったり[ぐったり]/
 Todsünde{f}/大罪[だいざい]/
-Tohuwabohu{n}/ごっちゃ[ごっちゃ]/無茶苦茶[むちゃくちゃ]/滅茶苦茶[めちゃくちゃ]/
+Tohuwabohu{n}/無茶苦茶[むちゃくちゃ]/
 Toilettenartikel{m}/化粧品[けしょうひん]/
 Toilettengarnitur{f}/化粧道具[けしょうどうぐ]/
 Toilettenpapier{n}/トイレットペーパー[といれっとぺーぱー]/
 Toilettenseife{f}/化粧石鹸[けしょうせっけん]/
 Toilettentisch{m}/化粧台[けしょうだい]/
 tolerant{adj}{adv}/広い[ひろい]/
-Toleranz{f}/我慢[がまん]/寛大[かんだい]/広さ[ひろさ]/許容[きょよう]/耐性[たいせい]/寛容[かんよう]/
+Toleranz{f}/寛大[かんだい]/
 Toleranzbereich{m}/許容範囲[きょようはんい]/
-toll{adj}/素敵[すてき]/グー[ぐー]/凄い[すごい]/凄まじい[すさまじい]/大した[たいした]/格好いい[かっこういい]/
+toll{adj}/凄い[すごい]/
 Tollheit{f}/狂い[くるい]/
-tollkühn{adv}/無茶[むちゃ]/思い切った[おもいきった]/
+tollkühn{adv}/思い切った[おもいきった]/
 Tollkühnheit{f}/無謀[むぼう]/
 Tollpatsch{m}/とろいやつ[とろいやつ]/
 Tollwut{f}/狂犬病[きょうけんびょう]/
@@ -28868,20 +28868,20 @@ Tomate{f}/トマト[とまと]/
 Tomatensaft{m}/トマトジュース[とまとじゅーす]/
 Tombola{f}/福引[ふくびき]/
 Tomtom{n}/タムタム[たむたむ]/
-Ton{m}/土[つち]/物音[ものおと]/音響[おんきょう]/節[ふし]/口調[くちょう]/粘土[ねばつち]/調べ[しらべ]/息[いき]/音[おん]/鳴り[なり]/トーン[とーん]/声[こえ]/調子[ちょうし]/
+Ton{m}/(Laut) 音[おと]/{fig.}(Sprechweise) 口調[くちょう]/
 Tonabnehmer{m}/ピックアップ[ぴっくあっぷ]/
 tonangebend{adj}/主立った[おもだった]/
 Tonanteil{m}/粘土分[ねんどぶん]/
 Tonarm{m}/トーン･アーム[とーんあーむ]/
-Tonart{f}/キー[きー]/調べ[しらべ]/
+Tonart{f}/{fig.}(Sprechweise) 口調[くちょう]/{Musik} 調べ[しらべ]/
 Tonaufnahme{f}/録音[ろくおん]/
 Tonband{n}/テープ[てーぷ]/
 Tonbandgerät{n}/録音機[ろくおんき]/
 Tonerde{f}/アルミナ鉱石[あるみなこうせき]/
 Tonerdezement{m}/アルミナ･セメント[あるみなせめんと]/
-Tonfall{m}/口調[くちょう]/アクセント[あくせんと]/
+Tonfall{m}/口調[くちょう]/
 Tonfilm{m}/トーキー[とーきー]/
-Tonhöhe{f}/高さ[たかさ]/ピッチ[ぴっち]/
+Tonhöhe{f}/音の高さ[おとのたかさ]/
 Tonic{n}/トニック[とにっく]/
 tonig{adj}/粘土質の[ねんどしつの]/
 Tonika{f}/基調[きちょう]/
@@ -28891,25 +28891,25 @@ Tonkunst{f}/音楽[おんがく]/
 Tonleiter{f}/スケール[すけーる]/
 Tonmineral{n}/粘土鉱物[ねんどこうぶつ]/
 Tonnage{f}/トン[とん]/
-Tonne{f}/トン[とん]/ドラム[どらむ]/たる[たる]/樽[たる]/
+Tonne{f}/(Maßeinheit) トン[とん]/(Fass) 樽[たる]/
 Tonnengehalt{n}/搭載量[とうさいりょう]/
 Tonrohr{n}/土管[どかん]/
 Tonscherbe{f}/土器片[どきへん]/
 Tonsillitis{f}/口峡炎[こうきょうえん]/
-Tonspur{f}/サントラ[さんとら]/サウンドトラック[さうんどとらっく]/
+Tonspur{f}/サウンドトラック[さうんどとらっく]/
 Tonstein{m}/泥岩[でいがん]/
 Tonsur{f}/坊主頭[ぼうずあたま]/
 Tontaube{f}/トラップ[とらっぷ]/
 Tonus{m}/緊張[きんちょう]/
 Tonware{f}/瀬戸物[せともの]/
 Topas{m}/トパーズ[とぱーず]/
-Topf{m}/身[み]/壺[つぼ]/壷[つぼ]/鉢[はち]/鍋[なべ]/お鍋[おなべ]/
+Topf{m}/(Koch~) 鍋[なべ]/
 Topfkratzer{m}/束子[たわし]/
-Topfpflanze{f}/植木[うえき]/鉢植え[はちうえ]/
+Topfpflanze{f}/鉢植え[はちうえ]/
 Topinambur{f}/菊芋[きくいも]/
 topographisch{adj}{adv}/地形上[ちけいじょう]/
 Topologie{f}/トポロジー[とぽろじー]/
-Tor{n}/点[てん]/関門[かんもん]/ゲート[げーと]/ゲート[げーと]/バカ[ばか]/馬鹿[ばか]/ゴール[ごーる]/痴漢[ちかん]/
+Tor{n}/(Gattertor) 関門[かんもん]/{Ballsport} ゴール[ごーる]/
 Torbogen{m}/アーチ型の入口[あーちがたのいりぐち]/
 Torero{m}/闘牛士[とうぎゅうし]/
 Torf{m}/ピート[ぴーと]/
@@ -28918,7 +28918,7 @@ Torheit{f}/愚行[ぐこう]/
 Torhüter{m}/門番[もんばん]/
 Torlatte{f}/クロスバー[くろすばー]/
 Torlinie{f}/ゴールライン[ごーるらいん]/
-Tornado{m}/旋風[せんぷう]/トルネード[とるねーど]/竜巻[たつまき]/
+Tornado{m}/{Meteor.} 旋風[せんぷう]/{Meteor.} トルネード[とるねーど]/
 Tornister{m}/背嚢[はいのう]/
 Toronto (Stadt in Kanada)/トロント[とろんと]/
 torpedieren{vt}/雷撃する[らいげきする]/
@@ -28934,7 +28934,7 @@ Torte{f}/ケーキ[けーき]/
 Torwart{m}/キーパー[きーぱー]/
 Torweg{m}/出入り口[でいりぐち]/
 tosen{vi}/荒れ狂う[あれくるう]/
-tot{adj}/ない[ない]/無い[ない]/
+tot{adj}/死んだ[しんだ]/
 Totale{f}/ロングショット[ろんぐしょっと]/
 Totalitarist{m}/全体主義者[ぜんたいしゅぎしゃ]/
 Totalität{f}/全体[ぜんたい]/
@@ -28964,13 +28964,13 @@ Totschläger{m}/惨殺者[ざんさつしゃ]/
 Touchdown{m}/タッチダウン[たっちだうん]/
 Touchscreen{m}/タッチパネル[たっちぱねる]/
 Toupet{n}/ヘアピース[へあぴーす]/
-Tour{f}/旅行[りょこう]/巡回[じゅんかい]/ツアー[つあー]/漫遊[まんゆう]/周り[まわり]/遊覧[ゆうらん]/
+Tour{f}/(Reise) 旅行[りょこう]/ツアー[つあー]/
 Tourismus{m}/観光[かんこう]/
-Tourist{m}/観光客[かんこうきゃく]/ツーリスト[つーりすと]/旅行者[りょこうしゃ]/
+Tourist{m}/観光客[かんこうきゃく]/ツーリスト[つーりすと]/
 Touristenattraktion{f}/観光資源[かんこうしげん]/
 Touristengruppe{f}/団体客[だんたいきゃく]/
 Touristenklasse{f}/エコノミークラス[えこのみーくらす]/
-Tournee{f}/遠征[えんせい]/巡業[じゅんぎょう]/
+Tournee{f}/巡業[じゅんぎょう]/
 Toxikologie{f}/毒科学[どくかがく]/
 Toxin{n}/毒素[どくそ]/
 Toxizität{f}/毒性[どくせい]/
