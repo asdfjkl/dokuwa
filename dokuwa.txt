@@ -28984,7 +28984,7 @@ Tracheotomie{f}/気管切開[きかんせっかい]/
 Tracht{f}/出で立ち[いでたち]/
 Trackball{m}/トラックボール[とらっくぼーる]/
 tradieren/残る[のこる]/
-Tradition{f}/歴史[れきし]/カスタム[かすたむ]/伝え[つたえ]/コンベンション[こんべんしょん]/伝統[でんとう]/
+Tradition{f}/伝統[でんとう]/
 Traditionalismus{m}/尚古[しょうこ]/
 Traditionalist{m}/伝統主義者[でんとうしゅぎしゃ]/
 traditionell{adj}{adv}/伝統的[でんとうてき]/
@@ -29007,16 +29007,16 @@ Traglufthalle{f}/エアドーム[えあどーむ]/
 Tragriemen{m}/負い革[おいかわ]/
 Tragschrauber{m}/オートジャイロ[おーとじゃいろ]/
 Tragweite{f}/意味[いみ]/
-Tragödie{f}/悲劇[ひげき]/惨劇[さんげき]/
+Tragödie{f}/悲劇[ひげき]/
 Trailer{m}/予告編[よこくへん]/
-Trainer{m}/監督[かんとく]/指導者[しどうしゃ]/コーチ[こーち]/調教師[ちょうきょうし]/トレーナー[とれーなー]/
-trainieren{vi}/覚える[おぼえる]/鍛える[きたえる]/磨く[みがく]/練る[ねる]/
-Training{n}/練習[れんしゅう]/教育[きょういく]/演習[えんしゅう]/稽古[けいこ]/指導[しどう]/修行[しゅぎょう]/教習[きょうしゅう]/躾[しつけ]/仕込み[しこみ]/研修[けんしゅう]/運動[うんどう]/訓練[くんれん]/トレーニング[とれーにんぐ]/エクササイズ[えくささいず]/
+Trainer{m}/監督[かんとく]/コーチ[こーち]/
+trainieren{vi}/訓練する[くんれんする]/
+Training{n}/練習[れんしゅう]/トレーニング[とれーにんぐ]/
 Trainingsanzug{m}/スウェット･スーツ[すうぇっとすーつ]/
 Trainingsgerät{n}/運動用の機械[うんどうようのきかい]/
 Trainingshose{f}/トレーニングパンツ[とれーにんぐぱんつ]/
 Trainingslager{n}/強化合宿[きょうかがっしゅく]/
-Traktat{n}/論文[ろんぶん]/小冊子[しょうさっし]/
+Traktat{n}/(Pamphlet) 小冊子[しょうさっし]/
 Traktor{m}/トラクター[とらくたー]/
 Tramp{m}/トランパー[とらんぱー]/
 trampeln{vi}/踏み鳴らす[ふみならす]/
@@ -29030,7 +29030,7 @@ tranig{adj}/のそのそ[のそのそ]/
 Transaktion{f}/取引[とりひき]/
 Transfer{m}/移籍[いせき]/
 Transferdruck{m}/発音転写[はつおんてんしゃ]/
-Transformation{f}/変態[へんたい]/変形[へんけい]/
+Transformation{f}/(Umformung) 変形[へんけい]/
 Transformationsgrammatik{f}/変形文法[へんけいぶんぽう]/
 Transformationskurve{f}/変形曲線[へんけいきょくせん]/
 Transformator{m}/トランス[とらんす]/
@@ -29046,13 +29046,13 @@ Translation{f}/並進[へいしん]/
 Transliteration{f}/音訳[おんやく]/
 Transmission{f}/トランスミッション[とらんすみっしょん]/
 Transparent{n}/プラカード[ぷらかーど]/
-Transparenz{f}/透明[とうめい]/透明度[とうめいど]/
+Transparenz{f}/(Durchsichtigkeit) 透明[とうめい]/
 Transpiration{f}/発汗[はっかん]/
 Transplantat{n}/移植片[いしょくへん]/
 Transplantation{f}/移植[いしょく]/
 Transponder{m}/トランスポンダー[とらんすぽんだー]/
 transponieren{vt}/移項する[いこうする]/
-Transport{m}/交通[こうつう]/輸送[ゆそう]/運輸[うんゆ]/運び[はこび]/運搬[うんぱん]/運送[うんそう]/
+Transport{m}/輸送[ゆそう]/
 transportabel{adj}/携帯用の[けいたいようの]/
 Transportband{n}/チェーン･コンベア[ちぇーんこんべあ]/
 Transportbeton{m}/生コンクリート[なまこんくりーと]/
@@ -29061,8 +29061,8 @@ Transporteur{m}/運送人[うんそうにん]/
 Transportflugzeug{n}/輸送機[ゆそうき]/
 Transportgewerbe{n}/運送業[うんそうぎょう]/
 Transporthubschrauber{m}/輸送ヘリコプター[ゆそうへりこぷたー]/
-Transportkosten{pl}/送料[そうりょう]/運賃[うんちん]/交通費[こうつうひ]/
-Transportmittel{n}/足[あし]/交通機関[こうつうきかん]/
+Transportkosten{pl}/運賃[うんちん]/
+Transportmittel{n}/交通機関[こうつうきかん]/
 Transportschiff{n}/輸送船[ゆそうせん]/
 Transportsystem{n}/輸送システム[ゆそうしすてむ]/
 Transporttechnik{f}/運搬技術[うんぱんぎじゅつ]/
@@ -29081,15 +29081,15 @@ Trapez{n}/台形[だいけい]/
 trapezförmig{adj}/台形の[だいけいの]/
 Trapezkünstler{m}/ぶらんこ乗り[ぶらんこのり]/
 Trapezoid{n}/梯形[ていけい]/
-Traube{f}/総[ふさ]/房[ふさ]/グレープ[ぐれーぷ]/葡萄[ぶどう]/
+Traube{f}/{Bot.}(Wein~) 葡萄[ぶどう]/
 traubenförmig{adj}/胞状の[ほうじょうの]/
 Traubenlese{f}/葡萄狩り[ぶどうがり]/
 Traubensaft{m}/グレープジュース[ぐれーぷじゅーす]/
 Traubenzucker{m}/ブドウ糖[ぶどうとう]/
-Trauer{f}/愛[あい]/哀れ[あわれ]/嘆き[なげき]/悲しさ[かなしさ]/支え[つかえ]/悲しみ[かなしみ]/哀しみ[かなしみ]/悔しさ[くやしさ]/追悼[ついとう]/悔やみ[くやみ]/無念[むねん]/悲哀[ひあい]/哀愁[あいしゅう]/悲愴[ひそう]/
+Trauer{f}/悲しみ[かなしみ]/
 Trauerbinde{f}/喪章[もしょう]/
 Trauerfall{m}/取り込み[とりこみ]/
-Trauerfeier{f}/葬儀[そうぎ]/葬式[そうしき]/
+Trauerfeier{f}/葬儀[そうぎ]/
 Trauerflor{m}/喪章[もしょう]/
 Trauermarsch{m}/葬送行進曲[そうそうこうしんきょく]/
 Trauern{n}/感嘆[かんたん]/
@@ -29097,9 +29097,9 @@ Trauerrand{m}/黒枠[くろわく]/
 Trauerrede{f}/弔辞[ちょうじ]/
 Trauerweide{f}/枝垂れ柳[しだれやなぎ]/
 Trauerzug{m}/葬列[そうれつ]/
-Traufe{f}/軒[のき]/宇[のき]/
-Traum{m}/夢[ゆめ]/ドリーム[どりーむ]/夢幻[むげん]/期待[きたい]/夢見[ゆめみ]/幻想[げんそう]/
-Trauma{n}/傷[きず]/外傷[がいしょう]/トラウマ[とらうま]/
+Traufe{f}/(Dach~) 軒[のき]/
+Traum{m}/夢[ゆめ]/
+Trauma{n}/(äußere Verletzung) 外傷[がいしょう]/{Psychol.} トラウマ[とらうま]/
 traumatisch{adj}{adv}/創傷の[そうしょうの]/
 Traumatologie{f}/創傷学[そうしょうがく]/
 Traumbild{n}/空想[くうそう]/
@@ -29108,18 +29108,18 @@ Traumdeutung{f}/夢占い[ゆめうらない]/
 traumhaft{adj}{adv}/夢幻的[むげんてき]/
 Traumland{n}/ユートピア[ゆーとぴあ]/
 Traumwelt{f}/痴人の天国[ちじんのてんごく]/
-traurig{adv}{adj}/悲しい[かなしい]/哀しい[かなしい]/儚い[はかない]/可哀相[かわいそう]/可哀想[かわいそう]/
+traurig{adv}{adj}/悲しい[かなしい]/
 traurig aussehen/憂いを帯びている[うれいをおびている]/
-Traurigkeit{f}/悲しみ[かなしみ]/悲しさ[かなしさ]/哀しみ[かなしみ]/憂さ[うさ]/悲哀[ひあい]/
+Traurigkeit{f}/悲しみ[かなしみ]/
 Trauring{m}/結婚指輪[けっこんゆびわ]/
 Trauung{f}/結婚式[けっこんしき]/
 Trauzeuge{m}/付き添い[つきそい]/
 Traverse{f}/横移動[よこいどう]/
 Trawler{m}/トロール船[とろーるせん]/
-Treffen{n}/集[つどい]/寄り[より]/集会[しゅうかい]/見参[けんざん]/対面[たいめん]/座[ざ]/出会い[であい]/催し[もよおし]/集い[つどい]/集合[しゅうごう]/軍[いくさ]/戦[いくさ]/命中[めいちゅう]/集まり[あつまり]/会合[かいごう]/待ち合わせ[まちあわせ]/
+Treffen{n}/会合[かいごう]/
 treffend{adj}{adv}/旨く[うまく]/
-Treffer{m}/点[てん]/当たり[あたり]/当り[あたり]/的中[てきちゅう]/
-Treffpunkt{m}/集合場所[しゅうごうばしょ]/たまり場[たまりば]/溜まり[たまり]/溜り[たまり]/集会所[しゅうかいしょ]/
+Treffer{m}/(Voll~) 当たり[あたり]/
+Treffpunkt{m}/集合場所[しゅうごうばしょ]/
 Treffsicherheit{f}/射撃[しゃげき]/
 Treibanker{m}/垂らし[たらし]/
 Treibeis{n}/流氷[りゅうひょう]/
@@ -29147,28 +29147,28 @@ Trema{n}/ウムラウト符号[うむらうとふごう]/
 tremolieren{vi}/震え声で歌う[ふるえごえでうたう]/
 Tremolo{n}/トレモロ[とれもろ]/
 Trenchcoat{m}/トレンチコート[とれんちこーと]/
-Trend{m}/トレンド[とれんど]/動向[どうこう]/勢い[いきおい]/勢[いきおい]/潮流[ちょうりゅう]/傾向[けいこう]/動き[うごき]/
+Trend{m}/トレンド[とれんど]/動向[どうこう]/
 trennbar{adv}{adj}/可分[かぶん]/
 Trennbarkeit{f}/可分[かぶん]/
-trennen{vt}/さく[さく]/離す[はなす]/分ける[わける]/分ける[わける]/割る[わる]/
-Trennlinie{f}/界[さかい]/境目[さかいめ]/
+trennen{vt}/分ける[わける]/
+Trennlinie{f}/境目[さかいめ]/
 Trennschalter{m}/サーキットブレーカー[さーきっとぶれーかー]/
 Trennschärfe{f}/分離[ぶんり]/
-Trennung{f}/別れ[わかれ]/名残り[なごり]/名残[なごり]/別居[べっきょ]/分離[ぶんり]/分裂[ぶんれつ]/
+Trennung{f}/別れ[わかれ]/
 Trennungslinie{f}/分け目[わけめ]/
 Trennungsschmerz{m}/離愁[りしゅう]/
 Trennwand{f}/仕切り[しきり]/
-Treppe{f}/階[きざはし]/階段[かいだん]/段々[だんだん]/
+Treppe{f}/階段[かいだん]/
 Treppenabsatz{m}/中段[ちゅうだん]/
 Treppenfunktion{f}/ステップ関数[すてっぷかんすう]/
-Treppenhaus{n}/階段[かいだん]/吹き抜け[ふきぬけ]/
+Treppenhaus{n}/階段[かいだん]/
 Treppenstufe{f}/踏み段[ふみだん]/
-treten{vi}/踏む[ふむ]/ふむ[ふむ]/蹴る[ける]/
+treten{vi}/(auf etwas ~) 踏む[ふむ]/(gegen etwas ~) 蹴る[ける]/
 Tretmine{f}/対人地雷[たいじんじらい]/
 Tretmühle{f}/踏み車[ふみぐるま]/
-Tretroller{m}/スケート[すけーと]/スクーター[すくーたー]/
-treu{adv}/硬い[かたい]/固い[かたい]/堅い[かたい]/
-Treue{f}/誠[まこと]/忠実[ちゅうじつ]/節操[せっそう]/誠意[せいい]/
+Tretroller{m}/キックスクーター[きっくすくーたー]/
+treu{adv}/誠実な[せいじつな]/
+Treue{f}/忠実[ちゅうじつ]/
 Treuebruch{m}/心変わり[こころがわり]/
 treuherzig{adj}/純情な[じゅんじょうな]/
 Treuhänder{m}/受託者[じゅたくしゃ]/
@@ -29185,13 +29185,13 @@ Tribüne{f}/スタンド[すたんど]/
 Trichine{f}/旋毛虫[せんもうちゅう]/
 Trichter{m}/ホッパー[ほっぱー]/
 trichterförmig{adj}/朝顔形の[あさがおがたの]/
-Trick{m}/種[たね]/あや[あや]/綾[あや]/裏技[うらわざ]/技[わざ]/手口[てぐち]/トリック[とりっく]/天ぷら[てんぷら]/呼吸[こきゅう]/コツ[こつ]/細工[さいく]/仕掛け[しかけ]/
+Trick{m}/(Kunstgriff) 策略[さくりゃく]/
 Trickbetrug{m}/取り込み詐欺[とりこみさぎ]/
 tricksen{vi}/弄する[ろうする]/
-Trieb{m}/衝動[しょうどう]/欲求[よっきゅう]/本能[ほんのう]/
+Trieb{m}/衝動[しょうどう]/(Sexual~) 性欲[せいよく]/
 Triebfeder{f}/誘因[ゆういん]/
 Triebhandlung{f}/衝動行為[しょうどうこうい]/
-Triebkraft{f}/動力[どうりょく]/原動力[げんどうりょく]/
+Triebkraft{f}/動力[どうりょく]/
 Triebrad{n}/小歯車[しょうはぐるま]/
 Triebwagen{m}/気動車[きどうしゃ]/
 Triebwerk{n}/推進器[すいしんき]/
@@ -29203,18 +29203,18 @@ Trigonometrie{f}/三角法[さんかくほう]/
 Trikolore{f}/トリコロール[とりころーる]/
 Trikot{n}/ユニフォーム[ゆにふぉーむ]/
 Triller{m}/トリル[とりる]/
-Trilliarde{f}/ゼタ…[ぜた…]/
+Trilliarde{f}/ゼタ...[ぜた...]/
 Trilobit{m}/三葉虫[さんようちゅう]/
 Trilogie{f}/三部作[さんぶさく]/
 trinkbar{adj}/飲用の[いんようの]/
-trinken{vi}/飲む[のむ]/召す[めす]/飲める[のめる]/仰ぐ[あおぐ]/呑む[のむ]/
-Trinker{m}/虎[とら]/上戸[じょうご]/左利き[ひだりきき]/酒飲み[さけのみ]/
+trinken{vi}/飲む[のむ]/
+Trinker{m}/酒飲み[さけのみ]/
 Trinkgefäß{n}/椀[まり]/
 Trinkgelage{n}/飲み会[のみかい]/
 Trinkgeld{n}/祝儀[しゅうぎ]/
 Trinkglas{n}/コップ[こっぷ]/
 Trinkhalm{m}/ストロー[すとろー]/
-Trinkwasser{n}/飲料水[いんりょうすい]/用水[ようすい]/
+Trinkwasser{n}/飲料水[いんりょうすい]/
 Trinkwassertank{m}/給水タンク[きゅうすいたんく]/
 Trio{n}/トリオ[とりお]/
 Triode{f}/三極管[さんきょくかん]/
@@ -29223,21 +29223,21 @@ Trip{m}/トリップ[とりっぷ]/
 trippeln{vi}/ちょこちょこ歩く[ちょこちょこあるく]/
 Tripper{m}/淋病[りんびょう]/
 Triptychon{n}/三幅対[さんぷくつい]/
-trist{adj}/くらい[くらい]/暗い[くらい]/
+trist{adj}/殺風景な[さっぷうけい]/
 Tritium{n}/トリチウム[とりちうむ]/
-Tritt{m}/キック[きっく]/歩み[あゆみ]/
+Tritt{m}/(~ gegen etwas) キック[きっく]/(Schritt) 歩み[あゆみ]/
 Trittbrett{n}/踏み段[ふみだん]/
 Trittbrettfahrer{m}/フリーライダー[ふりーらいだー]/
 Trittleiter{f}/踏み台[ふみだい]/
 trittsicher{adj}/危な気のない[あぶなげのない]/
 Trittstein{m}/飛び石[とびいし]/
-Triumph{m}/勝利[しょうり]/凱旋[がいせん]/誇らしげ[ほこらしげ]/
+Triumph{m}/勝利[しょうり]/
 Triumphbogen{m}/凱旋門[がいせんもん]/
 triumphieren{vi}/勝ち誇る[かちほこる]/
 triumphierend{adv}/揚々[ようよう]/
 trivial{adj}/末梢的[まっしょうてき]/
 Trivialität{f}/自明[じめい]/
-trocken{adj}{adv}/ドライ[どらい]/カサカサ[かさかさ]/
+trocken{adj}{adv}/乾いた[かわいた]/
 Trockenapparat{m}/乾燥機[かんそうき]/
 Trockenbatterie{f}/乾電池[かんでんち]/
 Trockenblume{f}/ドライフラワー[どらいふらわー]/
@@ -29248,7 +29248,7 @@ Trockeneis{n}/ドライアイス[どらいあいす]/
 Trockengemüse{n}/乾燥野菜[かんそうやさい]/
 Trockengestell{n}/物干し[ものほし]/
 Trockenhefe{f}/乾燥酵母[かんそうこうぼ]/
-Trockenheit{f}/乾燥[かんそう]/灰色[はいいろ]/日照[ひでり]/
+Trockenheit{f}/乾燥[かんそう]/
 Trockenmauer{f}/空積みの石垣[からづみのいしがき]/
 Trockenmauerwerk{n}/空積み[からづみ]/
 Trockenmilch{f}/粉乳[ふんにゅう]/
@@ -29256,10 +29256,10 @@ Trockenmittel{n}/乾燥剤[かんそうざい]/
 Trockenofen{m}/乾燥炉[かんそうろ]/
 Trockenperiode{f}/乾燥期[かんそうき]/
 Trockenübung{f}/畳の上の水練[たたみのうえのすいれん]/
-Trocknen{n}/乾[かん]/除湿[じょしつ]/
+Trocknen{n}/除湿[じょしつ]/
 Trockner{m}/乾燥機[かんそうき]/
 Trog{m}/トラフ[とらふ]/
-Trommel{f}/ドラム[どらむ]/鼓[つづみ]/太鼓[たいこ]/
+Trommel{f}/ドラム[どらむ]/
 Trommelbremse{f}/ドラム･ブレーキ[どらむぶれーき]/
 Trommelfell{n}/鼓膜[こまく]/
 trommeln{vi}/連打する[れんだする]/
@@ -29271,58 +29271,58 @@ Trompete{f}/トランペット[とらんぺっと]/
 Trompeter{m}/トランペッター[とらんぺったー]/
 Tropenholz{n}/熱帯材[ねったいざい]/
 Tropenkrankheit{f}/熱帯病[ねったいびょう]/
-Tropfen{m}/玉[たま]/粒[りゅう]/球[たま]/点滴[てんてき]/滴[しずく]/雫[しずく]/
+Tropfen{m}/滴[しずく]/
 tropfen{vi}/落ちる[おちる]/
 Tropfsteinhöhle{f}/鍾乳洞[しょうにゅうどう]/
 tropisch{adj}{adv}/トロピカル[とろぴかる]/
 Troposphäre{f}/対流圏[たいりゅうけん]/
 Trosse{f}/つな[つな]/
 Trost{m}/慰め[なぐさめ]/
-trostlos{adv}/くらい[くらい]/味気ない[あじきない]/しょんぼり[しょんぼり]/暗い[くらい]/
+trostlos{adv}/味気ない[あじきない]/
 Trostpreis{m}/残念賞[ざんねんしょう]/
-Trottel{m}/かも[かも]/ドジ[どじ]/鴨[かも]/
+Trottel{m}{ugs.}/頓馬[とんま]/
 trottelig{adv}/腑抜けな[ふぬけな]/
 Trotz{m}/抵抗[ていこう]/
 Trotz bieten/抵抗する[ていこうする]/
 Trotzalter{n}/反抗期[はんこうき]/
-trotzdem{adv}{conj}/所が[ところが]/それでいて[それでいて]/とは言うものの[とはいうものの]/だからと言って[だからといって]/それなのに[それなのに]/
+trotzdem{adv}/それにもかかわらず[それにもかかわらず]/
 trotzen{vi}/逆らう[さからう]/
 trotzig{adv}/反抗的[はんこうてき]/
 Trotzkismus{m}/トロツキズム[とろつきずむ]/
 Trotzkist{m}/トロツキスト[とろつきすと]/
 Trotzphase{f}/反抗期[はんこうき]/
 Troubadour{m}/吟遊詩人[ぎんゆうしじん]/
-Trubel{m}/混雑[こんざつ]/動揺[どうよう]/
+Trubel{m}/(Getümmel) 混雑[こんざつ]/
 Trudeln{n}/スピン[すぴん]/
-Trugbild{n}/幻[まぼろし]/幻影[げんえい]/迷い[まよい]/幻想[げんそう]/
+Trugbild{n}/(Illusion) 幻影[げんえい]/
 Truhe{f}/キャビネット[きゃびねっと]/
 Trumpf{m}/切り札[きりふだ]/
 Trumpfkarte{f}/切り札[きりふだ]/
 Trunkenheit{f}/酔い[よい]/
 Trupp{m}/隊[たい]/
-Truppe{f}/隊[たい]/軍隊[ぐんたい]/部隊[ぶたい]/
-Truppenentsendung{f}/一挙[いっきょ]/派兵[はへい]/
+Truppe{f}/隊[たい]/
+Truppenentsendung{f}/派兵[はへい]/
 Truppenstärke{f}/軍勢[ぐんぜい]/
 Trust{m}/トラスト[とらすと]/
 Truthahn{m}/ターキー[たーきー]/
 Truthuhn{n}/七面鳥[しちめんちょう]/
-träge{adj}{adv}/どん[どん]/だらだら[だらだら]/だらり[だらり]/のらりくらり[のらりくらり]/鈍い[のろい]/
-Träger{m}/桁[けた]/媒体[ばいたい]/強力[ごうりき]/ストラップ[すとらっぷ]/
-Trägheit{f}/不振[ふしん]/惰性[だせい]/横着[おうちゃく]/不精[ぶしょう]/怠惰[たいだ]/
+träge{adj}{adv}/(faul) 怠惰な[たいだな]/
+Träger{m}/(Spediteur) 運搬人[うんぱんにん]/
+Trägheit{f}/(Stagnation) 不振[ふしん]/{Phys.} 慣性[かんせい]/(Faulheit) 怠惰[たいだ]/
 Trägheitsgesetz{n}/慣性の法則[かんせいのほうそく]/
 Trägheitskraft{f}/惰性[だせい]/
 Trägheitsmoment{n}/慣性モーメント[かんせいもーめんと]/
 Trägheitsradius{m}/回転半径[かいてんはんけい]/
 trällern{vt}/囀る[さえずる]/
-Träne{f}/涙[なみだ]/泪[なみだ]/球[たま]/玉[たま]/
+Träne{f}/涙[なみだ]/
 Tränendrüse{f}/涙腺[るいせん]/
 Tränengas{n}/催涙ガス[さいるいがす]/
 Tränenkanal{m}/涙管[るいかん]/
 Tränensack{m}/涙嚢[るいのう]/
 tränken{vt}/浸す[ひたす]/
-träumen{vi}/夢見る[ゆめみる]/夢を見る[ゆめをみる]/
+träumen{vi}/夢見る[ゆめみる]/
 Träumer{m}/空想家[くうそうか]/
-Träumerei{f}/幻想[げんそう]/夢想[むそう]/夢幻[むげん]/空想[くうそう]/
+Träumerei{f}/(Luftschloss) 幻想[げんそう]/(Tagtraum) 夢想[むそう]/
 träumerisch{adv}/うっとり[うっとり]/
 Trödel{m}/我楽多[がらくた]/
 Trödelei{f}/道草[みちくさ]/
@@ -29334,14 +29334,14 @@ tröpfeln{vi}/落ちる[おちる]/
 Tröpfeln{n}/滴滴[てきてき]/
 trösten{vt}/慰める[なぐさめる]/
 Tröster{m}/慰安者[いあんしゃ]/
-trübe{adv}{adj}/くらい[くらい]/険しい[けわしい]/暗い[くらい]/
+trübe{adv}{adj}/(dunkel) 暗い[くらい]/
 trüben{vt}/濁す[にごす]/
-Trübheit{f}/濁り[にごり]/朦朧[もうろう]/
-Trübsal{f}/ブルー[ぶるー]/憂鬱[ゆううつ]/悲惨[ひさん]/悲哀[ひあい]/
+Trübheit{f}/濁り[にごり]/
+Trübsal{f}/(Melancholie) 憂鬱[ゆううつ]/
 trübselig{adj}/沈鬱な[ちんうつな]/
-Trübsinn{m}/ブルー[ぶるー]/憂鬱[ゆううつ]/憂さ[うさ]/灰色[はいいろ]/
+Trübsinn{m}/(Melancholie) 憂鬱[ゆううつ]/
 trübsinnig{adv}/じめじめ[じめじめ]/
-Trübung{f}/曇[くもり]/濁り[にごり]/
+Trübung{f}/{Meteor.}(Bewölkung) 曇り[くもり]/濁り[にごり]/
 Trüffel{m}/トリュフ[とりゅふ]/
 Trümmerfeld{n}/被爆地区[ひばくちく]/
 Trümmerhaufen{m}/瓦礫の山[がれきのやま]/
@@ -29355,17 +29355,17 @@ Tuba{f}/ウリャンハイ[うりゃんはい]/
 Tube{f}/卵管[らんかん]/
 Tuberkulose{f}/結核[けっかく]/
 Tuberose{f}/チューベローズ[ちゅーべろーず]/
-Tuch{n}/切れ[きれ]/布[ぬの]/
+Tuch{n}/布[ぬの]/
 Tuff{m}/凝灰岩[ぎょうかいがん]/
-Tugend{f}/徳[とく]/道徳[どうとく]/操[みさお]/
-tugendhaft{adj}{adv}/硬い[かたい]/固い[かたい]/堅い[かたい]/
+Tugend{f}/美徳[びとく]/
+tugendhaft{adj}{adv}/(rechtschaffen) 高潔な[こうけつな]/
 Tulpe{f}/チューリップ[ちゅーりっぷ]/
 Tulpenbaum{m}/ユリノキ[ゆりのき]/
 Tumor{m}/腫瘍[しゅよう]/
-Tumult{m}/騒ぎ[さわぎ]/波乱[はらん]/波瀾[はらん]/騒然[そうぜん]/動揺[どうよう]/喧騒[けんそう]/
+Tumult{m}/騒ぎ[さわぎ]/
 tumultartig{adj}/騒然と[そうぜんと]/
-Tun{n}/行動[こうどう]/仕業[しわざ]/行い[おこない]/
-tun{vt}/使う[つかう]/成す[なす]/行う[おこなう]/行なう[おこなう]/
+Tun{n}/行い[おこない]/
+tun{vt}/する[する]/(durchführen) 行う[おこなう]/
 Tundra{f}/凍原[とうげん]/
 Tuner{m}/チューナー[ちゅーなー]/
 Tunesier{m}/チュニジア人[ちゅにじあじん]/
@@ -29392,7 +29392,7 @@ turnen{vi}/体操をする[たいそうをする]/
 Turnfest{n}/体育大会[たいいくたいかい]/
 Turnhalle{f}/ジム[じむ]/体育館[たいいくかん]/
 Turnhose{f}/体操ズボン[たいそうずぼん]/
-Turnier{n}/場所[ばしょ]/大会[たいかい]/試合[しあい]/トーナメント[とーなめんと]/
+Turnier{n}/トーナメント[とーなめんと]/試合[しあい]/
 Turnlehrer{m}/体操教師[たいそうきょうし]/
 Turnstunde{f}/体操の時間[たいそうのじかん]/
 Tusche{f}/墨[すみ]/
@@ -29400,38 +29400,38 @@ tuscheln{vi}/呟く[つぶやく]/
 Tuschzeichnung{f}/水墨画[すいぼくが]/
 tuten{vi}/ぽーぽー鳴る[ぽーぽーなる]/
 Tutor{m}/チューター[ちゅーたー]/
-Typ{m}/式[しき]/体裁[ていさい]/ガイ[がい]/気質[かたぎ]/趣[おもむき]/毛色[けいろ]/タイプ[たいぷ]/機種[きしゅ]/
+Typ{m}/タイプ[たいぷ]/
 Typenschild{n}/ネームプレート[ねーむぷれーと]/
 Typhus{m}/腸チフス[ちょうちふす]/
-typisch{adj}/典型的[てんけいてき]/代表的[だいひょうてき]/
+typisch{adj}/(musterhaft) 典型的[てんけいてき]/(stereo~) 類型的な[るいけいてきな]/
 Typographie{f}/活版[かっぱん]/
 Typologie{f}/類型論[るいけいろん]/
 Typoskript{n}/タイプに打った原稿[たいぷにうったげんこう]/
-Typus{m}/型[がた]/標本[ひょうほん]/柄[がら]/体裁[ていさい]/
+Typus{m}/タイプ[たいぷ]/型[がた]/
 Tyrann{m}/暴君[ぼうくん]/
-Tyrannei{f}/横暴[おうぼう]/非道[ひどう]/
+Tyrannei{f}/暴政[ぼうせい]/
 tyrannisch{adj}{adv}/威圧的[いあつてき]/
 tyrannisieren{vt}/虐げる[しいたげる]/
 Täfelung{f}/板張り[いたばり]/
-täglich{adv}/毎日[まいにち]/日に日に[ひにひに]/毎日毎日[まいにちまいにち]/日頃[ひごろ]/日ごろ[ひごろ]/連日[れんじつ]/
+täglich{adv}/毎日[まいにち]/
 tändeln{vi}/いちゃつく[いちゃつく]/
 Tänzer{m}/ダンサー[だんさー]/
-Täter{m}/犯人[はんにん]/加害者[かがいしゃ]/
+Täter{m}/(Misse~) 犯人[はんにん]/
 tätig{adj}/活動的[かつどうてき]/
 tätig sein als/働く[はたらく]/
-Tätigkeit{f}/事[こと]/活動[かつどう]/働き[はたらき]/機能[きのう]/運転[うんてん]/
+Tätigkeit{f}/(Aktivität) 活動[かつどう]/(Arbeit) 働き[はたらき]/
 Tätlichkeiten{pl}/乱闘[らんとう]/
 tätowieren{vt}/さく[さく]/
 Tätowieren{n}/入れ墨[いれずみ]/
 Tätowierer{m}/彫り物師[ほりものし]/
-Tätowierung{f}/我慢[がまん]/刺青[しせい]/
+Tätowierung{f}/刺青[しせい]/
 Täufer{m}/洗礼者[せんれいしゃ]/
 Täufling{m}/受洗者[じゅせんしゃ]/
-Täuschung{f}/迷い[まよい]/錯誤[さくご]/
+Täuschung{f}/(Betrug) 欺瞞[ぎまん]/(Irrtum) 錯誤[さくご]/
 tödlich{adv}/致命的[ちめいてき]/
 Tödlichkeit{f}/命取り[いのちとり]/
 Tölpel{m}/盆暗[ぼんくら]/
-tönen{vi}/響く[ひびく]/鳴る[なる]/
+tönen{vi}/(klingen) 響く[ひびく]/(prahlen) 威張る[いばる]/(färben) 染める[そめる]/
 tönern{adj}/土製の[どせいの]/
 Tönung{f}/毛染め薬[けぞめぐすり]/
 Töpfer{m}/窯元[かまもと]/
@@ -29439,12 +29439,12 @@ Töpferscheibe{f}/轆轤[ろくろ]/
 Töpferton{m}/陶土[とうど]/
 Töpferware{f}/陶器[とうき]/
 Tötung{f}/殺人[さつじん]/
-tüchtig{adj}{adv}/甘い[うまい]/健気[けなげ]/旨い[うまい]/上手い[うまい]/巧い[うまい]/美味い[うまい]/うんと[うんと]/意欲的[いよくてき]/みっちり[みっちり]/
-Tüchtigkeit{f}/一角[ひとかど]/腕前[うでまえ]/敏腕[びんわん]/手腕[しゅわん]/有能[ゆうのう]/力量[りきりょう]/
+tüchtig{adj}{adv}/(vortrefflich) 優れた[すぐれた]/(eifrig) 意欲的[いよくてき]/(kompetent) 有能な[ゆうのうな]/
+Tüchtigkeit{f}/有能[ゆうのう]/
 tückisch{adj}/悪心ある[あくしんある]/
 Tülle{f}/口金[くちがね]/
 Tüpfel{m}{n}/斑[はだれ]/
-Tür{f}/玄関[げんかん]/木戸[きど]/ドア[どあ]/扉[とびら]/
+Tür{f}/ドア[どあ]/
 Türangel{f}/ヒンジ[ひんじ]/
 Türgriff{m}/引き手[ひきて]/
 Türke{m}/トルコ人[とるこじん]/
@@ -29456,16 +29456,16 @@ Türklopfer{m}/ノッカー[のっかー]/
 Türknauf{m}/ドアの取っ手[どあのとって]/
 Türrahmen{m}/額縁[がくぶち]/
 Türriegel{m}/心張り棒[しんばりぼう]/
-Türschild{n}/表札[ひょうさつ]/名札[なふだ]/
+Türschild{n}/表札[ひょうさつ]/
 Türschloss{n}/錠前[じょうまえ]/
 Türschwelle{f}/敷居[しきい]/
 Türspion{m}/ドアアイ[どああい]/
-U-Bahn{f}/地下鉄[ちかてつ]/メトロ[めとろ]/
+U-Bahn{f}/地下鉄[ちかてつ]/
 U-Boot{n}/潜水艦[せんすいかん]/
 U-Eisen{n}/U型鉄[ゆーがたてつ]/
 U-Form{f}/U型[ゆーがた]/
 U-förmig{adj}/U字形の[ゆーじがたの]/
-Ufer{n}/岸[きし]/水辺[みずべ]/岸辺[きしべ]/渚[みぎわ]/浦[うら]/
+Ufer{n}/岸辺[きしべ]/
 Uferlinie{f}/汀線[ていせん]/
 Uferpromenade{f}/海に臨んだ地域[うみにのぞんだちいき]/
 Ugander{m}/ウガンダ人[うがんだじん]/
