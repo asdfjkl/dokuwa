@@ -29972,24 +29972,24 @@ ungelernter Arbeiter/不熟練工[ふじゅくれんこう]/
 ungelesen/未読な[みどくな]/
 ungeliebt/愛されていない[あいされていない]/
 ungelöst{adv}/懸案の[けんあんの]/
-ungemein{adv}/大変[たいへん]/うんと[うんと]/いと[いと]/極めて[きわめて]/馬鹿に[ばかに]/大層[たいそう]/
+ungemein{adv}/非常に[ひじょうに]/
 ungemütlich{adv}/気まずい[きまずい]/
 ungenannt{adj}{adv}/無名の[むめいの]/
 ungenau{adv}{adj}/ずぼらな[ずぼらな]/
-Ungenauigkeit{f}/アバウト[あばうと]/ずぼら[ずぼら]/ズボラ[ずぼら]/
+Ungenauigkeit{f}/不正確[ふせいかく]/
 ungeniert{adj}/恥ずかしげもなく[はずかしげもなく]/
 ungenießbar{adj}/食えない[くえない]/
 ungenutzt{adj}/遊休の[ゆうきゅうの]/
-ungenügend{adj}{adv}/寂しい[さみしい]/丁[てい]/不可[ふか]/淋しい[さみしい]/乏しい[とぼしい]/
+ungenügend{adj}{adv}/不十分な[ふじゅうぶんな]/
 ungepflegt{adj}{adv}/いぎたなく[いぎたなく]/
 ungerecht{adj}{adv}/汚い[きたない]/
 ungerechtfertigt{adj}{adv}/不当な[ふとうな]/
-Ungerechtigkeit{f}/不正[ふせい]/邪[じゃ]/理不尽[りふじん]/不公平[ふこうへい]/不当[ふとう]/
+Ungerechtigkeit{f}/不正[ふせい]/
 ungerührt{adv}{adj}/てんとして[てんとして]/
-Ungeschicklichkeit{f}/不器用[ぶきよう]/へっぽこ[へっぽこ]/ぶきっちょ[ぶきっちょ]/
-ungeschickt{adv}/悪い[わるい]/拙い[つたない]/拙[せつ]/不味い[まずい]/
-ungeschliffen{adj}/白い[しろい]/粗末[そまつ]/お粗末[おそまつ]/
-Ungeschliffenheit{f}/雑[ざつ]/野暮[やぼ]/
+Ungeschicklichkeit{f}/不器用[ぶきよう]/
+ungeschickt{adv}/不器用な[ぶきような]/
+ungeschliffen{adj}/粗末な[そまつな]/
+Ungeschliffenheit{f}/粗悪[そあく]/
 ungeschminkt{adj}{adv}/赤裸々[せきらら]/
 ungeschrieben{adj}/不文の[ふぶんの]/
 ungesehen/目に見えぬ[めにみえぬ]/
@@ -29997,22 +29997,22 @@ ungesellig{adv}/つんつん[つんつん]/
 ungesetzlich{adv}/違法的に[いほうてきに]/
 ungestört{adj}{adv}/大事ない[だいじない]/
 Ungestüm{n}{m}/せっかち[せっかち]/
-ungestüm{adj}/激しい[はげしい]/せっかち[せっかち]/騒がしい[さわがしい]/猛烈[もうれつ]/荒い[あらい]/
+ungestüm{adj}/激しい[はげしい]/
 ungesucht/自然の[しぜんの]/
 ungesund{adj}{adv}/病的[びょうてき]/
 ungesäuertes Brot/種なしパン[たねなしぱん]/
 ungetrübt{adj}/澄んだ[すんだ]/
-ungewiss{adv}/頼りない[たよりない]/あやふや[あやふや]/
-Ungewissheit{f}/不安[ふあん]/不定[ふてい]/不審[ふしん]/半信半疑[はんしんはんぎ]/不明[ふめい]/不透明[ふとうめい]/
+ungewiss{adv}/不確かな[ふたしかな]/
+Ungewissheit{f}/不定[ふてい]/
 ungewohnt{adv}{adj}/耳遠い[みみどおい]/
-ungewöhnlich{adv}/大変[たいへん]/とんだ[とんだ]/適[たまさか]/いと[いと]/断然[だんぜん]/変に[へんに]/珍しい[めずらしい]/グロ[ぐろ]/グロテスク[ぐろてすく]/異様[いよう]/異様[いよう]/とんでもない[とんでもない]/稀[まれ]/希[まれ]/
-Ungewöhnlichkeit{f}/異常[いじょう]/奇抜[きばつ]/
+ungewöhnlich{adv}/珍しい[めずらしい]/
+Ungewöhnlichkeit{f}/異常[いじょう]/
 Ungeziefer{n}/虫[むし]/害虫[がいちゅう]/
 ungeziemend{adj}/不適当な[ふてきとうな]/
 ungezogen{adj}/がさつ[がさつ]/
 Ungezogenheit{f}/やんちゃ[やんちゃ]/
-ungezwungen{adv}/のんびり[のんびり]/ゆったり[ゆったり]/
-Ungezwungenheit{f}/洒落[しゃらく]/ラフ[らふ]/無造作[むぞうさ]/自在[じざい]/
+ungezwungen{adv}/のんびり[のんびり]/
+Ungezwungenheit{f}/(Formlosigkeit) 略儀[りゃくぎ]/
 ungezähmt{adj}/馴れない[なれない]/
 ungezügelt{adj}/野放図[のほうず]/
 ungeübt{adj}{adv}/稽古不足の[けいこぶそくの]/
@@ -30021,23 +30021,22 @@ ungiftig{adj}/無毒の[むどくの]/
 unglasiert{adj}/無釉の[むゆうの]/
 unglasierte Keramik{f}/素焼き[すやき]/
 Unglaube{m}/不信[ふしん]/
-unglaublich{adv}{adj}/とんでもない[とんでもない]/偉い[えらい]/
+unglaublich{adv}{adj}/とんでもない[とんでもない]/
 ungleich{adv}/不釣り合いな[ふつりあいな]/
 ungleichartig{adj}{adv}/異質の[いしつの]/
 Ungleichgewicht{n}/アンバランス[あんばらんす]/
-Ungleichheit{f}/違い[たがい]/相違[そうい]/格差[かくさ]/差[さ]/
+Ungleichheit{f}/相違[そうい]/
 ungleichmäßig{adv}/不均衡な[ふきんこうな]/
 Ungleichmäßigkeit{f}/不均衡[ふきんこう]/
 ungleichseitig/不等辺の[ふとうへんの]/
 Ungleichung{f}/式[しき]/
 ungläubig{adv}{adj}/信心のない[しんじんのない]/
 Ungläubigkeit{f}/不信[ふしん]/
-Unglück{n}/非常[ひじょう]/業[ごう]/遭難[そうなん]/災難[さいなん]/不幸[ふこう]/災い[わざわい]/逆境[ぎゃっきょう]/厄[やく]/事故[じこ]/災害[さいがい]/難[なん]/故障[こしょう]/不運[ふうん]/取り込み[とりこみ]/間違い[まちがい]/因果[いんが]/事変[じへん]/異変[いへん]/凶[きょう]/
-Unglück in der Liebe haben/恋路の邪魔をされる[こいじのじゃまをされる]/
-unglücklich{adv}{adj}/悪い[わるい]/さっき[さっき]/悲しい[かなしい]/哀しい[かなしい]/
+Unglück{n}/(Unfall) 事故[じこ]/(unglückliches Schicksal) 不運[ふうん]/
+unglücklich{adv}{adj}/(traurig) 悲しい[かなしい]/
 Unglückliche{m}{f}/不幸な人々[ふこうなひとびと]/
-unglücklicherweise{adv}/生憎[あいにく]/運悪く[うんわるく]/
-Unglücksfall{m}/変[へん]/へん[へん]/惨事[さんじ]/遭難[そうなん]/不幸[ふこう]/アクシデント[あくしでんと]/事故[じこ]/
+unglücklicherweise{adv}/不運にも[ふうんにも]/
+Unglücksfall{m}/(unglückliche Sache) 不運なこと[ふうんなこと]/(Unfall) 事故[じこ]/
 Unglückstag{m}/厄日[やくび]/
 Ungnade{f}/不興[ふきょう]/
 Ungunst{f}/不首尾[ふしゅび]/
@@ -30052,22 +30051,22 @@ unhaltbar{adj}{adv}/無根の[むこんの]/
 unhandlich{adj}{adv}/かさのある[かさのある]/
 Unhandlichkeit{f}/重厚長大[じゅうこうちょうだい]/
 unharmonisch{adj}{adv}/不釣り合いな[ふつりあいな]/
-Unheil{n}/害[がい]/災い[わざわい]/厄[やく]/
+Unheil{n}/災い[わざわい]/
 unheilbar{adj}{adv}/致死の[ちしの]/
 unheilbar krank sein/病膏肓に入る[やまいこうもうにいる]/
 Unheilbarkeit{f}/難治[なんじ]/
 unheilbringend{adj}/由々しい[ゆゆしい]/
 unheilvoll{adv}{adj}/末恐ろしい[すえおそろしい]/
 unheimlich{adv}{adj}/凄い[すごい]/
-Unheimlichkeit{f}/不気味[ぶきみ]/物騒[ぶっそう]/
+Unheimlichkeit{f}/(Gruseligkeit) 不気味[ぶきみ]/
 unhygienisch{adv}/非衛生的[ひえいせいてき]/
 unhöflich{adj}{adv}/ぞんざい[ぞんざい]/
-Unhöflichkeit{f}/失礼[しつれい]/不調[ふちょう]/無礼[ぶれい]/案外[あんがい]/
+Unhöflichkeit{f}/失礼[しつれい]/
 Uni{f}/無地[むじ]/
-Uniform{f}/制服[せいふく]/ユニホーム[ゆにほーむ]/揃い[そろい]/ユニフォーム[ゆにふぉーむ]/
+Uniform{f}/制服[せいふく]/
 uniformiert{adj}/画一的[かくいつてき]/
 uninteressant{adj}{adv}/詰まらない[つまらない]/
-Union{f}/連合[れんごう]/ユニオン[ゆにおん]/連立[れんりつ]/結束[けっそく]/同盟[どうめい]/連盟[れんめい]/
+Union{f}/連合[れんごう]/
 Union Jack{m}/イギリス国旗[いぎりすこっき]/
 universal/ユニバーサル[ゆにばーさる]/全面的[ぜんめんてき]/
 Universalbank{f}/ユニバーサル･バンク[ゆにばーさるばんく]/
@@ -30080,10 +30079,10 @@ Universität{f}/大学[だいがく]/
 Universitätsbibliothek{f}/大学付属図書館[だいがくふぞくとしょかん]/
 Universitätsgelände{n}/キャンパス[きゃんぱす]/
 Universitätsprofessor{m}/大学教授[だいがくきょうじゅ]/
-Universum{n}/世界[せかい]/天地[あめつち]/ユニバース[ゆにばーす]/宇宙[うちゅう]/
+Universum{n}/(Weltraum) 宇宙[うちゅう]/
 Unkenntnis{f}/無知[むち]/
-unklar/やばい[やばい]/ぼんやり[ぼんやり]/漠然[ばくぜん]/微か[かすか]/もやもや[もやもや]/モヤモヤ[もやもや]/
-Unklarheit{f}/不明[ふめい]/不審[ふしん]/曖昧[あいまい]/灰色[はいいろ]/彷彿[ほうふつ]/そら[そら]/もやもや[もやもや]/モヤモヤ[もやもや]/不透明[ふとうめい]/
+unklar/(unbestimmt) 不確かな[ふたしかな]/
+Unklarheit{f}/不明[ふめい]/
 unklug{adv}/考えの足りない[かんがえのたりない]/
 Unklugheit{f}/不謹慎[ふきんしん]/
 unkompliziert{adj}/素直[すなお]/
@@ -30091,13 +30090,13 @@ unkontrollierbar{adv}{adj}/どうにもならない[どうにもならない]/
 unkontrolliert{adv}/無統制の[むとうせいの]/
 unkonventionell{adv}{adj}/一風変わった[いっぷうかわった]/
 unkonzentriert{adj}{adv}/気が散った[きがちった]/
-Unkraut{n}/草[くさ]/雑草[ざっそう]/
+Unkraut{n}/雑草[ざっそう]/
 Unkrautbekämpfungsmittel{n}/除草剤[じょそうざい]/
 unkritisch{adj}{adv}/めた[めた]/
 unkultiviert{adj}{adv}/ださい[ださい]/
 unkörperlich{adv}/実体のない[じったいのない]/
 unliebenswürdig/可愛気がない[かわいげがない]/
-unliebsam{adj}/悪い[わるい]/いやに[いやに]/厭[いや]/嫌[いや]/イヤ[いや]/
+unliebsam{adj}/(unangenehm) 不愉快な[ふゆかいな]/
 unlogisch{adv}/非論理的[ひろんりてき]/
 unlöslich{adj}{adv}/不溶解性の[ふようかいせいの]/
 Unlöslichkeit{f}/不溶性[ふようせい]/
@@ -30106,36 +30105,36 @@ unmarkiert/無印の[むじるしの]/
 Unmenge{f}/潤沢[じゅんたく]/
 Unmensch{m}/鬼畜[きちく]/
 unmenschlich{adj}{adv}/非人道的[ひじんどうてき]/
-Unmenschlichkeit{f}/残虐[ざんぎゃく]/殺伐[さつばつ]/非道[ひどう]/無情[むじょう]/
+Unmenschlichkeit{f}/非道[ひどう]/
 unmerklich{adj}{adv}/ちょろり[ちょろり]/
 unmissverständlich/きっぱり[きっぱり]/
-unmittelbar{adj}{adv}/直ぐ[すぐ]/直ちに[ただちに]/直接的[ちょくせつてき]/目の当たり[まのあたり]/
+unmittelbar{adj}{adv}/直接に[ちょくせつに]/
 Unmittelbarkeit{f}/直接[ちょくせつ]/
 unmodern{adj}{adv}/古い[ふるい]/
-Unmoral{f}/不器用[ぶきよう]/不倫[ふりん]/悪徳[あくとく]/
+Unmoral{f}/不倫[ふりん]/
 unmoralisch{adj}{adv}/悪い[わるい]/
 unmusikalisch{adj}/音痴の[おんちの]/
-Unmut{m}/不満[ふまん]/無念[むねん]/
+Unmut{m}/不満[ふまん]/
 unmännlich{adj}{adv}/女々しい[めめしい]/
 unmäßig{adv}/無茶[むちゃ]/
 Unmäßigkeit{f}/過度[かど]/
-unmöglich{adj}/ダメ[だめ]/不可[ふか]/仕方が無い[しかたがない]/仕方がない[しかたがない]/駄目[だめ]/仕方ない[しかたない]/
-Unmöglichkeit{f}/無理[むり]/不能[ふのう]/ダメ[だめ]/駄目[だめ]/不可能[ふかのう]/
+unmöglich{adj}/不可能な[ふかのうな]/
+Unmöglichkeit{f}/不可能[ふかのう]/
 unnachgiebig{adv}{adj}/厳しい[きびしい]/
 Unnachgiebigkeit{f}/負けず嫌い[まけずぎらい]/
-unnahbar{adv}/厳しい[きびしい]/険しい[けわしい]/
-unnatürlich{adj}{adv}/苦しい[くるしい]/ぎこちない[ぎこちない]/
+unnahbar{adv}/近付き難い[ちかづきにくい]/
+unnatürlich{adj}{adv}/不自然な[ふしぜんな]/
 Unnatürlichkeit{f}/不自然[ふしぜん]/
 unnormal{adj}/悪い[わるい]/
 unnötig{adv}{adj}/余計[よけい]/
 unnötigerweise{adv}/なまなか[なまなか]/
-unnütz{adv}/余計[よけい]/わや[わや]/下らない[くだらない]/
-unordentlich{adv}{adj}/汚い[きたない]/だらしない[だらしない]/
+unnütz{adv}/無駄な[むだな]/
+unordentlich{adv}{adj}/だらしない[だらしない]/
 Unordentlichkeit{f}/自堕落[じだらく]/
-Unordnung{f}/混乱[こんらん]/大荒れ[おおあれ]/混迷[こんめい]/乱[らん]/乱れ[みだれ]/狂い[くるい]/混雑[こんざつ]/乱立[らんりつ]/
+Unordnung{f}/混乱[こんらん]/
 Unpaarhufer{m}/奇蹄目[きていもく]/
 unparteiisch{adj}{adv}/客観的[きゃっかんてき]/
-Unparteilichkeit{f}/公正[こうせい]/中立[ちゅうりつ]/公明[こうめい]/無差別[むさべつ]/公平[こうへい]/
+Unparteilichkeit{f}/公正[こうせい]/
 unpassend{adv}/都合の悪い[つごうのわるい]/
 unpatriotisch{adv}/非愛国的[ひあいこくてき]/
 unpersönlich{adj}{adv}/非人称[ひにんしょう]/
@@ -30151,26 +30150,26 @@ unrasiert{adv}/茫々[ぼうぼう]/
 Unrat{m}/汚物[おぶつ]/
 unratsam{adj}/望ましからぬ[のぞましからぬ]/
 unrealistisch{adv}/アカデミック[あかでみっく]/
-Unrecht{n}/無理[むり]/不法[ふほう]/無法[むほう]/不正[ふせい]/
+Unrecht{n}/不正[ふせい]/
 unrechtmäßig{adj}{adv}/無法な[むほうな]/
 unredlich{adv}/ずるい[ずるい]/
 Unredlichkeit{f}/不正[ふせい]/
 unregelmäßig{adv}/不定期の[ふていきの]/
 unregistriert{adj}/無記名の[むきめいの]/
 unreif{adj}{adv}/大人げない[おとなげない]/
-Unreife{f}/青[あお]/幼稚[ようち]/未熟[みじゅく]/
+Unreife{f}/未熟[みじゅく]/
 unrein{adj}{adv}/汚い[きたない]/
-Unreinheit{f}/汚れ[よごれ]/濁り[にごり]/
+Unreinheit{f}/不潔[ふけつ]/
 Unreinlichkeit{f}/不潔[ふけつ]/
 unrentabel{adj}/詰まらない[つまらない]/
 unrichtig{adv}/不可[ふか]/
-Unrichtigkeit{f}/嘘[うそ]/不可[ふか]/不正[ふせい]/
+Unrichtigkeit{f}/(Lüge) 嘘[うそ]/(Unrecht) 不正[ふせい]/
 Unruh{f}/テンプ[てんぷ]/
-Unruhe{f}/心配[しんぱい]/物議[ぶつぎ]/不平[ふへい]/不穏[ふおん]/気がかり[きがかり]/懸念[けねん]/激動[げきどう]/不安[ふあん]/動揺[どうよう]/騒動[そうどう]/気遣い[きづかい]/
+Unruhe{f}/(Sorge) 心配[しんぱい]/(Aufstand) 騒動[そうどう]/
 Unruhe stiften/事を起こす[ことをおこす]/
 Unruhen{pl}/乱[らん]/
 Unruhestifter{m}/火付け役[ひつけやく]/
-unruhig{adj}{adv}/ちょこちょこ[ちょこちょこ]/もどかしい[もどかしい]/騒がしい[さわがしい]/騒がしい[さわがしい]/そわそわ[そわそわ]/荒い[あらい]/
+unruhig{adj}{adv}/不安な[ふあんな]/
 unsagbar{adv}{adj}/名状しがたい[めいじょうしがたい]/
 unsanft{adv}/手荒い[てあらい]/
 unscharf{adj}/ぼうっとした[ぼうっとした]/
@@ -30179,21 +30178,21 @@ Unschicklichkeit{f}/不正[ふせい]/不適切[ふてきせつ]/
 unschlagbar{adj}/常勝の[じょうしょうの]/
 unschlüssig{adj}{adv}/まごまご[まごまご]/
 Unschlüssigkeit{f}/優柔不断[ゆうじゅうふだん]/
-Unschuld{f}/白[しろ]/清浄[せいじょう]/無邪気[むじゃき]/天真爛漫[てんしんらんまん]/無心[むしん]/しろ[しろ]/無垢[むく]/無罪[むざい]/操[みさお]/無実[むじつ]/純[じゅん]/純情[じゅんじょう]/童貞[どうてい]/清純[せいじゅん]/
-unschuldig{adj}{adv}/白い[しろい]/何気ない[なにげない]/ピュア[ぴゅあ]/初々しい[ういういしい]/
+Unschuld{f}/無実[むじつ]/
+unschuldig{adj}{adv}/罪のない[つみのない]/
 unschädlich{adj}{adv}/無害な[むがいな]/
 Unschädlichkeit{f}/無害[むがい]/
 Unschärfe{f}/ぶれ[ぶれ]/
 unschätzbar{adj}{adv}/計り知れない[はかりしれない]/
 Unschätzbarkeit{f}/貴重[きちょう]/
-unschön{adv}/醜い[みにくい]/見苦しい[みぐるしい]/
+unschön{adv}/(häßlich) 醜い[みにくい]/
 unsensibel{adj}/神経の鈍い[しんけいのにぶい]/
-unsicher{adv}/怪しい[あやしい]/妖しい[あやしい]/恐る恐る[おそるおそる]/ふらっと[ふらっと]/危ない[あぶない]/あやふや[あやふや]/
-Unsicherheit{f}/不思議[ふしぎ]/不定[ふてい]/半信半疑[はんしんはんぎ]/不安[ふあん]/物騒[ぶっそう]/憂い[うれい]/危険[きけん]/
+unsicher{adv}/(unzuverlässig) 不確実な[ふかくじつな]/(gefährlich) 危ない[あぶない]/
+Unsicherheit{f}/不確実[ふかくじつ]/
 unsichtbar{adj}{adv}/冥冥[みょうみょう]/
 Unsichtbarkeit{f}/不可視[ふかし]/
-Unsinn{m}/バカ[ばか]/ナンセンス[なんせんす]/馬鹿[ばか]/妄言[ぼうげん]/寝言[ねごと]/無意味[むいみ]/デタラメ[でたらめ]/
-unsinnig{adv}/いい加減[いいかげん]/とんだ[とんだ]/下らない[くだらない]/無茶[むちゃ]/とんでもない[とんでもない]/
+Unsinn{m}/ナンセンス[なんせんす]/
+unsinnig{adv}/(ohne Sinn) 無意味な[むいみな]/
 Unsitte{f}/弊風[へいふう]/
 unsittlich{adv}/汚らわしい[けがらわしい]/
 Unsittlichkeit{f}/不倫[ふりん]/
@@ -30209,26 +30208,22 @@ Unstetigkeit{f}/不規則[ふきそく]/
 Unstimmigkeit{f}/確執[かくしつ]/
 Unsumme{f}/巨額[きょがく]/
 unsymmetrisch{adj}{adv}/非対称的[ひたいしょうてき]/
-unsympathisch{adj}/嫌[いや]/いやに[いやに]/厭[いや]/イヤ[いや]/
+unsympathisch{adj}/嫌な[いやな]/
 unsystematisch{adj}/漫然と[まんぜんと]/
 unsäglich{adv}/言い知れぬ[いいしれぬ]/
 untadelig{adv}/完全無欠の[かんぜんむけつの]/
 Untat{f}/悪事[あくじ]/
 untauglich{adv}/ふつつかな[ふつつかな]/
-Untauglichkeit{f}/不能[ふのう]/無能[むのう]/不向き[ふむき]/
+Untauglichkeit{f}/不向き[ふむき]/
 unteilbar{adj}{adv}/不可分の[ふかぶんの]/
 Unteilbarkeit{f}/不可分[ふかぶん]/
 unten{adv}/階下[かいか]/
-unter{prp; wo? +Dativ; wohin? +Akkusativ}/内[うち]/就いて[ついて]/以下[いげ]/間に[あいだに]/
-unter allen Umständen/是非[ぜひ]/何が何でも[なにがなんでも]/どうか[どうか]/
-unter etw. leiden/当てられる[あてられる]/
-unter freiem Himmel/外に[そとに]/
-unter null Grad/0度以下[ぜろどいか]/
-Unterabteilung{f}/支部[しぶ]/小分け[こわけ]/
+unter{prp; wo? +Dativ; wohin? +Akkusativ}/(am Boden) 下に[したに]/(weniger als) 以下[いか]/
+Unterabteilung{f}/支部[しぶ]/
 Unterarm{m}/小手[こて]/
 Unterarmknochen{m}/前腕骨[ぜんわんこつ]/
 Unterart{f}/亜種[あしゅ]/
-Unterbau{m}/地盤[じばん]/基礎工事[きそこうじ]/
+Unterbau{m}/基礎工事[きそこうじ]/
 Unterbelichtung{f}/アンダー[あんだー]/
 Unterbeschäftigung{f}/不完全雇用[ふかんぜんこよう]/
 unterbesetzt{adj}{adv}/手薄な[てうすな]/
@@ -30240,11 +30235,11 @@ unterbleiben{vi}/中絶する[ちゅうぜつする]/
 unterbrechen{vt}/折る[おる]/
 unterbrechend{adj}/間欠的に[かんけつてきに]/
 Unterbrecher{m}/カットアウト[かっとあうと]/
-Unterbrechung{f}/中止[ちゅうし]/切れ目[きれめ]/遮断[しゃだん]/不通[ふつう]/断絶[だんぜつ]/妨害[ぼうがい]/茶々[ちゃちゃ]/中断[ちゅうだん]/打ち切り[うちきり]/停止[ていし]/断続[だんぞく]/
-unterbringen{vt}/入れる[いれる]/置く[おく]/
-Unterbringung{f}/収容[しゅうよう]/ハウジング[はうじんぐ]/
+Unterbrechung{f}/(Aufhören) 中止[ちゅうし]/(Belästigung) 邪魔[じゃま]/
+unterbringen{vt}/(beherbergen) 泊める[とめる]/(einquartiert werden) 宿泊させる[しゅくはくさせる]/
+Unterbringung{f}/(Herberge) 宿泊施設[しゅくはくしせつ]/
 Unterdeck{n}/下甲板[げかんぱん]/
-Unterdrückung{f}/抑制[よくせい]/抑圧[よくあつ]/迫害[はくがい]/討伐[とうばつ]/圧迫[あっぱく]/制圧[せいあつ]/弾圧[だんあつ]/威圧[いあつ]/
+Unterdrückung{f}/弾圧[だんあつ]/
 unterdurchschnittlich{adj}/普通以下[ふつういか]/
 Unterentwicklung{f}/アンダー[あんだー]/
 unterernährt{adj}/栄養不良の[えいようふりょうの]/
@@ -30253,25 +30248,25 @@ unteres Ende/下端[かたん]/
 Unterfamilie{f}/亜科[あか]/
 Unterführung{f}/地下道[ちかどう]/
 Unterführungszeichen{n}/ちょぼちょぼ[ちょぼちょぼ]/
-Untergang{m}/沈没[ちんぼつ]/滅亡[めつぼう]/断絶[だんぜつ]/自滅[じめつ]/破局[はきょく]/破滅[はめつ]/
+Untergang{m}/(Sinken) 沈没[ちんぼつ]/(Niedergang) 没落[ぼつらく]/
 untergeben{adj}/下の[したの]/
 Untergebene{m}{f}/手の者[てのもの]/
 untergegangen{adj}/死滅した[しめつした]/
-untergehen{vi}/落ちる[おちる]/沈む[しずむ]/倒れる[たおれる]/
-untergeordnet{adj}{adv}/二次[にじ]/二の次[にのつぎ]/傘下[さんか]/
+untergehen{vi}/(Sonne u.ä.) 沈没する[ちんぼつする]/(zugrunde gehen) 没落する[ぼつらくする]/
+untergeordnet{adj}{adv}/従属的な[じゅうぞくてきな]/
 Untergeschoss{n}/地下室[ちかしつ]/
 Untergewicht{n}/欠け目[かけめ]/
 Untergliederung{f}/下位分類[かいぶんるい]/
-Untergrund{m}/地盤[じばん]/地中[ちちゅう]/
+Untergrund{m}/(Boden) 地盤[じばん]/
 Untergrundbahn{f}/地下鉄[ちかてつ]/
 Untergrundbewegung{f}/地下運動[ちかうんどう]/
 Untergruppe{f}/分団[ぶんだん]/
-Unterhalt{m}/暮らし[くらし]/生計[せいけい]/朝夕[あさゆう]/
+Unterhalt{m}/(Lebens~) 生計[せいけい]/(Instandhaltung) 維持[いじ]/
 Unterhalter{m}/エンターテイナー[えんたーていなー]/
 unterhaltsam{adj}{adv}/面白い[おもしろい]/
 Unterhaltskosten{pl}/維持費[いじひ]/
 Unterhaltspflicht{f}/扶養義務[ふようぎむ]/
-Unterhaltung{f}/話[はなし]/エンターテイメント[えんたーていめんと]/会話[かいわ]/話し[はなし]/演芸[えんげい]/談話[だんわ]/エンタテイメント[えんたていめんと]/対話[たいわ]/遊戯[ゆうぎ]/維持[いじ]/興[きょう]/対談[たいだん]/語らい[かたらい]/エンターテインメント[えんたーていんめんと]/エンタテインメント[えんたていんめんと]/扶養[ふよう]/芸能[げいのう]/余興[よきょう]/会談[かいだん]/娯楽[ごらく]/保存[ほぞん]/
+Unterhaltung{f}/(Gespräch) 話[はなし]/(Vergnügen) 娯楽[ごらく]/
 Unterhaltungsindustrie{f}/芸能界[げいのうかい]/
 Unterhaltungskosten{pl}/交際費[こうさいひ]/
 Unterhaltungsliteratur{f}/戯作[げさく]/
@@ -30282,7 +30277,7 @@ unterhandeln{vi}/掛け合う[かけあう]/
 Unterhaus{n}/下院[かいん]/
 Unterhemd{n}/シャツ[しゃつ]/
 Unterholz{n}/下草[したぐさ]/
-Unterhose{f}/パンツ[ぱんつ]/ブリーフ[ぶりーふ]/
+Unterhose{f}/パンツ[ぱんつ]/下着[したぎ]/  
 Unterhändler{m}/パイプライン[ぱいぷらいん]/
 unterhöhlen{vt}/切り崩す[きりくずす]/
 unterirdisch{adj}{adv}/地下の[ちかの]/
@@ -30292,13 +30287,13 @@ Unterkiefer{m}/顎[あぎと]/
 Unterklasse{f}/亜綱[あこう]/
 Unterkleid{n}/スリップ[すりっぷ]/
 unterkommen{vi}/宿る[やどる]/
-Unterkunft{f}/宿[やど]/宿舎[しゅくしゃ]/宿泊[しゅくはく]/
+Unterkunft{f}/宿舎[しゅくしゃ]/
 Unterkörper{m}/下半身[かはんしん]/
 Unterkühlung{f}/低体温[ていたいおん]/
 Unterlage{f}/下敷き[したじき]/
 Unterlassung{f}/不作為[ふさくい]/
 Unterlassungssünde{f}/怠慢罪[たいまんざい]/
-Unterlauf{m}/裾[すそ]/下流[かりゅう]/
+Unterlauf{m}/下流[かりゅう]/
 unterlegen{adj}{vt}/下の[したの]/
 Unterlegenheit{f}/劣弱[れつじゃく]/
 Unterlegscheibe{f}/ワッシャー[わっしゃー]/
@@ -30310,9 +30305,9 @@ untermenschlich/人間以下の[にんげんいかの]/
 Untermenü{n}/サブメニュー[さぶめにゅー]/
 Untermiete{f}/下宿[げしゅく]/
 Untermieter{m}/間借り人[まがりにん]/
-Unternehmen{n}/会社[かいしゃ]/企業[きぎょう]/事業[じぎょう]/メーカー[めーかー]/エンタープライズ[えんたーぷらいず]/
-unternehmen{vt}/当たる[あたる]/当る[あたる]/
-Unternehmensberater{m}/コンサルタント[こんさるたんと]/経営コンサルタント[けいえいこんさるたんと]/
+Unternehmen{n}/会社[かいしゃ]/
+unternehmen{vt}/(durchführen) 行う[おこなう]/
+Unternehmensberater{m}/コンサルタント[こんさるたんと]/
 Unternehmensberatung{f}/コンサルティング[こんさるてぃんぐ]/
 Unternehmensbereich{m}/事業部[じぎょうぶ]/
 Unternehmensfinanzierung{f}/コーポレート･ファイナンス[こーぽれーとふぁいなんす]/
@@ -30321,7 +30316,7 @@ Unternehmensführung{f}/経営管理[けいえいかんり]/
 Unternehmensgruppe{f}/事業団[じぎょうだん]/
 Unternehmensphilosophie{f}/経営理念[けいえいりねん]/
 Unternehmensplanung{f}/経営計画[けいえいけいかく]/
-Unternehmer{m}/業者[ぎょうしゃ]/事業主[じぎょうぬし]/起業家[きぎょうか]/
+Unternehmer{m}/事業主[じぎょうぬし]/
 Unternehmergeist{m}/企業心[きぎょうしん]/
 Unternehmung{f}/事業[じぎょう]/
 Unternehmungsgeist{m}/積極性[せっきょくせい]/
@@ -30329,32 +30324,31 @@ unternehmungslustig{adj}/積極性のある[せっきょくせいのある]/
 Unteroffizier{m}/下士官[かしかん]/
 unterordnen{vt}/服従する[ふくじゅうする]/
 Unterordnung{f}/従属[じゅうぞく]/
-Unterprogramm{n}/手続き[てつづき]/手続[てつづき]/
 Unterrahmen{m}/副枠[ふくわく]/
-Unterredung{f}/相談[そうだん]/面接[めんせつ]/話し合い[はなしあい]/会見[かいけん]/対話[たいわ]/交渉[こうしょう]/面談[めんだん]/協議[きょうぎ]/面会[めんかい]/
-Unterricht{m}/授業[じゅぎょう]/レッスン[れっすん]/稽古[けいこ]/伝授[でんじゅ]/習い事[ならいごと]/指南[しなん]/教授[きょうじゅ]/
+Unterredung{f}/相談[そうだん]/
+Unterricht{m}/授業[じゅぎょう]/
 Unterrichtsgegenstand{m}/学科[がっか]/
 Unterrichtsmethode{f}/教え方[おしえかた]/
 Unterrichtsmittel{pl}/教具[きょうぐ]/
-Unterrichtsstunde{f}/時間[じかん]/クラス[くらす]/
+Unterrichtsstunde{f}/(Unterrichtszeit) 授業時間[じゅぎょうじかん]/
 Unterrock{m}/スリップ[すりっぷ]/
 untersagt{adv}/禁制の[きんせいの]/
 unterscheiden{vt}/見分ける[みわける]/
-Unterscheidung{f}/別[べつ]/差別[さべつ]/見分け[みわけ]/識別[しきべつ]/区別[くべつ]/判別[はんべつ]/
+Unterscheidung{f}/区別[くべつ]/
 Unterschenkel{m}/脛[すね]/
 Unterschicht{f}/下流[かりゅう]/
-Unterschied{m}/別[べつ]/差別[さべつ]/落差[らくさ]/見分け[みわけ]/相違[そうい]/格差[かくさ]/違い[たがい]/開き[ひらき]/異[こと]/ずれ[ずれ]/区別[くべつ]/差[さ]/距離[きょり]/差異[さい]/変わり[かわり]/
+Unterschied{m}/区別[くべつ]/
 unterschiedlich{adj}{adv}/別に[べつに]/
 Unterschiedlichkeit{f}/向き向き[むきむき]/
 unterschiedslos{adv}/一概に[いちがいに]/
 unterschlagen{vt}/取り込む[とりこむ]/
-Unterschlagung{f}/転用[てんよう]/流用[りゅうよう]/横領[おうりょう]/
+Unterschlagung{f}/(Veruntreuung) 横領[おうりょう]/
 Unterschneiden{n}/カーニング[かーにんぐ]/
 Unterschnitt{m}/アンダー･カット[あんだーかっと]/
-unterschreiten{vt}/切る[きる]/斬る[きる]/
-Unterschrift{f}/サイン[さいん]/署名[しょめい]/銘[めい]/
+unterschreiten{vt}/(weniger sein) 下回る[したまわる]/
+Unterschrift{f}/サイン[さいん]/署名[しょめい]/
 unterschwellig{adj}{m}/閾下の[いきかの]/
-unterschätzen{vt}/飲む[のむ]/呑む[のむ]/
+unterschätzen{vt}/見縊る[みくびる]/
 Unterschätzung{f}/軽蔑[けいべつ]/
 Unterseite{f}/底面[ていめん]/
 Untersetzer{m}/コースター[こーすたー]/
@@ -30365,12 +30359,12 @@ unterstreichen{vt}/重点を置く[じゅうてんをおく]/
 Unterstrich{m}/下線[かせん]/
 Unterströmung{f}/暗流[あんりゅう]/
 Unterstufe{f}/初級[しょきゅう]/
-unterstützen{vt}/持つ[もつ]/救う[すくう]/
+unterstützen{vt}/援助する[えんじょする]/
 unterstützend{adv}/アジュバント[あじゅばんと]/
-Unterstützer{m}/後押し[あとおし]/支援者[しえんしゃ]/助っ人[すけっと]/支持者[しじしゃ]/
-Unterstützung{f}/応援[おうえん]/図[はからい]/計[はからい]/補助[ほじょ]/救済[きゅうさい]/手伝い[てつだい]/協賛[きょうさん]/バックアップ[ばっくあっぷ]/賛成[さんせい]/お世話[おせわ]/御世話[おせわ]/支持[しじ]/助[すけ]/贔屓[ひいき]/助成金[じょせいきん]/裏打ち[うらうち]/維持[いじ]/救助[きゅうじょ]/援助[えんじょ]/支援[しえん]/サポート[さぽーと]/後押し[あとおし]/対応[たいおう]/後見[うしろみ]/奨励[しょうれい]/扶養[ふよう]/背景[はいけい]/引き[ひき]/心配[しんぱい]/援護[えんご]/擁護[ようご]/賛同[さんどう]/助長[じょちょう]/声援[せいえん]/厄介[やっかい]/世話[せわ]/助成[じょせい]/尽力[じんりょく]/計らい[はからい]/後援[こうえん]/加担[かたん]/
-untersuchen{vt}/調べる[しらべる]/洗う[あらう]/
-Untersuchung{f}/研究[けんきゅう]/診断[しんだん]/診断[しんだん]/検定[けんてい]/審査[しんさ]/調べ[しらべ]/検察[けんさつ]/調査[ちょうさ]/探索[たんさく]/探査[たんさ]/探究[たんきゅう]/検討[けんとう]/リサーチ[りさーち]/検査[けんさ]/捜査[そうさ]/
+Unterstützer{m}/後押し[あとおし]/
+Unterstützung{f}/応援[おうえん]/
+untersuchen{vt}/調べる[しらべる]/
+Untersuchung{f}/調査[ちょうさ]/
 Untersuchungsausschuss{m}/審議会[しんぎかい]/
 Untersuchungsbeamte{m}{f}/裁判所調査官[さいばんしょちょうさかん]/
 Untersuchungsbericht{m}/調査報告[ちょうさほうこく]/
@@ -30381,13 +30375,13 @@ Untersuchungshäftling{m}/未決囚[みけつしゅう]/
 Untersuchungsrichter{m}/予審判事[よしんはんじ]/
 Untersystem{n}/サブシステム[さぶしすてむ]/
 Untertagearbeit{f}/坑内作業[こうないさぎょう]/
-Untertan{m}/民[たみ]/臣[しん]/
+Untertan{m}/臣民[しんみん]/
 Untertasse{f}/皿[さら]/
 untertauchen{vi}/潜る[もぐる]/
 Untertauchen{n}/沈め[しずめ]/
 Unterteil{n}/ボトム[ぼとむ]/
 Unterteilung{f}/細分[さいぶん]/
-Untertitel{m}/スーパー[すーぱー]/サブタイトル[さぶたいとる]/副題[ふくだい]/字幕[じまく]/
+Untertitel{m}/字幕[じまく]/
 untertänig{adj}/謹んで[つつしんで]/
 untervermieten{vt}/下宿人を置く[げしゅくにんをおく]/
 Untervermietung{f}/転貸借[てんたいしゃく]/
@@ -30395,36 +30389,35 @@ Unterverzeichnis{n}/サブ･ディレクトリー[さぶでぃれくとりー]/
 Unterwasserarchäologie{f}/海洋考古学[かいようこうこがく]/
 Unterwasserforscher{m}/アクアノート[あくあのーと]/
 Unterwasserkamera{f}/水中カメラ[すいちゅうかめら]/
-Unterweisung{f}/指導[しどう]/指揮[しき]/伝授[でんじゅ]/教え[おしえ]/教訓[きょうくん]/
+Unterweisung{f}/教訓[きょうくん]/
 Unterwelt{f}/冥土[めいど]/
 unterwerfen{vt}/平らげる[たいらげる]/
-Unterwerfung{f}/退治[たいじ]/往生[おうじょう]/征服[せいふく]/討伐[とうばつ]/制圧[せいあつ]/
+Unterwerfung{f}/征服[せいふく]/
 Unterwäsche{f}/下着[したぎ]/
 unterwürfig{adj}{adv}/卑屈な[ひくつな]/
 Unterwürfigkeit{f}/服従[ふくじゅう]/
 unterzeichnen{vt}/調印する[ちょういんする]/
 Unterzeichner{m}/下記署名者[かきしょめいしゃ]/
 Unterzeichnung{f}/署名[しょめい]/
-Untiefe{f}/瀬[せ]/淵[ふち]/
+Untiefe{f}/浅瀬[あさせ]/
 untrennbar{adj}{adv}/不可分の[ふかぶんの]/
 Untrennbarkeit{f}/不可分[ふかぶん]/
 untreu{adv}{adj}/不貞の[ふていの]/
-Untreue{f}/浮気[うわき]/不信[ふしん]/
-Untugend{f}/悪徳[あくとく]/弊[へい]/
+Untreue{f}/(Verrat) 背信[はいしん]/
+Untugend{f}/悪徳[あくとく]/
 untätig{adv}/どん[どん]/
-Untätigkeit{f}/徒然[つれづれ]/閑散[かんさん]/
+Untätigkeit{f}/閑散[かんさん]/
 untüchtig/無能な[むのうな]/
 Untüchtigkeit{f}/無能[むのう]/
 unumgänglich{adj}/やむを得ない[やむをえない]/
-ununterbrochen{adv}/次々[つぎつぎ]/続々[ぞくぞく]/日夜[にちや]/始終[しじゅう]/継続的[けいぞくてき]/絶えず[たえず]/次々に[つぎつぎに]/
+ununterbrochen{adv}/不断の[ふだんの]/
 unverantwortlich{adv}/いい加減[いいかげん]/
 Unverantwortlichkeit{f}/無責任[むせきにん]/
 unverarbeitet/未処理の[みしょりの]/
-unverbesserlich{adj}{adv}/仕方ない[しかたない]/仕方が無い[しかたがない]/仕方がない[しかたがない]/
 unverbindlich{adj}/当たらず障らず[あたらずさわらず]/
-unverblümt{adv}/赤裸々[せきらら]/端的[たんてき]/
+unverblümt{adv}/(freimütig) 有りのままに[ありのままに]/
 unverbraucht{adv}/新鋭の[しんえいの]/
-unverbunden{adj}{adv}/バラバラ[ばらばら]/ばらばら[ばらばら]/
+unverbunden{adj}{adv}/(lose) バラバラ[ばらばら]/
 unverdaulich{adj}{adv}/不消化の[ふしょうかの]/
 unverdaut/不消化の[ふしょうかの]/
 unverdient{adv}/分に過ぎた[ぶんにすぎた]/
@@ -30434,7 +30427,7 @@ unverdünnt{adj}/生[き]/
 unvereinbar{adj}{adv}/不両立の[ふりょうりつの]/
 Unvereinbarkeit{f}/矛盾[むじゅん]/
 unverfroren{adv}/ずけずけ[ずけずけ]/
-Unverfrorenheit{f}/心臓[しんぞう]/横着[おうちゃく]/
+Unverfrorenheit{f}/(Schamlosigkeit) 横着[おうちゃく]/
 unverfälscht/精粋[せいすい]/
 unvergesslich{adj}{adv}/忘れがたい[わすれがたい]/
 Unvergleichbarkeit{f}/不世出[ふせいしゅつ]/
@@ -30447,16 +30440,16 @@ unverletzlich{adv}/不可侵の[ふかしんの]/
 Unverletzlichkeit{f}/神聖[しんせい]/
 unverletzt{adj}{adv}/無傷で[むきずで]/
 Unvermeidbarkeit{f}/必然[ひつぜん]/
-unvermeidlich{adv}/勢い[いきおい]/余儀なく[よぎなく]/勢[いきおい]/やむを得ない[やむをえない]/
+unvermeidlich{adv}/(zwingend) 余儀なく[よぎなく]/
 Unvermeidlichkeit{f}/必至[ひっし]/
 unvermindert{adj}{adv}{vt}/衰えることなく[おとろえることなく]/
-Unvermögen{n}/不調[ふちょう]/不能[ふのう]/無力[むりょく]/無能[むのう]/
+Unvermögen{n}/(Inkompetenz) 無能力[むのうりょく]/
 unvermögend{adj}/無力な[むりょくな]/
-Unvernunft{f}/無理[むり]/非常識[ひじょうしき]/理不尽[りふじん]/不条理[ふじょうり]/
-unvernünftig{adv}{adj}/とんでもない[とんでもない]/とんだ[とんだ]/酷い[ひどい]/
+Unvernunft{f}/不条理[ふじょうり]/
+unvernünftig{adv}{adj}/(unlogisch) 非合理的な[ひごうりてきな]/
 unverrichteter Dinge/おめおめ[おめおめ]/
 unverschämt{adj}{adv}/厚い[あつい]/
-Unverschämtheit{f}/失礼[しつれい]/横着[おうちゃく]/不調[ふちょう]/嫌味[いやみ]/
+Unverschämtheit{f}/失礼[しつれい]/
 unversehrt{adv}/無難な[ぶなんな]/
 Unverstand{m}/不明[ふめい]/
 unverständig{adj}/聞き分けのない[ききわけのない]/
@@ -30470,11 +30463,11 @@ Unverträglichkeit{f}/矛盾[むじゅん]/
 Unverwundbarkeit{f}/不死身[ふじみ]/
 unverwüstlich/鉄石の[てっせきの]/
 Unverwüstlichkeit{f}/強固[きょうこ]/
-unverzagt{adj}{adv}/敢えて[あえて]/楽観的[らっかんてき]/
+unverzagt{adj}{adv}/(optimistisch) 楽観的[らっかんてき]/
 unverzeihlich{adv}/けしからぬ[けしからぬ]/
-unverzüglich{adv}/早速[さっそく]/直ちに[ただちに]/即[そく]/即刻[そっこく]/速やか[すみやか]/きちんと[きちんと]/取りあえず[とりあえず]/取り敢えず[とりあえず]/
+unverzüglich{adv}/(sofort) 早速[さっそく]/(dringend) 至急の[しきゅうの]/
 unveränderlich{adv}{adj}/一定不変の[いっていふへんの]/
-Unveränderlichkeit{f}/常[つね]/恒久[こうきゅう]/安定[あんてい]/
+Unveränderlichkeit{f}/(Beständigkeit) 恒久[こうきゅう]/
 unverändert{adj}/相変わらず[あいかわらず]/
 unveräußerlich{adv}/譲渡禁止の[じょうときんしの]/
 unveröffentlicht{adj}/未発行の[みはっこうの]/
