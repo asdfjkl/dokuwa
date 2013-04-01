@@ -31178,18 +31178,18 @@ Verleumdung{f}/中傷[ちゅうしょう]/
 Verlieben{n}/懸想[けそう]/
 verliebt{adj}{adv}/恋恋[れんれん]/
 Verliebtheit{f}/ラブラブ[らぶらぶ]/
-verlieren{vt}/負ける[まける]/抜ける[ぬける]/落とす[おとす]/無くす[なくす]/引ける[ひける]/失う[うしなう]/
-Verlierer{m}/負け犬[まけいぬ]/敗者[はいしゃ]/
+verlieren{vt}/(nicht gewinnen) 負ける[まける]/(einen Gegenstand ~) 無くす[なくす]/(abhanden kommen) 失う[うしなう]/
+Verlierer{m}/敗者[はいしゃ]/
 Verlies{n}/土牢[つちろう]/
 Verlobte{f}{m}{f}/婚約者[こんやくしゃ]/
 Verlobung{f}/婚約[こんやく]/
 Verlobungsring{m}/婚約指輪[こんやくゆびわ]/
 verlockend{adv}/艶かしい[なまめかしい]/
-Verlockung{f}/誘い[さそい]/飴[あめ]/誘惑[ゆうわく]/
+Verlockung{f}/誘惑[ゆうわく]/
 verlogen{adj}{adv}/空々しい[そらぞらしい]/
 Verlogenheit{f}/嘘[うそ]/
 Verlosung{f}/くじ引き[くじびき]/
-Verlust{m}/負け[まけ]/引け[ひけ]/不利益[ふりえき]/出血[しゅっけつ]/負[まけ]/孔[あな]/喪失[そうしつ]/痛み[いたみ]/穴[あな]/損害[そんがい]/紛失[ふんしつ]/赤字[あかじ]/損失[そんしつ]/ロスト[ろすと]/損[そん]/
+Verlust{m}/(<=> Gewinn) 赤字[あかじ]/(Schaden) 損失[そんしつ]/
 Verlustanzeige{f}/紛失届[ふんしつとどけ]/
 verlustbringend{adj}/損な[そんな]/
 Verlustliste{f}/死傷者名簿[ししょうしゃめいぼ]/
@@ -31198,85 +31198,85 @@ verlängern{vt}/引っ張る[ひっぱる]/
 Verlängerung{f}/続き[つづき]/
 Verlängerungskabel{n}/延長コード[えんちょうこーど]/
 Verlängerungsschnur{f}/延長コード[えんちょうこーど]/
-verlässlich{adv}/確か[たしか]/頼もしい[たのもしい]/頼りになる[たよりになる]/
-Verlässlichkeit{f}/確実[かくじつ]/信憑性[しんぴょうせい]/信頼性[しんらいせい]/頼り[たより]/
+verlässlich{adv}/(zuverlässig) 信頼できる[しんらいできる]/
+Verlässlichkeit{f}/信頼性[しんらいせい]/
 vermarktbar{adj}/市場性のある[しじょうせいのある]/
 vermarkten{vt}/市場へ出す[いちばへだす]/
 Vermarktung{f}/商品化[しょうひんか]/
 vermasseln{vt}/めちゃくちゃにする[めちゃくちゃにする]/
-vermehren{vt}/増やす[ふやす]/増す[ます]/
-Vermehrung{f}/増加[ぞうか]/増大[ぞうだい]/繁殖[はんしょく]/増設[ぞうせつ]/増殖[ぞうしょく]/
-vermeiden{vt}/避ける[よける]/嫌う[きらう]/
+vermehren{vt}/増やす[ふやす]/
+Vermehrung{f}/(Zunahme) 増加[ぞうか]/
+vermeiden{vt}/避ける[さける]/
 Vermeidung{f}/回避[かいひ]/
 vermeintlich{adj}{adv}/疑似の[ぎじの]/
-vermengen{vt}/混ぜる[まぜる]/交わす[かわす]/
+vermengen{vt}/混ぜる[まぜる]/
 Vermengung{f}/混同[こんどう]/
-Vermerk{m}/メモ[めも]/覚え書き[おぼえがき]/覚書[おぼえがき]/記載[きさい]/記入[きにゅう]/
+Vermerk{m}/覚え書き[おぼえがき]/
 vermerken{vt}/記入する[きにゅうする]/
 Vermessenheit{f}/僭上[せんじょう]/
 Vermesser{m}/標尺手[ひょうしゃくしゅ]/
-Vermessung{f}/計測[けいそく]/測量[そくりょう]/
+Vermessung{f}/計測[けいそく]/
 Vermessungsamt{n}/測量部[そくりょうぶ]/
 Vermessungsingenieur{m}/測量士[そくりょうし]/
 Vermessungskunde{f}/測地学[そくちがく]/
 vermieten{vt}/貸す[かす]/
-Vermieter{m}/大家[おおや]/家主[いえぬし]/
+Vermieter{m}/家主[いえぬし]/
 Vermieterin{f}/宿屋のおかみ[やどやのおかみ]/
 Vermietung{f}/レンタル[れんたる]/賃貸[ちんたい]/
 vermindern{vt}/減らす[へらす]/
-Verminderung{f}/低下[ていか]/減少[げんしょう]/軽減[けいげん]/減額[げんがく]/減り[へり]/縮小[しゅくしょう]/
-vermischen{vt}/混ぜる[まぜる]/割る[わる]/交わす[かわす]/
+Verminderung{f}/減り[へり]/
+vermischen{vt}/混ぜる[まぜる]/
 vermischte Schriften/雑文[ざつぶん]/
-Vermischung{f}/混合[こんごう]/混在[こんざい]/混じり[まじり]/交じり[まじり]/混入[こんにゅう]/
+Vermischung{f}/混合[こんごう]/
 vermitteln{vt}{vi}/取り持つ[とりもつ]/
-Vermittler{m}/パイプ[ぱいぷ]/中継ぎ[なかつぎ]/世話人[せわにん]/
-Vermittlung{f}/計[はからい]/調停[ちょうてい]/図[はからい]/中継ぎ[なかつぎ]/架け橋[かけはし]/世話[せわ]/計らい[はからい]/仲介[ちゅうかい]/
+Vermittler{m}/仲介者[ちゅうかいしゃ]/
+Vermittlung{f}/仲介[ちゅうかい]/
 Vermittlungsgebühr{f}/周旋料[しゅうせんりょう]/
-Vermummung{f}/仮装[かそう]/覆面[ふくめん]/
-vermutlich{adj}{adv}/でしょう[でしょう]/或いは[あるいは]/大方[おおかた]/多分[たぶん]/恐らく[おそらく]/
-Vermutung{f}/想像[そうぞう]/推測[すいそく]/仮説[かせつ]/予測[よそく]/推察[すいさつ]/前提[ぜんてい]/推定[すいてい]/憶測[おくそく]/
+Vermummung{f}/覆面[ふくめん]/
+vermutlich{adj}{adv}/多分[たぶん]/
+Vermutung{f}/推測[すいそく]/
 Vermächtnis{n}/跡[あと]/
-Vermögen{n}/金[かね]/財産[ざいさん]/産[さん]/資産[しさん]/かね[かね]/実力[じつりょく]/資本[しほん]/能力[のうりょく]/技量[ぎりょう]/お金[おかね]/
+Vermögen{n}/(Eigentum) 財産[ざいさん]/(Fähigkeit) 能力[のうりょく]/
 Vermögensabgabe{f}/財産税[ざいさんぜい]/
 Vermögenslage{f}/金融[きんゆう]/
 Vermögensrecht{n}/財産権[ざいさんけん]/
 Vermögensverwaltung{f}/管理[かんり]/
 Vermögenswert{m}/資産価値[しさんかち]/
 vernachlässigen{vt}/放っておく[ほうっておく]/
-Vernachlässigung{f}/大空[おおぞら]/怠慢[たいまん]/忘却[ぼうきゃく]/
+Vernachlässigung{f}/(Nachlässigkeit) 怠慢[たいまん]/
 vernageln{vt}/釘付けにする[くぎづけけにする]/
 vernarben{vi}/傷痕を残す[しょうこんをのこす]/
 vernarrt{adj}/鈍い[のろい]/
-Vernarrtheit{f}/迷い[まよい]/熱愛[ねつあい]/溺愛[できあい]/
+Vernarrtheit{f}/(inbrünstige Liebe) 熱愛[ねつあい]/
 vernebeln{vt}/霧状にする[きりじょうにする]/
-Vernehmung{f}/追及[ついきゅう]/尋問[じんもん]/
+Vernehmung{f}/尋問[じんもん]/
 Verneinung{f}/否定[ひてい]/
 vernetzen{vt}/架橋する[かきょうする]/
 Vernetzung{f}/ネットワーキング[ねっとわーきんぐ]/
-vernichten{vt}/壊す[こわす]/崩す[くずす]/滅ぼす[ほろぼす]/割る[わる]/
+vernichten{vt}/(ausrotten) 撃滅する[げきめつする]/(ausgelöscht werden) 全滅する[ぜんめつする]/
 vernichtend{adv}{adj}/けちょんけちょん[けちょんけちょん]/
-Vernichtung{f}/破壊[はかい]/粉砕[ふんさい]/破棄[はき]/撃破[げきは]/退治[たいじ]/打倒[だとう]/破滅[はめつ]/絶滅[ぜつめつ]/壊滅[かいめつ]/撲滅[ぼくめつ]/
+Vernichtung{f}/破壊[はかい]/
 Vernichtungskrieg{m}/掃討戦[そうとうせん]/
 Vernissage{f}/招待日[しょうたいび]/
-Vernunft{f}/物[もの]/分別[ふんべつ]/常識[じょうしき]/理[ことわり]/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/割り[わり]/訳[わけ]/モノ[もの]/モノ[もの]/法[のり]/理屈[りくつ]/理性[りせい]/案[あん]/道理[どうり]/道筋[みちすじ]/本心[ほんしん]/
+Vernunft{f}/理性[りせい]/
 Vernunftehe{f}/政略結婚[せいりゃくけっこん]/
 vernunftlos/いわれのない[いわれのない]/
 vernunftwidrig{adj}/途轍もない[とてつもない]/
-vernünftig{adj}{adv}/リーズナブル[りーずなぶる]/合理的[ごうりてき]/
+vernünftig{adj}{adv}/(rational) 合理的[ごうりてき]/
 vernünftig sein{vi}/聞き分ける[ききわける]/
-Vernünftigkeit{f}/妥当[だとう]/合理[ごうり]/
+Vernünftigkeit{f}/合理[ごうり]/
 verordnen{vt}/設ける[もうける]/
-Verordnung{f}/規定[きてい]/処方[しょほう]/指令[しれい]/制定[せいてい]/条例[じょうれい]/掟[おきて]/
+Verordnung{f}/規定[きてい]/
 Verpachtung{f}/賃貸[ちんたい]/
 verpacken{vt}/梱包する[こんぽうする]/
 Verpacker{m}/包装係[ほうそうがかり]/
-Verpackung{f}/パッケージ[ぱっけーじ]/包装[ほうそう]/外装[がいそう]/梱包[こんぽう]/
+Verpackung{f}/包装[ほうそう]/
 Verpackungsmaschine{f}/包装機[ほうそうき]/
 Verpackungsmaterial{n}/梱包材[こんぽうざい]/
 Verpackungsverordnung{f}/包装廃棄物令[ほうそうはいきぶつれい]/
 verpatzen{vt}/挫く[くじく]/
 Verpflegung{f}/賄い[まかない]/
-Verpflichtung{f}/肩[かた]/責め[せめ]/負担[ふたん]/義理[ぎり]/義務[ぎむ]/義務[ぎむ]/お勤め[おつとめ]/債務[さいむ]/本分[ほんぶん]/
+Verpflichtung{f}/(Pflicht) 義務[ぎむ]/
 verpfänden{vt}/質に入れる[しちにいれる]/
 Verpfändung{f}/通用[つうよう]/
 verprassen{vt}/空費する[くうひする]/
@@ -31289,17 +31289,15 @@ Verpächter{m}/賃貸人[ちんたいにん]/
 verpäppeln{vt}/甘やかす[あまやかす]/
 verpönt{adj}/ご法度の[ごはっとの]/
 Verrat{m}/裏切り[うらぎり]/
-Verraten{n}/口外[こうがい]/
 Verrechnungskonto{n}/決済性預金[けっさいせいよきん]/
 Verrechnungsscheck{m}/線引き小切手[せんびきこぎって]/
 verrenken{vt}/外す[はずす]/
 verrichten{vt}/便ずる[べんずる]/
-Verrichtung{f}/事[こと]/操作[そうさ]/実施[じっし]/処理[しょり]/
 Verriegeln{n}/施錠[せじょう]/
 verriegeln{vt}/施錠する[せじょうする]/
 Verriegelung{f}/インターロック[いんたーろっく]/
-Verringerung{f}/減少[げんしょう]/減量[げんりょう]/軽減[けいげん]/減り[へり]/
-verrinnen{vi}/流れる[ながれる]/経つ[たつ]/
+Verringerung{f}/減少[げんしょう]/
+verrinnen{vi}/(Zeit) 過ぎる[すぎる]/(fließen) 流れる[ながれる]/
 verrotten{vi}/朽ちる[くちる]/
 Verruf{m}/不評[ふひょう]/
 verrufen{adj}{adv}/不評判な[ふひょうばんな]/
@@ -31312,17 +31310,17 @@ verrückt{adv}{adj}/無茶[むちゃ]/クレイジー[くれいじー]/
 verrückt machen{vt}/狂わせる[くるわせる]/
 Verrückte{m}{f}/狂女[きょうじょ]/
 Verrückter{m}/狂人[きょうじん]/
-Verrücktheit{f}/狂気[きょうき]/クレイジー[くれいじー]/発狂[はっきょう]/狂い[くるい]/狂乱[きょうらん]/狂乱[きょうらん]/
+Verrücktheit{f}/(Geisteskrankheit) 狂気[きょうき]/
 verrühren{vt}/混ぜ返す[まぜかえす]/
 Vers{m}/句[く]/
-Versagen{n}/失敗[しっぱい]/破綻[はたん]/
+Versagen{n}/失敗[しっぱい]/
 versagen{vi}/破綻を来す[はたんをきたす]/
-Versager{m}/ゼロ[ぜろ]/零[ぜろ]/
+Versager{m}/失敗者[しっぱいしゃ]/
 versalzen{vt}/塩っぱい[しょっぱい]/
-versammeln{vt}/集める[あつめる]/固める[かためる]/寄せる[よせる]/
-Versammlung{f}/集[つどい]/結集[けっしゅう]/集会[しゅうかい]/会議[かいぎ]/ラリー[らりー]/勢揃い[せいぞろい]/集い[つどい]/集合[しゅうごう]/集まり[あつまり]/会合[かいごう]/
+versammeln{vt}/集める[あつめる]/
+Versammlung{f}/集会[しゅうかい]/
 Versammlungsfreiheit{f}/集会の自由[しゅうかいのじゆう]/
-Versand{m}/送り[おくり]/出荷[しゅっか]/
+Versand{m}/(Versendung) 発送[はっそう]/
 Versandart{f}/発送方法[はっそうほうほう]/
 versanden{vi}/先細りになって消滅する[さきぼそりになってしょうめつする]/
 Versandgeschäft{n}/通信販売[つうしんはんばい]/
@@ -31340,88 +31338,87 @@ verschenken{vt}/贈り物をする[おくりものをする]/
 verscherzen{vt}/失墜する[しっついする]/
 verschiebbar/再配置可能な[さいはいちかのうな]/
 Verschiebebahnhof{m}/操車場[そうしゃじょう]/
-verschieben{vt}/見送る[みおくる]/後にする[あとにする]/
-Verschieben{n}/見送り[みおくり]/振り替え[ふりかえ]/振替[ふりかえ]/
-Verschiebung{f}/持ち越し[もちこし]/先延ばし[さきのばし]/順延[じゅんえん]/
-verschieden{adv}/色んな[いろんな]/各種[かくしゅ]/雑多[ざった]/別々[べつべつ]/
+verschieben{vt}/(Termin) 延期する[えんきする]/
+Verschiebung{f}/(Vertagung) 延期[えんき]/
+verschieden{adv}/(unterschiedlich) 違った[ちがった]/
 verschiedenartig{adj}/色んな[いろんな]/
-Verschiedenartigkeit{f}/色々[いろいろ]/多様性[たようせい]/
-verschiedene{adj}/数々[かずかず]/品々[しなじな]/
+Verschiedenartigkeit{f}/多様性[たようせい]/
+verschiedene{adj}/色んな[いろんな]/
 Verschiedenes/雑[ざつ]/
-Verschiedenheit{f}/違い[たがい]/バラエティー[ばらえてぃー]/相違[そうい]/多様[たよう]/差[さ]/様々[さまざま]/
+Verschiedenheit{f}/(Unterschied) 違い[たがい]/
 verschiedentlich{adv}/まちまちに[まちまちに]/
 verschiffen/積み込む[つみこむ]/
-Verschiffung{f}/搭載[とうさい]/出荷[しゅっか]/
-verschlafen{vi}{vt}/うとうと[うとうと]/うつらうつら[うつらうつら]/トロン[とろん]/
+Verschiffung{f}/搭載[とうさい]/
+verschlafen{vi}{vt}/寝坊する[ねぼうする]/
 Verschlag{m}/仕切り[しきり]/
 verschlagen{vt}/食えない[くえない]/
 Verschlagenheit{f}/狡猾[こうかつ]/
 verschlechtern{vt}/荒立てる[あらだてる]/
-Verschlechterung{f}/低下[ていか]/改悪[かいあく]/減退[げんたい]/激化[げっか]/悪化[あっか]/
+Verschlechterung{f}/低下[ていか]/
 Verschleierung{f}/隠蔽[いんぺい]/
 Verschleiß{m}/磨耗[まもう]/
 verschleppen{vt}/らっちする[らっちする]/
 Verschleppung{f}/勾引[かどわかし]/
 Verschleppungstaktiker{m}/フィリバスター[ふぃりばすたー]/
-verschlingen{vt}/飲む[のむ]/食う[くう]/喰う[くう]/巻き込む[まきこむ]/食らう[くらう]/喰らう[くらう]/呑む[のむ]/
+verschlingen{vt}/(gefräßig essen) 貪り食う[むさぼりくう]/(anstarren)  見詰める[みつめる]/
 verschlossen{adv}{adj}/しゃべりたがらない[しゃべりたがらない]/
 Verschlossenheit{f}/沈黙[ちんもく]/
 verschlucken{vt}/飲み込む[のみこむ]/
-Verschluss{m}/閉鎖[へいさ]/栓[せん]/閉塞[へいそく]/蓋[ふた]/シャッター[しゃったー]/
+Verschluss{m}/(Schloss) 錠[じょう]/{Fotog.} シャッター[しゃったー]/(Blockade) 閉塞[へいそく]/
 verschlüsseln{vt}/スクランブルをかける[すくらんぶるをかける]/
 Verschlüsselung{f}/スクランブル[すくらんぶる]/
 Verschlüsselungsmethode{f}/暗号化手法[あんごうかしゅほう]/
-Verschmelzung{f}/融合[ゆうごう]/一体化[いったいか]/
+Verschmelzung{f}/融合[ゆうごう]/
 Verschmutzung{f}/汚染[おせん]/
-Verschnaufpause{f}/一息[ひといき]/一休み[ひとやすみ]/ひと休み[ひとやすみ]/
+Verschnaufpause{f}/一休み[ひとやすみ]/
 Verschneidung{f}/去勢[きょせい]/
 verschneit{adv}/雪の多い[ゆきのおおい]/
-Verschnitt{m}/混じり[まじり]/交じり[まじり]/
+Verschnitt{m}/(Vermischung) 混じり[まじり]/
 verschnupft/むっと[むっと]/
 verschrauben{vt}/ねじで止める[ねじでとめる]/
-Verschrobenheit{f}/変[へん]/へん[へん]/天邪鬼[あまのじゃく]/
+Verschrobenheit{f}/奇矯[ききょう]/
 Verschrottung{f}/お役御免[おやくごめん]/
 verschränken{vt}/組む[くむ]/
 verschweigen{vt}/隠す[かくす]/
 verschwenden{vt}/撒き散らす[まきちらす]/
 Verschwender{m}/使い手[つかいて]/
-verschwenderisch{adv}{adj}/犬[いぬ]/惜しい[おしい]/
-Verschwendung{f}/無駄[むだ]/散財[さんざい]/豪華[ごうか]/無駄遣い[むだづかい]/無駄使い[むだづかい]/贅沢[ぜいたく]/
+verschwenderisch{adv}{adj}/浪費癖がある[ろうひへきがある]/
+Verschwendung{f}/浪費[ろうひ]/
 verschwiegen{adv}{adj}/口が堅い[くちがかたいい]/
-Verschwiegenheit{f}/内緒[ないしょ]/無口[むくち]/
+Verschwiegenheit{f}/内緒[ないしょ]/
 Verschwinde!/消えろ。[きえろ。]/
-Verschwinden{n}/消滅[しょうめつ]/消失[しょうしつ]/ドロン[どろん]/消沈[しょうちん]/
-verschwinden{vi}/飛ぶ[とぶ]/抜ける[ぬける]/消える[きえる]/隠れる[かくれる]/抜け出す[ぬけだす]/無くなる[なくなる]/無くなる[なくなる]/
+Verschwinden{n}/(Aussterben) 消滅[しょうめつ]/
+verschwinden{vi}/消える[きえる]/
 verschwitzen{vi}/忘れる[わすれる]/
 verschwitzt{adj}/汗臭い[あせくさい]/
-verschwommen{adj}/漠然[ばくぜん]/見にくい[みにくい]/微か[かすか]/
-Verschwommenheit{f}/彷彿[ほうふつ]/朦朧[もうろう]/
+verschwommen{adj}/(unbestimmt) 漠然[ばくぜん]/(schwer zu sehen) 見にくい[みにくい]/
+Verschwommenheit{f}/(Undeutlichkeit) 彷彿[ほうふつ]/(Trübheit) 朦朧[もうろう]/
 verschwunden{adj}/在りし[ありし]/
 Verschwörer{m}/徒党[ととう]/
 verschwörerisch{adj}/通謀の[つうぼうの]/
-Verschwörung{f}/陰謀[いんぼう]/反逆[はんぎゃく]/
+Verschwörung{f}/陰謀[いんぼう]/
 verschämt{adv}/面目ない[めんぼくない]/
 Verschämtheit{f}/恥じらい[はじらい]/
 verschärfen{vt}/荒立てる[あらだてる]/
 Verschärfung{f}/亢進[こうしん]/
 verschönern{vt}/修飾する[しゅうしょくする]/
-Verschönerung{f}/美容[びよう]/美化[びか]/
+Verschönerung{f}/美容[びよう]/
 verschütten{vt}/垂らす[たらす]/
-Versehen{n}/間違い[まちがい]/過ち[あやまち]/錯誤[さくご]/怪我[けが]/落ち[おち]/過失[かしつ]/失態[しったい]/
-versehentlich{adv}{adj}/つい[つい]/誤って[あやまって]/
+Versehen{n}/間違い[まちがい]/
+versehentlich{adv}{adj}/誤って[あやまって]/
 Verseifung{f}/鹸化[けんか]/
 versenden{vt}/仕向ける[しむける]/
 Versendung{f}/発送[はっそう]/
 versenken{vt}/沈める[しずめる]/
 Versenkung{f}/奈落[ならく]/
-versetzen{vt}/動く[いごく]/回す[まわす]/動かす[うごかす]/
+versetzen{vt}/(Arbeit) 転勤させる[てんきんさせる]/(verschieben) ずらす[ずらす]/
 versetzt werden{vi}/転属する[てんぞくする]/
-Versetzung{f}/転勤[てんきん]/異動[いどう]/進級[しんきゅう]/移設[いせつ]/
+Versetzung{f}/(Arbeit) 転勤[てんきん]/
 verseuchen{vt}/汚染する[おせんする]/
-Verseuchung{f}/汚染[おせん]/感染[かんせん]/
+Verseuchung{f}/(Verschmutzung) 汚染[おせん]/(Infektion) 感染[かんせん]/
 Versicherer{m}/保険者[ほけんしゃ]/
-versichern/言う[いう]/言い切る[いいきる]/云う[いう]/
-Versicherung{f}/保険[ほけん]/断言[だんげん]/
+versichern/(beteuern) 確言する[かくげんする]/
+Versicherung{f}/保険[ほけん]/
 Versicherungsbeitrag{m}/保険料[ほけんりょう]/
 Versicherungsbetrug{f}/保険詐欺[ほけんさぎ]/
 Versicherungsfall{m}/保険事故[ほけんじこ]/
@@ -31448,11 +31445,11 @@ Versilbern{n}/箔押し[はくおし]/
 versilbert{adj}/銀めっきの[ぎんめっきの]/
 Versilberung{f}/箔[はく]/
 versinnbildlichen/象徴する[しょうちょうする]/
-Version{f}/バージョン[ばーじょん]/ヴァージョン[う゛ぁーじょん]/
+Version{f}/バージョン[ばーじょん]/(Meinung) 見解[けんかい]/
 Versmaß{n}/韻律[いんりつ]/
 versoffen{adj}{adv}/大酒飲みの[おおざけのみの]/
 versorgen{vt}/手がける[てがける]/
-Versorgung{f}/整備[せいび]/供給[きょうきゅう]/補給[ほきゅう]/支給[しきゅう]/給与[きゅうよ]/給付[きゅうふ]/
+Versorgung{f}/供給[きょうきゅう]/
 Versorgungsgebiet{n}/有効範囲[ゆうこうはんい]/
 Versorgungslage{f}/食糧事情[しょくりょうじじょう]/
 Verspaar{n}/対句[ついく]/
@@ -31460,12 +31457,12 @@ Versperren{n}/遮断[しゃだん]/
 verspielt{adj}/じゃれて[じゃれて]/
 verspotten{vt}/馬鹿にする[ばかにする]/
 Verspottung{f}/罵声[ばせい]/
-Versprechen{n}/約束[やくそく]/語らい[かたらい]/誓い[ちかい]/契約[けいやく]/
+Versprechen{n}/約束[やくそく]/
 Versprecher{m}/失言[しつげん]/
 verspritzen/撒き散らす[まきちらす]/
 Versprödung{f}/ぜい化[ぜいか]/
-verspätet{adv}{adj}/遅く[おそく]/遅い[おそい]/
-Verspätung{f}/遅れ[おくれ]/遅延[ちえん]/時間切れ[じかんぎれ]/遅刻[ちこく]/猶予[ゆうよ]/手遅れ[ておくれ]/後の祭り[あとのまつり]/
+verspätet{adv}{adj}/遅く[おそく]/
+Verspätung{f}/遅れ[おくれ]/
 verstaatlichen{vt}/国有にする[こくゆうにする]/
 Verstaatlichung{f}/国有化[こくゆうか]/
 Verstand{m}/脳[のう]/知[ち]/智[ち]/常識[じょうしき]/知能[ちのう]/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/頭脳[ずのう]/脳裏[のうり]/案[あん]/道理[どうり]/分かり[わかり]/
