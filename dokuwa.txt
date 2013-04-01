@@ -30973,42 +30973,42 @@ vergilbt{adj}/黄味がかった[きみがかった]/
 Vergissmeinnicht{n}/勿忘草[わすれなぐさ]/
 vergittert/鉄格子の[てつごうしの]/
 verglast/ガラス張りの[がらすばりの]/
-Vergleich{m}/チェック[ちぇっく]/比較[ひかく]/参考[さんこう]/対照[たいしょう]/比喩[ひゆ]/妥協[だきょう]/例え[たとえ]/対比[たいひ]/和解[わかい]/折り合い[おりあい]/
+Vergleich{m}/対比[たいひ]/
 vergleichbar{adj}{adv}/コンパラ[こんぱら]/
 Vergleicher{m}/コンパレータ[こんぱれーた]/
 Vergleichsoperator{m}/比較演算子[ひかくえんざんし]/
 Vergleichspunkt{m}/類似点[るいじてん]/
-vergleichsweise{adv}/比較的[ひかくてき]/割合[わりあい]/割りと[わりと]/割と[わりと]/割りに[わりに]/
+vergleichsweise{adv}/比較的[ひかくてき]/
 Vergleichswert{m}/基準値[きじゅんち]/
 Vergleichung{f}/照合[しょうごう]/
 Vergletscherung{f}/氷河作用[ひょうがさよう]/
-Vergnügen{n}/楽しみ[たのしみ]/愉しみ[たのしみ]/快楽[かいらく]/愉快[ゆかい]/興[きょう]/遊び[あそび]/痛快[つうかい]/悦[えつ]/喜び[よろこび]/歓び[よろこび]/
-vergnüglich{adv}/楽しい[たのしい]/愉しい[たのしい]/
-Vergnügung{f}/道楽[どうらく]/歓[かん]/アミューズメント[あみゅーずめんと]/娯楽[ごらく]/
-Vergnügungsreise{f}/漫遊[まんゆう]/回遊[かいゆう]/遊覧[ゆうらん]/
+Vergnügen{n}/楽しみ[たのしみ]/
+vergnüglich{adv}/楽しい[たのしい]/
+Vergnügung{f}/娯楽[ごらく]/
+Vergnügungsreise{f}/漫遊[まんゆう]/
 Vergnügungssucht{f}/遊び好き[あそびずき]/
 vergnügungssüchtig{adj}/享楽的[きょうらくてき]/
 Vergolden{n}/箔押し[はくおし]/
-vergolden{vt}/押す[おす]/着せる[きせる]/
+vergolden{vt}/(mit Gold überziehen) 金めっきする[きんめっきする]/
 vergoldet{adj}/金めっきの[きんめっきの]/
 Vergoldung{f}/箔[はく]/
 vergreisen{vi}/老いさらばえる[おいさらばえる]/
 Vergreisung{f}/老境[ろうきょう]/
-vergrößern{vt}/増やす[ふやす]/増す[ます]/加える[くわえる]/広げる[ひろげる]/
-Vergrößerung{f}/拡大[かくだい]/拡張[かくちょう]/増設[ぞうせつ]/発達[はったつ]/倍率[ばいりつ]/拡充[かくじゅう]/
-vergänglich{adj}{adv}/淡い[あわい]/儚い[はかない]/
+vergrößern{vt}/拡大する[かくだいする]/
+Vergrößerung{f}/拡大[かくだい]/
+vergänglich{adj}{adv}/儚い[はかない]/
 Vergänglichkeit{f}/無常[むじょう]/
 vergöttern{vt}/恋する[こいする]/
 Vergötterung{f}/神化[しんか]/
 vergöttlichen{vt}/神格化する[しんかくかする]/
-Vergütung{f}/報[むくい]/補償[ほしょう]/礼[れい]/報い[むくい]/
+Vergütung{f}/補償[ほしょう]/
 Verhaftung{f}/逮捕[たいほ]/
-Verhalten{n}/行動[こうどう]/人当たり[ひとあたり]/態度[たいど]/仕打ち[しうち]/出方[でかた]/行為[こうい]/素振り[そぶり]/仕草[しぐさ]/動作[どうさ]/てい[てい]/振る舞い[ふるまい]/行い[おこない]/真似[まね]/習性[しゅうせい]/挙動[きょどう]/
+Verhalten{n}/行動[こうどう]/
 Verhaltensforschung{f}/行動科学[こうどうかがく]/
 Verhaltensregel{f}/言いつけ[いいつけ]/
 Verhaltenstherapie{f}/行動療法[こうどうりょうほう]/
 verhandeln{vt}/掛け合う[かけあう]/
-Verhandlung{f}/協議[きょうぎ]/話し合い[はなしあい]/交渉[こうしょう]/掛け合い[かけあい]/会談[かいだん]/
+Verhandlung{f}/(Gerichts~) 公判[こうはん]/(Besprechung) 交渉[こうしょう]/
 Verhandlungspartner{pl}/交渉相手[こうしょうあいて]/
 Verhandlungsprotokoll{n}/議事録[ぎじろく]/
 Verhandlungsstärke{f}/交渉力[こうしょうりょく]/
@@ -31021,26 +31021,26 @@ Verheimlichung{f}/隠蔽[いんぺい]/
 verheiraten{vt}/見せる[みせる]/
 verheiratet{adj}/夫婦の[ふうふの]/
 verherrlichen{vt}/奉る[たてまつる]/
-Verherrlichung{f}/謳歌[おうか]/賛美[さんび]/礼賛[らいさん]/
+Verherrlichung{f}/謳歌[おうか]/
 verhexen{vt}/寄る[よる]/
 verhindern{vt}/防ぐ[ふせぐ]/
-Verhinderung{f}/事故[じこ]/防止[ぼうし]/妨害[ぼうがい]/阻害[そがい]/障害[しょうがい]/阻止[そし]/
+Verhinderung{f}/(Hindernis) 妨害[ぼうがい]/
 verhungern{vi}/飢える[かつえる]/
 verhunzen{vt}/めちゃくちゃにする[めちゃくちゃにする]/
 verhutzelt{adv}/しなびた[しなびた]/
-Verhältnis{n}/関係[かんけい]/比率[ひりつ]/割り[わり]/係り[かかわり]/割合[わりあい]/比例[ひれい]/繋がり[つながり]/交渉[こうしょう]/加減[かげん]/情事[じょうじ]/間柄[あいだがら]/際[きわ]/関わり[かかわり]/度合い[どあい]/触れ合い[ふれあい]/
-verhältnismäßig{adj}{adv}/比較的[ひかくてき]/割合[わりあい]/割に[わりに]/割りと[わりと]/割と[わりと]/割りに[わりに]/
-Verhältnisse{pl}/状態[じょうたい]/境遇[きょうぐう]/訳[わけ]/境界[きょうがい]/情勢[じょうせい]/事情[じじょう]/場合[ばあい]/雲行き[くもゆき]/模様[もよう]/状況[じょうきょう]/事態[じたい]/
+Verhältnis{n}/(Beziehung) 関係[かんけい]/(Proportion) 割合[わりあい]/
+verhältnismäßig{adj}{adv}/比較的[ひかくてき]/
+Verhältnisse{pl}/(Lebens~) 境遇[きょうぐう]/
 Verhältniswahl{f}/比例代表制[ひれいだいひょうせい]/
-Verhängnis{n}/宿命[しゅくめい]/因果[いんが]/凶[きょう]/
+Verhängnis{n}/(Unglück) 不幸[ふこう]/(Schicksal) 宿命[しゅくめい]/
 verhängnisvoll{adj}{adv}/忌まわしい[いまわしい]/
 verhätscheln{vt}/甘やかす[あまやかす]/
 verhöhnen{vt}/嘲る[あざける]/
-Verhör{n}/調べ[しらべ]/吟味[ぎんみ]/尋問[じんもん]/検察[けんさつ]/追及[ついきゅう]/
-verhüllen{vt}/隠す[かくす]/覆う[おおう]/
+Verhör{n}/尋問[じんもん]/
+verhüllen{vt}/(verdecken) 覆い隠す[おおいかくす]/
 Verhüllung{f}/覆い[おおい]/
 verhüten{vt}/防ぐ[ふせぐ]/
-Verhütung{f}/予防[よぼう]/防止[ぼうし]/阻止[そし]/
+Verhütung{f}/(Vorbeugung) 予防[よぼう]/{Med.}(empfängnisverhütende Mittel) 避妊薬[ひにんやく]/
 Verinnerlichung{f}/内面化[ないめんか]/
 Verirrung{f}/失路[しつろ]/
 verjagen{vt}/追う[おう]/
@@ -31052,21 +31052,21 @@ Verjüngung{f}/若返り[わかがえり]/
 Verkabelung{f}/ハーネス[はーねす]/
 verkalken{vi}/老いぼれる[おいぼれる]/
 Verkalkung{f}/呆け[ぼけ]/
-Verkauf{m}/販売[はんばい]/発売[はつばい]/セールス[せーるす]/売り[うり]/売り上げ[うりあげ]/売上げ[うりあげ]/売上[うりあげ]/営業[えいぎょう]/売却[ばいきゃく]/売れ行き[うれゆき]/トレード[とれーど]/
-verkaufen{vt}/売る[うる]/手放す[てばなす]/譲る[ゆずる]/
+Verkauf{m}/販売[はんばい]/
+verkaufen{vt}/売る[うる]/
 Verkaufen{n}/換金[かんきん]/
 Verkaufsargument{n}/売り[うり]/
-Verkaufsautomat{m}/販売機[はんばいき]/自動販売機[じどうはんばいき]/
+Verkaufsautomat{m}/自動販売機[じどうはんばいき]/
 Verkaufserlös{m}/売上金[うりあげきん]/
 Verkaufsförderung{f}/販売促進[はんばいそくしん]/
 Verkaufsgespräch{n}/セールス･トーク[せーるすとーく]/
 Verkaufskurs{m}/売り相場[うりそうば]/
 Verkaufspersonal{m}/営業スタッフ[えいぎょうすたっふ]/
 Verkaufspreis{m}/販売価格[はんばいかかく]/
-Verkaufsstand{m}/売り場[うりば]/屋台[やたい]/売店[ばいてん]/売場[うりば]/露店[ろてん]/
-Verkaufsstelle{f}/アウトレット[あうとれっと]/販売店[はんばいてん]/
+Verkaufsstand{m}/売り場[うりば]/
+Verkaufsstelle{f}/(Laden) 販売店[はんばいてん]/
 Verkaufswert{m}/流通価値[りゅうつうかち]/
-Verkehr{m}/付き合い[つきあい]/交際[こうさい]/行き来[ゆきき]/往来[おうらい]/交[こう]/通行[つうこう]/お付き合い[おつきあい]/人通り[ひとどおり]/
+Verkehr{m}/(Transport) 交通[こうつう]/{Bsp:im Umlauf befindliche Währung 流通貨幣[りゅうつうかへい]}(Umlauf) 流通[りゅうつう]/(Bekanntschaft) 交際[こうさい]/(Geschlechts~) 性交[せいこう]/
 Verkehrsader{f}/要路[ようろ]/
 Verkehrsamt{n}/観光局[かんこうきょく]/
 Verkehrsaufkommen{n}/交通量[こうつうりょう]/
@@ -31100,23 +31100,23 @@ Verkehrsstörung{f}/混雑[こんざつ]/
 Verkehrstote{m}{f}/交通事故による死者[こうつうじこによるししゃ]/
 Verkehrsunfall{m}/交通事故[こうつうじこ]/
 Verkehrsweg{m}/交通路[こうつうろ]/
-verkehrt{adv}{adj}/逆に[ぎゃくに]/曲がった[まがった]/可笑しい[おかしい]/
+verkehrt{adv}{adj}/(im Gegenteil) 逆に[ぎゃくに]/(irrtümlich) 間違った[まちがった]/
 Verkennung{f}/誤認[ごにん]/
 verketten/数珠つなぎにする[じゅずつなぎにする]/
 verkettet sein{vi}/数珠つなぎになる[じゅずつなぎになる]/
-Verkettung{f}/連鎖[れんさ]/連結[れんけつ]/脈絡[みゃくらく]/
+Verkettung{f}/連鎖[れんさ]/
 Verkieselung{f}/珪化[けいか]/
 Verklappung{f}/海洋投棄[かいようとうき]/
 Verklebung{f}/癒着[ゆちゃく]/
 verkleiden{vt}/変装する[へんそうする]/
-Verkleidung{f}/なり[なり]/変装[へんそう]/ケース[けーす]/仮装[かそう]/外装[がいそう]/
+Verkleidung{f}/(Maskierung) 変装[へんそう]/(Ummantelung) 被覆[ひふく]/
 verkleinern{vt}/減らす[へらす]/
 verkleinert{adj}/縮小した[しゅくしょうした]/
-Verkleinerung{f}/減少[げんしょう]/縮小[しゅくしょう]/
+Verkleinerung{f}/縮小[しゅくしょう]/
 verklären{vt}/理想化する[りそうかする]/
 Verklärung{f}/変容[へんよう]/
 Verknöcherung{f}/骨化[こっか]/
-Verknüpfung{f}/連絡[れんらく]/接続[せつぞく]/連結[れんけつ]/
+Verknüpfung{f}/(Verbindung) 連絡[れんらく]/(Kopplung) 連結[れんけつ]/
 Verkohlung{f}/炭化[たんか]/
 verkoken{vt}/炭化する[たんかする]/
 verkommen{vi}{adv}/成り下がる[なりさがる]/
@@ -31124,57 +31124,57 @@ verkorksen{vt}/棒に振る[ぼうにふる]/
 Verkrustung{f}/動脈硬化[どうみゃくこうか]/
 verkupfern{vt}/錫を被せる[すずをきせる]/
 verkuppeln{vt}/取り持つ[とりもつ]/
-Verkäufer{m}/店員[てんいん]/売り子[うりこ]/店番[みせばん]/
+Verkäufer{m}/店員[てんいん]/
 Verkäuferin{f}/売り子[うりこ]/
 Verkäufermarkt{m}/売り手市場[うりてしじょう]/
 verkörpern{vt}/具体化する[ぐたいかする]/
-Verkörperung{f}/体現[たいげん]/具現[ぐげん]/
+Verkörperung{f}/体現[たいげん]/
 Verköstigung{f}/賄い[まかない]/
 verkümmern{vi}/いじける[いじける]/
 verkümmert{adv}/退化した[たいかした]/
 Verkümmerung{f}/萎縮病[いしゅくびょう]/
-verkünden{vt}/教える[おしえる]/告げる[つげる]/
+verkünden{vt}/(ankündigen) 告知する[こくちする]/(mitteilen) 告げる[つげる]/
 verkündigen{vt}/敷く[しく]/
-Verkündigung{f}/発表[はっぴょう]/公表[こうひょう]/宣言[せんげん]/告知[こくち]/
-verkürzen{vt}/減らす[へらす]/詰める[つめる]/
-Verkürzung{f}/縮小[しゅくしょう]/短縮[たんしゅく]/
+Verkündigung{f}/告知[こくち]/
+verkürzen{vt}/(kürzen) 短くする[みじかくする]/
+Verkürzung{f}/縮小[しゅくしょう]/
 verlachen{vt}/笑う[わらう]/
 Verladebescheinigung{f}/船長積荷受取証[せんちょうつみにうけとりしょう]/
 verladen{vt}/積み込む[つみこむ]/
-Verladung{f}/搭載[とうさい]/出荷[しゅっか]/
-Verlag{m}/出版[しゅっぱん]/書店[しょてん]/出版社[しゅっぱんしゃ]/発刊[はっかん]/本屋[ほんや]/
+Verladung{f}/搭載[とうさい]/
+Verlag{m}/出版社[しゅっぱんしゃ]/
 Verlagerung{f}/移行[いこう]/
 Verlagsbuchhandel{m}/出版業[しゅっぱんぎょう]/
 Verlagskatalog{m}/出版目録[しゅっぱんもくろく]/
-Verlagsrecht{n}/著作権[ちょさくけん]/版権[はんけん]/
+Verlagsrecht{n}/(Urheberrecht) 版権[はんけん]/
 Verlagswesen{n}/出版業[しゅっぱんぎょう]/
 verlanden{vi}/干上がる[ひあがる]/
-Verlangen{n}/希望[きぼう]/願望[がんもう]/欲望[よくぼう]/欲[よく]/欲求[よっきゅう]/要求[ようきゅう]/要望[ようぼう]/
+Verlangen{n}/(Bedürfnis) 欲求[よっきゅう]/(Wunsch nach etwas) 要望[ようぼう]/
 verlangen{vt}/望む[のぞむ]/
 Verlangsamung{f}/スローダウン[すろーだうん]/
-Verlassen{n}/置き去り[おきざり]/退去[たいきょ]/
-verlassen{vt}{adj}{adv}/出る[でる]/残す[のこす]/寂しい[さみしい]/淋しい[さみしい]/離れる[はなれる]/捨てる[すてる]/引ける[ひける]/下がる[さがる]/
+Verlassen{n}/退去[たいきょ]/
+verlassen{vt}{adj}{adv}/(weggehen) 去る[さる]/(einen Raum o.ä. ~) 出る[でる]/(Beziehung) 離れる[はなれる]/
 Verlassenheit{f}/孤独[こどく]/
-Verlauf{m}/流れ[ながれ]/始末[しまつ]/成り行き[なりゆき]/歩み[あゆみ]/経過[けいか]/顛末[てんまつ]/経路[けいろ]/過程[かてい]/進行[しんこう]/
-verlegen{adv}/恥ずかしい[はずかしい]/じりじり[じりじり]/忘れる[わすれる]/移す[うつす]/失う[うしなう]/取り付ける[とりつける]/
+Verlauf{m}/経過[けいか]/
+verlegen{adv}/(vertagen) 延期する[えんきする]/(vergessen) 置き忘れる[おきわすれる]/(publizieren) 出版する[しゅっぱんする]/
 verlegen machen{vt}/惑わす[まどわす]/
-Verlegenheit{f}/困難[こんなん]/苦境[くきょう]/戸惑い[とまどい]/迷い[まよい]/困惑[こんわく]/
+Verlegenheit{f}/(Schwierigkeit) 困難[こんなん]/(Ratlosigkeit) 困惑[こんわく]/
 Verleger{m}/本屋[ほんや]/
-Verlegung{f}/送り[おくり]/先送り[さきおくり]/移設[いせつ]/持ち越し[もちこし]/
+Verlegung{f}/(Versetzung) 移設[いせつ]/(Vertagung) 延期[えんき]/
 Verleih{m}/貸与[たいよ]/
-verleihen{vt}/下さる[くださる]/貸す[かす]/
-Verleihen{n}/賃貸[ちんたい]/貸し出し[かしだし]/
+verleihen{vt}/(jmd. etwas ~) 貸す[かす]/
+Verleihen{n}/貸し出し[かしだし]/
 Verleiher{m}/貸主[かしぬし]/
-Verleihung{f}/授与[じゅよ]/付与[ふよ]/
-verleiten{vt}/教える[おしえる]/釣る[つる]/
-verletzen/触れる[ふれる]/傷つける[きずつける]/壊す[こわす]/犯す[おかす]/
-Verletzung{f}/被害[ひがい]/損傷[そんしょう]/過ち[あやまち]/怪我[けが]/傷害[しょうがい]/違反[いはん]/負傷[ふしょう]/侵害[しんがい]/
+Verleihung{f}/(Überreichung) 授与[じゅよ]/
+verleiten{vt}/釣る[つる]/
+verletzen/傷つける[きずつける]/
+Verletzung{f}/怪我[けが]/
 Verletzungsgefahr{f}/危害[きがい]/
-Verleugnung{f}/否定[ひてい]/抹殺[まっさつ]/
+Verleugnung{f}/(Verneinung) 否定[ひてい]/
 verleumden{vt}/罵る[ののしる]/
 Verleumder{m}/中傷者[ちゅうしょうしゃ]/
 verleumderisch{adv}{adj}/口さがない[くちさがない]/
-Verleumdung{f}/中傷[ちゅうしょう]/誹謗[ひぼう]/
+Verleumdung{f}/中傷[ちゅうしょう]/
 Verlieben{n}/懸想[けそう]/
 verliebt{adj}{adv}/恋恋[れんれん]/
 Verliebtheit{f}/ラブラブ[らぶらぶ]/
