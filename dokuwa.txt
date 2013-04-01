@@ -30619,7 +30619,7 @@ V-Ausschnitt{m}/ブイネック[ぶいねっく]/
 V-Motor{m}/V型機関[ぶいがたきかん]/
 Vagabund{m}/風来坊[ふうらいぼう]/
 Vagabundenleben{n}/放浪生活[ほうろうせいかつ]/
-vage{f}/ぼんやり[ぼんやり]/漠然[ばくぜん]/微か[かすか]/あやふや[あやふや]/
+vage{f}/漠然[ばくぜん]/
 Vakuum{n}/真空[しんくう]/
 vakuumverpackt{adj}/真空パックになった[しんくうぱっくになった]/
 Valentinit{m}/アンチモン華[あんちもんか]/
@@ -30639,15 +30639,15 @@ Vanillezucker{m}/バニラ[ばにら]/
 Variable{f}/変量[へんりょう]/
 Variante{f}/品番[ひんばん]/
 Varianz{f}/分散[ぶんさん]/
-Variation{f}/変化[へんか]/変奏曲[へんそうきょく]/変異[へんい]/替え歌[かえうた]/バリエーション[ばりえーしょん]/
+Variation{f}/変化[へんか]/{Musik} 変奏曲[へんそうきょく]/
 Varieté{n}/席[せき]/バラエティー[ばらえてぃー]/
 Varietétheater{n}/バラエティーショー[ばらえてぃーしょー]/
 Vasall{m}/子分[こぶん]/
 Vasallenstaat{m}/属国[ぞっこく]/
 Vasallentum{n}/臣属[しんぞく]/
 Vase{f}/花瓶[かびん]/
-Vater{m}/父[とと]/ファーザー[ふぁーざー]/親父[しんぷ]/父親[ちちおや]/父上[ちちうえ]/父さん[とうさん]/
-Vaterland{n}/自国[じこく]/本国[ほんごく]/本土[ほんど]/母国[ぼこく]/祖国[そこく]/内地[ないち]/
+Vater{m}/父[ちち]/
+Vaterland{n}/自国[じこく]/
 Vaterliebe{f}/父性愛[ふせいあい]/
 Vatermord{m}/弑逆[しいぎゃく]/
 Vaterschaftsurlaub{m}/育児休業[いくじきゅうぎょう]/
@@ -30658,7 +30658,7 @@ vegetarisch{adj}/菜食主義の[さいしょくしゅぎの]/
 Vegetarismus{m}/菜食主義[さいしょくしゅぎ]/
 Vegetation{f}/草木[そうもく]/
 vegetativ{adj}{adv}/自律的な[じりつてきな]/
-Vehikel{n}/車両[しゃりょう]/媒体[ばいたい]/車輌[しゃりょう]/
+Vehikel{n}/乗り物[のりもの]/
 Veilchen{n}/スミレ[すみれ]/
 Vektor{m}/ベクトル[べくとる]/
 Vektorraum{m}/線形空間[せんけいくうかん]/
@@ -30670,7 +30670,7 @@ Venedig (Stadt in Italien)/ヴェニス[う゛ぇにす]/
 venezianisch{adj}/ベネシャン[べねしゃん]/
 Venezolaner{m}/ベネズエラ人[べねずえらじん]/
 Ventil{n}/はけ口[はけぐち]/
-Ventilation{f}/流通[りゅうつう]/換気[かんき]/風通し[かざとおし]/
+Ventilation{f}/流通[りゅうつう]/
 Ventilator{m}/ファン[ふぁん]/扇風機[せんぷうき]/
 ventilieren{vt}/換気する[かんきする]/
 Ventilklappe{f}/辯[べん]/
@@ -30680,12 +30680,12 @@ Venus{f}/明星[みょうじょう]/
 Venushügel{m}/恥丘[ちきゅう]/
 Venusmuschel{f}/ハマグリ[はまぐり]/
 venös{adj}{adv}/静脈の[じょうみゃくの]/
-Verabredung{f}/規約[きやく]/談合[だんごう]/約束[やくそく]/協定[きょうてい]/定め[さだめ]/契約[けいやく]/打ち合わせ[うちあわせ]/打合せ[うちあわせ]/待ち合わせ[まちあわせ]/
-verabscheuen{vt}/嫌がる[いやがる]/嫌う[きらう]/
+Verabredung{f}/(Vereinbarung eines Treffens) 会う約束[あうやくそく]/
+verabscheuen{vt}/嫌う[きらう]/
 verabscheuenswert{adj}/憎むべき[にくむべき]/
 verabscheuungswürdig{adv}/憎たらしい[にくたらしい]/
 verabschieden{vt}/送る[おくる]/
-Verabschiedung{f}/暇[いとま]/送別[そうべつ]/
+Verabschiedung{f}/送別[そうべつ]/
 verachten{vt}/見下ろす[みおろす]/
 verachtenswert{adv}/汚らわしい[けがらわしい]/
 Verachtung{f}/軽蔑[けいべつ]/
@@ -30694,25 +30694,25 @@ verallgemeinern{vt}/一般化する[いっぱんかする]/
 Verallgemeinerung{f}/普及[ふきゅう]/
 veralten{vi}/廃れる[すたれる]/
 veraltet{adj}{adv}/古い[ふるい]/
-Veranda{f}/ベランダ[べらんだ]/回廊[かいろう]/縁側[えんがわ]/
-verankern{vt}/…に係留する[…にけいりゅうする]/
+Veranda{f}/ベランダ[べらんだ]/
+verankern{vt}/...に係留する[...にけいりゅうする]/
 Verankerung{f}/定着[ていちゃく]/
-Veranlagung{f}/資質[ししつ]/性分[しょうぶん]/
+Veranlagung{f}/資質[ししつ]/
 veranlassen{vt}/起こす[おこす]/
-Veranlassung{f}/原因[げんいん]/弾み[はずみ]/理由[りゆう]/契機[けいき]/
+Veranlassung{f}/原因[げんいん]/
 Veranschaulichung{f}/視覚化[しかくか]/
 veranstalten{vt}/施す[ほどこす]/
-Veranstaltung{f}/イベント[いべんと]/興行[こうぎょう]/催し[もよおし]/開催[かいさい]/行事[ぎょうじ]/
+Veranstaltung{f}/イベント[いべんと]/興行[こうぎょう]/
 Veranstaltungskalender{m}/演芸案内[えんげいあんない]/
 verantwortlich{adv}/責任のある[せきにんのある]/
-Verantwortlichkeit{f}/責任[せきにん]/責め[せめ]/義務[ぎむ]/
-Verantwortung{f}/担当[たんとう]/責め[せめ]/責任[せきにん]/役柄[やくがら]/罪[つみ]/罪[つみ]/責務[せきむ]/担任[たんにん]/
+Verantwortlichkeit{f}/責任[せきにん]/
+Verantwortung{f}/責任[せきにん]/
 Verantwortungsbewusstsein{n}/責任感[せきにんかん]/
-verantwortungslos{adv}/いい加減[いいかげん]/滅多[めった]/
-Verantwortungslosigkeit{f}/罪[つみ]/無責任[むせきにん]/
+verantwortungslos{adv}/無責任な[むせきにんな]/
+Verantwortungslosigkeit{f}/無責任[むせきにん]/
 Verarbeitbarkeit{f}/施行軟度[せこうなんど]/
 verarbeiten{vt}/処する[しょする]/
-Verarbeitung{f}/加工[かこう]/手順[てじゅん]/
+Verarbeitung{f}/加工[かこう]/
 verarmen{vi}/食い詰める[くいつめる]/
 Verarmung{f}/疲弊[ひへい]/
 verausgaben{vt}/支出する[ししゅつする]/
@@ -30720,21 +30720,21 @@ Verausgabung{f}/支出[ししゅつ]/
 Verb{n}/動詞[どうし]/
 Verballhornung{f}/転訛[てんか]/
 Verbalnote{f}/口上書[こうじょうがき]/
-Verband{m}/協会[きょうかい]/連合会[れんごうかい]/包帯[ほうたい]/同盟[どうめい]/
+Verband{m}/{Med.} 包帯[ほうたい]/(Allianz) 同盟[どうめい]/
 verbannen{vt}/消し去る[けしさる]/
 Verbannung{f}/追放[ついほう]/
 verbergen{vt}/隠す[かくす]/
-verbessern{vt}/高める[たかめる]/直す[なおす]/良くする[よくする]/磨く[みがく]/
-Verbesserung{f}/改善[かいぜん]/上達[じょうたつ]/修正[しゅうせい]/手直し[てなおし]/増進[ぞうしん]/補正[ほせい]/訂正[ていせい]/改良[かいりょう]/向上[こうじょう]/加筆[かひつ]/矯正[きょうせい]/直し[なおし]/改正[かいせい]/是正[ぜせい]/
+verbessern{vt}/改良する[かいりょうする]/
+Verbesserung{f}/改善[かいぜん]/
 Verbesserungsvorschlag{m}/改正案[かいせいあん]/
-Verbeugung{f}/挨拶[あいさつ]/お礼[おれい]/御礼[おれい]/お辞儀[おじぎ]/礼[れい]/
+Verbeugung{f}/お辞儀[おじぎ]/
 Verbiegung{f}/撓み[たわみ]/
 verbilligen{vt}/割り引きする[わりびきする]/
 Verbinden{n}/連接[れんせつ]/
-verbinden{vt}/合わせる[あわせる]/組み合わせる[くみあわせる]/繋げる[つなげる]/織り成す[おりなす]/継ぐ[つぐ]/結びつく[むすびつく]/結ぶ[むすぶ]/繋ぐ[つなぐ]/繋ぐ[つなぐ]/
+verbinden{vt}/(verknüpfen) 結び付ける[むすびつける]/(einen Verband anlegen) 包帯をする[ほうたいをする]/
 verbindlich{adj}{adv}/如才ない[じょさいない]/
 Verbindlichkeit{f}/金縛り[かなしばり]/
-Verbindung{f}/関係[かんけい]/因縁[いんねん]/配合[はいごう]/因[ちなみ]/接続[せつぞく]/結びつき[むすびつき]/伝[つて]/繋がり[つながり]/連鎖[れんさ]/交渉[こうしょう]/関連[かんれん]/コネ[こね]/維[い]/絆[きずな]/連結[れんけつ]/連絡[れんらく]/コネクション[こねくしょん]/結束[けっそく]/連携[れんけい]/連動[れんどう]/連想[れんそう]/脈絡[みゃくらく]/連合[れんごう]/繋ぎ[つなぎ]/結合[けつごう]/総合[そうごう]/通信[つうしん]/
+Verbindung{f}/(Bezug) 関係[かんけい]/
 Verbindungsbahn{f}/連絡線[れんらくせん]/
 Verbindungsbrücke{f}/渡り廊下[わたりろうか]/
 Verbindungsgang{m}/渡り廊下[わたりろうか]/
@@ -30743,21 +30743,21 @@ Verbindungspunkt{m}/連絡点[れんらくてん]/
 Verbindungsstelle{f}/ジョイント[じょいんと]/
 verbissen{adv}/手強い[てごわい]/
 Verbitterung{f}/恨み[うらみ]/
-verblassen{vt}/消える[きえる]/移る[うつる]/
+verblassen{vt}/色褪せる[いろあせる]/
 verblasst{adj}/色のあせた[いろのあせた]/
 verbleit{adj}/有鉛[ゆうえん]/
 verblüffen{vt}/驚かす[おどろかす]/
-verblüffend{adv}/素晴らしい[すばらしい]/はっと[はっと]/ハッと[はっと]/凄まじい[すさまじい]/驚くべき[おどろくべき]/
+verblüffend{adv}/驚くべき[おどろくべき]/
 verblüfft{adj}{adv}/あっけらかんと[あっけらかんと]/
-Verblüffung{f}/ビックリ[びっくり]/閉口[へいこう]/吃驚[びっくり]/感心[かんしん]/顔負け[かおまけ]/唖然[あぜん]/
+Verblüffung{f}/吃驚[びっくり]/
 verblümt{adj}{adv}/婉曲[えんきょく]/
 Verbohrtheit{f}/固陋[ころう]/
-verborgen{adj}{adv}/こっそり[こっそり]/潜在的[せんざいてき]/密か[ひそか]/
-Verborgenheit{f}/隠れ[かくれ]/オカルト[おかると]/
-Verbot{n}/法[のり]/お断り[おことわり]/禁止[きんし]/廃絶[はいぜつ]/禁[きん]/
+verborgen{adj}{adv}/こっそり[こっそり]/
+Verborgenheit{f}/(Versteck) 隠れ[かくれ]/(Geheimnis) 秘密[ひみつ]/
+Verbot{n}/禁止[きんし]/
 verboten{adj}/道ならぬ[みちならぬ]/
-Verbrauch{m}/消費[しょうひ]/消耗[しょうこう]/
-verbrauchen{vt}/使う[つかう]/尽くす[つくす]/
+Verbrauch{m}/消費[しょうひ]/
+verbrauchen{vt}/(benutzen) 使う[つかう]/(aufbrauchen) 尽くす[つくす]/
 Verbraucherbewegung{f}/消費者運動[しょうひしゃうんどう]/
 Verbrauchergenossenschaft{f}/生活協同組合[せいかつきょうどうくみあい]/
 Verbraucherpreis{m}/消費者物価[しょうひしゃぶっか]/
@@ -30765,17 +30765,17 @@ Verbraucherschutz{m}/消費者保護[しょうひしゃほご]/
 Verbrauchsgüter{pl}/消費財[しょうひざい]/
 Verbrauchssteuer{f}/消費税[しょうひぜい]/
 verbraucht{adj}/古手の[ふるての]/
-Verbrechen{n}/科[とが]/悪事[あくじ]/犯罪[はんざい]/犯行[はんこう]/罪[つみ]/
-Verbrecher{m}/星[ほし]/犯罪者[はんざいしゃ]/犯人[はんにん]/
+Verbrechen{n}/犯罪[はんざい]/
+Verbrecher{m}/犯罪者[はんざいしゃ]/
 verbrecherisch{adv}{adj}/無法な[むほうな]/
-verbreiten{vt}{shed; shed}/立てる[たてる]/馳せる[はせる]/広める[ひろめる]/
+verbreiten{vt}/広める[ひろめる]/
 Verbreiterung{f}/拡幅[かくふく]/
 verbreitet{adj}/広い[ひろい]/
 verbreitet sein{vi}/流行る[はやる]/
-Verbreitung{f}/広告[こうこく]/配布[はいふ]/波及[はきゅう]/通用[つうよう]/流行[りゅうこう]/蔓延[まんえん]/伸び[のび]/分布[ぶんぷ]/生息[せいそく]/拡散[かくさん]/
+Verbreitung{f}/伝播[でんぱ]/ 
 Verbreitungsgebiet{n}/分布域[ぶんぷいき]/
 verbrennen{vi}{vt}/燃やす[もやす]/
-Verbrennung{f}/燃焼[ねんしょう]/火傷[やけど]/
+Verbrennung{f}/燃焼[ねんしょう]/
 Verbrennungsmotor{m}/内燃機関[ないねんきかん]/
 Verbriefung{f}/セキュリタイゼーション[せきゅりたいぜーしょん]/
 verbummeln{vt}/忘れる[わすれる]/
@@ -30784,7 +30784,7 @@ verbunden{adj}/忝くも[かたじけなくも]/
 Verbundenheit{f}/感謝[かんしゃ]/
 Verbundwerkstoff{m}/複合材料[ふくごうざいりょう]/
 verbündet{adj}/連合の[れんごうの]/
-Verdacht{m}/黒[くろ]/不審[ふしん]/容疑[ようぎ]/灰色[はいいろ]/疑問[ぎもん]/疑惑[ぎわく]/疑心[ぎしん]/不信[ふしん]/疑念[ぎねん]/疑い[うたがい]/
+Verdacht{m}/疑惑[ぎわく]/
 verdammen{vt}/呪う[のろう]/
 Verdammnis{f}/罰[ばち]/
 verdammt{adv}{adj}/やけに[やけに]/
@@ -30794,43 +30794,44 @@ Verdampfung{f}/気化[きか]/
 Verdampfungsenthalpie{f}/蒸発熱[じょうはつねつ]/
 Verdampfungswärme{f}/気化熱[きかねつ]/
 verdattert{adj}/狼狽して[ろうばいして]/
-Verdauung{f}/消化[しょうか]/通じ[つうじ]/
+Verdauung{f}/消化[しょうか]/
 Verdauungsapparat{m}/消化器[しょうかき]/
 Verdauungssystem{n}/消化系[しょうかけい]/
 Verdauungstrakt{m}/消化管[しょうかかん]/
 Verdeck{n}/幌[ほろ]/
-verdecken{vt}/隠す[かくす]/覆う[おおう]/埋める[うずめる]/
+verdecken{vt}/隠す[かくす]/
 Verdeckung{f}/遮蔽[しゃへい]/
-verderben{vt}{vi}/壊す[こわす]/傷つける[きずつける]/滅ぼす[ほろぼす]/痛む[いたむ]/腐る[くさる]/
+verderben{vi}/(verfaulen) 腐る[くさる]/
+verderben{vt}/(etwas zunichte machen) 台無しにする[だいなしにする]/
 Verderben{n}/台無し[だいなし]/
 verderblich{adv}/害のある[がいのある]/
 verderbt{adj}/堕落した[だらくした]/
-Verderbtheit{f}/腐敗[ふはい]/堕落[だらく]/
+Verderbtheit{f}/堕落[だらく]/
 verdeutlichen{vt}/明々白々にする[めいめいはくはくにする]/
 verdichten{vt}/濃厚にする[のうこうにする]/
 Verdichter{m}/圧搾機[あっさくき]/
-Verdichtung{f}/凝縮[ぎょうしゅく]/圧縮[あっしゅく]/
+Verdichtung{f}/{Phys.} 凝縮[ぎょうしゅく]/(Kompression) 圧縮[あっしゅく]/
 Verdichtungsgrad{m}/圧密度[あつみつど]/
 Verdichtungskurve{f}/締固め曲線[しめがためきょくせん]/
 verdicken/濃厚にする[のうこうにする]/
-verdienen{vt}/当たる[あたる]/当る[あたる]/儲ける[もうける]/稼ぐ[かせぐ]/
-Verdienst{m}{n}/価値[かち]/稼ぎ[かせぎ]/メリット[めりっと]/功[いさおし]/長所[ちょうしょ]/勲[くん]/儲け[もうけ]/功績[こうせき]/働き[はたらき]/益[えき]/功労[こうろう]/寄与[きよ]/
+verdienen{vt}/(erwerben) 稼ぐ[かせぐ]/
+Verdienst{m}{n}/(Gehalt) 給料[きゅうりょう]/(anerkennenswerte Leistung) 功績[こうせき]/
 Verdienstorden{m}/勲[くん]/
 Verdienstspanne{f}/利潤[りじゅん]/
 verdienstvoll{adv}/功労のある[こうろうのある]/
 verdoppeln{vt}/倍にする[ばいにする]/
-Verdoppelung{f}/倍増[ばいぞう]/重複[じゅうふく]/
-verdorben{adv}{adj}/悪い[わるい]/わや[わや]/
+Verdoppelung{f}/倍増[ばいぞう]/
+verdorben{adv}{adj}/(faul) 腐った[くさった]/(lasterhaft) 邪悪な[じゃあくな]/
 Verdorbenheit{f}/不良[ふりょう]/
 Verdrahtung{f}/配線[はいせん]/
 verdrehen{vt}/曲げる[まげる]/
 verdreht{adv}/曲がった[まがった]/
 Verdrehtheit{f}/左巻き[ひだりまき]/
-Verdrehung{f}/より[より]/屈折[くっせつ]/
+Verdrehung{f}/(Verzerrung von Tatsachen) 歪曲[わいきょく]/
 verdreschen{vt}/めちゃくちゃにやっつけられた[めちゃくちゃにやっつけられた]/
 verdrießlich{adv}/気難しい[きむずかしい]/
 Verdrießlichkeit{f}/無念[むねん]/
-Verdruss{m}/怒り[いかり]/不快[ふかい]/憤り[いきどおり]/不機嫌[ふきげん]/遺憾[いかん]/鬱憤[うっぷん]/
+Verdruss{m}/不快[ふかい]/
 verdrängen{vt}/蹴散らす[けちらす]/
 Verdrängung{f}/置換[ちかん]/
 verduften{vi}/逃げ失せる[にげうせる]/
@@ -30839,7 +30840,7 @@ verdunkeln{vt}/遮蔽する[しゃへいする]/
 Verdunkelung{f}/遮蔽[しゃへい]/
 Verdunstung{f}/蒸発[じょうはつ]/
 verdursten{vi}/渇死する[かっしする]/
-verdächtig{adj}{adv}/くらい[くらい]/怪しい[あやしい]/妖しい[あやしい]/胡散臭い[うさんくさい]/可笑しい[おかしい]/紛らわしい[まぎらわしい]/暗い[くらい]/
+verdächtig{adj}{adv}/(dubios) 疑わしい[うたがわしい]/(seltsam) 可笑しい[おかしい]/
 verdünnen{vt}/割る[わる]/
 Verdünner{m}/賦形剤[ふけいざい]/
 verdünnt{adj}/希釈した[きしゃくした]/
@@ -30849,24 +30850,24 @@ veredeln{vt}/精錬する[せいれんする]/
 Veredelung{f}/育種[いくしゅ]/
 Veredelungsindustrie{f}/加工産業[かこうさんぎょう]/
 Verehren{n}/仰望[ぎょうぼう]/
-verehren{vt}/憧れる[あこがれる]/仰ぐ[あおぐ]/
+verehren{vt}/(in Ehren halten) 尊敬する[そんけいする]/
 Verehrer{m}/引く手[ひくて]/
-Verehrung{f}/憧れ[あこがれ]/心意気[こころいき]/礼拝[らいはい]/崇拝[すうはい]/敬意[けいい]/尊敬[そんけい]/敬服[けいふく]/礼賛[らいさん]/敬愛[けいあい]/
+Verehrung{f}/崇拝[すうはい]/
 verehrungswürdig{adv}/尊い[とうとい]/
-Verein{m}/会社[かいしゃ]/協会[きょうかい]/結社[けっしゃ]/
+Verein{m}/協会[きょうかい]/
 Vereinbarkeit{f}/対応[たいおう]/
-Vereinbarung{f}/契約[けいやく]/協定[きょうてい]/決め[きめ]/条約[じょうやく]/
+Vereinbarung{f}/協定[きょうてい]/
 vereinen{vt}/合わせる[あわせる]/
 vereinfachen{vt}/崩す[くずす]/
 vereinfacht{adj}/簡約した[かんやくした]/
 Vereinfachung{f}/棒[ぼう]/
-Vereinheitlichung{f}/統一[とういつ]/統合[とうごう]/
-vereinigen{vt}/合わせる[あわせる]/集める[あつめる]/
+Vereinheitlichung{f}/統一[とういつ]/
+vereinigen{vt}/(zusammenfügen) 一緒にする[いっしょにする]/
 vereinigt{adv}/連合の[れんごうの]/
-Vereinigung{f}/連合[れんごう]/合併[がっぺい]/合同[ごうどう]/合流[ごうりゅう]/統一[とういつ]/団結[だんけつ]/一体化[いったいか]/統括[とうかつ]/結束[けっそく]/カンパニー[かんぱにー]/連盟[れんめい]/結合[けつごう]/合体[がったい]/統合[とうごう]/
+Vereinigung{f}/連合[れんごう]/
 Vereinigungsfreiheit{f}/結社の自由[けっしゃのじゆう]/
 Vereinsamung{f}/寂寞[せきばく]/
-vereinzelt/稀[まれ]/ちらりと[ちらりと]/希[まれ]/ちらほら[ちらほら]/点々[てんてん]/
+vereinzelt/散発的な[さんぱつてきな]/
 Vereinzelung{f}/孤立[こりつ]/
 vereisen{vt}/凍る[こおる]/
 Vereisung{f}/着氷[ちゃくひょう]/
@@ -30875,33 +30876,33 @@ verelenden{vi}/困窮する[こんきゅうする]/
 verenden{vi}/死ぬ[しぬ]/
 verengen{vt}/狭める[せばめる]/
 Verengung{f}/隘路[あいろ]/
-Vererbung{f}/遺伝[いでん]/相続[そうぞく]/
+Vererbung{f}/{Biol.} 遺伝[いでん]/(Erbschaft) 相続[そうぞく]/
 Vererbungsgesetz{n}/遺伝法則[いでんほうそく]/
-Verfahren{n}/方法[ほうほう]/手続き[てつづき]/手続[てつづき]/操作[そうさ]/手順[てじゅん]/仕打ち[しうち]/手口[てぐち]/仕様[しよう]/
+Verfahren{n}/(Methode) 方法[ほうほう]/(Prozedur) 手続[てつづき]/
 verfahren{adj}/振舞う[ふるまう]/
 Verfahrensrecht{n}/手続き法[てつづきほう]/
 Verfahrenstechnik{f}/プロセス･エンジニアリング[ぷろせすえんじにありんぐ]/
-Verfall{m}/崩壊[ほうかい]/衰え[おとろえ]/破綻[はたん]/滅亡[めつぼう]/下り坂[くだりざか]/自滅[じめつ]/破滅[はめつ]/
-verfallen{adj}{adv}/流れる[ながれる]/荒れる[あれる]/倒れる[たおれる]/
+Verfall{m}/崩壊[ほうかい]/
+verfallen{adj}{adv}/(verwittern) 腐朽する[ふきゅうする]/(eine Frist läuft ab) 期限が切れる[きげんがきれる]/(einstürzen) 倒壊する[とうかいする]/
 Verfallsdatum{n}/品質保持期限[ひんしつほじきげん]/
 Verfallszeit{f}/満期[まんき]/
 Verfassen{n}/執筆[しっぴつ]/
-Verfasser{m}/作者[さくしゃ]/執筆者[しっぴつしゃ]/著者[ちょしゃ]/筆者[ひっしゃ]/
-Verfassung{f}/気分[きぶん]/塩梅[あんばい]/制度[せいど]/具合[ぐあい]/憲法[けんぽう]/コンディション[こんでぃしょん]/体質[たいしつ]/機嫌[きげん]/体制[たいせい]/
+Verfasser{m}/作者[さくしゃ]/
+Verfassung{f}/(Befinden) 調子[ちょうし]/(Grundgesetz) 憲法[けんぽう]/
 Verfassungsentwurf{m}/憲法草案[けんぽうそうあん]/
 Verfassungsgericht{n}/憲法裁判所[けんぽうさいばんしょ]/
 Verfassungsmäßigkeit{f}/合憲[ごうけん]/
 Verfassungsrecht{n}/憲法学[けんぽうがく]/
 Verfassungsschutz{m}/護憲[ごけん]/
 Verfassungswidrigkeit{f}/違憲[いけん]/
-verfaulen{vi}/痛む[いたむ]/腐る[くさる]/
+verfaulen{vi}/腐る[くさる]/
 verfaulen lassen{vt}/腐らす[くさらす]/
 verfault{adv}/朽ちた[くちた]/
-Verfechter{m}/論者[ろんしゃ]/使徒[しと]/
+Verfechter{m}/論者[ろんしゃ]/
 Verfechtung{f}/提唱[ていしょう]/
-verfehlen{mistook; mistaken}/外す[はずす]/外れる[はずれる]/
+verfehlen/(nicht treffen) 外す[はずす]/
 verfeinern{vt}/磨きをかける[みがきをかける]/
-Verfeinerung{f}/洗練[せんれん]/精製[せいせい]/
+Verfeinerung{f}/洗練[せんれん]/
 Verfestigung{f}/固体化[こたいか]/
 Verfilmung{f}/映画化[えいがか]/
 verfilzen{vt}/縺れる[もつれる]/
@@ -30914,46 +30915,46 @@ Verfluchung{f}/呪詛[じゅそ]/
 Verflüchtigung{f}/揮発[きはつ]/
 verflüssigen/液化する[えきかする]/
 Verflüssigung{f}/融解[ゆうかい]/
-verfolgen{vt}{vi}/追う[おう]/追いかける[おいかける]/
+verfolgen{vt}{vi}/追いかける[おいかける]/
 Verfolger{m}/追っ手[おって]/
-Verfolgung{f}/追求[ついきゅう]/迫害[はくがい]/追撃[ついげき]/追随[ついずい]/追跡[ついせき]/
+Verfolgung{f}/{Bsp:Judenverfolgung ユダヤ人迫害[ゆだやじんはくがい]} 迫害[はくがい]/{Bsp:die Verfolgung aufnehmen 追撃に移る[ついげきにうつる]}(nachjagen) 追撃[ついげき]/
 Verfolgungsrennen{n}/団体追い抜き競技[だんたいおいぬききょうぎ]/
 Verfolgungswahn{m}/被害妄想[ひがいもうそう]/
 Verformbarkeit{f}/可塑性[かそせい]/
 Verformung{f}/変形[へんけい]/
 verfrachten{vt}/仕向ける[しむける]/
-Verfrachtung{f}/搭載[とうさい]/出荷[しゅっか]/運送[うんそう]/
+Verfrachtung{f}/(Verladung) 搭載[とうさい]/
 Verfremdung{f}/異化[いか]/
 Verfremdungseffekt{m}/異化効果[いかこうか]/
 verfrüht{adv}/早い[はやい]/
 verfälschen{vt}/曲げる[まげる]/
-Verfälschung{f}/偽造[ぎぞう]/改ざん[かいざん]/
+Verfälschung{f}/偽造[ぎぞう]/
 verfänglich{adv}{adj}/危急の[ききゅうの]/
 Verfänglichkeit{f}/胡乱[うろん]/
 Verfärbung{f}/変色[へんしょく]/
 verfügbar/使用可能な[しようかのうな]/
 Verfügbarkeit{f}/可用性[かようせい]/
-Verfügung{f}/命令[めいれい]/裁量[さいりょう]/
-verführen{vt}/教える[おしえる]/釣る[つる]/
+Verfügung{f}/(Anordnung) 命令[めいれい]/
+verführen{vt}/誘惑する[ゆうわくする]/
 Verführer{m}/たらし[たらし]/
 Verführerin{f}/たらし[たらし]/
-verführerisch{adj}{adv}/色っぽい[いろっぽい]/悩ましい[なやましい]/
+verführerisch{adj}{adv}/(sexy;nur für Frauen benutzt) 色っぽい[いろっぽい]/
 Verführung{f}/誘惑[ゆうわく]/
 vergangen{adj}/在りし[ありし]/
-Vergangenheit{f}/過去[かこ]/曰く[いわく]/経歴[けいれき]/前世[ぜんせい]/前身[ぜんしん]/完了[かんりょう]/
+Vergangenheit{f}/過去[かこ]/
 vergasen{vt}/ガス体にする[がすたいにする]/
 Vergaser{m}/キャブレター[きゃぶれたー]/
 Vergasung{f}/気化[きか]/
 vergebens/虚しい[むなしい]/
-vergeblich{adv}/ダメ[だめ]/虚しい[むなしい]/駄目[だめ]/
+vergeblich{adv}/虚しい[むなしい]/
 vergebliche Hoffnung{f}/空頼み[そらだのみ]/
-Vergeblichkeit{f}/ダメ[だめ]/無駄[むだ]/駄目[だめ]/
-Vergebung{f}/勘弁[かんべん]/御免[ごめん]/承知[しょうち]/許容[きょよう]/容赦[ようしゃ]/
-vergehen{vi}/流れる[ながれる]/消える[きえる]/経つ[たつ]/過ぎる[すぎる]/成る[なる]/
-Vergehen{n}/罪[つみ]/悪事[あくじ]/消失[しょうしつ]/違反[いはん]/
+Vergeblichkeit{f}/無駄[むだ]/
+Vergebung{f}/宥恕[ゆうじょ]/
+vergehen{vi}/(Zeit) 経つ[たつ]/
+Vergehen{n}/(leichtes Verbrechen) 軽罪[けいざい]/(Verbrechen) 悪事[あくじ]/
 Vergeistigung{f}/霊化[れいか]/
 vergelten{vi}/報いる[むくいる]/
-Vergeltung{f}/記[しるし]/報[むくい]/仕返し[しかえし]/返し[かえし]/報復[ほうふく]/お返し[おかえし]/復讐[ふくしゅう]/報い[むくい]/
+Vergeltung{f}/(Rache) 復讐[ふくしゅう]/
 Vergeltungsmaßnahme{f}/報復行為[ほうふくこうい]/
 Vergeltungsschlag{m}/報復攻撃[ほうふくこうげき]/
 Vergesellschaftung{f}/合併[がっぺい]/
@@ -30962,9 +30963,9 @@ Vergessenheit{f}/忘却[ぼうきゃく]/
 vergesslich{adv}{adj}/忘れ勝ちの[わすれがちの]/
 Vergesslichkeit{f}/物忘れ[ものわすれ]/
 vergeuden{vt}/撒き散らす[まきちらす]/
-Vergeudung{f}/無駄[むだ]/無駄遣い[むだづかい]/無駄使い[むだづかい]/
+Vergeudung{f}/(Verschwendung) 浪費[ろうひ]/
 Vergewaltiger{m}/暴行者[ぼうこうしゃ]/
-Vergewaltigung{f}/暴行[ぼうこう]/強姦[ごうかん]/レイプ[れいぷ]/
+Vergewaltigung{f}/強姦[ごうかん]/レイプ[れいぷ]/
 vergiften{vt}/毒を盛る[どくをもる]/
 Vergiftung{f}/中毒[ちゅうどく]/
 vergilben{vi}/黄ばむ[きばむ]/
