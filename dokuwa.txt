@@ -31979,31 +31979,11 @@ voluminös{adj}/かさのある[かさのある]/
 voluntaristisch{adj}/主意主義的[しゅいしゅぎてき]/
 Volute{f}/渦巻き模様[うずまきもよう]/
 Volvulus{m}/捻転[ねんてん]/
-vom Stapel lassen/進水させる[しんすいさせる]/
-vom Stapel laufen/進水する[しんすいする]/
-von{prp; +Dativ}/に[に]/就いて[ついて]/之[の]/
-von Angesicht zu Angesicht/直面[ちょくめん]/目の当たり[まのあたり]/
-von außen/外側から[そとがわから]/
-von Bord gehen{vi}/下船する[げせんする]/
-von der See verschlungen werden/海の藻屑となる[うみのもくずとなる]/
-von dort/そこから[そこから]/
-von früher her/元々[もともと]/
-von großem Interesse/興味深い[きょうみぶかい]/
-von jeher/昔から[むかしから]/
-von Kindesbeinen an/物心がついて以来[ものごころがついていらい]/
-von neuem/更[さら]/改めて[あらためて]/新しく[あたらしく]/重ねて[かさねて]/更に[さらに]/
-von nun an/今後[こんご]/以後[いご]/この先[このさき]/
-von weitem/…から離れて[…からはなれて]/
-von überall her/八方から[はっぽうから]/
-vonnöten sein/必要である[ひつようである]/
-vor{prp; wo? +Dativ; wohin? +Akkusativ}{prp; +Dativ}/前[まえ]/対する[たいする]/以前に[いぜんに]/以前[いぜん]/前に[まえに]/対して[たいして]/
-vor Anker treiben/錨を下ろしている[いかりをおろしている]/
-vor Wut kochen/怒髪天を突く[どはつてんをつく]/
-vor Wut schäumen/息巻く[いきまく]/
-Vor- und Nachteile{pl}/可否[かひ]/
+von{prp; +Dativ}/に[に]/(aus) から[から]/(~ jeher) 昔から[むかしから]/(~ dort) そこから[そこから]/(~ nun an) 今後[こんご]/
+vor{prp; wo? +Dativ; wohin? +Akkusativ}{prp; +Dativ}/前に[まえに]/
 Vorabdruck{m}/予稿[よこう]/
 Vorabentscheidung{f}/内定[ないてい]/
-Vorahnung{f}/知らせ[しらせ]/予感[よかん]/
+Vorahnung{f}/予感[よかん]/
 voran{adv}/先へ[さきへ]/
 vorangehen{vi}/進む[すすむ]/
 vorangehend/先に[さきに]/
@@ -32011,7 +31991,7 @@ vorankommen{vi}/進行する[しんこうする]/
 Vorankündigung{f}/先触れ[さきぶれ]/
 Voranmeldung{f}/予告[よこく]/
 Voranschlag{m}/予算[よさん]/
-vorantreiben{vt}/進める[すすめる]/運ぶ[はこぶ]/
+vorantreiben{vt}/進める[すすめる]/
 Voranzeige{f}/予告[よこく]/
 Vorarbeit{f}/布石[ふせき]/
 Vorarbeiten{pl}/事前工作[じぜんこうさく]/
@@ -32025,8 +32005,8 @@ Voraussage{f}/予想[よそう]/
 vorausschicken{vt}/先遣する[せんけんする]/
 voraussehen{vt}/見通す[みとおす]/
 voraussetzen{vt}/前提とする[ぜんていとする]/
-Voraussetzung{f}/地[じ]/要項[ようこう]/仮定[かてい]/条件[じょうけん]/前提[ぜんてい]/
-Voraussicht{f}/予定[よてい]/積もり[つもり]/見通し[みとおし]/遠慮[えんりょ]/予期[よき]/読み[よみ]/
+Voraussetzung{f}/仮定[かてい]/
+Voraussicht{f}/予期[よき]/
 voraussichtlich{adj}{adv}/定めし[さだめし]/
 Vorauswahl{f}/予選[よせん]/
 vorauszahlen{vt}/前納する[ぜんのうする]/
@@ -32035,33 +32015,33 @@ Vorbeben{n}/予震[よしん]/
 Vorbedacht{f}/先見[せんけん]/
 Vorbedeutung{f}/縁起[えんぎ]/
 Vorbedingung{f}/要件[ようけん]/
-Vorbehalt{m}/条件[じょうけん]/保留[ほりゅう]/お断り[おことわり]/
+Vorbehalt{m}/保留[ほりゅう]/
 vorbehaltlos{adj}/無条件で[むじょうけんで]/
 vorbehandeln{vt}/予め処理されている[あらかじめしょりされている]/
-vorbeifahren{vi}/過ぎる[すぎる]/通る[とおる]/
-vorbeigehen{vi}/過ぎる[すぎる]/経つ[たつ]/経つ[たつ]/寄る[よる]/通る[とおる]/
-vorbeikommen{vi}/行く[いく]/いく[いく]/立ち寄る[たちよる]/訪ねる[たずねる]/
+vorbeifahren{vi}/(passieren) 通過する[つうかする]/
+vorbeigehen{vi}/(hindurchgehen) 通り過ぎる[とおりすぎる]/
+vorbeikommen{vi}/(kurz besuchen) 立ち寄る[たちよる]/
 vorbeimarschieren{vi}/分列式を行なう[ぶんれつしきをおこなう]/
-vorbeischauen{vi}/立ち寄る[たちよる]/訪ねる[たずねる]/
-Vorbemerkung{f}/前置き[まえおき]/イントロ[いんとろ]/
-vorbereiten{vt}/急ぐ[いそぐ]/整える[ととのえる]/設ける[もうける]/
+vorbeischauen{vi}/立ち寄る[たちよる]/
+Vorbemerkung{f}/前置き[まえおき]/
+vorbereiten{vt}/準備する[じゅんびする]/
 vorbereitend{adj}/準備の[じゅんびの]/
-Vorbereitung{f}/結構[けっこう]/用意[ようい]/予備[よび]/手当て[てあて]/手当[てあて]/伏線[ふくせん]/下地[したじ]/準備[じゅんび]/下準備[したじゅんび]/下見[したみ]/仕込み[しこみ]/営み[いとなみ]/整備[せいび]/心構え[こころがまえ]/心構え[こころがまえ]/布石[ふせき]/備え[そなえ]/下ごしらえ[したごしらえ]/下調べ[したしらべ]/段取り[だんどり]/支度[したく]/仕度[したく]/
+Vorbereitung{f}/準備[じゅんび]/
 Vorbereitungskurs{m}/予科[よか]/
 Vorbereitungsphase{f}/準備段階[じゅんびだんかい]/
 Vorbereitungszeit{f}/準備期間[じゅんびきかん]/
 Vorbesichtigung{f}/下見[したみ]/
-Vorbesprechung{f}/打ち合わせ[うちあわせ]/打合せ[うちあわせ]/
-Vorbestellung{f}/予約[よやく]/リザーブ[りざーぶ]/
+Vorbesprechung{f}/打ち合わせ[うちあわせ]/
+Vorbestellung{f}/予約[よやく]/
 Vorbeugungsmaßnahme{f}/防止策[ぼうしさく]/
 Vorbeugungsmittel{n}/予防薬[よぼうやく]/
-Vorbild{n}/様[ためし]/鑑[かん]/在り方[ありかた]/あり方[ありかた]/例[ためし]/見本[みほん]/原型[げんけい]/規範[きはん]/手本[てほん]/典型[てんけい]/跡[あと]/模範[もはん]/
-vorbildlich{adj}/典型的[てんけいてき]/代表的[だいひょうてき]/
+Vorbild{n}/典型[てんけい]/
+vorbildlich{adj}/典型的[てんけいてき]/
 Vorbohrung{f}/試掘[しくつ]/
-Vorbote{m}/鼓動[こどう]/先駆け[さきがけ]/魁[さきがけ]/前触れ[まえぶれ]/
-vorbringen{vt}/持ち込む[もちこむ]/物申す[ものもうす]/
+Vorbote{m}/(Omen) 前触れ[まえぶれ]/
+vorbringen{vt}/(plädieren) 申し立てる[もうしたてる]/
 Vorbühne{f}/前舞台[まえぶたい]/
-Vordach{n}/軒[のき]/宇[のき]/阿[あ]/
+Vordach{n}/軒[のき]/
 Vorderbein{n}/前肢[ぜんし]/
 Vorderfront{f}/間口[まぐち]/
 Vordergrund{m}/前面[ぜんめん]/
@@ -32072,24 +32052,24 @@ Vordermann{m}/先行車[せんこうしゃ]/
 Vorderrad{n}/前輪[まえわ]/
 Vorderradantrieb{m}/前輪駆動[ぜんりんくどう]/
 Vorderreihe{f}/前列[ぜんれつ]/
-Vorderseite{f}/正面[しょうめん]/前面[ぜんめん]/真正面[ましょうめん]/フロント[ふろんと]/表面[ひょうめん]/
+Vorderseite{f}/表面[ひょうめん]/
 Vordersitz{m}/前の席[まえのせき]/
 Vordersteven{m}/舳先[へさき]/
 Vorderteil{n}/前部[ぜんぶ]/
 Vorderzahn{m}/前歯[まえば]/
-voreilig{adv}/軽い[かるい]/せっかち[せっかち]/気が早い[きがはやい]/
+voreilig{adv}/性急な[せいきゅうな]/
 Voreiligkeit{f}/せっかち[せっかち]/
-Voreingenommenheit{f}/偏見[へんけん]/先入観[せんにゅうかん]/
+Voreingenommenheit{f}/偏見[へんけん]/
 voreingestellt{adj}/デフォルトの[でふぉるとの]/
 Voreinstellung{f}/デフォルト[でふぉると]/
 vorenthalten{vt}/抑留する[よくりゅうする]/
 Vorenthaltung{f}/抑留[よくりゅう]/
 Vorentscheidung{f}/準決勝[じゅんけっしょう]/
 Vorexamen{n}/予備試験[よびしけん]/
-Vorfahre{m}/祖[そ]/先人[せんじん]/先祖[せんぞ]/
+Vorfahre{m}/先祖[せんぞ]/
 vorfahren{vi}/乗りつける[のりつける]/
 Vorfahrt{f}/先行権[せんこうけん]/
-Vorfall{m}/事[こと]/へん[へん]/出来事[できごと]/変[へん]/脱出[だっしゅつ]/現象[げんしょう]/事件[じけん]/事故[じこ]/現像[げんぞう]/変わり[かわり]/事変[じへん]/
+Vorfall{m}/出来事[できごと]/
 Vorfeier{f}/前祝い[まえいわい]/
 Vorfeld{n}/駐機場[ちゅうきじょう]/
 Vorflügel{m}/スラット[すらっと]/
@@ -32098,7 +32078,7 @@ Vorfrühling{f}/早春[そうしゅん]/
 vorführen{vt}/演じる[えんじる]/
 Vorführer{m}/デモンストレーター[でもんすとれーたー]/
 Vorführraum{m}/映写室[えいしゃしつ]/
-Vorführung{f}/デモ[でも]/発表会[はっぴょうかい]/実演[じつえん]/デモンストレーション[でもんすとれーしょん]/
+Vorführung{f}/(Bühnendarstellung) 実演[じつえん]/(~ eines Produkts) デモンストレーション[でもんすとれーしょん]/
 Vorführwagen{m}/試乗車[しじょうしゃ]/
 Vorgabe{f}/振り[ふり]/
 Vorgang{m}/事象[じしょう]/
@@ -32109,88 +32089,88 @@ vorgeblich{adj}/から[から]/
 vorgeburtlich{adv}/誕生前の[たんじょうまえの]/
 vorgefasst{adj}/偏見のある[へんけんのある]/
 vorgefertigt{adj}/レディーメード[れでぃーめーど]/
-vorgehen{vi}/進む[すすむ]/駆ける[かける]/乗り出す[のりだす]/
-Vorgehen{n}/処分[しょぶん]/処置[しょち]/
+vorgehen{vi}/(voranschreiten) 進む[すすむ]/
+Vorgehen{n}/行動[こうどう]/
 Vorgehensweise{f}/やり方[やりかた]/
 Vorgelegewelle{f}/カウンター･シャフト[かうんたーしゃふと]/
 Vorgeschichte{f}/病歴[びょうれき]/
 vorgestern{adv}/一昨日[いっさくじつ]/
-Vorgänger{m}/先人[せんじん]/先達[せんだつ]/前任[ぜんにん]/
-Vorhaben{n}/予定[よてい]/積もり[つもり]/心がけ[こころがけ]/結構[けっこう]/意図[いと]/案[あん]/意志[いし]/意向[いこう]/方針[ほうしん]/プラン[ぷらん]/抱負[ほうふ]/企画[きかく]/意思[いし]/画策[かくさく]/魂胆[こんたん]/
+Vorgänger{m}/先人[せんじん]/
+Vorhaben{n}/予定[よてい]/
 Vorhalle{f}/ロビー[ろびー]/
 Vorhaltung{f}/譴責[けんせき]/
-vorhanden sein/居る[いる]/在る[ある]/有る[ある]/
+vorhanden/(~ sein;Lebewesen) 居る[いる]/(~ sein;Gegenstände) 有る[ある]/
 Vorhang{m}/カーテン[かーてん]/幕[まく]/
 Vorhangstange{f}/カーテン･ロッド[かーてんろっど]/
-vorher{adv}/後[あと]/この前[このまえ]/予め[あらかじめ]/以前に[いぜんに]/前方[まえかた]/以前[いぜん]/既に[すでに]/先に[さきに]/前もって[まえもって]/事前[じぜん]/
+vorher{adv}/先に[さきに]/
 Vorherbestimmung{f}/予定[よてい]/
 Vorherrschaft{f}/跋扈[ばっこ]/
 vorherrschen{vi}/行き渡る[いきわたる]/
-Vorhersage{f}/予報[よほう]/予言[よげん]/予測[よそく]/予知[よち]/観測[かんそく]/見込み[みこみ]/
-vorhin{adv}/先ほど[さきほど]/先程[さきほど]/
+Vorhersage{f}/予報[よほう]/
+vorhin{adv}/先程[さきほど]/
 Vorhof{m}/心房[しんぼう]/
-Vorhut{f}/魁[さきがけ]/先駆け[さきがけ]/前衛[ぜんえい]/先手[さきて]/
+Vorhut{f}/前衛[ぜんえい]/
 Vorhängeschloss{n}/錠[じょう]/
 Vorjahr{n}/前年[ぜんねん]/
 Vorkammer{f}/アトリウム[あとりうむ]/
 Vorkaufsrecht{n}/オプション[おぷしょん]/
-Vorkehrungen{pl}/経営[けいえい]/手配[てはい]/
+Vorkehrungen{pl}/準備[じゅんび]/
 Vorkenntnis{f}/素養[そよう]/
 Vorkenntnisse{pl}/予備知識[よびちしき]/
-Vorkommen{n}/発生[はっせい]/分布[ぶんぷ]/
-vorkommen{vi}/起こる[おこる]/目覚める[めざめる]/
+Vorkommen{n}/(~ von Bodenschätzen) 埋蔵[まいぞう]/
+vorkommen{vi}/(geschehen) 起こる[おこる]/
 Vorkosten{pl}/毒味[どくみ]/
 Vorkoster{m}/毒見役[どくみやく]/
 Vorkämpfer{m}/闘士[とうし]/
 vorladen{vt}/喚問する[かんもんする]/
-Vorladung{f}/呼び出し[よびだし]/お召し[おめし]/召喚[しょうかん]/
-Vorlage{f}/提案[ていあん]/アシスト[あしすと]/下敷き[したじき]/原書[げんしょ]/原作[げんさく]/提出[ていしゅつ]/原型[げんけい]/原型[げんけい]/手本[てほん]/モチーフ[もちーふ]/
+Vorladung{f}/{Rechtsw.} 召喚状[しょうかんじょう]/
+Vorlage{f}/(Entwurf) 草案[そうあん]/(Präsentation) 呈示[ていじ]/
 Vorlauf{m}/準決勝[じゅんけっしょう]/
 vorlaut{adv}/小生意気[こなまいき]/
-Vorleben{n}/過去[かこ]/前身[ぜんしん]/履歴[りれき]/
+Vorleben{n}/前身[ぜんしん]/
 Vorleger{m}/敷物[しきもの]/
 Vorleser{m}/読み手[よみて]/
-Vorlesung{f}/講座[こうざ]/レクチャー[れくちゃー]/教授[きょうじゅ]/講義[こうぎ]/講演[こうえん]/提唱[ていしょう]/
+Vorlesung{f}/(Rezitation) 朗読[ろうどく]/(Universität) 講義[こうぎ]/
 Vorlesungsverzeichnis{n}/シラバス[しらばす]/
-Vorliebe{f}/好き[すき]/愛着[あいじゃく]/愛好[あいこう]/一辺倒[いっぺんとう]/贔屓[ひいき]/嗜好[しこう]/テイスト[ていすと]/好み[このみ]/
+Vorliebe{f}/愛好[あいこう]/
 vorliegend{adj}/手元の[てもとの]/
-Vorläufer{m}/走り[はしり]/前身[ぜんしん]/
-vorläufig{adj}{adv}/一応[いちおう]/仮に[かりに]/当分[とうぶん]/今のところ[いまのところ]/今の所[いまのところ]/一旦[いったん]/取りあえず[とりあえず]/取り敢えず[とりあえず]/臨時[りんじ]/
-vormals{adv}/元[もと]/故[もと]/以前に[いぜんに]/以前[いぜん]/昔[むかし]/旧[もと]/
+Vorläufer{m}/(Wegbereiter) 先駆け[さきがけ]/
+vorläufig{adj}{adv}/一時的な[いちじてきな]/
+vormals{adv}/以前に[いぜんに]/
 Vormarsch{m}/前進[ぜんしん]/
 Vormilch{f}/初乳[しょにゅう]/
 Vormittag{m}/午前[ごぜん]/
 Vormund{m}/後見人[こうけんにん]/
 Vorname{m}/名前[なまえ]/
-vornehm{adj}{adv}/高い[たかい]/尊い[とうとい]/
-Vornehmheit{f}/上品[じょうひん]/気品[きひん]/お洒落[おしゃれ]/品格[ひんかく]/
+vornehm{adj}{adv}/尊い[とうとい]/
+Vornehmheit{f}/上品[じょうひん]/
 vornehmlich{adv}/優先的[ゆうせんてき]/
-Vorort{m}/近郊[きんこう]/外れ[はずれ]/郊外[こうがい]/田園[でんえん]/
+Vorort{m}/近郊[きんこう]/
 Vorortbahn{f}/郊外電車[こうがいでんしゃ]/
 Vorpiek{f}/船首倉[せんしゅぐら]/
 Vorposten{m}/前哨[ぜんしょう]/
 Vorprüfung{f}/予備試験[よびしけん]/
-Vorrang{m}/優先[ゆうせん]/上位[じょうい]/優先順位[ゆうせんじゅんい]/優位[ゆうい]/
+Vorrang{m}/優位[ゆうい]/
 vorrangig/卓然たる[たくぜんたる]/
 Vorrangstellung{f}/卓然[たくぜん]/
-Vorrat{m}/用意[ようい]/予備[よび]/備え[そなえ]/貯蔵[ちょぞう]/在庫[ざいこ]/
+Vorrat{m}/貯蔵[ちょぞう]/
 Vorratskammer{f}/貯蔵室[ちょぞうしつ]/
 Vorratsraum{m}/貯蔵室[ちょぞうしつ]/
-Vorraum{m}/寄付[よりつき]/控え室[ひかえしつ]/
-Vorrecht{n}/特典[とくてん]/利権[りけん]/権利[けんり]/
+Vorraum{m}/(Vorzimmer) 控え室[ひかえしつ]/
+Vorrecht{n}/特典[とくてん]/
 Vorrede{f}/序[じょ]/
 Vorreiter{m}/先駆者[せんくしゃ]/
-Vorrichtung{f}/機関[きかん]/装置[そうち]/仕掛け[しかけ]/
+Vorrichtung{f}/装置[そうち]/
 Vorrunde{f}/予選[よせん]/
-Vorrücken{n}/進行[しんこう]/進出[しんしゅつ]/前進[ぜんしん]/
+Vorrücken{n}/進行[しんこう]/
 Vorsaison{f}/シーズン前[しーずんまえ]/
-Vorsatz{m}/案[あん]/積もり[つもり]/志[こころざし]/心がけ[こころがけ]/意図[いと]/意向[いこう]/抱負[ほうふ]/故意[こい]/意思[いし]/魂胆[こんたん]/
+Vorsatz{m}/積もり[つもり]/
 Vorsatzblatt{n}/見返し[みかえし]/
 Vorschau{f}/PV[ぴーぶい]/
-Vorschlag{m}/提案[ていあん]/発起[ほっき]/発案[はつあん]/進言[しんげん]/申し入れ[もうしいれ]/提起[ていき]/提言[ていげん]/案[あん]/勧告[かんこく]/申し込み[もうしこみ]/申込み[もうしこみ]/申込[もうしこみ]/提唱[ていしょう]/
-vorschlagen{vt}/言い出す[いいだす]/申し込む[もうしこむ]/
+Vorschlag{m}/提案[ていあん]/
+vorschlagen{vt}/提案する[ていあんする]/
 vorschreiben{vt}/規程する[きていする]/
-Vorschrift{f}/決まり[きまり]/定め[さだめ]/規律[きりつ]/規制[きせい]/条例[じょうれい]/律[りつ]/掟[おきて]/教え[おしえ]/規定[きてい]/規則[きそく]/戒[かい]/心得[こころえ]/
+Vorschrift{f}/規定[きてい]/
 vorschriftsmäßig{adv}{adj}/規則的[きそくてき]/
 vorschriftswidrig{adj}/規定違反の[きていいはんの]/
 Vorschule{f}/プレスクール[ぷれすくーる]/
@@ -32199,36 +32179,36 @@ Vorschulkind{n}/未就学児童[みしゅうがくじどう]/
 Vorschuss{m}/前借り[まえがり]/
 vorsehen{vt}/予定する[よていする]/
 Vorsehung{f}/因縁[いんねん]/
-Vorsicht{f}/注意[ちゅうい]/警戒[けいかい]/用意[ようい]/慎重[しんちょう]/警戒心[けいかいしん]/念[ねん]/心がけ[こころがけ]/ご注意[ごちゅうい]/用心[ようじん]/遠慮[えんりょ]/入念[にゅうねん]/予防[よぼう]/
-vorsichtig{adv}{adj}/大切に[たいせつに]/恐る恐る[おそるおそる]/気をつけて[きをつけて]/心して[こころして]/念入り[ねんいり]/
-vorsichtshalber{adv}/一応[いちおう]/念のため[ねんのため]/
+Vorsicht{f}/注意[ちゅうい]/
+vorsichtig{adv}{adj}/慎重な[しんちょうな]/
+vorsichtshalber{adv}/念のため[ねんのため]/
 Vorsilbe{f}/前綴り[まえつづり]/
 vorsingen{vi}/聞かせる[きかせる]/
 vorsintflutlich{adj}/古代の[こだいの]/
-Vorsitz{m}/会長[かいちょう]/リーダーシップ[りーだーしっぷ]/主宰[しゅさい]/司会[しかい]/座長[ざちょう]/
+Vorsitz{m}/座長[ざちょう]/
 Vorsitzende{m}{f}/チェア･パーソン[ちぇあぱーそん]/
-Vorsorge{f}/準備[じゅんび]/手当て[てあて]/手当[てあて]/心がけ[こころがけ]/備え[そなえ]/
+Vorsorge{f}/準備[じゅんび]/
 Vorspannung{f}/プレストレス[ぷれすとれす]/
 Vorspeise{f}/前菜[ぜんさい]/オードブル[おーどぶる]/
-Vorspiel{n}/掛かり[かかり]/序曲[じょきょく]/
+Vorspiel{n}/(sexuelles ~) 前戯[ぜんぎ]/{Musik}(Präludium) 序曲[じょきょく]/
 vorspielen{vi}/聞かせる[きかせる]/
-vorsprechen{vi}/行く[いく]/いく[いく]/訪ねる[たずねる]/
+vorsprechen{vi}/(sich präsentieren) 罷り出る[まかりでる]/
 Vorsprechen{n}/オーディション[おーでぃしょん]/
 vorspringen{vi}/飛び出す[とびだす]/
-Vorsprung{m}/差[さ]/優勢[ゆうせい]/突起[とっき]/
+Vorsprung{m}/優勢[ゆうせい]/
 Vorspur{f}/トーイン[とーいん]/
-Vorstadt{f}/近郊[きんこう]/外れ[はずれ]/野外[やがい]/郊外[こうがい]/
-Vorstand{m}/会長[かいちょう]/役員[やくいん]/役員会[やくいんかい]/幹部[かんぶ]/理事[りじ]/ヘッド[へっど]/理事会[りじかい]/
-Vorstandsmitglied{n}/理事[りじ]/役員[やくいん]/幹部[かんぶ]/代表取締役[だいひょうとりしまりやく]/
+Vorstadt{f}/近郊[きんこう]/
+Vorstand{m}/(Aufsichtsrat) 役員会[やくいんかい]/
+Vorstandsmitglied{n}/代表取締役[だいひょうとりしまりやく]/
 Vorstandssitzung{f}/理事会[りじかい]/
 Vorstehen{n}/突出[とっしゅつ]/
 vorstehend{adj}{adv}/つんと[つんと]/
-Vorsteher{m}/所長[しょちょう]/係長[かかりちょう]/
+Vorsteher{m}/係長[かかりちょう]/
 vorstellbar{adv}/想像できる[そうぞうできる]/
-Vorstellung{f}/紹介[しょうかい]/発表会[はっぴょうかい]/心当たり[こころあたり]/考え[かんがえ]/仮想[かそう]/プレゼン[ぷれぜん]/想像[そうぞう]/演芸[えんげい]/申し入れ[もうしいれ]/プレゼンテーション[ぷれぜんてーしょん]/概念[がいねん]/上演[じょうえん]/イメージ[いめーじ]/観念[かんねん]/実演[じつえん]/
+Vorstellung{f}/(Einführung) 紹介[しょうかい]/(Vorführung) 発表会[はっぴょうかい]/(Präsentation) プレゼンテーション[ぷれぜんてーしょん]/
 Vorstellungsgespräch{n}/面接[めんせつ]/
 Vorstellungsvermögen{n}/想像力[そうぞうりょく]/
-Vorstoß{m}/ダッシュ[だっしゅ]/ラッシュ[らっしゅ]/進撃[しんげき]/攻勢[こうせい]/
+Vorstoß{m}/進撃[しんげき]/
 vorstoßen{vt}/進撃する[しんげきする]/
 Vorstrafe{f}/前科[ぜんか]/
 Vorstufe{f}/予備段階[よびだんかい]/
@@ -32236,49 +32216,49 @@ vorstädtisch{adj}/近郊の[きんこうの]/
 Vorsänger{m}/独唱者[どくしょうしゃ]/
 vorsätzlich{adv}{adj}/殊更[ことさら]/
 vorsätzliche Tötung{f}/殺人罪[さつじんざい]/
-Vorteil{m}/分[ぶ]/プラス[ぷらす]/長所[ちょうしょ]/甲斐[かい]/長[ちょう]/利点[りてん]/強み[つよみ]/良さ[よさ]/効[かい]/有益[ゆうえき]/得[とく]/益[えき]/潤い[うるおい]/便利さ[べんりさ]/利[り]/採算[さいさん]/強さ[つよさ]/有利[ゆうり]/便利[べんり]/
-vorteilhaft{adj}{adv}/良い[いい]/美味しい[おいしい]/好い[いい]/
+Vorteil{m}/利点[りてん]/
+vorteilhaft{adj}{adv}/有利な[ゆうりな]/
 Vorteilsregel{f}/アドバンテイジ･ルール[あどばんていじるーる]/
-Vortrag{m}/講演[こうえん]/レクチャー[れくちゃー]/講義[こうぎ]/
-vortragen{vt}/唱える[となえる]/持ち込む[もちこむ]/
+Vortrag{m}/講演[こうえん]/
+vortragen{vt}/唱える[となえる]/
 Vortragskünstler{m}/噺家[はなしか]/
 Vortragssaal{m}/講堂[こうどう]/
-Vortrefflichkeit{f}/超絶[ちょうぜつ]/卓越[たくえつ]/
+Vortrefflichkeit{f}/卓越[たくえつ]/
 vortreten{vi}/踏み出す[ふみだす]/
 Vortrieb{m}/推力[すいりょく]/
 Vortrupp{m}/先鋒[せんぽう]/
 Vortäuschung{f}/真似事[まねごと]/
-Voruntersuchung{f}/下見[したみ]/下調べ[したしらべ]/
-Vorurteil{n}/偏見[へんけん]/先入観[せんにゅうかん]/食わず嫌い[くわずぎらい]/思い込み[おもいこみ]/
+Voruntersuchung{f}/下調べ[したしらべ]/
+Vorurteil{n}/偏見[へんけん]/
 Vorverhandlung{f}/下交渉[したこうしょう]/
 Vorverhandlungen{pl}/根回し[ねまわし]/
-Vorverkauf{m}/前売り[まえうり]/前売[まえうり]/
+Vorverkauf{m}/前売り[まえうり]/
 vorverlegen{vt}/繰り上げる[くりあげる]/
 Vorverlegung{f}/繰り上げ[くりあげ]/
 Vorverstärker{m}/プリアンプ[ぷりあんぷ]/
 Vorwahl{f}/予選[よせん]/
 Vorwahlnummer{f}/局番[きょくばん]/
-Vorwand{m}/名[な]/因縁[いんねん]/口実[こうじつ]/理屈[りくつ]/名目[めいもく]/
+Vorwand{m}/口実[こうじつ]/
 Vorwarnung{f}/警戒警報[けいかいけいほう]/
-Vorwegnahme{f}/伏線[ふくせん]/先取り[さきどり]/
+Vorwegnahme{f}/伏線[ふくせん]/
 Vorwissen{n}/予備知識[よびちしき]/
 Vorwitz{m}/チョコ[ちょこ]/
 vorwitzig{adj}{adv}/小賢しい[こざかしい]/
-Vorwort{n}/前置き[まえおき]/序[じょ]/
-Vorwurf{m}/攻撃[こうげき]/非難[ひなん]/小言[こごと]/
+Vorwort{n}/前置き[まえおき]/
+Vorwurf{m}/非難[ひなん]/
 vorwurfsvoll{adj}{adv}/恨めしい[うらめしい]/
 Vorwärmer{m}/予熱器[よねつき]/
 vorwärts/オンワード[おんわーど]/
 vorwärts kommen/捗る[はかどる]/
-Vorzeichen{n}/知らせ[しらせ]/予兆[よちょう]/記[しるし]/縁起[えんぎ]/兆候[ちょうこう]/兆し[きざし]/胎動[たいどう]/兆[ちょう]/影[かげ]/気[け]/前触れ[まえぶれ]/
+Vorzeichen{n}/(Omen) 縁起[えんぎ]/
 vorzeitig{adv}/時期尚早の[じきしょうそうの]/
 Vorzimmer{n}/控え室[ひかえしつ]/
-Vorzug{m}/良さ[よさ]/長所[ちょうしょ]/優先[ゆうせん]/利[り]/
+Vorzug{m}/(Vorrang) 優先[ゆうせん]/
 Vorzugsaktie{f}/優先株[ゆうせんかぶ]/
 Vorzugsdividende{f}/優先配当[ゆうせんはいとう]/
-vorzugsweise{adv}/まし[まし]/増し[まし]/マシ[まし]/
+vorzugsweise{adv}/(besonders) 取り分け[とりわけ]/
 Vorzüglichkeit{f}/上等[じょうとう]/
-vorübergehend{adv}{adj}/仮に[かりに]/儚い[はかない]/取りあえず[とりあえず]/取り敢えず[とりあえず]/一時的[いちじてき]/
+vorübergehend{adv}{adj}/一時的な[いちじてきな]/
 vorübergehende Versetzung{f}/出向[しゅっこう]/
 vorübergehender Aufenthalt/寓居[ぐうきょ]/
 Vorübung{f}/事前研修[じぜんけんしゅう]/
@@ -32286,11 +32266,11 @@ Voyeur{m}/覗き趣味の人[のぞきしゅみのひと]/
 Voyeurismus{m}/窃視症[せっししょう]/
 voyeuristisch{adj}/窃視症の[せっししょうの]/
 Vulgarität{f}/下品[げぼん]/
-vulgär{adv}/汚い[きたない]/俗[ぞく]/
+vulgär{adv}/野卑な[やひな]/
 Vulkan{m}/火山[かざん]/
 Vulkanaktivität{f}/火山活動[かざんかつどう]/
 Vulkanasche{f}/火山灰[かざんばい]/
-Vulkanausbruch{m}/噴出[ふんしゅつ]/噴火[ふんか]/
+Vulkanausbruch{m}/噴火[ふんか]/
 Vulkanisation{f}/加硫[かりゅう]/
 vulkanisch{adj}{adv}/火山の[かざんの]/
 Vulkanit{m}/火成岩[かせいがん]/
@@ -32306,7 +32286,7 @@ Völkerrecht{n}/国際法[こくさいほう]/
 Völkerwanderung{f}/民族大移動[みんぞくだいいどう]/
 völkisch{adj}/国民的[こくみんてき]/
 Völlegefühl{n}/膨満感[ぼうまんかん]/
-völlig{adv}/全て[すべて]/一に[いつに]/丸々[まるまる]/何となく[なにとなく]/見事[みごと]/土台[どだい]/すっかり[すっかり]/丸ごと[まるごと]/たっぷり[たっぷり]/ずぶ[ずぶ]/全く[まったく]/総て[すべて]/すっぽり[すっぽり]/どっぷり[どっぷり]/一切[いっさい]/
+völlig{adv}/全く[まったく]/
 Waage{f}/天秤[てんびん]/
 Waagschale{f}/秤の皿[はかりのさら]/
 Wabe{f}/ほう房[ほうぼう]/
