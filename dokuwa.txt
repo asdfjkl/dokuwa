@@ -31465,15 +31465,14 @@ verspätet{adv}{adj}/遅く[おそく]/
 Verspätung{f}/遅れ[おくれ]/
 verstaatlichen{vt}/国有にする[こくゆうにする]/
 Verstaatlichung{f}/国有化[こくゆうか]/
-Verstand{m}/脳[のう]/知[ち]/智[ち]/常識[じょうしき]/知能[ちのう]/知恵[ちえ]/智恵[ちえ]/智慧[ちえ]/頭脳[ずのう]/脳裏[のうり]/案[あん]/道理[どうり]/分かり[わかり]/
+Verstand{m}/理解力[りかいりょく]/
 verstaubt/古臭い[ふるくさい]/
 Verstauchung{f}/捻挫[ねんざ]/
-Versteck{n}/穴[あな]/アジト[あじと]/孔[あな]/隠れ家[かくれが]/
-Verstecken{n}/隠れ[かくれ]/潜伏[せんぷく]/
-verstecken{vt}/飲む[のむ]/隠す[かくす]/呑む[のむ]/
+Versteck{n}/隠れ家[かくれが]/
+verstecken{vt}/隠す[かくす]/
 Versteckspiel{n}/隠れん坊[かくれんぼう]/
 versteckt/隠然[いんぜん]/
-Verstehen{n}/理解[りかい]/悟り[さとり]/覚[さとり]/了解[りょうかい]/把握[はあく]/
+Verstehen{n}/理解[りかい]/
 Versteifung{f}/ウェブ[うぇぶ]/
 Versteigerer{m}/競売人[きょうばいにん]/
 versteigern{vt}/競る[せる]/
@@ -31483,17 +31482,17 @@ verstellen{vt}/置き換える[おきかえる]/
 verstellt{adj}/空々しい[そらぞらしい]/
 Verstellung{f}/仮面[かめん]/
 versteuern{vt}/税を納める[ぜいをおさめる]/
-verstimmt{adj}{adv}/渋い[しぶい]/苦い[にがい]/ぷりぷり[ぷりぷり]/プリプリ[ぷりぷり]/
-Verstimmung{f}/不快[ふかい]/不機嫌[ふきげん]/
+verstimmt{adj}{adv}/(schlecht gelaunt) 不機嫌な[ふきげんな]/{Musik}(verstimmt sein) 調子が狂っている[ちょうしがくるっている]/
+Verstimmung{f}/(schlechte Laune) 不機嫌[ふきげん]/
 verstockt{adv}/太々しい[ふてぶてしい]/
 Verstocktheit{f}/意固地[いこじ]/
 verstohlen{adv}/こっそり[こっそり]/
-verstopft sein/支える[つっかえる]/詰まる[つまる]/
-Verstopfung{f}/停滞[ていたい]/詰まり[つまり]/便秘[べんぴ]/梗塞[こうそく]/
-verstorben{adj}/ない[ない]/無い[ない]/
-Verstoß{m}/罪[つみ]/過ち[あやまち]/
+verstopft/(~ sein;stocken) 支える[つっかえる]/
+Verstopfung{f}/(Stagnation) 停滞[ていたい]/{Med.}(Obstipation) 便秘[べんぴ]/
+verstorben{adj}/亡くなった[なくなった]/
+Verstoß{m}/(Vergehen) 違反[いはん]/
 Verstrebung{f}/桟[さん]/
-verstreichen{vt}/流れる[ながれる]/経つ[たつ]/
+verstreichen{vt}/(Zeit) 経つ[たつ]/
 Verstreuen{n}/散布[さんぷ]/
 verstreuen{vt}/撒く[まく]/
 verstreut sein{vi}/飛ぶ[とぶ]/
@@ -31503,19 +31502,19 @@ Verstädterung{f}/都市化[としか]/
 verständig{adj}{adv}/賢い[かしこい]/
 Verständigung{f}/了解[りょうかい]/
 verständlich{adv}{adj}/明快[めいかい]/
-Verständlichkeit{f}/確か[たしか]/明瞭[めいりょう]/プレーン[ぷれーん]/
-Verständnis{n}/理解[りかい]/見識[けんしき]/疎通[そつう]/明[めい]/見解[けんげ]/会心[かいしん]/通じ[つうじ]/納得[なっとく]/鑑賞[かんしょう]/悟り[さとり]/覚[さとり]/分かり[わかり]/情[なさけ]/読み[よみ]/認識[にんしき]/察し[さっし]/心得[こころえ]/
+Verständlichkeit{f}/(leicht zu verstehen sein) 分かりやすい[わかりやすい]/
+Verständnis{n}/理解[りかい]/
 Verständnis haben/理解を持つ[りかいをもつ]/
 Verständnislosigkeit{f}/無理解[むりかい]/
 verständnisvoll{adj}{adv}/心有る[こころある]/
-verstärken{vt}/増やす[ふやす]/増す[ます]/固める[かためる]/
+verstärken{vt}/(vermehren) 増やす[ふやす]/(befestigen) 固める[かためる]/
 Verstärker{m}/アンプ[あんぷ]/
 verstärkt{adj}/裏打ちした[うらうちした]/
-Verstärkung{f}/強化[きょうか]/拡張[かくちょう]/充実[じゅうじつ]/補強[ほきょう]/パワーアップ[ぱわーあっぷ]/増幅[ぞうふく]/増強[ぞうきょう]/拡充[かくじゅう]/後援[こうえん]/
+Verstärkung{f}/強化[きょうか]/
 verstört{adj}{adv}/慌てふためいて[あわてふためいて]/
 Verstümmelung{f}/骨抜き[ほねぬき]/
-Versuch{m}/経験[けいけん]/試し[ためし]/試行[しこう]/トライ[とらい]/トライ[とらい]/未遂[みすい]/未遂[みすい]/トライアル[とらいある]/トライアル[とらいある]/試験[しけん]/試み[こころみ]/試練[しれん]/試作[しさく]/
-versuchen{vt}/試す[ためす]/試みる[こころみる]/
+Versuch{m}/(wissenschaftlicher ~) 実験[じっけん]/(Test) 試み[こころみ]/
+versuchen{vt}/試す[ためす]/
 Versuchsanlage{f}/パイロットプラント[ぱいろっとぷらんと]/
 Versuchsballon{m}/観測気球[かんそくききゅう]/
 Versuchsgelände{n}/実験地域[じっけんちいき]/
@@ -31524,35 +31523,34 @@ Versuchsobjekt{n}/実験台[じっけんだい]/
 Versuchsperson{f}/実験台[じっけんだい]/
 Versuchsstadium{n}/実験段階[じっけんだんかい]/
 Versuchstier{n}/実験動物[じっけんどうぶつ]/
-versuchsweise{vi}{adv}/一番[いちばん]/実験的[じっけんてき]/一時的[いちじてき]/
-Versuchung{f}/誘い[さそい]/誘惑[ゆうわく]/
-Versunkenheit{f}/夢中[むちゅう]/没頭[ぼっとう]/
+versuchsweise{vi}{adv}/実験的[じっけんてき]/
+Versuchung{f}/(Verlockung) 誘惑[ゆうわく]/
+Versunkenheit{f}/(Begeisterung) 夢中[むちゅう]/(Hingabe) 没頭[ぼっとう]/
 versäumen{vt}/怠る[おこたる]/
 Versäumnis{n}/遺漏[いろう]/
 versöhnend{adv}/協調的な[きょうちょうてきな]/
-Versöhnung{f}/握手[あくしゅ]/調停[ちょうてい]/協調[きょうちょう]/調和[ちょうわ]/手打ち[てうち]/仲直り[なかなおり]/和解[わかい]/
+Versöhnung{f}/仲直り[なかなおり]/
 versüßen{vt}/甘くする[あまくする]/
 vertagen{vt}/持ち越す[もちこす]/
-Vertagung{f}/延期[えんき]/先送り[さきおくり]/持ち越し[もちこし]/
+Vertagung{f}/延期[えんき]/
 Vertauschung{f}/互換[ごかん]/
 vertebral{adj}/脊椎の[せきついの]/
 Verteidiger{m}/バックス[ばっくす]/
-Verteidigung{f}/受け[うけ]/防御[ぼうぎょ]/固め[かため]/ディフェンス[でぃふぇんす]/擁護[ようご]/防衛[ぼうえい]/守備[しゅび]/守備[しゅび]/弁護[べんご]/
+Verteidigung{f}/防御[ぼうぎょ]/(vor Gericht) 弁護[べんご]/
 Verteidigungsanlage{f}/防御工事[ぼうぎょこうじ]/
 Verteidigungsbündnis{n}/防御同盟[ぼうぎょどうめい]/
 Verteidigungskrieg{m}/守戦[しゅせん]/
 Verteidigungsministerium{n}/国防総省[こくぼうそうしょう]/
 Verteidigungsschrift{f}/弁明書[べんめいしょ]/
-verteilen{vt}/広げる[ひろげる]/配る[くばる]/分ける[わける]/割る[わる]/撒く[まく]/
+verteilen{vt}/分け与える[わけあたえる]/
 Verteiler{m}/ディストリビューター[でぃすとりびゅーたー]/
 Verteilerkappe{f}/デスビキャップ[ですびきゃっぷ]/
-Verteilung{f}/配信[はいしん]/割り[わり]/配布[はいふ]/区分[くぶん]/配給[はいきゅう]/セッティング[せってぃんぐ]/分担[ぶんたん]/分布[ぶんぷ]/流通[りゅうつう]/分配[ぶんぱい]/配置[はいち]/配分[はいぶん]/
+Verteilung{f}/配布[はいふ]/
 verteuern{vt}/高くする[たかくする]/
 vertiefen{vt}/深める[ふかめる]/
-Vertiefung{f}/専念[せんねん]/凹[くぼ]/没頭[ぼっとう]/凹み[くぼみ]/
+Vertiefung{f}/(Fachgebiet) 専門[せんもん]/(Konzentration) 専心[せんしん]/(Unebenheit) 凹凸[おうとつ]/
 Vertikale{f}/鉛直[えんちょく]/
-Vertilgung{f}/退治[たいじ]/駆除[くじょ]/絶滅[ぜつめつ]/撲滅[ぼくめつ]/
-Vertrag{m}/約束[やくそく]/請負[うけおい]/条約[じょうやく]/契約[けいやく]/
+Vertrag{m}/契約[けいやく]/
 Vertragsabschluss{f}{m}/成約[せいやく]/
 Vertragsarbeit{f}/請負工事[うけおいこうじ]/
 Vertragsauflösung{f}/契約解除[けいやくかいじょ]/
@@ -31562,7 +31560,7 @@ Vertragsstaat{m}/条約国[じょうやくこく]/
 Vertragsstrafe{f}/違約金[いやくきん]/
 Vertragsverletzung{f}/契約違反[けいやくいはん]/
 Vertragswerk{n}/約定書[やくじょうしょ]/
-Vertrauen{n}/期待[きたい]/信用[しんよう]/宛[あて]/確信[かくしん]/信[しん]/信頼[しんらい]/当て[あて]/宛て[あて]/頼み[たのみ]/頼り[たより]/信託[しんたく]/
+Vertrauen{n}/信用[しんよう]/
 vertrauen{vi}/信じる[しんじる]/
 Vertrauensbruch{m}/心変わり[こころがわり]/
 Vertrauensniveau{n}/信頼水準[しんらいすいじゅん]/
@@ -31570,24 +31568,24 @@ Vertrauenssache{f}/信用問題[しんようもんだい]/
 vertrauensvoll{adj}{adv}/信頼して[しんらいして]/
 Vertrauensvotum{n}/信任投票[しんにんとうひょう]/
 vertrauenswürdig{adv}/頼もしい[たのもしい]/
-Vertrauenswürdigkeit{f}/信用[しんよう]/信憑性[しんぴょうせい]/
+Vertrauenswürdigkeit{f}/信憑性[しんぴょうせい]/
 vertraulich{adj}/密か[ひそか]/
-Vertraulichkeit{f}/馴染み[なじみ]/内緒[ないしょ]/
-vertraut{adv}/深い[ふかい]/慣れた[なれた]/親しい[したしい]/濃い[こい]/仲良く[なかよく]/明るい[あかるい]/
-Vertrautheit{f}/馴染み[なじみ]/親交[しんこう]/精通[せいつう]/親しみ[したしみ]/熟知[じゅくち]/身近[みぢか]/親密[しんみつ]/
+Vertraulichkeit{f}/馴染[なじみ]/
+vertraut{adv}/(erfahren sein) 慣れた[なれた]/(befreundet) 親しい[したしい]/
+Vertrautheit{f}/馴染[なじみ]/
 Vertreibung{f}/駆逐[くちく]/
 vertreten/成り代わる[なりかわる]/
-Vertreter{m}/代表[だいひょう]/代わり[かわり]/替わり[かわり]/
+Vertreter{m}/(Stell~) 代表[だいひょう]/(Außendienst~) セールスマン[せーるすまん]/
 Vertreterprovision{f}/代理店手数料[だいりてんてすうりょう]/
-Vertretung{f}/替え[かえ]/換え[かえ]/代理[だいり]/代行[だいこう]/エージェント[えーじぇんと]/
+Vertretung{f}/代理[だいり]/
 Vertretungsrecht{n}/代表権[だいひょうけん]/
-Vertrieb{m}/販売[はんばい]/売り込み[うりこみ]/流通[りゅうつう]/営業[えいぎょう]/
+Vertrieb{m}/販売[はんばい]/
 Vertriebsleiter{m}/販売主任[はんばいしゅにん]/
 Vertriebsnetz{n}/販売網[はんばいもう]/
 Vertriebsorganisation{f}/販売組織[はんばいそしき]/
 Vertriebsweg{m}/流通経路[りゅうつうけいろ]/
 vertrocknen{vi}/めげる[めげる]/
-Verträglichkeit{f}/適合[てきごう]/口当たり[くちあたり]/和気[わき]/
+Verträglichkeit{f}/(Harmonie) 和気[わき]/{Pharm.}(verträgliche Dosis) 耐量[たいりょう]/
 verträumt{adv}/うっとり[うっとり]/
 Verträumtheit{f}/気抜け[きぬけ]/
 Vertuschung{f}/隠蔽[いんぺい]/
@@ -31598,11 +31596,11 @@ verunreinigen{vt}/汚染する[おせんする]/
 Verunreinigung{f}/汚染[おせん]/
 veruntreuen{vt}/取り込む[とりこむ]/
 Veruntreuung{f}/着服[ちゃくふく]/
-verursachen/出す[だす]/与える[あたえる]/生じる[しょうじる]/求める[もとめる]/誘う[いざなう]/引き起こす[ひきおこす]/基づく[もとづく]/起こす[おこす]/呼ぶ[よぶ]/招く[まねく]/
+verursachen/引き起こす[ひきおこす]/
 Verursacher{m}/原因者[げんいんしゃ]/
 Verursachung{f}/誘発[ゆうはつ]/
 verurteilen{vt}/処する[しょする]/
-Verurteilung{f}/攻撃[こうげき]/宣告[せんこく]/
+Verurteilung{f}/(Richterspruch) 宣告[せんこく]/
 Vervielfachung{f}/複式[ふくしき]/
 vervielfältigen{vt}/刷る[する]/
 Vervielfältigung{f}/複製[ふくせい]/
@@ -31611,21 +31609,21 @@ Vervielfältigungsrecht{n}/複製権[ふくせいけん]/
 vervollkommnen{vt}/鍛える[きたえる]/
 Vervollkommnung{f}/完成[かんせい]/
 vervollständigen{vt}/揃える[そろえる]/
-Vervollständigung{f}/完成[かんせい]/補足[ほそく]/充実[じゅうじつ]/補完[ほかん]/
+Vervollständigung{f}/完全にすること[かんぜんにすること]/
 verwachsen{vi}/癒着する[ゆちゃくする]/
 Verwachsung{f}/癒着[ゆちゃく]/
 verwahren{vt}/預かる[あずかる]/
 Verwahrer{m}/受託人[じゅたくじん]/
-Verwahrung{f}/保存[ほぞん]/保管[ほかん]/預かり[あずかり]/
+Verwahrung{f}/(Aufbewahrung) 保管[ほかん]/(Sicherheits~;Haft) 拘禁[こうきん]/
 verwaisen{vi}/孤児になる[こじになる]/
-Verwalter{m}/管理人[かんりにん]/運営者[うんえいしゃ]/執事[しつじ]/
-Verwaltung{f}/管理[かんり]/管理局[かんりきょく]/運営[うんえい]/事務[じむ]/取り締まり[とりしまり]/取締[とりしまり]/政[まつりごと]/政府[せいふ]/経理[けいり]/支配[しはい]/行政[ぎょうせい]/主宰[しゅさい]/経営[けいえい]/事務局[じむきょく]/政治[せいじ]/
+Verwalter{m}/(Hausmeister) 管理人[かんりにん]/(Manager) 運営者[うんえいしゃ]/
+Verwaltung{f}/管理[かんり]/
 Verwaltungsakt{m}/行政行為[ぎょうせいこうい]/
 Verwaltungsangestellte{m}{f}/事務系統の職員[じむけいとうのしょくいん]/
 Verwaltungsarbeit{f}/事務処理[じむしょり]/
 Verwaltungsbeamte{m}/行政官[ぎょうせいかん]/
 Verwaltungsbehörde{f}/官憲[かんけん]/
-Verwaltungsbezirk{m}/区[く]/管内[かんない]/
+Verwaltungsbezirk{m}/管内[かんない]/
 Verwaltungsgerichtshof{m}/弾劾裁判所[だんがいさいばんしょ]/
 Verwaltungsgesellschaft{f}/管理会社[かんりかいしゃ]/
 Verwaltungskosten{pl}/経費[けいひ]/
@@ -31634,53 +31632,53 @@ Verwaltungsrecht{n}/行政法[ぎょうせいほう]/
 verwaltungstechnisch{adj}/管理上[かんりじょう]/
 Verwaltungsvorschrift{f}/運営規則[うんえいきそく]/
 verwandeln{vt}/切り替える[きりかえる]/
-Verwandlung{f}/転換[てんかん]/切り替え[きりかえ]/切替[きりかえ]/転身[てんしん]/変形[へんけい]/変動[へんどう]/変容[へんよう]/変態[へんたい]/
+Verwandlung{f}/変化[へんか]/
 Verwandlungskünstler{m}/早変わりをやる芸人[はやがわりをやるげいにん]/
 verwandt{adj}/気の合った[きのあった]/
 Verwandte{m}{f}/身内[みうち]/
 Verwandtenselektion{f}/血縁淘汰[けつえんとうた]/
-Verwandtschaft{f}/親戚[しんせき]/身内[みうち]/因縁[いんねん]/大家族[だいかぞく]/因[ちなみ]/繋がり[つながり]/親族[しんぞく]/親身[しんみ]/
+Verwandtschaft{f}/親族[しんぞく]/
 Verwandtschaftsgrad{m}/親等[しんとう]/
 verwanzen{vt}/隠しマイクをしかける[かくしまいくをしかける]/
 verwarnen{vt}/諌める[いさめる]/
-Verwarnung{f}/警告[けいこく]/コーション[こーしょん]/
-Verwechslung{f}/誤解[ごかい]/混同[こんどう]/
+Verwarnung{f}/警告[けいこく]/
+Verwechslung{f}/混同[こんどう]/
 verwegen{adv}/思い切った[おもいきった]/
 verweichlicht{adj}{adv}/不甲斐ない[ふがいない]/
 Verweichlichung{f}/文弱[ぶんじゃく]/
-Verweigerung{f}/拒否[きょひ]/拒絶[きょぜつ]/断り[ことわり]/
+Verweigerung{f}/拒否[きょひ]/
 verweilen{vi}/滞在する[たいざいする]/
 Verweilzeit{f}/滞在時間[たいざいじかん]/
-Verweis{m}/参考[さんこう]/戒め[いましめ]/非難[ひなん]/参照[さんしょう]/問責[もんせき]/科[とが]/懲戒[ちょうかい]/小言[こごと]/警告[けいこく]/
+Verweis{m}/(Referenz) 参照[さんしょう]/(Ermahnung) 警告[けいこく]/
 Verweisung{f}/参照[さんしょう]/
 Verweltlichung{f}/俗化[ぞっか]/
 verwendbar{adj}/使用可能な[しようかのうな]/
-Verwendung{f}/使用[しよう]/効き[きき]/適用[てきよう]/使い道[つかいみち]/用途[ようと]/実用[じつよう]/活用[かつよう]/
+Verwendung{f}/使用[しよう]/
 Verwendungsmöglichkeit{f}/用途[ようと]/
 Verwendungszweck{m}/用途[ようと]/
 verwerflich{adv}/ダーティー[だーてぃー]/
-Verwerfung{f}/却下[きゃっか]/断層[だんそう]/歪み[ゆがみ]/否決[ひけつ]/
+Verwerfung{f}/(Zurückweisung) 却下[きゃっか]/{Geol.} 断層[だんそう]/
 Verwerfungslinie{f}/断層線[だんそうせん]/
-Verwertung{f}/利用[りよう]/効用[こうよう]/活用[かつよう]/
+Verwertung{f}/利用[りよう]/
 verwestlichen{vt}/西洋化する[せいようかする]/
 Verwestlichung{f}/西洋化[せいようか]/
 Verwesung{f}/腐敗[ふはい]/
 verwickeln{vt}/抱き込む[だきこむ]/
 verwickelt{adv}{adj}/ややこしい[ややこしい]/
-Verwicklung{f}/複雑[ふくざつ]/紛争[ふんそう]/葛藤[かっとう]/曲折[きょくせつ]/絡み[からみ]/苦情[くじょう]/交錯[こうさく]/
+Verwicklung{f}/(Kompliziertheit) 複雑[ふくざつ]/
 verwildern{vi}/荒れる[あれる]/
 Verwilderung{f}/壊乱[かいらん]/
 verwinden{vt}/克服する[こくふくする]/
 Verwirbelung{f}/ボーテックス[ぼーてっくす]/
-verwirklichen{vt}/見る[みる]/及ぶ[およぶ]/
-Verwirklichung{f}/実現[じつげん]/具現[ぐげん]/興行[こうぎょう]/遂行[すいこう]/達成[たっせい]/到達[とうたつ]/実行[じっこう]/成立[せいりつ]/
+verwirklichen{vt}/実現する[じつげんする]/
+Verwirklichung{f}/実現[じつげん]/
 Verwirkung{f}/喪失[そうしつ]/
 verwirren{vt}/荒らす[あらす]/
 verwirrend{adv}{adj}/目まぐるしい[めまぐるしい]/
 verwirrt{adv}/苦しい[くるしい]/
-verwirrt sein{vi}/驚く[おどろく]/戸惑う[とまどう]/
+verwirrt{vi}/(~ sein) 戸惑う[とまどう]/
 Verwirrtheit{f}/狼狽[ろうばい]/
-Verwirrung{f}/混乱[こんらん]/経緯[いきさつ]/混同[こんどう]/閉口[へいこう]/乱れ[みだれ]/狂い[くるい]/混雑[こんざつ]/錯乱[さくらん]/取り込み[とりこみ]/
+Verwirrung{f}/混乱[こんらん]/
 verwischen{vt}/消す[けす]/
 Verwischung{f}/抹殺[まっさつ]/
 verwittert{adj}/野ざらしの[のざらしの]/
@@ -31688,68 +31686,68 @@ Verwitterung{f}/風化[ふうか]/
 verworfen{adv}/いびつの[いびつの]/
 verworren{adj}{adv}/雑駁[ざっぱく]/
 Verworrenheit{f}/晦渋[かいじゅう]/
-verwunderlich{adj}/驚くべき[おどろくべき]/驚異的[きょういてき]/
+verwunderlich{adj}/(verblüffend) 驚くべき[おどろくべき]/(seltsam) 可笑しい[おかしい]/
 verwundert{adj}/怪訝[けげん]/
-Verwunderung{f}/驚き[おどろき]/驚異[きょうい]/
+Verwunderung{f}/驚き[おどろき]/
 verwundet{adj}/傷のついた[きずのついた]/
 Verwurzelung{f}/根差し[ねざし]/
 Verwässerung{f}/骨抜き[ほねぬき]/
 verwöhnt{adv}{adj}/気難しい[きむずかしい]/
 Verwöhntheit{f}/選り好み[えりごのみ]/
 verwünschen{vt}/呪う[のろう]/
-Verwünschung{f}/呪い[のろい]/呪[のろい]/
+Verwünschung{f}/(Fluch) 呪い[のろい]/
 verwüsten{vt}/荒らす[あらす]/
-Verwüstung{f}/壊滅[かいめつ]/荒廃[こうはい]/
+Verwüstung{f}/(Vernichtung) 壊滅[かいめつ]/(Verödung) 荒廃[こうはい]/
 verzagen{vi}/遅れる[おくれる]/
 verzagt{adv}/意気地のない[いくじのない]/
-Verzagtheit{f}/小心[しょうしん]/臆病[おくびょう]/落胆[らくたん]/
+Verzagtheit{f}/(Mutlosigkeit) 落胆[らくたん]/
 verzaubern{vt}/取り付く[とりつく]/
 verzaubert/現つを抜かす[うつつをぬかす]/
 Verzauberung{f}/幻惑[げんわく]/
 verzehnfachen{vt}/10倍にする[じゅうばいにする]/
 Verzehr{m}/消費[しょうひ]/
 verzeichnen{vt}/採録する[さいろくする]/
-Verzeichnis{n}/索引[さくいん]/目録[もくろく]/
+Verzeichnis{n}/目録[もくろく]/
 Verzeichnisbaum{m}/ディレクトリー･ツリー[でぃれくとりーつりー]/
 verzeihlich{adj}{adv}/無理もない[むりもない]/
-Verzeihung{f}/勘弁[かんべん]/御免[ごめん]/許容[きょよう]/許し[ゆるし]/容赦[ようしゃ]/
+Verzeihung{f}/容赦[ようしゃ]/
 verzerrt{adj}/歪んだ[ゆがんだ]/
-Verzerrung{f}/歪み[ゆがみ]/屈折[くっせつ]/
-Verzicht{m}/覚悟[かくご]/諦め[あきらめ]/放棄[ほうき]/思いっきり[おもいっきり]/見切り[みきり]/思い切り[おもいきり]/割愛[かつあい]/断念[だんねん]/
+Verzerrung{f}/歪み[ゆがみ]/
+Verzicht{m}/放棄[ほうき]/
 verziehen/甘やかす[あまやかす]/
-Verzierung{f}/妻[つま]/装飾[そうしょく]/トリミング[とりみんぐ]/装飾品[そうしょくひん]/
+Verzierung{f}/装飾品[そうしょくひん]/
 verzinken{vt}/亜鉛メッキする[あえんめっきする]/
 verzinkt{adj}/亜鉛めっきの[あえんめっきの]/
 Verzinsung{f}/利付き[りつき]/
 verzollen{vt}/税を納める[ぜいをおさめる]/
 Verzollung{f}/関税化[かんぜいか]/
-Verzug{m}/遅延[ちえん]/滞り[とどこおり]/
+Verzug{m}/(Säumigkeit) 遅延[ちえん]/
 Verzugszinsen{pl}/延滞利子[えんたいりし]/
 verzweifeln{vi}/絶望する[ぜつぼうする]/
-verzweifelt{adv}{adj}/必死に[ひっしに]/絶望的[ぜつぼうてき]/
-Verzweiflung{f}/必死[ひっし]/悶々[もんもん]/絶望[ぜつぼう]/自棄[じき]/
+verzweifelt{adv}{adj}/必死に[ひっしに]/
+Verzweiflung{f}/絶望[ぜつぼう]/
 Verzweiflungstat{f}/苦し紛れ[くるしまぎれ]/
 Verzweigung{f}/叉[また]/
 Verzwillingung{f}/双晶形成[そうしょうけいせい]/
 verzärteln{vt}/甘やかす[あまやかす]/
 verzögern{vt}/伸べる[のべる]/
-Verzögerung{f}/渋滞[じゅうたい]/延期[えんき]/遅延[ちえん]/先送り[さきおくり]/停滞[ていたい]/猶予[ゆうよ]/減速[げんそく]/
+Verzögerung{f}/遅れ[おくれ]/
 Verzögerungstaktik{f}/牛歩戦術[ぎゅうほせんじゅつ]/
 verzückt{adv}/うっとり[うっとり]/
 verächtlich{adv}{adj}/情けない[なさけない]/
 veränderlich{adv}{adj}/常なき[つねなき]/
 Veränderlichkeit{f}/可変[かへん]/
-verändern{vt}/動く[いごく]/直す[なおす]/変える[かえる]/動かす[うごかす]/切り替える[きりかえる]/
-Veränderung{f}/変更[へんこう]/切り替え[きりかえ]/切替[きりかえ]/改変[かいへん]/へん[へん]/変化[へんか]/変換[へんがえ]/曲折[きょくせつ]/形容[けいよう]/変[へん]/変遷[へんせん]/リフォーム[りふぉーむ]/移り変わり[うつりかわり]/変動[へんどう]/推移[すいい]/変わり[かわり]/異変[いへん]/
+verändern{vt}/変える[かえる]/
+Veränderung{f}/変更[へんこう]/
 verärgern{vt}/苛立てる[いらだてる]/
 verärgert{adv}/かりかり[かりかり]/
 verärgert sein{vi}/手を焼く[てをやく]/
 Verärgerung{f}/閉口[へいこう]/
-veräußern{vt}/売る[うる]/手放す[てばなす]/譲る[ゆずる]/
-Veräußerung{f}/処分[しょぶん]/譲渡[じょうと]/放出[ほうしゅつ]/
+veräußern{vt}/(verkaufen) 売る[うる]/
+Veräußerung{f}/売却[ばいきゃく]/
 veröden{vt}/荒れる[あれる]/
-Veröffentlichung{f}/発表[はっぴょう]/刊行[かんこう]/開示[かいじ]/告示[こくじ]/リリース[りりーす]/掲載[けいさい]/発行[はっこう]/出版[しゅっぱん]/
-verüben{vt}/働く[はたらく]/犯す[おかす]/
+Veröffentlichung{f}/(Publikation) 出版[しゅっぱん]/
+verüben{vt}/(sich schuldig machen) 犯す[おかす]/
 Vesper{f}{f}{n}/お八つ[おやつ]/
 Vestibül{m}/廊室[ろうしつ]/
 Veteran{m}/ベテラン[べてらん]/猛者[もさ]/
@@ -31779,35 +31777,32 @@ Viehseuche{f}/獣疫[じゅうえき]/
 Viehtreiber{m}/牛方[うしかた]/
 Viehzucht{f}/畜産[ちくさん]/
 Viehzüchter{m}/牧場主[ぼくじょうぬし]/
-viel{adj}/多い[おおい]/多分に[たぶんに]/どっさり[どっさり]/たんと[たんと]/色んな[いろんな]/うんと[うんと]/おおい[おおい]/多分[たぶん]/数多く[かずおおく]/多大[ただい]/豊か[ゆたか]/余計[よけい]/多々[たた]/遥かに[はるかに]/数多い[かずおおい]/一杯[いっぱい]/大層[たいそう]/遥か[はるか]/たんまり[たんまり]/ずっと[ずっと]/沢山[たくさん]/
-Viel Erfolg!/行ってらっしゃい。[いってらっしゃい。]/
-Viel Glück!/がんばって下さい。[がんばってください。]/
-Viel Spaß!/行ってらっしゃい。[いってらっしゃい。]/
+viel{adj}/沢山[たくさん]/多い[おおい]/
 Vieleck{n}/多角形[たかっけい]/
 Vielen Dank!/ありがとう存じます。[ありがとうぞんじます。]/
-vielerlei{adv}/色んな[いろんな]/雑多[ざった]/数々[かずかず]/
-vielfach{adj}{adv}/重ねて[かさねて]/数倍[すうばい]/マルチ[まるち]/
+vielerlei{adv}/色んな[いろんな]/
+vielfach{adj}{adv}/(mehrmals) 何回も[なんかいも]/(mehrfach) 数倍[すうばい]/
 Vielfachheit{f}/多重[たじゅう]/
 Vielfachzucker{m}/多糖類[たとうるい]/
-Vielfraß{m}/食いしん坊[くいしんぼう]/大食い[おおぐい]/
+Vielfraß{m}/大食漢[たいしょくかん]/
 vielfältig{adv}/マルチ[まるち]/
-Vielfältigkeit{f}/多彩[たさい]/多種多様[たしゅたよう]/
+Vielfältigkeit{f}/多種多様[たしゅたよう]/
 vielgestaltig{adj}/変幻自在の[へんげんじざいの]/
-vielmals{adv}/何度も[なんども]/重々[じゅうじゅう]/
-vielmehr{adv}/却って[かえって]/寧ろ[むしろ]/
+vielmals{adv}/何度も[なんども]/
+vielmehr{adv}/寧ろ[むしろ]/
 Vielmännerei{f}/一妻多夫[いっさいたふ]/
 vielschichtig{adj}/七重の[ななえの]/
 Vielschichtigkeit{f}/多層[たそう]/
 vielseitig{adv}{adj}/多角的[たかくてき]/
 Vielseitigkeit{f}/多才[たさい]/
-vielversprechend{adv}/良い[いい]/好い[いい]/
+vielversprechend{adv}/嘱望すべき[しょくぼうすべき]/
 Vielvölkerstaat{m}/多民族国家[たみんぞくこっか]/
 Vielzahl{f}/複数[ふくすう]/
-vier{num}/四[よん]/四つ[よっつ]/
+vier{num}/四[よん]/四[し]/四つ[よっつ]/
 Vierbeiner{m}/四つ足[よつあし]/
 vierbeinig{adj}/四つ足の[よつあしの]/
 vierdimensional{adj}/四次元の[よじげんの]/
-Viereck{n}/角[かく]/スクウェア[すくうぇあ]/スクエア[すくえあ]/
+Viereck{n}/角[かく]/
 viereckig{adj}/四角い[しかくい]/
 vierfach{adj}/四重[しじゅう]/
 Vierfüßer{m}/四足獣[しそくじゅう]/
@@ -31846,20 +31841,20 @@ violett{adj}/紫色の[むらさきいろの]/
 Violinschlüssel{m}/ト音記号[とおんきごう]/
 Viper{f}/鎖蛇[くさりへび]/
 Virologie{f}/ウイルス学[ういるすがく]/
-Virtualität{f}/仮想[かそう]/バーチャル[ばーちゃる]/
+Virtualität{f}/バーチャル[ばーちゃる]/
 virtuell{adj}/バーチャルな[ばーちゃるな]/
-Virtuose{m}/達人[たつじん]/名人[めいじん]/名手[めいしゅ]/権威[けんい]/マイスター[まいすたー]/
+Virtuose{m}/名人[めいじん]/
 Virtuosität{f}/名人芸[めいじんげい]/
 Virulenz{f}/伝染力[でんせんりょく]/
-Virus{m}{n}/ウイルス[ういるす]/ウィルス[うぃるす]/
+Virus{m}{n}/ウイルス[ういるす]/
 Viruskrankheit{f}/ウイルス病[ういるすびょう]/
 Visage{f}/人相[にんそう]/
 Visavis{n}/相対する人[あいたいするひと]/
 Visier{n}/スコープ[すこーぷ]/
-Vision{f}/夢[ゆめ]/ビジョン[びじょん]/幻[まぼろし]/夢想[むそう]/夢幻[むげん]/幻影[げんえい]/空想[くうそう]/幻想[げんそう]/
+Vision{f}/(Vorstellung von der Zukunft) 未来像[みらいぞう]/ビジョン[びじょん]/
 visionär{adj}/幻想的[げんそうてき]/
 Visionär{m}/夢想家[むそうか]/
-Visitation{f}/参観[さんかん]/検察[けんさつ]/
+Visitation{f}/(Besichtigung) 参観[さんかん]/
 Visite{f}/訪問[ほうもん]/
 Visitenkarte{f}/名刺[めいし]/
 Viskosimeter{n}/粘度計[ねんどけい]/
@@ -31870,16 +31865,16 @@ Vitalfunktion{f}/生活機能[せいかつきのう]/
 Vitalkapazität{f}/肺活量[はいかつりょう]/
 Vitamin{n}/ビタミン[びたみん]/
 vitaminreich{adj}/栄養のある[えいようのある]/
-Vitrine{f}/ケース[けーす]/ショーケース[しょーけーす]/
+Vitrine{f}/(Schaukasten) 陳列ケース[ちんれつけーす]/
 Viviparie{f}/母体発芽[ぼたいはつが]/
 Vivisektion{f}/生体解剖[せいたいかいぼう]/
 Vize{m}/次席[じせき]/
 Vizeadmiral{m}/副将[ふくしょう]/
 Vizekonsul{m}/代理公使[だいりこうし]/
 Vizekönig{m}/総督[そうとく]/
-Vizepräsident{m}/副会長[ふくかいちょう]/副大統領[ふくだいとうりょう]/
+Vizepräsident{m}/(~ des Aufsichtsrat) 副会長[ふくかいちょう]/(~ eines Landes) 副大統領[ふくだいとうりょう]/
 Vliesstoff{m}/不織布[ふしょくふ]/
-Vogel{m}/鳥[とり]/酉[とり]/酉[とり]/
+Vogel{m}/鳥[とり]/
 Vogelbeobachter{m}/バード･ウォッチャー[ばーどうぉっちゃー]/
 Vogelbeobachtung{f}/バードウォッチング[ばーどうぉっちんぐ]/
 Vogelflinte{f}/鳥銃[ちょうじゅう]/
@@ -31894,7 +31889,7 @@ Vogelnest{n}/塒[ねぐら]/
 Vogelperspektive{f}/鳥瞰[ちょうかん]/
 Vogelpfeife{f}/バードコール[ばーどこーる]/
 Vogelruf{m}/バードコール[ばーどこーる]/
-Vogelscheuche{f}/ブス[ぶす]/案山子[かかし]/
+Vogelscheuche{f}/案山子[かかし]/
 Vogelschlag{m}/バード・ストライク[ばーどすとらいく]/
 Vogelschutz{n}/鳥類保護[ちょうるいほご]/
 Vogelschutzgebiet{n}/バード･サンクチュアリー[ばーどさんくちゅありー]/
@@ -31904,9 +31899,9 @@ Vogt{m}/代官[だいかん]/
 Vogtei{f}/代官所[だいかんしょ]/
 Voicemail{f}/ボイスメール[ぼいすめーる]/
 Vokabel{f}/単語[たんご]/
-Vokabular{n}/用語[ようご]/語彙[ごい]/
-Vokalmusik{f}/ボーカル[ぼーかる]/声楽[せいがく]/ヴォーカル[う゛ぉーかる]/
-Volk{n}/国民[こくみん]/国家[こっか]/群[むれ]/ピープル[ぴーぷる]/民[たみ]/民衆[みんしゅう]/人民[じんみん]/民族[みんぞく]/庶民[しょみん]/群れ[むれ]/
+Vokabular{n}/(Terminologie) 用語[ようご]/(Wortschatz) 語彙[ごい]/
+Vokalmusik{f}/声楽[せいがく]/
+Volk{n}/人民[じんみん]/
 Volksaufstand{m}/一揆[いっき]/
 Volksausgabe{f}/廉価版[れんかばん]/
 Volksbegehren{n}/住民請願[じゅうみんせいがん]/
@@ -31916,7 +31911,7 @@ Volkscharakter{m}/国民性[こくみんせい]/
 Volkseinkommen{n}/国民所得[こくみんしょとく]/
 Volkshochschule{f}/成人学校[せいじんがっこう]/
 Volkskunde{f}/民俗学[みんぞくがく]/
-Volkslied{n}/歌[うた]/唄[うた]/民謡[みんよう]/
+Volkslied{n}/民謡[みんよう]/
 Volksmusik{f}/民族音楽[みんぞくおんがく]/
 Volkssage{f}/民話[みんわ]/
 Volksschule{f}/初等数学[しょとうすうがく]/
@@ -31924,15 +31919,14 @@ Volksschullehrer{m}/訓導[くんどう]/
 Volkssouveränität{f}/民主[みんしゅ]/
 Volksstimmung{f}/人気[にんき]/
 Volkstanz{m}/フォークダンス[ふぉーくだんす]/
-volkstümlich{adj}{adv}/郷土[きょうど]/庶民的[しょみんてき]/
-Volksvertreter{m}/議員[ぎいん]/代議士[だいぎし]/
-Volksvertretung{f}/国会[こっかい]/議会[ぎかい]/
+volkstümlich{adj}{adv}/庶民的[しょみんてき]/
+Volksvertreter{m}/(Abgeordneter) 議員[ぎいん]/
+Volksvertretung{f}/(Parlament) 国会[こっかい]/
 Volkswille{m}/人心[じんしん]/
 Volkswirt{m}/エコノミスト[えこのみすと]/
 Volkswirtschaft{f}/国民経済[こくみんけいざい]/
 Volkszählung{f}/国勢調査[こくせいちょうさ]/
-voll{adv}/たっぷり[たっぷり]/丸い[まるい]/こってり[こってり]/満々[まんまん]/ぎっしり[ぎっしり]/ふっくら[ふっくら]/
-voll sein{vi}/詰まる[つまる]/
+voll{adv}/(reichlich) たっぷり[たっぷり]/(~ sein;überfüllt sein) 詰まる[つまる]/
 vollautomatisch{adj}/完全自動の[かんぜんじどうの]/
 Vollbad{n}/全身浴[ぜんしんよく]/
 Vollbart{m}/髭[ひげ]/
@@ -31945,9 +31939,9 @@ Vollbremsung{f}/急ブレーキ[きゅうぶれーき]/
 Vollbringung{f}/完遂[かんすい]/
 vollbusig{adj}/胸の豊かな[むねのゆたかかな]/
 Vollduplex{n}/全二重[ぜんにじゅう]/
-vollenden{vt}/上がる[あがる]/仕上がる[しあがる]/作り上げる[つくりあげる]/整える[ととのえる]/果たす[はたす]/仕上げる[しあげる]/終える[おえる]/
+vollenden{vt}/完成する[かんせいする]/
 vollendet{adj}/円熟した[えんじゅくした]/
-Vollendung{f}/完成[かんせい]/修了[しゅうりょう]/完璧[かんぺき]/出来上がり[できあがり]/成就[じょうじゅ]/完了[かんりょう]/仕上げ[しあげ]/円満[えんまん]/既成[きせい]/一杯[いっぱい]/成立[せいりつ]/大成[たいせい]/究極[きゅうきょく]/完結[かんけつ]/
+Vollendung{f}/完成[かんせい]/
 Volleyball{m}/バレーボール[ばれーぼーる]/
 Volleyballspieler{m}/バレーボールの選手[ばれーぼーるのせんしゅ]/
 vollführen{vt}/実行する[じっこうする]/
@@ -31955,32 +31949,32 @@ Vollgummireifen{m}/充実タイヤ[じゅうじつたいや]/
 Vollidiot{m}/底抜けのばか[そこぬけのばか]/
 volljährig werden/成年に達する[せいねんにたっする]/
 Volljährigkeit{f}/成年[せいねん]/
-vollkommen{adv}/全然[ぜんぜん]/土台[どだい]/すっかり[すっかり]/殆[ほとほと]/幾[ほとほと]/ずぶ[ずぶ]/すっぽり[すっぽり]/台無し[だいなし]/
-Vollkommenheit{f}/完全[かんぜん]/完璧[かんぺき]/大全[たいぜん]/円満[えんまん]/完備[かんび]/万全[ばんぜん]/
+vollkommen{adv}/完全な[かんぜんな]/
+Vollkommenheit{f}/完全[かんぜん]/
 Vollkornbrot{n}/全粒パン[ぜんりゅうぱん]/
 Vollkornmehl{n}/全粒粉[ぜんりゅうふん]/
 Volllast{f}/満載荷重[まんさいかじゅう]/
 Vollmacht{f}/委任[いにん]/
 Vollmilch{f}/全乳[ぜんにゅう]/
 Vollmitglied{n}/フル･メンバー[ふるめんばー]/
-Vollmond{m}/満月[まんげつ]/望[もち]/望月[もちづき]/一輪[いちりん]/名月[めいげつ]/
+Vollmond{m}/満月[まんげつ]/
 Vollmondgesicht{n}/のっぺらぼうな顔[のっぺらぼうなかお]/
 Vollnarkose{f}/全身麻酔[ぜんしんますい]/
 Vollstrecker{m}/完成者[かんせいしゃ]/
-Vollstreckung{f}/執行[しっこう]/施行[しこう]/
+Vollstreckung{f}/執行[しっこう]/
 Vollstreckungsbefehl{m}/執行命令[しっこうめいれい]/
-vollständig{adj}{adv}/全て[すべて]/挙げて[あげて]/正しい[ただしい]/丸々[まるまる]/充分[じゅうぶん]/既に[すでに]/全く[まったく]/コンプリート[こんぷりーと]/総て[すべて]/徹底的[てっていてき]/
-Vollständigkeit{f}/完全[かんぜん]/正[せい]/充実[じゅうじつ]/大全[たいぜん]/フル[ふる]/丸[まる]/円満[えんまん]/奇麗[きれい]/奇麗[きれい]/綺麗[きれい]/綺麗[きれい]/完備[かんび]/満足[まんぞく]/
+vollständig{adj}{adv}/完全な[かんぜんな]/
+Vollständigkeit{f}/完全[かんぜん]/
 Volltext{m}/フル･テキスト[ふるてきすと]/
 Volltextsuche{f}/フルテキスト検索[ふるてきすとけんさく]/
-Volltreffer{m}/当たり[あたり]/当り[あたり]/大当たり[おおあたり]/
-Vollversammlung{f}/総会[そうかい]/本会議[ほんかいぎ]/
+Volltreffer{m}/(Erfolg) 当たり[あたり]/
+Vollversammlung{f}/総会[そうかい]/
 Vollwandträger{m}/プレート･ガーダー[ぷれーとがーだー]/
 Vollzeit{f}/フルタイム[ふるたいむ]/
 Vollzeitbeschäftigung{f}/常勤[じょうきん]/
-vollziehen{vt}/行う[おこなう]/行なう[おこなう]/
-Vollziehung{f}/実施[じっし]/執行[しっこう]/
-Volumen{n}/編[ぺん]/量[りょう]/ボリューム[ぼりゅーむ]/大きさ[おおきさ]/
+vollziehen{vt}/(durchführen) 行う[おこなう]/
+Vollziehung{f}/実施[じっし]/
+Volumen{n}/体積[たいせき]/
 voluminös{adj}/かさのある[かさのある]/
 voluntaristisch{adj}/主意主義的[しゅいしゅぎてき]/
 Volute{f}/渦巻き模様[うずまきもよう]/
