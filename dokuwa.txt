@@ -32291,9 +32291,9 @@ Waage{f}/天秤[てんびん]/
 Waagschale{f}/秤の皿[はかりのさら]/
 Wabe{f}/ほう房[ほうぼう]/
 Wabenmuster{n}/亀の甲[かめのこう]/
-wach werden{vi}/起きる[おきる]/目を覚ます[めをさます]/覚める[さめる]/覚ます[さます]/目覚める[めざめる]/
+wach werden{vi}/起きる[おきる]/
 Wachdienst{m}/歩哨勤務[ほしょうきんむ]/
-Wache{f}/番[ばん]/ウォッチ[うぉっち]/ウオッチ[うおっち]/見張り[みはり]/警備[けいび]/
+Wache{f}/警備[けいび]/
 wachen{vi}/見張る[みはる]/
 Wachhaus{n}/番所[ばんしょ]/
 Wachhund{m}/番犬[ばんけん]/
@@ -32301,14 +32301,14 @@ Wachmann{m}/ガードマン[がーどまん]/
 Wachmannschaft{f}/衛兵[えいへい]/
 Wachs{n}/ワックス[わっくす]/
 wachsam{adj}{adv}/油断のない[ゆだんのない]/
-Wachsamkeit{f}/目[め]/警戒[けいかい]/気配り[きくばり]/眼[め]/
+Wachsamkeit{f}/注意[ちゅうい]/
 Wachsausschmelzverfahren{n}/ロスト･ワックス法[ろすとわっくすほう]/
 Wachschiff{n}/警備艦[けいびかん]/
-wachsen{vi}/出来る[できる]/育つ[そだつ]/伸びる[のびる]/生える[はえる]/湧く[わく]/
+wachsen{vi}/生える[はえる]/
 Wachsfigur{f}/蝋人形[ろうにんぎょう]/
 Wachskerze{f}/ハシラサボテン[はしらさぼてん]/
 Wachstuch{n}/油単[ゆたん]/
-Wachstum{n}/成長[せいちょう]/繁殖[はんしょく]/増加[ぞうか]/伸び[のび]/発達[はったつ]/発展[はってん]/生長[せいちょう]/生育[せいいく]/育ち[そだち]/
+Wachstum{n}/成長[せいちょう]/
 Wachstumsfaktor{m}/成長因子[せいちょういんし]/
 Wachstumsperiode{f}/成長期[せいちょうき]/
 Wachstumsrate{f}/成長率[せいちょうりつ]/
@@ -32322,7 +32322,7 @@ Wade{f}/脹脛[ふくらはぎ]/
 Wadenbein{n}/腓骨[ひこつ]/
 Wadenkrampf{m}/こむら返り[こむらがえり]/
 Wafer{m}/基板[きばん]/
-Waffe{f}/武器[ぶき]/兵器[へいき]/
+Waffe{f}/兵器[へいき]/
 Waffel{f}/ワッフル[わっふる]/
 Waffen{pl}/武装[ぶそう]/
 Waffenexport{m}/兵器輸出[へいきゆしゅつ]/
@@ -32337,16 +32337,16 @@ Waffenstillstandslinie{f}/停戦ライン[ていせんらいん]/
 Waffensystem{n}/兵器システム[へいきしすてむ]/
 Wagemut{m}/大胆不敵[だいたんふてき]/
 wagemutig{adv}/敢えて[あえて]/
-Wagen{m}/車[くるま]/カート[かーと]/自動車[じどうしゃ]/車両[しゃりょう]/車輌[しゃりょう]/
+Wagen{m}/{ugs.} 車[くるま]/(Automobil) 自動車[じどうしゃ]/
 Wagenheber{m}/ジャッキ[じゃっき]/
 Wagenlenker{m}/御者[ぎょしゃ]/
 Wagenrad{n}/車輪[しゃりん]/
 Wagenrücklauf{m}/キャリッジリターン[きゃりっじりたーん]/
 Wagenschuppen{m}/車庫[しゃこ]/
-Wagenspur{f}/軌跡[きせき]/軌道[きどう]/轍[わだち]/
+Wagenspur{f}/轍[てつ]/
 Waghalsigkeit{f}/無謀[むぼう]/
 Wagnis{n}/試み[こころみ]/
-Wahl{f}/選択[せんたく]/投票[とうひょう]/選出[せんしゅつ]/選挙[せんきょ]/選[せん]/当選[とうせん]/チョイス[ちょいす]/
+Wahl{f}/{Politik} 選挙[せんきょ]/(Aus~) 選択[せんたく]/
 Wahlbeteiligung{f}/投票率[とうひょうりつ]/
 Wahlbezirk{m}/選挙区[せんきょく]/
 Wahlergebnis{n}/当落[とうらく]/
@@ -32361,12 +32361,12 @@ Wahllokal{n}/投票所[とうひょうしょ]/
 wahllos{adv}/所構わず[ところかまわず]/
 Wahllosigkeit{f}/無差別[むさべつ]/
 Wahlmann{m}/大統領選挙人[だいとうりょうせんきょにん]/
-Wahlmöglichkeit{f}/チョイス[ちょいす]/選択肢[せんたくし]/
+Wahlmöglichkeit{f}/選択肢[せんたくし]/
 Wahlniederlage{f}/落選[らくせん]/
 Wahlrecht{n}/aktives ~ 選挙権[せんきょけん]/passives ~ 被選挙権[ひせんきょけん]/{jur.}  選挙法[せんきょほう]/
 Wahlrede{f}/街頭演説[がいとうえんぜつ]/
 Wahlschalter{m}/セレクター[せれくたー]/
-Wahlspruch{m}/座右の銘[ざゆうのめい]/銘[めい]/
+Wahlspruch{m}/(Motto) 座右の銘[ざゆうのめい]/
 Wahlsystem{n}/選挙制度[せんきょせいど]/
 Wahlurne{f}/投票箱[とうひょうばこ]/
 Wahlverhalten{n}/投票行動[とうひょうこうどう]/
@@ -32374,35 +32374,35 @@ Wahlversammlung{f}/選挙会[せんきょかい]/
 Wahlverteidiger{m}/私選弁護人[しせんべんごにん]/
 Wahlverwandtschaft{f}/親和性[しんわせい]/
 Wahlwiederholung{f}/リダイヤル[りだいやる]/
-Wahn{m}/妄想[もうそう]/迷い[まよい]/
+Wahn{m}/妄想[もうそう]/
 Wahnidee{f}/妄想[もうそう]/
-Wahnsinn{m}/狂気[きょうき]/発狂[はっきょう]/狂い[くるい]/狂乱[きょうらん]/
-wahnsinnig{adv}{adj}/凄い[すごい]/クレイジー[くれいじー]/酷い[ひどい]/物凄い[ものすごい]/やけに[やけに]/凄く[すごく]/馬鹿に[ばかに]/無茶[むちゃ]/
+Wahnsinn{m}/(Geisteskrankheit) 狂気[きょうき]/
+wahnsinnig{adv}{adj}/{fig.}(irrsinnig) 物凄い[ものすごい]/(verrückt) 狂気の[きょうきの]/
 Wahnsinnige{m}{f}/狂女[きょうじょ]/
 Wahnvorstellung{f}/妄想[もうそう]/
 wahren{vt}/繋ぐ[つなぐ]/
 Wahrhaftigkeit{f}/真実味[しんじつみ]/
-Wahrheit{f}/本当[ほんとう]/理屈[りくつ]/道[みち]/如実[にょじつ]/真[しん]/誠[まこと]/路[みち]/真相[しんそう]/実際[じっさい]/真実[しんじつ]/
+Wahrheit{f}/真実[しんじつ]/
 Wahrheitsliebe{f}/真理への愛[しんりへのあい]/
 Wahrheitsserum{n}/自白薬[じはくやく]/
 wahrlich{adv}/げに[げに]/
 wahrnehmbar{adj}{adv}/目に見えて[めにみえて]/
-Wahrnehmung{f}/意識[いしき]/明[めい]/感知[かんち]/
+Wahrnehmung{f}/知覚[ちかく]/
 Wahrnehmungsschwelle{f}/識別閾[しきべついき]/
-Wahrsagen{n}/占い[うらない]/占[うらない]/
-Wahrsager{m}/占い[うらない]/占[うらない]/占い師[うらないし]/
+Wahrsagen{n}/占い[うらない]/
+Wahrsager{m}/占い師[うらないし]/
 Wahrsagerei{f}/占卜[せんぼく]/
-wahrscheinlich{adj}{adv}/でしょう[でしょう]/或いは[あるいは]/大方[おおかた]/大体[たいてい]/多分[たぶん]/確か[たしか]/大抵[たいてい]/濃い[こい]/大概[たいがい]/恐らく[おそらく]/
-Wahrscheinlichkeit{f}/可能性[かのうせい]/見込み[みこみ]/確率[かくりつ]/有力[ゆうりょく]/
+wahrscheinlich{adj}{adv}/多分[たぶん]/
+Wahrscheinlichkeit{f}/確率[かくりつ]/
 Wahrscheinlichkeitsrechnung{f}/確率論[かくりつろん]/
 Wahrscheinlichkeitstheorie{f}/確率論[かくりつろん]/
 Wahrscheinlichkeitsverteilung{f}/分布[ぶんぷ]/
-Wahrzeichen{n}/象徴[しょうちょう]/記号[きごう]/
+Wahrzeichen{n}/象徴[しょうちょう]/
 Waisenhaus{n}/孤児院[こじいん]/
 Waisenkind{n}/遺児[いじ]/
 Wal{m}/鯨[いさな]/
 Walbeobachtung{f}/ホエール･ウオッチング[ほえーるうおっちんぐ]/
-Wald{m}/山[やま]/森[もり]/林間[りんかん]/林[はやし]/森林[しんりん]/
+Wald{m}/森[もり]/
 Waldbaum{m}/林木[りんぼく]/
 Waldbewohner{m}/森林動物[しんりんどうぶつ]/
 Waldbrand{m}/山火事[やまかじ]/
@@ -32430,7 +32430,7 @@ Walnuss{f}/胡桃[くるみ]/
 Walpurgisnacht{f}/百鬼夜行[ひゃっきやこう]/
 Walross{n}/セイウチ[せいうち]/
 Waltran{m}/鯨油[げいゆ]/
-Walze{f}/ロール[ろーる]/ローラー[ろーらー]/
+Walze{f}/ローラー[ろーらー]/
 walzen/ローラーでならす[ろーらーでならす]/
 Walzenlager{n}/ローラ支承[ろーらししょう]/
 Walzer{m}/ワルツ[わるつ]/
@@ -32441,14 +32441,14 @@ Walöl{n}/鯨の油[くじらのあぶら]/
 Wampe{f}/太鼓腹[たいこばら]/
 Wams{m}/胴着[どうぎ]/
 Wand{f}/壁[かべ]/
-Wandel{m}/変化[へんか]/変遷[へんせん]/移り変わり[うつりかわり]/推移[すいい]/メリハリ[めりはり]/移り[うつり]/
+Wandel{m}/変化[へんか]/
 wandelbar{adv}{adj}/無常の[むじょうの]/
 Wandelbarkeit{f}/無常[むじょう]/
 Wandelgang{m}/ロビー[ろびー]/
 wandeln{vt}{vi}/彷徨する[ほうこうする]/
 Wandelobligation{f}/転換社債[てんかんしゃさい]/
 Wanderausstellung{f}/巡回展[じゅんかいてん]/
-Wanderer{m}/旅人[たびびと]/風来坊[ふうらいぼう]/ハイカー[はいかー]/行人[こうじん]/
+Wanderer{m}/徒歩旅行者[とほりょこうしゃ]/ハイカー[はいかー]/
 Wanderfalke{m}/隼[はやぶさ]/
 Wanderfisch{m}/回遊魚[かいゆうぎょ]/
 Wanderheuschrecke{f}/トノサマバッタ[とのさまばった]/
@@ -32464,15 +32464,15 @@ Wanderschuh{m}/ウォーキングシューズ[うぉーきんぐしゅーず]/
 Wanderstab{m}/ステッキ[すてっき]/
 Wanderstock{m}/ステッキ[すてっき]/
 Wandertheater{n}/どさ回り[どさまわり]/
-Wanderung{f}/移動[いどう]/移住[いじゅう]/ハイク[はいく]/ハイキング[はいきんぐ]/遍歴[へんれき]/
+Wanderung{f}/徒歩旅行[とほりょこう]/ハイキング[はいきんぐ]/
 Wandervogel{m}/旅烏[たびがらす]/
 Wanderweg{m}/コース[こーす]/
 Wandkalender{m}/柱暦[はしらごよみ]/
 Wandkarte{f}/掛け図[かけず]/
 Wandmaler{m}/壁画家[へきがか]/
 Wandmalerei{f}/壁画[へきが]/
-Wandschirm{m}/目隠し[めかくし]/屏風[びょうぶ]/
-Wandschrank{m}/開き[ひらき]/押入れ[おしいれ]/
+Wandschirm{m}/(spanische Wand) 屏風[びょうぶ]/
+Wandschrank{m}/(japanischer ~) 押入れ[おしいれ]/
 Wandspiegel{m}/姿見[すがたみ]/
 Wandtafel{f}/黒板[こくばん]/
 Wandtäfelung{f}/腰板[こしいた]/
@@ -32480,18 +32480,18 @@ Wanduhr{f}/クロック[くろっく]/
 Wandverkleidung{f}/羽目板[はめいた]/
 Wandzeitung{f}/壁新聞[かべしんぶん]/
 Wange{f}/頬[ほお]/
-Wankelmut{m}/浮気[うわき]/優柔不断[ゆうじゅうふだん]/
-wankelmütig{adj}/ふらふら[ふらふら]/フラフラ[ふらふら]/飽きっぽい[あきっぽい]/
+Wankelmut{m}/浮気[うわき]/
+wankelmütig{adj}/浮気っぽい[うわきっぽい]/
 Wanken{n}/ぎちぎち[ぎちぎち]/
 Wanst{m}/太鼓腹[たいこばら]/
 Want{m}/横静索[よこせいさく]/
 Wanze{f}/盗聴器[とうちょうき]/
 Wapiti{m}/アメリカ赤鹿[あめりかあかしか]/
-Wappen{n}/記[しるし]/紋[もん]/紋章[もんしょう]/
+Wappen{n}/紋[もん]/
 Wappenbuch{n}/武鑑[ぶかん]/
 Waran{m}/大蜥蜴[おおとかげ]/
-Ware{f}/商品[しょうひん]/品物[しなもの]/品[しな]/物資[ぶっし]/
-Waren{pl}/グッズ[ぐっず]/用品[ようひん]/品目[ひんもく]/貨物[かもつ]/品物[しなもの]/物資[ぶっし]/物品[ぶっぴん]/
+Ware{f}/(Handels~) 商品[しょうひん]/
+Waren{pl}/商品[しょうひん]/
 Warenbestand{m}/棚卸し資産[たなおろししさん]/
 Warenbörse{f}/商品取引所[しょうひんとりひきじょ]/
 Wareneingang{m}/入荷[にゅうか]/
@@ -32507,13 +32507,13 @@ Warenpreis{m}/物価[ぶっか]/
 Warenprobe{f}/見本[みほん]/
 Warentest{m}/商品テスト[しょうひんてすと]/
 Warenverkehr{m}/交通[こうつう]/
-Warenverzeichnis{n}/品目[ひんもく]/品書き[しながき]/
+Warenverzeichnis{n}/品目表[ひんもくひょう]/
 Warenwert{m}/商品価値[しょうひんかち]/
-Warenzeichen{n}/銘柄[めいがら]/商標[しょうひょう]/
-warm{adj}{adv}/暖かい[あったかい]/温かい[あったかい]/ぽかぽか[ぽかぽか]/ウェット[うぇっと]/ほかほか[ほかほか]/ウエット[うえっと]/ウォーム[うぉーむ]/暖か[あたたか]/暖か[あたたか]/
+Warenzeichen{n}/銘柄[めいがら]/
+warm{adj}{adv}/(Schreibung für Klima und Wetter) 暖かい[あったかい]/(Schreibung für Dinge) 温かい[あったかい]/
 warm werden{vi}/温まる[あったまる]/
 Warmblüter{m}/温血動物[おんけつどうぶつ]/
-warmherzig{adj}/暖かい[あったかい]/温かい[あったかい]/厚い[あつい]/暖か[あたたか]/
+warmherzig{adj}/心の温かい[こころのあたたかい]/
 Warmstart{m}/ウォーム[うぉーむ]/
 Warmwalzen{n}/熱間圧延[ねっかんあつえん]/
 Warmwasser{n}/温水[おんすい]/
@@ -32526,16 +32526,16 @@ Warnmeldung{f}/警告メッセージ[けいこくめっせーじ]/
 Warnruf{m}/警戒声[けいかいごえ]/
 Warnschild{n}/立て札[たてふだ]/
 Warnschuss{m}/威嚇射撃[いかくしゃげき]/
-Warnsignal{n}/警鐘[けいしょう]/赤信号[あかしんごう]/
-Warnung{f}/注意[ちゅうい]/戒め[いましめ]/鑑[かん]/忠告[ちゅうこく]/進言[しんげん]/警鐘[けいしょう]/お断り[おことわり]/意見[いけん]/断り[ことわり]/威嚇[いかく]/警告[けいこく]/
+Warnsignal{n}/警戒信号[けいかいしんごう]/
+Warnung{f}/注意[ちゅうい]/
 Warnzeichen{n}/危険信号[きけんしんごう]/
 Warteliste{f}/補欠人名簿[ほけつにんめいぼ]/
-warten{vi}/待つ[まつ]/手がける[てがける]/控える[ひかえる]/
-Warteraum{m}/寄付[よりつき]/待合室[まちあいしつ]/休憩室[きゅうけいしつ]/休憩所[きゅうけいじょ]/
+warten{vi}/待つ[まつ]/
+Warteraum{m}/待合室[まちあいしつ]/
 Warteschleife{f}/空中待機[くうちゅうたいき]/
 Wartezeit{f}/待ち時間[まちじかん]/
-Wartezimmer{n}/待合室[まちあいしつ]/控え室[ひかえしつ]/
-Wartung{f}/維持[いじ]/メンテナンス[めんてなんす]/保守[ほしゅ]/メンテ[めんて]/手入れ[ていれ]/看病[かんびょう]/整備[せいび]/
+Wartezimmer{n}/待合室[まちあいしつ]/
+Wartung{f}/維持[いじ]/メンテナンス[めんてなんす]/
 Wartungsdienst{m}/整備[せいび]/
 wartungsfrei{adj}/メンテナンスフリーの[めんてなんすふりーの]/
 Wartungskosten{pl}/経費[けいひ]/
@@ -32543,12 +32543,7 @@ Warze{f}/疣[いぼ]/
 warzenartig{adj}/いぼ状の[いぼじょうの]/
 Warzenschwein{n}/イボイノシシ[いぼいのしし]/
 warzig{adj}/いぼの多い[いぼのおおい]/
-Was für eine Unverschämtheit!/不埒千万![ふらちせんばん！]/
-was immer/如何に[いかに]/
-Was ist daraus geworden?/あれはどうなりましたか。[あれはどうなりましたか。]/
-Was kostet das?/いくらですか。[いくらですか。]/
-Was sind Sie von Beruf?/あなたの職業は何ですか。[あなたのしょくぎょうはなにですか。]/
-Was soll das heißen?/どうしたわけだ。[どうしたわけだ。]/
+was/何[なに]/
 waschbar{adv}/洗いのきく[あらいのきく]/
 Waschbecken{n}/洗面台[せんめんだい]/
 Waschbrett{n}/洗濯板[せんたくいた]/
@@ -32562,7 +32557,7 @@ Waschküche{f}/洗濯屋[せんたくや]/
 Waschlappen{m}/弱虫[よわむし]/
 Waschmaschine{f}/洗濯機[せんたくき]/
 Waschmittel{n}/洗剤[せんざい]/
-Waschraum{m}/手洗い[てあらい]/手洗[てあらい]/洗面所[せんめんじょ]/
+Waschraum{m}/洗面所[せんめんじょ]/
 Waschschüssel{f}/洗面器[せんめんき]/
 Waschseife{f}/洗濯石鹸[せんたくせっけん]/
 Waschtag{m}/洗濯日[せんたくび]/
@@ -32570,7 +32565,7 @@ Waschtisch{m}/洗面台[せんめんだい]/
 Waschung{f}/清め[きよめ]/
 Waschwanne{f}/洗濯だらい[せんたくだらい]/
 Waschwasser{n}/洗濯水[せんたくすい]/
-Wasser{n}/水[みず]/尿[いばり]/
+Wasser{n}/(kaltes ~) 水[みず]/(heißes ~) お湯[おゆ]/
 Wasser lassen/小便をする[しょうべんをする]/
 Wasserabfluss{m}/水捌け[みずはけ]/
 Wasserader{f}/地脈[ちみゃく]/
@@ -32579,7 +32574,7 @@ Wasseraufbereitungsanlage{f}/浄水場[じょうすいじょう]/
 Wasseraufnahme{f}/吸水[きゅうすい]/
 Wasserball{m}/水球[すいきゅう]/
 Wasserbau{m}/水力工学[すいりょくこうがく]/
-Wasserbehälter{m}/水槽[すいそう]/オケ[おけ]/桶[おけ]/
+Wasserbehälter{m}/(Wasserspeicher) 水槽[すいそう]/
 Wasserblase{f}/水泡[すいほう]/
 Wasserbombe{f}/水雷[すいらい]/
 Wasserbüffel{m}/水牛[すいぎゅう]/
@@ -32591,7 +32586,7 @@ Wasserdurchlässigkeit{f}/透水性[とうすいせい]/
 Wasserentnahme{f}/取水[しゅすい]/
 Wasserentsalzung{f}/淡水化[たんすいか]/
 Wasserfahrzeug{n}/舟艇[しゅうてい]/
-Wasserfall{m}/滝[たき]/瀧[たき]/
+Wasserfall{m}/滝[たき]/
 Wasserfarbe{f}/水性塗料[すいせいとりょう]/
 Wasserfass{n}/水桶[みずおけ]/
 Wasserfloh{m}/微塵子[みじんこ]/
@@ -32623,7 +32618,7 @@ wasserlöslich{adj}/水溶性の[すいようせいの]/
 Wasserlöslichkeit{f}/水溶性[すいようせい]/
 Wassermangel{m}/水不足[みずぶそく]/
 Wassermann{m}/人魚[にんぎょ]/
-Wassermelone{f}/スイカ[すいか]/西瓜[すいか]/
+Wassermelone{f}/西瓜[すいか]/
 Wassermenge{f}/水かさ[みずかさ]/
 Wassermühle{f}/水車小屋[すいしゃごや]/
 Wassernixe{f}/水の精[みずのせい]/
@@ -32668,7 +32663,7 @@ Wasserstoffbombe{f}/水爆[すいばく]/
 Wasserstoffbrückenbindung{f}/水素結合[すいそけつごう]/
 Wasserstoffperoxid{n}/過酸化水素[かさんかすいそ]/
 Wasserstrahl{m}/水柱[みずばしら]/
-Wasserstraße{f}/チャンネル[ちゃんねる]/水路[すいろ]/水道[すいどう]/
+Wasserstraße{f}/水路[すいろ]/
 Wassersucht{f}/水腫[すいしゅ]/
 Wassersäule{f}/水柱[みずばしら]/
 Wassertemperatur{f}/水温[すいおん]/
@@ -32680,10 +32675,10 @@ Wasserturm{m}/給水塔[きゅうすいとう]/
 Wasseruhr{f}/水道メーター[すいどうめーたー]/
 Wasserunfall{m}/水難事故[すいなんじこ]/
 Wasserverschmutzung{f}/水質汚濁[すいしつおだく]/
-Wasserversorgung{f}/水道[すいどう]/給水[きゅうすい]/
+Wasserversorgung{f}/水道[すいどう]/
 Wasservogel{m}/水鳥[みずどり]/
 Wasservorrat{m}/貯水[ちょすい]/
-Wasserwaage{f}/準[みずもり]/水準[みずばかり]/
+Wasserwaage{f}/水準器[すいじゅんき]/
 Wasserweg{m}/水路[すいろ]/
 Wasserwerfer{m}/放水車[ほうすいしゃ]/
 Wasserwerk{n}/水道局[すいどうきょく]/
@@ -32706,12 +32701,11 @@ Weberei{f}/織元[おりもと]/
 Weberschiffchen{n}/シャトル[しゃとる]/
 Webkante{f}/耳[みみ]/
 Webseite{f}/ウェブページ[うぇぶぺーじ]/
-Website{f}/サイト[さいと]/ウェブサイト[うぇぶさいと]/
+Website{f}/ウェブサイト[うぇぶさいと]/
 Webstuhl{m}/機[はた]/
-Wechsel{m}/変化[へんか]/切り替え[きりかえ]/切替[きりかえ]/更迭[こうてつ]/変わり目[かわりめ]/異動[いどう]/入れ替わり[いれかわり]/入れ替え[いれかえ]/曲折[きょくせつ]/変遷[へんせん]/移り変わり[うつりかわり]/変動[へんどう]/為替[かわせ]/動き[うごき]/推移[すいい]/交番[こうばん]/手形[てがた]/交替[こうたい]/交代[こうたい]/変わり[かわり]/移行[いこう]/
+Wechsel{m}/(Veränderung) 変化[へんか]/(Geld~) 両替[りょうがえ]/
 Wechselaussteller{m}/振出人[ふりだしにん]/
 Wechselbeziehung{f}/相関[そうかん]/
-Wechselfälle{pl}/曲折[きょくせつ]/栄枯盛衰[えいこせいすい]/
 Wechselgesang{m}/掛け合い[かけあい]/
 wechselhaft{adj}/飽きっぽい[あきっぽい]/
 Wechselkursmechanismus{m}/欧州為替相場メカニズム[おうしゅうかわせそうばめかにずむ]/
@@ -32734,21 +32728,21 @@ Wecken{n}/起こし[おこし]/
 Wecker{m}/アラーム[あらーむ]/目覚まし時計[めざましどけい]/
 Wecksignal{n}/起床ラッパ[きしょうらっぱ]/
 Wedeln{n}/ウエーデルン[うえーでるん]/
-Weg{m}/手[て]/路地[ろじ]/方法[ほうほう]/ジャーニー[じゃーにー]/メディア[めでぃあ]/通り[とおり]/通り[とおり]/道[みち]/道[みち]/手段[しゅだん]/通り道[とおりみち]/仕方[しかた]/進路[しんろ]/往来[おうらい]/経路[けいろ]/小路[こうじ]/路[みち]/路[みち]/途[と]/走行[そうこう]/通路[かよいじ]/道路[どうろ]/道筋[みちすじ]/ウェイ[うぇい]/コース[こーす]/由[よし]/
-Wegbereiter{m}/パイオニア[ぱいおにあ]/先駆け[さきがけ]/魁[さきがけ]/先人[せんじん]/
+Weg{m}/道[みち]/
+Wegbereiter{m}/(Pionier) パイオニア[ぱいおにあ]/{Milit.}(Vorhut) 先駆け[さきがけ]/
 wegblasen{vt}/吹き飛ばす[ふきとばす]/
 wegbleiben{vi}/落ちる[おちる]/
-wegen{prp; +Genitiv; +Dativ [ugs.]}/為[ため]/ならば[ならば]/
+wegen{prp; +Genitiv; +Dativ [ugs.]}/...のせいで[...のせいで]/
 wegfahren{vi}/乗り出す[のりだす]/
 wegfallen{vi}/落ちる[おちる]/
-weggehen{vi}/行く[いく]/いく[いく]/出る[でる]/帰る[かえる]/下がる[さがる]/
+weggehen{vi}/立ち去る[たちさる]/
 wegjagen{vt}/追い払う[おいはらう]/
 weglassen{vt}/抜く[ぬく]/
-weglaufen{vi}/行く[いく]/逃げ出す[にげだす]/飛び出す[とびだす]/いく[いく]/逃げる[にげる]/抜け出す[ぬけだす]/
+weglaufen{vi}/逃げ出す[にげだす]/
 Wegmesser{m}/オドメーター[おどめーたー]/
-wegnehmen{vt}/奪う[うばう]/獲る[える]/取り上げる[とりあげる]/
+wegnehmen{vt}/(rauben) 奪う[うばう]/(entziehen) 取り上げる[とりあげる]/
 wegraffen{vt}/攫う[さらう]/
-Wegrand{m}/街角[まちかど]/道端[みちばた]/
+Wegrand{m}/路頭[ろとう]/
 wegreißen{vt}/引き離す[ひきはなす]/
 wegrutschen{vi}/滑る[すべる]/
 wegschieben{vt}/押しやる[おしやる]/
@@ -32758,16 +32752,16 @@ wegschleudern{vt}/捨てる[すてる]/
 wegschmeißen{vt}/投げ捨てる[なげすてる]/
 wegschnappen{vt}/攫う[さらう]/
 wegschneiden{vt}/切り取る[きりとる]/
-Wegstrecke{f}/道のり[みちのり]/区間[くかん]/道程[みちのり]/
-Wegweiser{m}/道しるべ[みちしるべ]/道案内[みちあんない]/道標[どうひょう]/
+Wegstrecke{f}/道程[みちのり]/
+Wegweiser{m}/道しるべ[みちしるべ]/
 wegwischen{vt}/拭く[ふく]/
 wegziehen{vt}/引き離す[ひきはなす]/
 wehen{vi}/吹く[ふく]/
 Wehklage{f}/愁嘆[しゅうたん]/
 Wehklagen{n}/慟哭[どうこく]/
-Wehmut{f}/哀愁[あいしゅう]/悲哀[ひあい]/
+Wehmut{f}/哀愁[あいしゅう]/
 wehmütig{adv}/暗然[あんぜん]/
-Wehr{n}/防衛[ぼうえい]/国防[こくぼう]/
+Wehr{n}/(Damm) 堰[せき]/{Bsp:sich zur Wehr setzen 抵抗する[ていこうする]}(Widerstand) 抵抗[ていこう]/
 Wehrdienst{m}/兵役[へいえき]/
 Wehrdienstverweigerer{m}/徴兵忌避者[ちょうへいきひしゃ]/
 Wehrlosigkeit{f}/無防備[むぼうび]/
@@ -32781,12 +32775,12 @@ weibisch{adv}/女性的[じょせいてき]/
 weiblich{adj}{adv}/女子[じょし]/
 Weiblichkeit{f}/雌性[しせい]/
 Weibsbild{n}/女[おんな]/
-weich{adv}/柔らかい[やわらかい]/柔軟[じゅうなん]/ドルチェ[どるちぇ]/やんわり[やんわり]/フワフワ[ふわふわ]/とろとろ[とろとろ]/柔らか[やわらか]/へろへろ[へろへろ]/ふわり[ふわり]/緩い[ゆるい]/
-Weiche{f}/ポイント[ぽいんと]/スイッチ[すいっち]/分岐点[ぶんきてん]/
+weich{adv}/柔らかい[やわらかい]/
+Weiche{f}/{Eisenb.} 転轍器[てんてつき]/(Wendepunkt) 分岐点[ぶんきてん]/
 Weichei{n}/弱虫[よわむし]/
 weichen{vi}/譲る[ゆずる]/
 Weichensteller{m}/転轍手[てんてつしゅ]/
-Weichheit{f}/滑らか[なめらか]/軟弱[なんじゃく]/
+Weichheit{f}/(Sanftheit) 柔らかみ[やわらかみ]/
 weichherzig{adv}{adj}/脆い[もろい]/
 Weichkoralle{f}/海鶏頭[うみけいとう]/
 weichlich{adj}/弱々しい[よわよわしい]/
@@ -32796,10 +32790,9 @@ Weichmacher{m}/可塑剤[かそざい]/
 Weichsel{f}/ヴァイクセル[う゛ぁいくせる]/
 Weichspüler{m}/柔軟剤[じゅうなんざい]/
 Weichtier{n}/軟体動物[なんたいどうぶつ]/
-Weide{f}/牧場[まきば]/牧野[ぼくや]/柳[やなぎ]/牧[まき]/
+Weide{f}/牧場[まきば]/
 Weideland{n}/牧野[ぼくや]/
-Weiden{n}/放し飼い[はなしがい]/野放し[のばなし]/
-weiden lassen{vt}/放し飼いにする[はなしがいにする]/
+weiden{vt}/(~  lassen) 放し飼いにする[はなしがいにする]/
 Weidenbaum{m}/柳[やなぎ]/
 Weidenkorb{m}/柳行李[やなぎごうり]/
 Weidenmeise{f}/コガラ[こがら]/
@@ -32808,7 +32801,7 @@ Weidewirtschaft{f}/牧畜業[ぼくちくぎょう]/
 Weigerung{f}/不承[ふしょう]/
 Weihbild{n}/絵馬[えま]/
 weihen{vt}/捧げる[ささげる]/
-Weihnachten{n}/クリスマス[くりすます]/ノエル[のえる]/
+Weihnachten{n}/クリスマス[くりすます]/
 Weihnachtsdekoration{f}/クリスマスの装飾[くりすますのそうしょく]/
 Weihnachtsfeier{f}/クリスマスパーティー[くりすますぱーてぃー]/
 Weihnachtsferien{pl}/冬休み[ふゆやすみ]/
@@ -32829,7 +32822,7 @@ Wein{m}/ワイン[わいん]/
 Weinbau{m}/ぶどう栽培[ぶどうさいばい]/
 Weinbauer{m}/ぶどう栽培者[ぶどうさいばいしゃ]/
 Weinberg{m}/葡萄畑[ぶどうばたけ]/
-Weinen{n}/泣き[なき]/しくしく[しくしく]/泣き声[なきごえ]/
+Weinen{n}/泣き[なき]/
 weinend{adv}/泣く泣く[なくなく]/
 weinerlich{adj}{adv}/涙脆い[なみだもろい]/
 Weinessig{m}/ワインビネガー[わいんびねがー]/
@@ -32850,19 +32843,19 @@ Weinschlauch{m}/皮袋[かわぶくろ]/
 Weinstein{m}/酒石[しゅせき]/
 Weinsäure{f}/酒石酸[しゅせきさん]/
 weise{adv}/賢い[かしこい]/
-Weise{m}{f}/通り[とおり]/調べ[しらべ]/仕方[しかた]/
-Weisheit{f}/知恵[ちえ]/見識[けんしき]/知[ち]/智[ち]/智恵[ちえ]/智慧[ちえ]/賢明[けんめい]/英明[えいめい]/
+Weise{m}{f}/仕方[しかた]/
+Weisheit{f}/知恵[ちえ]/
 Weisheitszahn{m}/親知らず[おやしらず]/
 weissagen{vt}/判じる[はんじる]/
 Weissager{m}/易者[えきしゃ]/
-Weissagung{f}/占い[うらない]/予言[よげん]/占[うらない]/
+Weissagung{f}/予言[よげん]/
 Weisung{f}/命令[めいれい]/
-weit{adv}/遠い[とおい]/程遠い[ほどとおい]/幅広い[はばひろい]/広く[ひろく]/広々[ひろびろ]/洋洋[ようよう]/広い[ひろい]/緩やか[ゆるやか]/央[おう]/ぽっかり[ぽっかり]/
+weit{adv}/広い[ひろい]/
 weit hergeholt{adv}/こじつけの[こじつけの]/
 weit weg/奥まった[おくまった]/
 Weitblick{m}/読み[よみ]/
 weitblickend/先見の明がある[せんけんのめいがある]/
-Weite{f}/範囲[はんい]/広がり[ひろがり]/遠目[とおめ]/広大[こうだい]/広さ[ひろさ]/間隔[かんかく]/
+Weite{f}/広がり[ひろがり]/
 weiter/その他[そのた]/且つ[かつ]/又[また]/復[また]/この先[このさき]/先に[さきに]/もっと[もっと]/
 Weiterbildung{f}/補習[ほしゅう]/
 Weiterentwicklung{f}/進展[しんてん]/進捗[しんちょく]/
