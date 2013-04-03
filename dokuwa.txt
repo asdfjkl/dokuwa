@@ -32981,19 +32981,17 @@ Weltstadt{f}/メトロポリス[めとろぽりす]/
 Weltuntergang{m}/世界破滅[せかいはめつ]/
 Weltverbesserung{f}/世直し[よなおし]/
 Weltwirtschaft{f}/世界経済[せかいけいざい]/
-Wende{f}{m}/逆転[ぎゃくてん]/ターン[たーん]/切り替え[きりかえ]/切替[きりかえ]/変わり目[かわりめ]/折り返し[おりかえし]/
+Wende{f}{m}/転換[てんかん]/
 Wendehals{m}/風見鶏[かざみどり]/
 Wendekreis{m}/回帰線[かいきせん]/
 Wendekreishalbmesser{m}/最小回転半径[さいしょうかいてんはんけい]/
 Wendeltreppe{f}/螺旋階段[らせんかいだん]/
 wenden{vt}/転じる[てんじる]/
-Wendepunkt{m}/変わり目[かわりめ]/曲がり角[まがりかど]/山場[やまば]/分岐点[ぶんきてん]/転機[てんき]/
+Wendepunkt{m}/転換期[てんかんき]/
 Wenderadius{m}/回転半径[かいてんはんけい]/
 wendig{adj}{adv}/すばしっこい[すばしっこい]/
-Wendung{f}/逆[ぎゃく]/ターン[たーん]/変わり目[かわりめ]/反転[はんてん]/転換[てんかん]/転向[てんこう]/打開[だかい]/フレーズ[ふれーず]/裏返し[うらがえし]/
-wenig{adv}/小さな[ちいさな]/少ない[すくない]/僅か[わずか]/幾ら[いくら]/稀[まれ]/希[まれ]/小さい[ちいさい]/
-wenig beneidenswert/うらやむに足りない[うらやむにたりない]/
-wenig verlockend/まずそうな[まずそうな]/
+Wendung{f}/転換[てんかん]/
+wenig{adv}/(ein bisschen) 少し[すこし]/(gering) 少ない[すくない]/
 wenige{adj}/多少[たしょう]/
 Wenigkeit{f}/寡[か]/
 wenn auch{conj}/も[も]/
@@ -33016,22 +33014,22 @@ Werbetext{m}/広告文[こうこくぶん]/
 Werbetexter{m}/コピーライター[こぴーらいたー]/
 Werbevertreter{m}/アドマン[あどまん]/
 Werbewert{m}/宣伝価値[せんでんかち]/
-Werbung{f}/広告[こうこく]/広報[こうほう]/アド[あど]/プロモーション[ぷろもーしょん]/誘致[ゆうち]/コマーシャル[こまーしゃる]/勧誘[かんゆう]/宣伝[せんでん]/チラシ[ちらし]/
+Werbung{f}/広告[こうこく]/
 Werdegang{m}/進展[しんてん]/
 Werden{n}/生成[せいせい]/
-werden{vi}/至る[いたる]/成る[なる]/赴く[おもむく]/
+werden{vi}/成る[なる]/
 Werfen{n}/投球[とうきゅう]/
-werfen{vt}/投げる[なげる]/産む[うむ]/生む[うむ]/
-Werfer{m}/投手[とうしゅ]/ピッチャー[ぴっちゃー]/
+werfen{vt}/投げる[なげる]/
+Werfer{m}/{Baseb.} 投手[とうしゅ]/
 Werft{f}/造船所[ぞうせんじょ]/
 Werg{n}/麻屑[あさくず]/
-Werk{n}/作品[さくひん]/制作[せいさく]/ファクトリー[ふぁくとりー]/仕業[しわざ]/製作所[せいさくじょ]/事業[じぎょう]/工場[こうじょう]/作[さく]/細工[さいく]/著作[ちょさく]/作物[さくもつ]/
+Werk{n}/(Kunst~) 作品[さくひん]/(Fabrik) 工場[こうじょう]/
 Werkbank{f}/仕事台[しごとだい]/
-Werkstatt{f}/工房[こうぼう]/工場[こうじょう]/
-Werkstoff{m}/材料[ざいりょう]/マテリアル[まてりある]/
+Werkstatt{f}/工房[こうぼう]/
+Werkstoff{m}/材料[ざいりょう]/
 Werkstück{n}/ワーク[わーく]/
 Werkzeichnung{f}/施行図[せこうず]/
-Werkzeug{n}/器[うつわ]/具[ぐ]/手先[てさき]/工具[こうぐ]/道具[どうぐ]/器具[きぐ]/機械[きかい]/
+Werkzeug{n}/道具[どうぐ]/
 Werkzeughalter{m}/ツール･ホルダー[つーるほるだー]/
 Werkzeugkasten{m}/道具箱[どうぐばこ]/
 Werkzeugleiste{f}/ツールバー[つーるばー]/
@@ -33040,28 +33038,26 @@ Werkzeugraum{m}/道具部屋[どうぐべや]/
 Werkzeugstahl{n}/工具鋼[こうぐこう]/
 Werkzeugtasche{f}/道具入れ[どうぐいれ]/
 Wermut{m}/ベルモット[べるもっと]/
-Wert{m}/価格[かかく]/値[あたい]/値[あたい]/メリット[めりっと]/甲斐[かい]/価値[かち]/値打ち[ねうち]/取得[とりどく]/効[かい]/プライス[ぷらいす]/バリュー[ばりゅー]/重点[じゅうてん]/
+Wert{m}/価値[かち]/
 Wertangabe{f}/価格表記[かかくひょうき]/
 Wertarbeit{f}/上製[じょうせい]/
 Wertgegenstand{m}/有価物[ゆうかぶつ]/
 Wertigkeit{f}/品位[ひんい]/
-wertlos{adj}{adv}/犬[いぬ]/三文[さんもん]/安っぽい[やすっぽい]/
+wertlos{adj}{adv}/無価値な[むかちな]/
 Wertlosigkeit{f}/無価値[むかち]/
 Wertmarke{f}/引換券[ひきかえけん]/
-Wertpapier{n}/証券[しょうけん]/ボンド[ぼんど]/
+Wertpapier{n}/有価証券[ゆうかしょうけん]/ボンド[ぼんど]/
 Wertpapieraufsicht{f}/証券取引監督[しょうけんとりひきかんとく]/
 Wertpapierbesitz{m}/保有証券[ほゆうしょうけん]/
 Wertpapierhandel{m}/証券取引行為[しょうけんとりひきこうい]/
-Wertschätzung{f}/愛[あい]/価値[かち]/値打ち[ねうち]/鑑賞[かんしょう]/尊重[そんちょう]/
+Wertschätzung{f}/(Ehrehrbietung) 尊敬[そんけい]/
 Wertsteigerung{f}/付加価値[ふかかち]/
 Wertverlust{m}/値下がり[ねさがり]/
-wertvoll{adv}/大切[たいせつ]/尊い[とうとい]/尊[あて]/貴[あて]/珍しい[めずらしい]/
+wertvoll{adv}/貴重な[きちょうな]/
 Werwolf{m}/狼男[おおかみおとこ]/
-Wesen{n}/性[さが]/実体[じったい]/制度[せいど]/人物[じんぶつ]/粋[すい]/人格[じんかく]/パーソナリティー[ぱーそなりてぃー]/在り方[ありかた]/あり方[ありかた]/風情[ふぜい]/本質[ほんしつ]/本性[ほんしょう]/本領[ほんりょう]/天性[てんせい]/持ち前[もちまえ]/性格[せいかく]/実質[じっしつ]/奥[おく]/
-Wesenheit{f}/本領[ほんりょう]/実体[じったい]/
-Wesensart{f}/気象[きしょう]/人格[じんかく]/気質[かたぎ]/持ち前[もちまえ]/
-wesentlich{adv}/主要[しゅよう]/本質的[ほんしつてき]/基礎的[きそてき]/実質的[じっしつてき]/ぐっと[ぐっと]/
-wesentlicher Bestandteil/要素[ようそ]/
+Wesen{n}/本質[ほんしつ]/
+Wesensart{f}/性質[せいしつ]/
+wesentlich{adv}/本質的[ほんしつてき]/
 weshalb/何故[なにゆえ]/
 Wespe{f}/蜂[はち]/スズメバチ[すずめばち]/
 Wespennest{n}/巣[す]/
@@ -33069,7 +33065,7 @@ wessen{pron}/だれの[だれの]/
 Westdeutschland{n}/西ドイツ[にしどいつ]/
 Weste{f}/チョッキ[ちょっき]/
 Westeingang{m}/西口[にしぐち]/
-Westen{m}/だ[だ]/西方[せいほう]/酉[とり]/西[にし]/西欧[せいおう]/
+Westen{m}/西[にし]/(Okzident) 西欧[せいおう]/
 Westeuropa{n}/西欧[せいおう]/
 Westküste{f}/西岸[せいがん]/
 westlich{adv}{adj}/ウェスタン[うぇすたん]/
@@ -33079,14 +33075,14 @@ Westwall{m}/ジークフリート線[じーくふりーとせん]/
 Westwind{m}/西風[せいふう]/
 westwärts{adv}/西へ[にしへ]/
 weswegen{adv}/何故[なにゆえ]/
-Wettbewerb{m}/コンテスト[こんてすと]/競争[きょうそう]/争い[あらそい]/競技[きょうぎ]/争奪戦[そうだつせん]/競演[きょうえん]/種目[しゅもく]/戦い[たたかい]/闘い[たたかい]/争奪[そうだつ]/コンクール[こんくーる]/コンペ[こんぺ]/
+Wettbewerb{m}/競争[きょうそう]/コンクール[こんくーる]/
 Wettbewerbsbeschränkung{f}/取引制限[とりひきせいげん]/
 Wettbewerbspolitik{f}/競争政策[きょうそうせいさく]/
-Wette{f}/ベット[べっと]/賭け[かけ]/
-wetteifern{vi}/比べる[くらべる]/戦う[たたかう]/闘う[たたかう]/競う[きそう]/
+Wette{f}/賭け[かけ]/
+wetteifern{vi}/競争する[きょうそうする]/
 Wetteinsatz{m}/賭け金[かけがね]/
 Wetten{n}/賭け[かけ]/
-Wetter{n}/天気[てんき]/天候[てんこう]/陽気[ようき]/日和[ひより]/空模様[そらもよう]/そら[そら]/気象[きしょう]/お天気[おてんき]/空色[そらいろ]/時候[じこう]/
+Wetter{n}/天気[てんき]/
 Wetteransager{m}/気象予報士[きしょうよほうし]/
 Wetterbeobachtung{f}/気象観測[きしょうかんそく]/
 Wetterbericht{m}/気象情報[きしょうじょうほう]/
@@ -33095,14 +33091,14 @@ Wetterdienst{m}/気象業務[きしょうぎょうむ]/
 Wetterfahne{f}/風見[かざみ]/
 Wetterhahn{m}/風見鶏[かざみどり]/
 Wetterkarte{f}/天気図[てんきず]/
-Wetterlage{f}/そら[そら]/空模様[そらもよう]/雲行き[くもゆき]/空色[そらいろ]/
+Wetterlage{f}/空模様[そらもよう]/
 Wetterprophet{m}/天気予報官[てんきよほうかん]/
 Wettersatellit{m}/気象衛星[きしょうえいせい]/
 Wetterschacht{m}/風穴[かぜあな]/
 Wetterseite{f}/風上[かざかみ]/
 Wetterwarte{f}/気象台[きしょうだい]/
 Wetterwechsel{m}/気象の変化[きしょうのへんか]/
-Wettkampf{m}/試合[しあい]/競争[きょうそう]/競合[きょうごう]/割り[わり]/争い[あらそい]/プレー[ぷれー]/競技[きょうぎ]/戦い[たたかい]/闘い[たたかい]/対抗[たいこう]/勝負[しょうぶ]/
+Wettkampf{m}/競争[きょうそう]/
 Wettkampfsport{m}/競技[きょうぎ]/
 Wettkämpfer{m}/競技者[きょうぎしゃ]/
 Wettlauf{m}/競走[きょうそう]/
@@ -33111,12 +33107,12 @@ Wettschwimmen{n}/水泳競技[すいえいきょうぎ]/
 Wetttrinken{n}/酒戦[しゅせん]/
 wetzen{vt}/砥石でとぐ[といしでとぐ]/
 Whirlpool{m}/ジャクージ[じゃくーじ]/
-Whiskey{m}/ウイスキー[ういすきー]/ウィスキー[うぃすきー]/
-Whisky{m}/ウイスキー[ういすきー]/ウィスキー[うぃすきー]/
+Whiskey{m}/ウイスキー[ういすきー]/
+Whisky{m}/ウイスキー[ういすきー]/
 Whiteboard{n}/ホワイトボード[ほわいとぼーど]/
-wichtig{adv}/大切[たいせつ]/重い[おもい]/厳しい[きびしい]/大事[だいじ]/重たい[おもたい]/大した[たいした]/
+wichtig{adv}/大切[たいせつ]/
 wichtig sein{vi}/物を言う[ものをいう]/
-Wichtigkeit{f}/意味[いみ]/貴重[きちょう]/重要性[じゅうようせい]/重大[じゅうだい]/重き[おもき]/重視[じゅうし]/重要[じゅうよう]/ウエイト[うえいと]/
+Wichtigkeit{f}/重要性[じゅうようせい]/
 Wichtigtuer{m}/世話焼き[せわやき]/
 Wichtigtuerei{f}/高慢[こうまん]/
 Wicke{f}/スイートピー[すいーとぴー]/
@@ -33127,28 +33123,27 @@ Wicklung{f}/巻線[まきせん]/
 Widder{m}/牡羊座[おひつじざ]/
 wider{prp; +Akkusativ}/対して[たいして]/
 Widerhaken{m}/返し[かえし]/
-Widerhall{m}/反響[はんきょう]/共鳴[きょうめい]/
+Widerhall{m}/反響[はんきょう]/
 widerhallen{vi}/響く[ひびく]/
 Widerlager{n}/橋台[きょうだい]/
 Widerlegung{f}/論破[ろんぱ]/
-widerlich{adj}{adv}/嫌[いや]/とんだ[とんだ]/いやに[いやに]/厭[いや]/イヤ[いや]/
+widerlich{adj}{adv}/嫌な[いやな]/
 Widerlichkeit{f}/不味[ふみ]/
 widerrechtlich{adv}/違法的に[いほうてきに]/
 Widerrede{f}/反論[はんろん]/
-Widerruf{m}/撤回[てっかい]/廃棄[はいき]/破棄[はき]/取り消し[とりけし]/
+Widerruf{m}/撤回[てっかい]/
 widerrufen{vt}/覆す[くつがえす]/
 Widersacher{m}/敵[てき]/
 widerspenstig{adv}{adj}/反抗的[はんこうてき]/
-Widerspenstigkeit{f}/癖[くせ]/一国[いっこく]/頑な[かたくな]/偏屈[へんくつ]/
+Widerspenstigkeit{f}/片意地[かたいじ]/
 widersprechen/争う[あらがう]/
 widersprechend{adv}/裏腹な[うらはらな]/
-Widerspruch{m}/反対[はんたい]/反論[はんろん]/文句[もんく]/故障[こしょう]/矛盾[むじゅん]/
+Widerspruch{m}/(Gegenrede) 反論[はんろん]/(Unvereinbarkeit) 矛盾[むじゅん]/
 Widerspruchsfreiheit{f}/無矛盾性[むむじゅんせい]/
 Widerspruchsgeist{m}/天邪鬼[あまのじゃく]/
 widersprüchlich{adv}/逆説的[ぎゃくせつてき]/
 Widersprüchlichkeit{f}/不一致[ふいっち]/
-Widerstand{m}/邪魔[じゃま]/敵対[てきたい]/お邪魔[おじゃま]/反抗[はんこう]/抗[こう]/抵抗[ていこう]/抗争[こうそう]/手応え[てごたえ]/反対[はんたい]/対抗[たいこう]/反発[はんぱつ]/
-Widerstand leisten/当たる[あたる]/当る[あたる]/反する[はんする]/こうする[こうする]/向かう[むかう]/
+Widerstand{m}/(Hindernis) 障害[しょうがい]/(Opposition) 反抗[はんこう]/
 Widerstandsbewegung{f}/レジスタンス[れじすたんす]/
 widerstandsfähig{adj}/強い[つよい]/
 Widerstandsfähigkeit{f}/抵抗力[ていこうりょく]/
@@ -33157,43 +33152,32 @@ Widerstandskämpfer{m}/パルチザン[ぱるちざん]/
 widerstandslos{adj}{adv}/手も無く[てもなく]/
 Widerstreben{n}/抵抗[ていこう]/
 widerstrebend{adj}/渋々[しぶしぶ]/
-Widerstreit{m}/反対[はんたい]/抗争[こうそう]/
-Widerwille{m}/不満[ふまん]/反感[はんかん]/嫌悪[けんお]/不本意[ふほんい]/
+Widerwille{m}/不満[ふまん]/
 widerwillig{adj}/渋々[しぶしぶ]/
 widerwärtig/忌まわしい[いまわしい]/
 widmen{vt}/捧げる[ささげる]/
-Widmung{f}/精進[しょうじん]/贈呈[ぞうてい]/寄贈[きぞう]/奉納[ほうのう]/
+Widmung{f}/献詞[けんし]/
 Widmungsexemplar{n}{f}/献本[けんぽん]/
 widrig{adj}{adv}/疎ましい[うとましい]/
 Widrigkeit{f}/不愉快[ふゆかい]/
-wie{adv}/みたい[みたい]/通り[とおり]/通り[とおり]/凧[いかばかり]/どうやって[どうやって]/如何に[いかに]/ええ[ええ]/
-wie auch immer{adv}/如何に[いかに]/
-Wie die Zeit vergeht!/時のたつのは早いものだ。[ときのたつのははやいものだ。]/
-Wie groß sind Sie?/背の高さはどのくらいですか。[せのたかさはどのくらいですか。]/
-Wie?/えっ[えっ]/
-wieder aufbauen{vt}/建て直す[たてなおす]/
-wieder aufleben{vi}/生き返る[いきかえる]/
-wieder besuchen{vt}/再遊する[さいゆうする]/
-wieder nüchtern werden/酔いがさめる[よいがさめる]/
-wieder tun{vt}/遣り返す[やりかえす]/
-wieder verwenden{vt}/再製する[さいせいする]/
-wieder zu sich kommen{vr}/気がつく[きがつく]/気が付く[きがつく]/
+wie{adv}/どう[どう]/
+wieder/また[また]/
 wiederanstellen{vi}/再任する[さいにんする]/
 wiederaufarbeiten/再処理する[さいしょりする]/
 Wiederaufarbeitung{f}/再処理[さいしょり]/
-Wiederaufbau{m}/改造[かいぞう]/リストラ[りすとら]/再建[さいけん]/再構築[さいこうちく]/改築[かいちく]/復興[ふっこう]/
+Wiederaufbau{m}/再建[さいけん]/
 Wiederauferstehung{f}/返り咲き[かえりざき]/
 Wiederaufführung{f}/再演[さいえん]/
 Wiederauflage{f}/再版[さいはん]/
-Wiederaufleben{n}/回復[かいふく]/蘇生[そせい]/復興[ふっこう]/リバイバル[りばいばる]/
+Wiederaufleben{n}/回復[かいふく]/
 wiederaufleben{vi}/復活する[ふっかつする]/
 Wiederaufnahmeverfahren{n}/覆審[ふくしん]/
 wiederaufnehmen{vt}/復旧する[ふっきゅうする]/
 Wiederaufrüstung{f}/再軍備[さいぐんび]/
 Wiederauftreten{n}/再現[さいげん]/
 Wiederausfuhr{f}/再輸出[さいゆしゅつ]/
-wiederbeleben{vt}/生かす[いかす]/活かす[いかす]/
-Wiederbelebung{f}/回生[かいせい]/更生[こうせい]/蘇生[そせい]/リバイバル[りばいばる]/
+wiederbeleben{vt}/生かす[いかす]/
+Wiederbelebung{f}/蘇生[そせい]/
 Wiederbeschaffungskosten{pl}/置換費用[ちかんひよう]/
 wiederbringen{vt}/戻す[もどす]/
 Wiedereinnahme{f}/奪回[だっかい]/
@@ -33206,38 +33190,38 @@ wiedererlangen{vt}/取り戻す[とりもどす]/
 Wiederernennung{f}/再任[さいにん]/
 Wiedererstattung{f}/還付[かんぷ]/
 Wiedereröffnung{f}/再開[さいかい]/
-Wiedergabe{f}/再生[さいせい]/返上[へんじょう]/再現[さいげん]/
+Wiedergabe{f}/(Schilderung) 描写[びょうしゃ]/(Zurückgabe) 返上[へんじょう]/(Playback) 再生[さいせい]/
 wiedergeben{vt}/戻す[もどす]/
-Wiedergeburt{f}/新生[しんせい]/更生[こうせい]/転生[てんせい]/
+Wiedergeburt{f}/生まれ変わり[うまれかわり]/
 wiedergewinnen{vt}/取り戻す[とりもどす]/
 wiedergutmachen{vt}/取り返す[とりかえす]/
-Wiedergutmachung{f}/入れ替え[いれかえ]/取り返し[とりかえし]/
+Wiedergutmachung{f}/弁償[べんしょう]/
 wiederherstellen{vt}/戻す[もどす]/
 Wiederhersteller{m}/中興の祖[ちゅうこうのそ]/
-Wiederherstellung{f}/整理[せいり]/再建[さいけん]/再起[さいき]/回復[かいふく]/復元[ふくげん]/修繕[しゅうぜん]/還元[かんげん]/復興[ふっこう]/取り消し[とりけし]/復旧[ふっきゅう]/挽回[ばんかい]/収束[しゅうそく]/
-wiederholen{vt}/繰り返す[くりかえす]/重ねる[かさねる]/
+Wiederherstellung{f}/回復[かいふく]/
+wiederholen{vt}/繰り返す[くりかえす]/
 Wiederholer{m}/留年生[りゅうねんせい]/
-wiederholt/再度[さいど]/再々[さいさい]/度々[たびたび]/ぽかぽか[ぽかぽか]/しばしば[しばしば]/度重なる[たびかさなる]/段々[だんだん]/重々[じゅうじゅう]/重ねて[かさねて]/
-Wiederholung{f}/再生[さいせい]/繰り返し[くりかえし]/元へ[もとへ]/リピート[りぴーと]/重複[じゅうふく]/反復[はんぷく]/再現[さいげん]/
+wiederholt/再々[さいさい]/
+Wiederholung{f}/繰り返し[くりかえし]/
 Wiederholungsspiel{n}/再試合[さいしあい]/
 Wiederholungstäter{m}/累犯者[るいはんしゃ]/
 Wiederholungszeichen{n}/反復記号[はんぷくきごう]/
-Wiederkehr{f}/回[かい]/回帰[かいき]/再来[さいらい]/
+Wiederkehr{f}/回帰[かいき]/
 wiederkehren{vi}/回帰する[かいきする]/
 wiederkehrend{adv}/回帰的[かいきてき]/
-Wiederkunft{n}/再来[さいらい]/回帰[かいき]/
+Wiederkunft{n}/再来[さいらい]/
 Wiederkäuen{n}/反芻[はんすう]/
 wiederkäuen{vt}/反すうする[はんすうする]/
 Wiederkäuer{m}/反芻動物[はんすうどうぶつ]/
-Wiedersehen{n}/再会[さいかい]/対面[たいめん]/
+Wiedersehen{n}/再会[さいかい]/{Bsp:Auf Wiedersehen! さようなら[さようなら]}/
 Wiedertaufe{f}/再洗礼[さいせんれい]/
 Wiedertäufer{m}/再洗礼派[さいせんれいは]/
 Wiedervereinigung{f}/復縁[ふくえん]/
 Wiederverheiratung{f}/再婚[さいこん]/
-Wiederverkauf{m}/転売[てんばい]/再販[さいはん]/
+Wiederverkauf{m}/転売[てんばい]/
 Wiederverkaufspreis{m}/再販価格[さいはんかかく]/
 Wiederverkäufer{m}/再販業者[さいはんぎょうしゃ]/
-Wiederverwendung{f}/再生[さいせい]/再利用[さいりよう]/
+Wiederverwendung{f}/再生[さいせい]/
 Wiederwahl{f}/再選[さいせん]/
 wiederwählen{vt}/再選する[さいせんする]/
 Wiege{f}/起源[きげん]/
@@ -33248,44 +33232,43 @@ Wiehern{n}/嘶き[いななき]/
 Wiener{m}/ウインナソーセージ[ういんなそーせーじ]/
 Wiener Würstchen{n}/ウインナソーセージ[ういんなそーせーじ]/
 wienerisch{adj}/ウイーンの[ういーんの]/
-Wiese{f}/牧場[まきば]/草原[くさはら]/牧野[ぼくや]/芝生[しばふ]/牧[まき]/
+Wiese{f}/草原[そうげん]/
 Wiesel{m}/イタチ[いたち]/
 Wiesenblume{f}/草花[くさばな]/
 Wikinger{m}/バイキング[ばいきんぐ]/
-wild{adj}{adv}/猛烈[もうれつ]/無茶[むちゃ]/荒い[あらい]/
+wild{adj}{adv}/野性の[やせいの]/
 Wild{n}/獣[けだもの]/
 Wilddieb{m}/密猟者[みつりょうしゃ]/
-wilde Ehe{f}/関係[かんけい]/同棲[どうせい]/
-Wildente{f}/かも[かも]/鴨[かも]/
+Wildente{f}/鴨[かも]/
 wilder Streik{m}/山猫スト[やまねこすと]/
 Wilderer{m}/密猟者[みつりょうしゃ]/
 wildern{vi}/密猟する[みつりょうする]/
 Wildfang{m}/お転婆[おてんば]/
 Wildgans{f}/雁[かり]/
-Wildheit{f}/野生[やせい]/乱暴[らんぼう]/奔放[ほんぽう]/猛威[もうい]/未開[みかい]/自由奔放[じゆうほんぽう]/
+Wildheit{f}/野生[やせい]/
 Wildkatze{f}/山猫[やまねこ]/
 Wildleder{n}/スエード[すえーど]/
 wildledern{adj}/バックスキンの[ばっくすきんの]/
-Wildnis{f}/荒野[あらの]/野原[のはら]/
+Wildnis{f}/荒野[あらの]/
 Wildpark{m}/禁猟地[きんりょうじ]/
 Wildpferd{n}/野馬[のうま]/
 Wildpflanze{f}/野生植物[やせいしょくぶつ]/
 Wildreis{m}/マコモ[まこも]/
-Wildschwein{n}/猪[いのしし]/イノシシ[いのしし]/
+Wildschwein{n}/猪[いのしし]/
 Wildtier{n}/野生動物[やせいどうぶつ]/
 wildwachsend{adj}/自生の[じせいの]/
 Wildwechsel{m}/獣道[けものみち]/
 Wildwestfilm{m}/西部劇[せいぶげき]/
-Wille{m}/精神[せいしん]/意地[いじ]/志[こころざし]/意[い]/やる気[やるき]/意欲[いよく]/頑張り[がんばり]/意志[いし]/意志[いし]/意志[いし]/
+Wille{m}/意志[いし]/
 Willenserklärung{f}/意思表示[いしひょうじ]/
-Willenskraft{f}/気力[きりょく]/張り[はり]/張[はり]/
+Willenskraft{f}/意志の力[いしのちから]/
 willensschwach{adj}/気の弱い[きのよわい]/
 Willensschwäche{f}/意志薄弱[いしはくじゃく]/
 Willensstärke{f}/根性[こんじょう]/
-Willensäußerung{f}/表示[ひょうじ]/意思表示[いしひょうじ]/
+Willensäußerung{f}/意思表示[いしひょうじ]/
 willfährig{adv}/気持ちよく[きもちよく]/
 willig/素直[すなお]/
-willkommen{adj}/有難い[ありがたい]/有り難い[ありがたい]/好ましい[このましい]/
+willkommen{adj}/(~ sein) 歓迎される[かんげいされる]/(wünschenswert) 好ましい[このましい]/
 willkürlich{adj}{adv}/いい加減[いいかげん]/
 Willkürlichkeit{f}/専行[せんこう]/
 wimmeln{vi}/ごった返す[ごったがえす]/
@@ -33293,16 +33276,16 @@ Wimmern{n}/しくしく[しくしく]/
 wimmern{vi}/しくしく泣く[しくしくなく]/
 Wimper{f}/まつ毛[まつげ]/
 Wimpertierchen{n}/繊毛虫[せんもうちゅう]/
-Wind{m}/風[かぜ]/ウィンド[うぃんど]/ウインド[ういんど]/
+Wind{m}/風[かぜ]/
 Windbeutel{m}/おっちょこちょい[おっちょこちょい]/
 Winddruck{m}/風圧[ふうあつ]/
 Winde{f}/朝顔[あさがお]/
-Windel{f}/オムツ[おむつ]/ナプキン[なぷきん]/
+Windel{f}/御[おむつ]/
 winden{vt}/繰る[くる]/
 Winderosion{f}/風食[ふうしょく]/
 Windgenerator{m}/風力発電[ふうりょくはつでん]/
 Windgeräusch{n}/風声[ふうせい]/
-Windgeschwindigkeit{f}/風力[ふうりょく]/風速[ふうそく]/
+Windgeschwindigkeit{f}/風速[ふうそく]/
 Windhose{f}/竜巻[たつまき]/
 windig{adj}{adv}/風のある[かぜのある]/
 Windjacke{f}/ジャンパー[じゃんぱー]/
@@ -33311,20 +33294,20 @@ Windmesser{m}/風速計[ふうそくけい]/
 Windmühle{f}/風車[かざぐるま]/
 Windpocken{pl}/水疱瘡[みずぼうそう]/
 Windrad{n}/風車[かざぐるま]/
-Windrichtung{f}/向き[むき]/風向き[かざむき]/
+Windrichtung{f}/風向き[かざむき]/
 Windrose{f}/ウィンドローズ[うぃんどろーず]/
 Windschatten{m}/風下[かざしも]/
 Windschutz{m}/防風[ぼうふう]/
 Windseite{f}/風上[かざかみ]/
 windstill{adj}/無風の[むふうの]/
 Windstille{f}/凪[なぎ]/
-Windstoß{m}/風[かぜ]/煽り[あおり]/突風[とっぷう]/
+Windstoß{m}/突風[とっぷう]/
 Windstärke{f}/風力[ふうりょく]/
 Windsurfen{n}/ウインドサーフィン[ういんどさーふぃん]/
-Windung{f}/うねり[うねり]/曲折[きょくせつ]/屈折[くっせつ]/
+Windung{f}/曲折[きょくせつ]/
 Windungen{pl}/渦巻き[うずまき]/
-Wink{m}/記[しるし]/示唆[しさ]/示唆[しさ]/助言[じょげん]/ヒント[ひんと]/形跡[けいせき]/合図[あいず]/
-Winkel{m}/山形[やまがた]/角[かく]/隅[すみ]/角度[かくど]/阿[あ]/
+Wink{m}/合図[あいず]/
+Winkel{m}/角度[かくど]/
 Winkeladvokat{m}/三百代言[さんびゃくだいげん]/
 Winkelbeschleunigung{f}/角加速度[かくかそくど]/
 Winkeleisen{n}/アングル鉄[あんぐるてつ]/
@@ -33336,7 +33319,7 @@ Winkelmesser{m}/分度器[ぶんどき]/
 Winkelschleifer{m}/山形カッター[やまがたかったー]/
 Winkelstahl{m}/山形鋼[やまがたこう]/
 Winkerkrabbe{f}/潮招き[しおまねき]/
-Winter{m}/冬[ふゆ]/冬季[とうき]/ウインター[ういんたー]/ウィンター[うぃんたー]/
+Winter{m}/冬[ふゆ]/
 Winterferien{pl}/冬休み[ふゆやすみ]/
 Wintergoldhähnchen{n}/キクイタダキ[きくいただき]/
 Winterlandschaft{f}/冬景色[ふゆけしき]/
@@ -33344,7 +33327,7 @@ winterlich{adv}/寒々[さむざむ]/
 Wintermonat{m}/霜月[しもつき]/
 Winterolympiade{f}/冬季オリンピック大会[とうきおりんぴっくたいかい]/
 Winterreifen{m}/スノータイヤ[すのーたいや]/
-Wintersaison{f}/冬場[ふゆば]/冬季[とうき]/冬期[とうき]/
+Wintersaison{f}/冬季[とうき]/
 Winterschlaf{m}/冬眠[とうみん]/
 Wintersemester{n}/後期[こうき]/
 Wintersonnenwende{f}/冬至[とうじ]/
@@ -33353,34 +33336,34 @@ Wintersportort{m}/ウインターリゾート[ういんたーりぞーと]/
 Winterwetter{n}/冬型の気候[ふゆがたのきこう]/
 Winterzwiebel{f}/長葱[ながねぎ]/
 Winzer{m}/ぶどう栽培者[ぶどうさいばいしゃ]/
-winzig{adv}{adj}/小さな[ちいさな]/軽い[かるい]/細かい[こまかい]/僅か[わずか]/小さい[ちいさい]/
-Winzigkeit{f}/ちっぽけ[ちっぽけ]/極小[きょくしょう]/零細[れいさい]/
-Wipfel{m}/頂き[いただき]/頂[いただき]/
+winzig{adv}{adj}/小さな[ちいさな]/
+Winzigkeit{f}/極小[きょくしょう]/
+Wipfel{m}/(Spitze) 頂[いただき]/
 Wippe{f}/シーソー[しーそー]/
 wippen{vt}/シーソーをして遊ぶ[しーそーをしてあそぶ]/
-wir{ppron pl}/私たち[わたしたち]/当方[とうほう]/我ら[われら]/我等[われら]/予[よ]/私達[わたしたち]/我々[われわれ]/私ども[わたくしども]/我輩[わがはい]/
-Wirbel{m}/渦[うず]/うず[うず]/渦中[かちゅう]/旋風[せんぷう]/
+wir{ppron pl}/私達[わたしたち]/
+Wirbel{m}/渦巻[うずまき]/
 Wirbelkammer{f}/渦室[うずしつ]/
 wirbellos{adj}{adv}/無せきつい[むせきつい]/
 Wirbellose{m}{f}/無脊椎動物[むせきついどうぶつ]/
 Wirbeln{n}/きりきり舞い[きりきりまい]/
-wirbeln{vi}/巻く[まく]/渦巻く[うずまく]/
+wirbeln{vi}/渦巻く[うずまく]/
 wirbelnd{adv}/まんじともえと[まんじともえと]/
 Wirbelstrom{m}/渦潮電機[うずしおでんき]/
 Wirbelstrombremse{f}/渦電流ブレーキ[うずでんりゅうぶれーき]/
 Wirbelsturm{m}/旋風[せんぷう]/
 Wirbelsäule{f}/背骨[せぼね]/
 Wirbeltier{n}/脊椎動物[せきついどうぶつ]/
-Wirbelwind{m}/風[かぜ]/旋風[せんぷう]/
-wirken{vi}/働く[はたらく]/響く[ひびく]/利く[きく]/効く[きく]/
-wirklich{adv}/本当に[ほんとうに]/生ける[いける]/ものの[ものの]/物の[ものの]/現実的[げんじつてき]/熟[つくづく]/何と言っても[なんといっても]/何といっても[なんといっても]/実に[じつに]/正しく[まさしく]/ても[ても]/何とも[なんとも]/全く[まったく]/随分[ずいぶん]/実際に[じっさいに]/実は[じつは]/一体[いったい]/真の[しんの]/果たして[はたして]/真実[しんじつ]/事実[じじつ]/誠に[まことに]/
-Wirklichkeit{f}/実際[じっさい]/実在[じつざい]/現実[げんじつ]/実生活[じっせいかつ]/真[しん]/誠[まこと]/真実[しんじつ]/事実[じじつ]/
+Wirbelwind{m}/旋風[せんぷう]/
+wirken{vi}/利く[きく]/
+wirklich{adv}/本当に[ほんとうに]/
+Wirklichkeit{f}/実際[じっさい]/
 wirksam{adj}{adv}/効果的[こうかてき]/
-Wirksamkeit{f}/有効[ゆうこう]/有効性[ゆうこうせい]/活動[かつどう]/効き[きき]/作用[さよう]/強烈[きょうれつ]/効果[こうか]/効用[こうよう]/効力[こうりょく]/効き目[ききめ]/
+Wirksamkeit{f}/効き目[ききめ]/
 Wirkstoff{m}/作用物質[さようぶっしつ]/
-Wirkung{f}/有効[ゆうこう]/影響[えいきょう]/記[しるし]/映り[うつり]/写り[うつり]/験[しるし]/効き[きき]/甲斐[かい]/結果[けっか]/応え[こたえ]/効能[こうのう]/効[かい]/働き[はたらき]/作用[さよう]/益[えき]/迫力[はくりょく]/反応[はんのう]/実効[じっこう]/威力[いりょく]/機能[きのう]/手応え[てごたえ]/効果[こうか]/効用[こうよう]/効力[こうりょく]/効き目[ききめ]/
+Wirkung{f}/効き目[ききめ]/
 Wirkungsbereich{m}/天地[あめつち]/
-Wirkungsgrad{m}/効率[こうりつ]/性能[せいのう]/
+Wirkungsgrad{m}/効率[こうりつ]/
 Wirkungskreis{m}/範囲[はんい]/
 wirkungslos{adv}/かいのない[かいのない]/
 Wirkungslosigkeit{f}/無効[むこう]/
@@ -33389,12 +33372,12 @@ wirkungsvoll{adj}{adv}/強い[つよい]/
 wirr{adv}/無茶[むちゃ]/
 Wirren{f}/争乱[そうらん]/
 Wirrkopf{m}/おっちょこちょい[おっちょこちょい]/
-Wirrwarr{n}/混乱[こんらん]/混沌[こんとん]/混雑[こんざつ]/大騒ぎ[おおさわぎ]/
+Wirrwarr{n}/混乱[こんらん]/
 Wirsing{m}/ちりめんキャベツ[ちりめんきゃべつ]/
 Wirt{m}/宿主[しゅくしゅ]/
 Wirtin{f}/女将[じょしょう]/
-Wirtschaft{f}/経済[けいざい]/エコノミー[えこのみー]/
-Wirtschaftlichkeit{f}/経済[けいざい]/節約[せつやく]/安上がり[やすあがり]/
+Wirtschaft{f}/経済[けいざい]/
+Wirtschaftlichkeit{f}/経済性[けいざいせい]/
 Wirtschaftsgeld{n}/家計費[かけいひ]/
 Wirtschaftshilfe{f}/経済援助[けいざいえんじょ]/
 Wirtschaftsindikator{m}/景気指標[けいきしひょう]/
@@ -33423,9 +33406,9 @@ Wischerarm{m}/ワイパ･アーム[わいぱあーむ]/
 Wisent{m}/野牛[やぎゅう]/
 Wismutblende{f}/ユーリタイト[ゆーりたいと]/
 wissbegierig{adj}/根掘り葉掘り[ねほりはほり]/
-Wissen{n}/知識[ちしき]/心当たり[こころあたり]/承知[しょうち]/見聞[けんぶん]/存知[ぞんち]/知見[ちけん]/ご存じ[ごぞんじ]/ご存知[ごぞんじ]/御存知[ごぞんじ]/覚悟[かくご]/見聞き[みきき]/学[がく]/
-Wissenschaft{f}/学[がく]/サイエンス[さいえんす]/学問[がくもん]/学術[がくじゅつ]/科学[かがく]/
-Wissenschaftler{m}/学者[がくしゃ]/科学者[かがくしゃ]/
+Wissen{n}/知識[ちしき]/
+Wissenschaft{f}/学問[がくもん]/
+Wissenschaftler{m}/学者[がくしゃ]/
 wissenschaftlich{adj}{adv}/科学的[かがくてき]/
 Wissenschaftsmuseum{n}/科学博物館[かがくはくぶつかん]/
 Wissenschaftsrat{m}/学術会議[がくじゅつかいぎ]/
@@ -33439,87 +33422,82 @@ Witterungsverhältnisse{pl}/風土[ふうど]/
 Witwe{f}/未亡人[みぼうじん]/
 Witwenrente{f}/寡婦年金[かふねんきん]/
 Witwer{m}/鰥夫[やもめ]/
-Witz{m}/戯言[ぎげん]/面白み[おもしろみ]/ギャグ[ぎゃぐ]/落ち[おち]/笑い話[わらいばなし]/戯れ[たわむれ]/戯れ言[ざれごと]/ジョーク[じょーく]/滑稽[こっけい]/軽妙[けいみょう]/面白さ[おもしろさ]/狂言[きょうげん]/冗談[じょうだん]/
+Witz{m}/冗談[じょうだん]/
 Witzbold{m}/茶目[ちゃめ]/
 witzig{adv}/洒落た[しゃれた]/
 Witzigkeit{f}/ウィット[うぃっと]/
-wo auch immer/所嫌わず[ところきらわず]/
-Wo kommen Sie her?/お国はどちらですか。[おくにはどちらですか。]/
-Wo sind Sie geboren?/どこのお生まれですか。[どこのおうまれですか。]/
-Wo wohnen Sie?/お宅はどこですか。[おたくはどこですか。]/
-Woche{f}/週[しゅう]/ウイーク[ういーく]/
+wo/どこで[どこで]/
+Woche{f}/週[しゅう]/
 Wochenbett{n}/産褥[さんじょく]/
-Wochenende{n}/週末[しゅうまつ]/土日[どにち]/
+Wochenende{n}/週末[しゅうまつ]/
 Wochenendhaus{n}/別荘[べっそう]/
 Wochenlohn{m}/週給[しゅうきゅう]/
 Wochenschau{f}/ニュース映画[にゅーすえいが]/
-Wochenschrift{f}/週刊[しゅうかん]/ウィークリー[うぃーくりー]/
-Wochentag{m}/平日[へいじつ]/曜日[ようび]/
-Wochenzeitung{f}/ウィークリー[うぃーくりー]/
+Wochenschrift{f}/週刊[しゅうかん]/
+Wochentag{m}/平日[へいじつ]/
+Wochenzeitung{f}/週刊[しゅうかん]/
 Wodka{m}/ウオトカ[うおとか]/
 wodurch{adv}{pron}/どうやって[どうやって]/
 Woge{f}/波[なみ]/
 wogen{vi}/波打つ[なみうつ]/
 wogend/うねりくねった[うねりくねった]/
 woher{adv}/どこから[どこから]/
-Woher kommen Sie?/どちらのご出身ですか。[どちらのごしゅっしんですか。]/
 wohin{adv}/どちらへ[どちらへ]/
-Wohl{n}/幸せ[しあわせ]/為[ため]/福祉[ふくし]/
-wohl{adv}/でしょう[でしょう]/或いは[あるいは]/どうやら[どうやら]/大方[おおかた]/大体[たいてい]/多分[たぶん]/確か[たしか]/大抵[たいてい]/所が[ところが]/大概[たいがい]/先ず[まず]/
+Wohl{n}/幸せ[しあわせ]/
+wohl{adv}/(gesund) 元気な[げんきな]/(wahrscheinlich) 多分[たぶん]/
 wohlauf{adv}/息災に[そくさいに]/
-Wohlbefinden{n}/健康[けんこう]/健やか[すこやか]/
+Wohlbefinden{n}/健康[けんこう]/
 wohlbegründet{adj}/根拠のある[こんきょのある]/
 wohlbehalten{adj}/無事に[ぶじに]/
 wohldurchdacht{adj}/合理的[ごうりてき]/
-Wohlergehen{n}/幸せ[しあわせ]/幸[さち]/安泰[あんたい]/福祉[ふくし]/幸福[こうふく]/繁栄[はんえい]/健全[けんぜん]/
+Wohlergehen{n}/幸せ[しあわせ]/
 Wohlfahrtseinrichtung{f}/福祉施設[ふくししせつ]/
 Wohlfahrtspflege{f}/福祉事業[ふくしじぎょう]/
 wohlfeil{adv}/割安な[わりやすな]/
 wohlgeformt{adv}/すらり[すらり]/
 Wohlgefühl{n}/快感[かいかん]/
 wohlgemut{adj}/喜々として[ききとして]/
-Wohlgeruch{m}/香り[かおり]/匂い[におい]/芳香[ほうこう]/薫り[かおり]/
+Wohlgeruch{m}/薫り[かおり]/
 Wohlgeschmack{m}/美味[びみ]/
-wohlhabend{adj}{adv}/楽しい[たのしい]/厚い[あつい]/豊か[ゆたか]/愉しい[たのしい]/
+wohlhabend{adj}{adv}/金持ちの[かねもちの]/
 Wohlklang{m}/諧調[かいちょう]/
 wohlklingend{adj}{adv}/調和した[ちょうわした]/
 Wohlleben{n}/奢侈[しゃし]/
 wohlriechend{adj}/香ばしい[こうばしい]/
-Wohlstand{m}/福[ふく]/富裕[ふゆう]/福祉[ふくし]/繁盛[はんじょう]/繁栄[はんえい]/裕福[ゆうふく]/
-Wohltat{f}/恩恵[おんけい]/慈悲[じひ]/恩[おん]/
+Wohlstand{m}/裕福[ゆうふく]/
+Wohltat{f}/恩恵[おんけい]/
 wohltuend{adj}{adv}/衛生によい[えいせいによい]/
 Wohltäter{m}/恩人[おんじん]/
 wohltätig{adv}/恵み深い[めぐみぶかい]/
-Wohltätigkeit{f}/仁[じん]/チャリティー[ちゃりてぃー]/恵み[めぐみ]/チャリティ[ちゃりてぃ]/
+Wohltätigkeit{f}/慈善[じぜん]/
 Wohltätigkeitsbasar{m}/慈善市[じぜんいち]/
 Wohltätigkeitsveranstaltung{f}/チャリティーショー[ちゃりてぃーしょー]/
 Wohltätigkeitsverein{m}/慈善団体[じぜんだんたい]/
 wohlverdient{adj}/当然の[とうぜんの]/
-Wohlwollen{n}/好感[こうかん]/恩[おん]/好意[こうい]/お陰[おかげ]/お蔭[おかげ]/親切[しんせつ]/
+Wohlwollen{n}/好感[こうかん]/
 wohlwollend{adv}{adj}/好意的[こういてき]/
 wohlüberlegt{adv}/休み休み[やすみやすみ]/
 Wohnbauland{n}/宅地[たくち]/
 Wohnblock{m}/共同住宅[きょうどうじゅうたく]/
-Wohnen{n}/住[じゅう]/棲息[せいそく]/居住[きょじゅう]/
-wohnen{vi}/住む[すむ]/居る[いる]/宿る[やどる]/棲む[すむ]/寝起き[ねおき]/
+wohnen{vi}/住む[すむ]/
 Wohngebiet{n}/生息地[せいそくち]/
 Wohngebäude{n}/家屋[かおく]/
 Wohngeld{n}/住居手当[じゅうきょてあて]/
 Wohngemeinschaft{f}/ルーム･シェア[るーむしぇあ]/
-Wohnhaus{n}/住宅[じゅうたく]/家屋[かおく]/民家[みんか]/
-Wohnheim{n}/寮[りょう]/宿舎[しゅくしゃ]/
+Wohnhaus{n}/住宅[じゅうたく]/
+Wohnheim{n}/(Studenten~) 寮[りょう]/(Quartier) 宿舎[しゅくしゃ]/
 Wohnkomplex{m}/一団地[いちだんち]/
 Wohnkosten{pl}/居住費[きょじゅうひ]/
 Wohnküche{f}/リビングキッチン[りびんぐきっちん]/
 wohnlich{adj}/居心地のいい[いごこちのいい]/
 Wohnmobil{n}/キャンピングカー[きゃんぴんぐかー]/
-Wohnort{m}/地[じ]/居場所[いばしょ]/住所[じゅうしょ]/
+Wohnort{m}/(Wohnsitz) 住所[じゅうしょ]/
 Wohnrecht{n}/居住権[きょじゅうけん]/
 Wohnsiedlung{f}/団地[だんち]/
 Wohnstube{f}/居間[いま]/
-Wohnstätte{f}/生息地[せいそくち]/住処[すみか]/
+Wohnstätte{f}/住処[すみか]/
 Wohnumfeld{n}/住環境[じゅうかんきょう]/
-Wohnung{f}/家[いえ]/フラット[ふらっと]/宅[たく]/住居[すまい]/自宅[じたく]/住処[すみか]/部屋[へや]/居住[きょじゅう]/住宅[じゅうたく]/家庭[かてい]/住まい[すまい]/住[じゅう]/アパート[あぱーと]/
+Wohnung{f}/住居[すまい]/
 Wohnungsbau{m}/住宅建築[じゅうたくけんちく]/
 Wohnungsbaugenossenschaft{f}/住宅組合[じゅうたくくみあい]/
 Wohnungsmangel{m}/住宅難[じゅうたくなん]/
@@ -33528,9 +33506,9 @@ Wohnungssuche{f}/貸家捜し[かしやさがし]/
 Wohnungswechsel{m}/宿替え[やどがえ]/
 Wohnviertel{n}/住宅街[じゅうたくがい]/
 Wohnwagen{m}/トレーラーハウス[とれーらーはうす]/
-Wohnzimmer{n}/リビング[りびんぐ]/居間[いま]/茶の間[ちゃのま]/
+Wohnzimmer{n}/リビングルーム[りびんぐるーむ]/
 Wok{m}/中華鍋[ちゅうかなべ]/
-Wolf{m}/狼[おおかみ]/オオカミ[おおかみ]/
+Wolf{m}/狼[おおかみ]/
 Wolfram{n}/ヴォルフラム[う゛ぉるふらむ]/
 Wolframkarbid{m}/炭化タングステン[たんかたんぐすてん]/
 Wolke{f}/雲[くも]/
@@ -33543,42 +33521,42 @@ wolkenlos{adj}/快晴の[かいせいの]/
 wolkenverhangen{adj}/雲におおわれた[くもにおおわれた]/
 wolkig{adv}/曇った[くもった]/
 Wolldecke{f}/毛布[もうふ]/
-Wolle{f}/毛[け]/ウール[うーる]/毛糸[けいと]/
-wollen{vt}/思う[おもう]/望む[のぞむ]/想う[おもう]/志す[こころざす]/欲しい[ほしい]/
+Wolle{f}/毛糸[けいと]/
+wollen{vt}/(tun ~) 為たい[...したい]/(haben ~) 欲しい[ほしい]/
 Wollgarn{n}/毛糸[けいと]/
 Wollhändler{m}/織物商[おりものしょう]/
 Wolljacke{f}/毛のジャケット[けのじゃけっと]/
 Wollknäuel{n}/毛糸の玉[けいとのたま]/
 Wollstoff{m}/羅紗[らしゃ]/
-Wollust{f}/色[いろ]/快楽[かいらく]/
+Wollust{f}/(Lüsternheit) 好色[こうしょく]/
 wollüstig{adv}/助平な[すけべえな]/
 Wollüstling{m}/助平[すけべえ]/
 Wombat{m}/ウォンバット[うぉんばっと]/
 womit{adv}{pron}/何で[なんで]/
 Wonne{f}/歓喜[かんき]/
 worfeln{vi}/扇ぐ[あおぐ]/
-Workshop{m}/研究会[けんきゅうかい]/ワークショップ[わーくしょっぷ]/分科会[ぶんかかい]/
-Wort{n}/言葉[ことば]/言の葉[ことのは]/詞[ことば]/語[ご]/辞[ことば]/発言[はつげん]/単語[たんご]/
+Workshop{m}/セミナー[せみなー]/
+Wort{n}/(Sprache) 言葉[ことば]/(Vokabel) 単語[たんご]/
 Wortart{f}/品詞[ひんし]/
 Wortbildung{f}/造語法[ぞうごほう]/
 Wortbruch{m}/破談[はだん]/
 Wortfolge{f}/語順[ごじゅん]/
 Wortführer{m}/名代[みょうだい]/
-Wortgefecht{n}/論争[ろんそう]/口論[こうろん]/論戦[ろんせん]/
+Wortgefecht{n}/口論[こうろん]/
 wortgetreu{adj}/一字一句その通りに[いちじいっくそのとおりに]/
 wortkarg{adj}/口数の少ない[くちかずのすくない]/
 Wortklauber{m}/理屈家[りくつか]/
-Wortlaut{m}/言葉[ことば]/本文[ほんもん]/条文[じょうぶん]/詞[ことば]/辞[ことば]/
+Wortlaut{m}/本文[ほんもん]/
 wortlos{adv}/無言の[むごんの]/
 wortreich{adv}{adj}/諄い[くどい]/
-Wortschatz{m}/用語[ようご]/語彙[ごい]/
+Wortschatz{m}/語彙[ごい]/
 Wortschwall{m}/放言[ほうげん]/
-Wortspiel{n}/あや[あや]/綾[あや]/
+Wortspiel{n}/(Witz) 洒落[しゃれ]/
 Wortstamm{m}/語幹[ごかん]/
 Wortstellung{f}/語順[ごじゅん]/
 Worttrennung{f}/ハイフネーション[はいふねーしょん]/
 Wortverdreher{m}/三百代言[さんびゃくだいげん]/
-Wortwahl{f}/言葉[ことば]/言い回し[いいまわし]/詞[ことば]/辞[ことば]/
+Wortwahl{f}/措辞[そじ]/
 Wrack{n}/残骸[ざんがい]/
 wringen{vt}/絞る[しぼる]/
 Wucherer{m}/アイス[あいす]/
@@ -33590,28 +33568,27 @@ Wulst{m}{f}/隆起[りゅうき]/
 Wundarzt{m}/外科医[げかい]/
 Wundausschneidung{f}/鮮創[せんそう]/
 Wundbrand{m}/壊疽[えそ]/
-Wunde{f}/怪我[けが]/過ち[あやまち]/負傷[ふしょう]/傷[きず]/傷口[きずぐち]/
-Wunder{n}/不思議[ふしぎ]/妙[みょう]/奇跡[きせき]/ミラクル[みらくる]/驚異[きょうい]/
-wunderbar{adv}/素敵[すてき]/素晴らしい[すばらしい]/見事[みごと]/立派[りっぱ]/驚異的[きょういてき]/結構[けっこう]/ワンダフル[わんだふる]/喜ばしい[よろこばしい]/奇跡的[きせきてき]/
+Wunde{f}/怪我[けが]/
+Wunder{n}/奇跡[きせき]/(Erstaunen) 驚異[きょうい]/
+wunderbar{adv}/素晴らしい[すばらしい]/
 Wunderkerze{f}/線香花火[せんこうはなび]/
 Wunderkind{n}/神童[しんどう]/
 Wunderkraft{f}/奇特[きどく]/
 Wunderland{n}/ワンダーランド[わんだーらんど]/
-wunderlich{adv}/怪しい[あやしい]/とんだ[とんだ]/妖しい[あやしい]/グロ[ぐろ]/グロテスク[ぐろてすく]/不思議に[ふしぎに]/異様[いよう]/
-Wunderlichkeit{f}/変[へん]/へん[へん]/
+wunderlich{adv}/怪しい[あやしい]/
+Wunderlichkeit{f}/可笑しさ[おかしさ]/
 Wundermittel{n}/妙薬[みょうやく]/
 wundersam{adv}/奇跡的[きせきてき]/
-wunderschön{adj}/見事[みごと]/ビューティフル[びゅーてぃふる]/
+wunderschön{adj}/見事な[みごとな]/
 Wundertat{f}/不思議[ふしぎ]/
 Wunderzeichen{n}/記[しるし]/
-wundgelegene Stelle{f}/床ずれ[とこずれ]/
-Wunsch{m}/願い[ねがい]/志[こころざし]/意[い]/願望[がんもう]/念[ねん]/志願[しがん]/願い事[ねがいごと]/欲[よく]/リクエスト[りくえすと]/注文[ちゅうもん]/お好み[おこのみ]/願[ねがい]/希望[きぼう]/欲求[よっきゅう]/望み[のぞみ]/志望[しぼう]/お願い[おねがい]/要望[ようぼう]/
+Wunsch{m}/願い[ねがい]/
 Wunschdenken{n}/希望的観測[きぼうてきかんそく]/
 wunschgemäß{adv}/所望により[しょもうにより]/
 Wunschkind{n}/申し子[もうしご]/
 Wunschkonzert{n}/リクエスト番組[りくえすとばんぐみ]/
 Wunschtraum{m}/夢[ゆめ]/願望[がんもう]/
-Wurf{m}/玉[たま]/児[こ]/球[たま]/送球[そうきゅう]/投げ[なげ]/
+Wurf{m}/投げ[なげ]/
 Wurfpfeil{m}/ダーツ[だーつ]/
 Wurfspieß{m}/投げ槍[なげやり]/
 Wurftaube{f}/トラップ[とらっぷ]/
@@ -33623,26 +33600,26 @@ Wurmmittel{n}/虫下し[むしくだし]/
 wurmstichig{adj}/虫食いだらけの[むしくいだらけの]/
 Wurst{f}/ソーセージ[そーせーじ]/
 Wurstzipfel{m}/ソーセージの切れ端[そーせーじのきれはし]/
-Wurzel{f}/原因[げんいん]/根元[ねもと]/根源[こんげん]/ルート[るーと]/根っこ[ねっこ]/付け根[つけね]/根[こん]/根底[こんてい]/
+Wurzel{f}/根[こん]/
 Wurzelbehandlung{f}/歯根の治療[しこんのちりょう]/
 Wurzelgemüse{n}/根菜[こんさい]/
 Wurzelkanal{m}/根管[こんかん]/
 wurzeln{vi}/根ざす[ねざす]/
 Wurzelstock{m}/本木[もとき]/
 Wurzelzeichen{n}/根号[こんごう]/
-Wut{f}/怒り[いかり]/憤慨[ふんがい]/憤り[いきどおり]/
-wutentbrannt sein/烈火のごとく怒る[れっかのごとくおこる]/
-Wächter{m}/警備員[けいびいん]/見張り[みはり]/番人[ばんにん]/
-wählen{vt}/選ぶ[えらぶ]/決める[きめる]/
+Wut{f}/怒り[いかり]/
+wutentbrannt/(~ sein) 烈火のごとく怒る[れっかのごとくおこる]/
+Wächter{m}/警備員[けいびいん]/
+wählen{vt}/選ぶ[えらぶ]/
 Wähler{m}/有権者[ゆうけんしゃ]/
 wählerisch{adj}{adv}/気難しい[きむずかしい]/
 wählerisch sein/選り好みをする[よりごのみをする]/
 Wählerliste{f}/選挙人名簿[せんきょにんめいぼ]/
-Wählerschaft{f}/有権者[ゆうけんしゃ]/地盤[じばん]/
+Wählerschaft{f}/有権者[ゆうけんしゃ]/
 Wählerverzeichnis{n}/選挙人名簿[せんきょにんめいぼ]/
 Wählton{n}/ダイヤル･トーン[だいやるとーん]/
-während{prp; +Genitiv}/内[うち]/間中[あいだじゅう]/共に[ともに]/中[ちゅう]/間に[あいだに]/
-Währung{f}/通貨[つうか]/貨幣[かへい]/
+während{prp; +Genitiv}/間に[あいだに]/
+Währung{f}/貨幣[かへい]/
 Währungseinheit{f}/貨幣単位[かへいたんい]/
 Währungspolitik{f}/通貨政策[つうかせいさく]/
 Währungsreform{f}/通貨制度の改革[つうかせいどのかいかく]/
@@ -33651,7 +33628,7 @@ Währungssystem{n}/通貨制度[つうかせいど]/
 Währungsunion{f}/通貨統合[つうかとうごう]/
 Wälzer{m}/大著[たいちょ]/
 Wälzlager{n}/ローラー･ベアリング[ろーらーべありんぐ]/
-Wärme{f}/暑さ[あつさ]/熱[ねつ]/暑気[しょき]/温もり[ぬくもり]/温暖[おんだん]/温かみ[あたたかみ]/
+Wärme{f}/暖かさ[あたたかさ]/
 Wärmeausdehnung{f}/熱による膨張[ねつによるぼうちょう]/
 Wärmedehnung{f}/熱による膨張[ねつによるぼうちょう]/
 Wärmeeinheit{f}/熱単位[ねつたんい]/
@@ -33672,8 +33649,8 @@ Wärmestrahlung{f}/赤外線[せきがいせん]/
 Wärmetauscher{m}/熱交換器[ねつこうかんき]/
 Wärmeübertragung{f}/熱貫流[ねつかんりゅう]/
 Wärmflasche{f}/湯たんぽ[ゆたんぽ]/
-Wärter{m}/守り[もり]/守[もり]/番人[ばんにん]/
-Wäsche{f}/洗濯[せんたく]/洗い物[あらいもの]/洗濯物[せんたくもの]/
+Wärter{m}/(Gefängnis~) 看守[かんしゅ]/
+Wäsche{f}/(Waschen) 洗濯[せんたく]/(Kleidung) 洗濯物[せんたくもの]/
 Wäscheklammer{f}/洗濯ばさみ[せんたくばさみ]/
 Wäschekorb{m}/洗濯物を入れるかご[せんたくものをいれるかご]/
 Wäscheleine{f}/物干し綱[ものほしつな]/
@@ -33692,31 +33669,31 @@ Wölbung{f}/隆起[りゅうき]/
 Wörterbuch{n}/辞書[じしょ]/
 Wörterverzeichnis{n}/語彙[ごい]/
 wörtlich{adj}/一語一語[いちごいちご]/
-wünschen{vt}/思う[おもう]/願う[ねがう]/望む[のぞむ]/想う[おもう]/祈る[いのる]/欲しい[ほしい]/欲しがる[ほしがる]/
-wünschenswert{adv}/望ましい[のぞましい]/好ましい[このましい]/
-Würde{f}/価値[かち]/見識[けんしき]/気品[きひん]/重み[おもみ]/威厳[いげん]/貫禄[かんろく]/重厚[じゅうこう]/尊厳[そんげん]/値打ち[ねうち]/厳しさ[いかめしさ]/厳重[げんじゅう]/威風[いふう]/品格[ひんかく]/押し[おし]/
+wünschen{vt}/願う[ねがう]/
+wünschenswert{adv}/望ましい[のぞましい]/
+Würde{f}/品位[ひんい]/
 würdelos{adj}{adv}/重みのない[おもみのない]/
 Würdelosigkeit{f}/不見識[ふけんしき]/
 Würdenträger{m}/高官[こうかん]/
-würdevoll{adv}/堂々[どうどう]/凛[りん]/どっしり[どっしり]/
-würdig{adj}{adv}/凛[りん]/相応しい[ふさわしい]/
-Würdigung{f}/評価[ひょうか]/鑑賞[かんしょう]/
-Würfel{m}/サイコロ[さいころ]/あられ[あられ]/
+würdevoll{adv}/品位のある[ひんいのある]/
+würdig{adj}{adv}/(angemessen) 相応しい[ふさわしい]/
+Würdigung{f}/評価[ひょうか]/
+Würfel{m}/{Geom.} 立方体[りっぽうたい]/
 Würfelbecher{m}/さい筒[さいづつ]/
 würfeln{vi}/さいの目に切る[さいのめにきる]/
 Würfelspiel{n}/ダイス[だいす]/
 Würfelzucker{m}/角砂糖[かくざとう]/
 würgen{vi}/げえという[げえという]/
 Würger{m}/モズ[もず]/
-Würze{f}/味[あじ]/香料[こうりょう]/塩梅[あんばい]/辛味[からみ]/薬味[やくみ]/香辛料[こうしんりょう]/
+Würze{f}/味[あじ]/
 würzig{adj}{adv}/香ばしい[こうばしい]/
 Würzigkeit{f}/芳烈[ほうれつ]/
 wüst{adv}{adj}/殺人的[さつじんてき]/
-Wüste{f}/砂漠[さばく]/黄砂[こうさ]/
+Wüste{f}/砂漠[さばく]/
 Wüstenbildung{f}/砂漠化[さばくか]/
 Wüstenei{f}/荒原[こうげん]/
 Wüstling{m}/極道者[ごくどうもの]/
-wütend{adj}{adv}/きつい[きつい]/猛烈[もうれつ]/
+wütend{adj}{adv}/怒った[おこった]/
 wütend werden{vi}/頭にくる[あたまにくる]/
 Wüterich{m}/暴君[ぼうくん]/
 X-Beine{pl}/エックス脚[えっくすきゃく]/
@@ -33730,7 +33707,7 @@ Yard{m}/ヤール[やーる]/
 Yen{m}/円[えん]/
 Yen-Zeichen{n}/円記号[えんきごう]/
 Yeti{m}/雪男[ゆきおとこ]/
-Yoga{m}{n}/ヨガ[よが]/ヨーガ[よーが]/
+Yoga{m}{n}/ヨガ[よが]/
 Yucca{f}/ユッカ[ゆっか]/
 Z{n}/Z[ぜっと]/
 Zacke{f}/ツァッケ[つぁっけ]/
