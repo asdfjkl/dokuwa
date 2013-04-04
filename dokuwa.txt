@@ -10978,7 +10978,6 @@ gereizt{adv}/苛々[いらいら]/
 Gereiztheit{f}/癇性[かんしょう]/
 Geriatrie{f}/老人病医学[ろうじんびょういがく]/
 Gericht{n}/(Essen) 料理[りょうり]/{jur.} 裁判[さいばん]/
-gerichtliche Untersuchung{f}/裁判[さいばん]/
 Gerichtsbarkeit{f}/裁判権[さいばんけん]/
 Gerichtsdiener{m}/廷吏[ていり]/
 Gerichtsdolmetscher{m}/法廷通訳[ほうていつうやく]/
@@ -26051,7 +26050,7 @@ zuspitzen{vr}/窄まる[つぼまる]/
 ängstigen{vr}/怖がる[こわがる]/
 ärgern{vr}/怒る[いかる]/
 überarbeiten{vr}/激務に倒れる[げきむにたおれる]/
-übergeben{vr}/戻す[もどす]/
+übergeben{vr}/吐く[はく]
 überlappen{vr}/被る[かぶる]/
 überschlagen{vr}/逆巻く[さかまく]/
 überschneiden{vr}/被る[かぶる]/
@@ -30364,7 +30363,7 @@ unterstützend{adv}/アジュバント[あじゅばんと]/
 Unterstützer{m}/後押し[あとおし]/
 Unterstützung{f}/応援[おうえん]/
 untersuchen{vt}/調べる[しらべる]/
-Untersuchung{f}/調査[ちょうさ]/
+Untersuchung{f}/調査[ちょうさ]/(ärztliche ~) 診察[しんさつ]/(gerichtliche ~) 裁判[さいばん]/
 Untersuchungsausschuss{m}/審議会[しんぎかい]/
 Untersuchungsbeamte{m}{f}/裁判所調査官[さいばんしょちょうさかん]/
 Untersuchungsbericht{m}/調査報告[ちょうさほうこく]/
@@ -34975,71 +34974,62 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Übertragung{f}/(Rundfunk~) 中継[ちゅうけい]/(Transfer) 委譲[いじょう]/
 Übertragungsgeschwindigkeit{f}/伝送速度[でんそうそくど]/
 Übertragungswagen{m}/中継車[ちゅうけいしゃ]/
-Übertreibung{f}/オーバー[おーばー]/過言[かごん]/艶[つや]/大げさ[おおげさ]/大袈裟[おおげさ]/誇張[こちょう]/過度[かど]/言い過ぎ[いいすぎ]/
-Übertretung{f}/違反[いはん]/侵害[しんがい]/
-Übertriebenheit{f}/バカ[ばか]/馬鹿[ばか]/物体[もったい]/過大[かだい]/過度[かど]/
-Überwachung{f}/監督[かんとく]/観察[かんさつ]/監視[かんし]/調節[ちょうせつ]/
+Übertreibung{f}/大げさ[おおげさ]/
+Übertretung{f}/(Verstoß) 違反[いはん]/
+Übertriebenheit{f}/過大[かだい]/
+Überwachung{f}/監督[かんとく]/
 Überwachungskamera{f}/防犯カメラ[ぼうはんかめら]/
-Überweisung{f}/振替[ふりかえ]/振り替え[ふりかえ]/送金[そうきん]/振り込み[ふりこみ]/振込み[ふりこみ]/振込[ふりこみ]/
+Überweisung{f}/(~ auf ein Konto) 振替[ふりかえ]/(Übergeben) 付託[ふたく]/
 Überweisungsauftrag{m}/送金小切手[そうきんこぎって]/
 Überweisungsbeleg{m}/振替伝票[ふりかえでんぴょう]/
-Überwindung{f}/クリア[くりあ]/克服[こくふく]/征服[せいふく]/クリアー[くりあー]/突破[とっぱ]/
+Überwindung{f}/克服[こくふく]/
 Überzahl{f}/多勢[たぜい]/
 Überzeichnung{f}/募集超過[ぼしゅうちょうか]/
 Überzeugtheit{f}/強気[つよき]/
-Überzeugung{f}/確信[かくしん]/見識[けんしき]/信念[しんねん]/思い込み[おもいこみ]/信条[しんじょう]/所信[しょしん]/
+Überzeugung{f}/確信[かくしん]/
 Überzeugungskraft{f}/説得力[せっとくりょく]/
 Überzeugungstäter{m}/確信犯[かくしんはん]/
 Überzieher{m}/トップコート[とっぷこーと]/
 Überziehung{f}/貸し越し[かしこし]/
 Überziehungskredit{m}/当座貸越[とうざかしこし]/
-Überzug{m}/カバー[かばー]/カヴァー[かう゛ぁー]/トッピング[とっぴんぐ]/
-Übung{f}/練習[れんしゅう]/演習[えんしゅう]/演習[えんしゅう]/稽古[けいこ]/習い事[ならいごと]/慣れ[なれ]/運動[うんどう]/訓練[くんれん]/エクササイズ[えくささいず]/
+Überzug{m}/(Schutzumschlag) カバー[かばー]/
+Übung{f}/練習[れんしゅう]/
 Übungsheft{n}/練習帳[れんしゅうちょう]/
 Übungsplatz{m}/練習場[れんしゅうじょう]/
-Üppigkeit{f}/豪華[ごうか]/贅沢[ぜいたく]/
+Üppigkeit{f}/(Prunk) 豪華[ごうか]/(Luxus) 贅沢[ぜいたく]/
 ägyptisch{adj}/エジプトの[えじぷとの]/
-ähnlich{adj}{adv}/同じ[おなじ]/近い[ちかい]/同様に[どうように]/同然[どうぜん]/同様[どうよう]/
-älter/年かさの[としかさの]/
+ähnlich{adj}{adv}/(~ sein) 似ている[にている]/
 ältlich{adv}{adj}/年寄りくさい[としよりくさい]/
-ändern{vt}/違う[ちがう]/直す[なおす]/変える[かえる]/
+ändern{vt}/変える[かえる]/
 ängstigen{vt}/脅す[おどす]/
 ängstlich{adv}/恐る恐る[おそるおそる]/
 äquatorial{adj}{adv}/赤道の[せきどうの]/
 äquivalent{adj}/等価の[とうかの]/
 ärgern{vt}/害する[がいする]/
 ärmellos{adj}/ノースリーブ[のーすりーぶ]/
-ärztliche Untersuchung{f}/診察[しんさつ]/診療[しんりょう]/検診[けんしん]/
 ästhetisch{adv}/美的[びてき]/
 äthiopisch{adj}/アビシニアの[あびしにあの]/
 ätzen{vt}/腐食する[ふしょくする]/
 ätzend{adv}{adj}/ぴりっと[ぴりっと]/
-äußerlich{adv}{adj}/薄っぺら[うすっぺら]/外的[がいてき]/表向き[おもてむき]/
-äußerst{adv}/最も[もっとも]/至極[しごく]/極[ごく]/至って[いたって]/いとも[いとも]/いと[いと]/余程[よほど]/極力[きょくりょく]/極めて[きわめて]/優れて[すぐれて]/大層[たいそう]/
-öde/寂しい[さみしい]/淋しい[さみしい]/
-öffentlich{adv}/晴れて[はれて]/公的[こうてき]/パブリック[ぱぶりっく]/表向き[おもてむき]/
-öffentliche Aufmerksamkeit{f}/衆目[しゅうもく]/
-öffentliche Einrichtung{f}/公共施設[こうきょうしせつ]/
-öffentliche Toilette{f}/公衆便所[こうしゅうべんじょ]/
-öffnen{vt}/開く[ひらく]/空く[あく]/広げる[ひろげる]/
+äußerlich{adv}{adj}/(von der Außenseite) 外側の[そとがわの]/(oberflächlich) 表面的な[ひょうめんてきな]/
+äußerst{adv}/(überaus) 非常に[ひじょうに]/(schlimmst) 最悪の[さいあくの]/
+öde/(verlassen) 寂しい[さみしい]/
+öffentlich{adv}/公的な[こうてきな]/
+öffnen{vt}/開く[ひらく]/開ける[あける]/
 ökologisch{adj}{adv}/エコロジカル[えころじかる]/
 ökonomisch{adj}/経済的[けいざいてき]/
 ölen{vt}/油を引く[あぶらをひく]/
 ölig{adj}/べとべと[べとべと]/
-örtlich{adj}{adv}/部分的[ぶぶんてき]/局地的[きょくちてき]/
+örtlich{adj}{adv}/(lokal) 局地的[きょくちてき]/
 österreichisch{adj}/オーストリアの[おーすとりあの]/
 östlich{adv}{adj}/東[ひがし]/
 übel{adj}{adv}/悪[あく]/
-übel dran sein/ひどい目にあう[ひどいめにあう]/
-übel riechend{adj}{adv}/臭気のある[しゅうきのある]/
 übelgesinnt{adj}/心がけの悪い[こころがけのわるい]/
-üben{vt}/磨く[みがく]/習う[ならう]/鍛える[きたえる]/
-über{prp; wo? +Dativ; wohin? +Akkusativ}{prp; +Akkusativ}/に[に]/就いて[ついて]/介して[かいして]/以上[いじょう]/頭上[ずじょう]/
-über den Haufen werfen{vt}/覆す[くつがえす]/
-über Gebühr/余りにも[あまりにも]/
+üben{vt}/練習する[れんしゅうする]/
+über{prp; wo? +Dativ; wohin? +Akkusativ}{prp; +Akkusativ}/(oberhalb von) の上に[のうえに]/(in bezug auf) 就いて[ついて]/(durch Vermittlung) 介して[かいして]/(... und mehr) 以上[いじょう]/(~ Gebühr;zu sehr) 余りにも[あまりにも]/
 überaltert{adj}/老廃した[ろうはいした]/
 überanstrengen{vt}/酷使する[こくしする]/
-überaus{adv}/一番[いちばん]/優れて[すぐれて]/極まりない[きわまりない]/非常に[ひじょうに]/
+überaus{adv}/非常に[ひじょうに]/
 überbetonen{vt}/偏重する[へんちょうする]/
 überbevölkert{adj}/過密な[かみつな]/
 überbewerten{vt}/過大に見積る[かだいにみつもる]/
@@ -35053,18 +35043,18 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 überdurchschnittlich{adj}/人並み優れた[ひとなみすぐれた]/
 übereignen{vt}/譲る[ゆずる]/
 übereinander{adv}/重ねて[かさねて]/
-übereinstimmen{vi}/そう[そう]/応える[こたえる]/合う[あう]/会う[あう]/逢う[あう]/揃う[そろう]/
+übereinstimmen{vi}/合っている[あっている]/(zustimmen) 賛成する[さんせいする]/
 übereinstimmend{adj}{adv}/一致して[いっちして]/
 überempfindlich{adj}/過敏な[かびんな]/
 überfahren{vt}/轢く[ひく]/
 überfliegen{vt}/読み流す[よみながす]/
 überfließen{vi}/溢れる[こぼれる]/
 überfluten{vt}/氾濫する[はんらんする]/
-überflügeln{vt}/勝る[まさる]/越す[こす]/超す[こす]/
+überflügeln{vt}/勝る[まさる]/
 überflüssig{adj}{adv}/余計[よけい]/
 überführt{adj}/既決の[きけつの]/
 überfüttern{vt}/餌をやり過ぎる[えさをやりすぎる]/
-übergeben{vt}/渡す[わたす]/譲る[ゆずる]/託す[たくす]/引き継ぐ[ひきつぐ]/
+übergeben{vt}/(überreichen) 渡す[わたす]/(anvertrauen) 委ねる[ゆだねる]/
 übergehen{vi}/溢れる[こぼれる]/
 übergeordnet{adj}/叙位の[じょいの]/
 übergeschnappt{adj}/とん狂な[とんきょうな]/
@@ -35073,7 +35063,7 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 übergreifen{vi}/被さる[かぶさる]/
 übergroß{adj}/だだっ広い[だだっぴろい]/
 überhand nehmen/流行する[りゅうこうする]/
-überholen{vt}/抜く[ぬく]/越す[こす]/超す[こす]/
+überholen{vt}/追い抜く[おいぬく]/
 überhören{vt}/聞き流す[ききながす]/
 überirdisch{adj}{adv}/超俗的[ちょうぞくてき]/
 überkandidelt{adj}/クーキー[くーきー]/
@@ -35083,8 +35073,8 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 überladen{adv}/けばい[けばい]/
 überlagern{vt}/被る[かぶる]/
 überlasten{vt}/酷使する[こくしする]/
-überlaufen{vi}/走る[はしる]/付く[つく]/
-überleben/持つ[もつ]/生き残る[いきのこる]/生き抜く[いきぬく]/
+überlaufen{vi}/(überfüllt sein) 雑踏する[ざっとうする]/(zum Feind ~) 寝返る[ねがえる]/
+überleben/生き残る[いきのこる]/
 überlegen sein{vi}/勝る[まさる]/
 überlesen{vt}/読み落とす[よみおとす]/
 überliefern{vt}/伝える[つたえる]/
@@ -35093,24 +35083,24 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 übermenschlich{adj}{adv}/超人的[ちょうじんてき]/
 übermorgen{adv}/明後日[みょうごにち]/
 übermächtig{adj}/優勢な[ゆうせいな]/
-übermäßig{adv}{adj}/極めて[きわめて]/余りに[あまりに]/余りにも[あまりにも]/
+übermäßig{adv}{adj}/(maßlos) 過度の[かどの]/
 übermütig/浮いた[ういた]/
-übernachten{vi}/泊まる[とまる]/宿る[やどる]/
+übernachten{vi}/泊まる[とまる]/
 übernational{adj}/トランスナショナル[とらんすなしょなる]/
 übernatürlich{adj}{adv}/超自然的[ちょうしぜんてき]/
-übernehmen{vt}/持つ[もつ]/当たる[あたる]/当る[あたる]/被る[かぶる]/取り入れる[とりいれる]/引き受ける[ひきうける]/継ぐ[つぐ]/担う[になう]/
+übernehmen{vt}/受け取る[うけとる]/
 überparteilich{adj}/超党派的[ちょうとうはてき]/
 überprüfen{vt}/見る[みる]/
-überragend{adj}/極[ごく]/偉い[えらい]/
+überragend{adj}/(hervorragend) 抜群の[ばつぐんの]/
 überraschen{vt}/脅かす[おどかす]/
-überraschend{adv}/とんでもない[とんでもない]/とんだ[とんだ]/唐突[とうとつ]/はっと[はっと]/ハッと[はっと]/どっと[どっと]/恐るべき[おそるべき]/予期せぬ[よきせぬ]/不意に[ふいに]/驚くべき[おどろくべき]/偉い[えらい]/案外[あんがい]/
-überreden{vt}/教える[おしえる]/説く[とく]/含める[ふくめる]/言い聞かせる[いいきかせる]/
+überraschend{adv}/驚くべき[おどろくべき]/
+überreden{vt}/説得する[せっとくする]/
 überreichlich{adj}{adv}/大層[たいそう]/
 überreif{adj}/爛熟した[らんじゅくした]/
 überschlagen{vt}/見積もる[みつもる]/
 überschnappen{vi}/狂乱する[きょうらんする]/
 überschreiben{vt}/書き換える[かきかえる]/
-überschreiten{vt}/過ごす[すごす]/余る[あまる]/越える[こえる]/越える[こえる]/渡る[わたる]/越す[こす]/超す[こす]/超える[こえる]/過ぎる[すぎる]/
+überschreiten{vt}/渡る[わたる]/
 überschwemmen{vt}/氾濫する[はんらんする]/
 überschätzen{vt}/買いかぶる[かいかぶる]/
 überschäumen{vi}/沸き立つ[わきたつ]/
@@ -35121,28 +35111,26 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 übersichtlich{adj}/瞭然[りょうぜん]/
 übersiedeln{vi}/移民する[いみんする]/
 überspannt/突拍子もない[とっぴょうしもない]/
-überspringen{vt}/飛ぶ[とぶ]/飛ばす[とばす]/
-überstehen{vt}/持つ[もつ]/耐える[たえる]/
-übersteigen{vt}/超える[こえる]/越える[こえる]/越す[こす]/超す[こす]/
+überspringen{vt}/(über etwas springen) 跳び越える[とびこえる]/飛ばす[とばす]/
+überstehen{vt}/耐える[たえる]/
+übersteigen{vt}/越える[こえる]/
 überstimmen/否決する[ひけつする]/
-überstürzt{adj}/滅多[めった]/とっとと[とっとと]/慌しい[あわただしい]/慌ただしい[あわただしい]/あたふた[あたふた]/
+überstürzt{adj}/あたふた[あたふた]/
 übersättigen{vt}/飽かす[あかす]/
 übertragbar{adv}{adj}/譲り渡し可能の[ゆずりわたしかのうの]/
-übertragbares Wertpapier/商業証券[しょうぎょうしょうけん]/
-übertragen{vt}/直す[なおす]/譲る[ゆずる]/
-übertreffen{vt}/超える[こえる]/勝る[まさる]/越す[こす]/超す[こす]/上回る[うわまわる]/抜く[ぬく]/乗り越える[のりこえる]/
-übertreiben{vt}/過ぎる[すぎる]/扱う[あつかう]/
-übertreten{vt}/触れる[ふれる]/外れる[はずれる]/犯す[おかす]/
-übertrieben{adv}/でかい[でかい]/大層[たいそう]/
+übertragen{vt}/(im Rundfunk senden) 放送する[ほうそうする]/(Krankheit) 移す[うつす]/(überlassen) 委譲する[いじょうする]/
+übertreffen{vt}/勝る[まさる]/
+übertreiben{vt}/(angeben) 自慢する[じまんする]/(zu viel tun) 遣り過ぎる[やりすぎる]/
+übertrieben{adv}/過大な[かだいな]/
 übertrumpfen{vt}/出し抜く[だしぬく]/
 überverkauft{adj}/売り過ぎの[うりすぎの]/
 übervorteilen{vt}/欺く[あざむく]/
 überwachen{vt}/見張る[みはる]/
 überweltlich{adj}/脱俗的[だつぞくてき]/
 überwiegend{adj}/圧倒的[あっとうてき]/
-überwinden{vt}/乗り切る[のりきる]/越す[こす]/超す[こす]/乗り越える[のりこえる]/
+überwinden{vt}/(siegen) 克服する[こくふくする]/
 überwintern{vi}/冬ごもりする[ふゆごもりする]/
-überwältigen{vt}{overbore; overborne}{ overborn}/飲む[のむ]/倒す[たおす]/呑む[のむ]/
+überwältigen{vt}/倒す[たおす]/
 überwältigend{adv}/圧倒的[あっとうてき]/
 überwältigt{adj}/おたおた[おたおた]/
 überzeugen{vt}/言い聞かせる[いいきかせる]/
@@ -35150,6 +35138,6 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 überzeugt{adj}/しゃっきり[しゃっきり]/
 überziehen{vt}{vi}/敷く[しく]/
 überzählig{adj}/半端な[はんぱな]/
-üblich/例の[れいの]/俗[ぞく]/従来[じゅうらい]/
+üblich/普通の[ふつうの]/
 übrig{adv}{adj}/残余の[ざんよの]/
 üppig{adv}{adj}/豊か[ゆたか]/
