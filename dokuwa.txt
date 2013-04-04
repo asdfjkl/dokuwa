@@ -34257,28 +34257,27 @@ zuckersüß{adj}/甘ったるい[あまったるい]/
 Zuckerwasser{n}/砂糖水[さとうみず]/
 Zuckerwatte{f}/綿菓子[わたがし]/
 Zuckerzange{f}/砂糖ばさみ[さとうばさみ]/
-zudecken{vt}/掛ける[かける]/包む[くるむ]/
+zudecken{vt}/(verschließen) 塞ぐ[ふさぐ]/(einwickeln) 包む[くるむ]/
 Zudringlichkeit{f}/忠義立て[ちゅうぎだて]/
-zuerst{adv}/第一[だいいち]/初めに[はじめに]/始めに[はじめに]/先ず[まず]/
-Zufall{m}/ランダム[らんだむ]/偶然[ぐうぜん]/偶然[ぐうぜん]/出来事[できごと]/
+zuerst{adv}/初めに[はじめに]/
+Zufall{m}/偶然[ぐうぜん]/
 Zufallsauswahl{f}/ランダムサンプリング[らんだむさんぷりんぐ]/
 Zufallsprinzip{n}/偶然性[ぐうぜんせい]/
 Zufallsstichprobe{f}/無作為標本[むさくいひょうほん]/
 Zufallstreffer{m}/紛れ[まぐれ]/
 Zufallszahl{f}/乱数[らんすう]/
-Zuflucht{f}/避難[ひなん]/シェルター[しぇるたー]/
+Zuflucht{f}/避難[ひなん]/
 Zufluchtsort{m}/避難所[ひなんじょ]/
 zufolge{prp; Dativ+}/依って[よって]/
-zufrieden{adv}{adj}/楽しい[たのしい]/ゆったり[ゆったり]/愉しい[たのしい]/
-Zufriedenheit{f}/満足[まんぞく]/会心[かいしん]/幸[さち]/得意[とくい]/幸福[こうふく]/満悦[まんえつ]/
-zufrieren{vi}/張る[はる]/凍る[こおる]/
-zufällig{adj}{adv}/何気ない[なにげない]/ばったり[ばったり]/偶[たまたま]/ふとした[ふとした]/適[たまさか]/ひょっこり[ひょっこり]/ふっと[ふっと]/ふらっと[ふらっと]/ふらり[ふらり]/
-zufällig geschehen{vi}/偶発する[ぐうはつする]/
+zufrieden{adv}{adj}/満足した[まんぞくした]/
+Zufriedenheit{f}/満足[まんぞく]/
+zufrieren{vi}/(Wasser) 張る[はる]/(gefrieren) 凍る[こおる]/
+zufällig{adj}{adv}/(durch Zufall) 偶然に[ぐうぜんに]/
 Zufälligkeit{f}/偶有[ぐうゆう]/
 Zufügung{f}/付加[ふか]/
-Zug{m}/風[かぜ]/汽車[きしゃ]/列車[れっしゃ]/群[むれ]/勢い[いきおい]/勢[いきおい]/一服[いっぷく]/行進[こうしん]/傾向[けいこう]/行列[ぎょうれつ]/群れ[むれ]/
-Zugabe{f}/アンコール[あんこーる]/景品[けいひん]/
-Zugang{m}/アクセス[あくせす]/出入り口[でいりぐち]/玄関[げんかん]/入口[いりぐち]/入り口[いりぐち]/
+Zug{m}/電車[でんしゃ]/
+Zugabe{f}/(Dakapo) アンコール[あんこーる]/(Dreingabe) 景品[けいひん]/
+Zugang{m}/(Betreten) 立ち入り[たちいり]/(Zugriff zu etwas) アクセス[あくせす]/(Verstehen) 理解[りかい]/
 Zugangsberechtigung{f}/アクセス権[あくせすけん]/
 Zugangsbeschränkung{f}/アクセス･コントロール[あくせすこんとろーる]/
 Zugangskontrolle{f}/アクセス･コントロール[あくせすこんとろーる]/
@@ -34288,7 +34287,7 @@ Zugbrücke{f}/跳ね橋[はねばし]/
 zugeben{vt}/口を割る[くちをわる]/
 zugegen sein{vi}/立ち会う[たちあう]/
 Zugehfrau{f}/派出婦[はしゅつふ]/
-zugehörig{adv}{adj}/…所属の[…しょぞくの]/
+zugehörig{adv}{adj}/...所属の[...しょぞくの]/
 Zugereister{m}/旅烏[たびがらす]/
 zugespitzt/先点の[せんてんの]/
 Zugeständnis{n}/譲歩[じょうほ]/
@@ -34298,7 +34297,7 @@ Zugfahrt{f}/汽車旅行[きしゃりょこう]/
 Zugführer{m}/車掌[しゃしょう]/
 zugig{adj}/風通しがいい[かぜとおしがいい]/
 Zugkraft{f}/牽引力[けんいんりょく]/
-zugleich{adv}/同時に[どうじに]/共に[ともに]/一度に[いちどに]/
+zugleich{adv}/同時に[どうじに]/
 Zugnetz{n}/引き網[ひきあみ]/
 Zugpferd{n}/輓馬[ばんば]/
 Zugposaune{f}/スライド･トロンボーン[すらいどとろんぼーん]/
@@ -34321,7 +34320,7 @@ Zuhörer{m}/聴衆[ちょうしゅう]/
 Zuhörerschaft{f}/聴衆[ちょうしゅう]/
 zujubeln{+Dativ}/万歳を唱える[ばんざいをとなえる]/
 zukleben{vt}/のり付けする[のりづけする]/
-Zukunft{f}/明日[あす]/先行き[さきゆき]/後世[こうせい]/フューチャー[ふゅーちゃー]/後々[あとあと]/将来[しょうらい]/末[すえ]/後ろ[うしろ]/先[さき]/運勢[うんせい]/行く末[ゆくすえ]/お先[おさき]/奥[おく]/前途[ぜんと]/未来[みらい]/
+Zukunft{f}/将来[しょうらい]/
 Zukunftsaussichten{pl}/目処[めど]/
 Zukunftsforscher{m}/未来学者[みらいがくしゃ]/
 Zukunftsforschung{f}/未来学[みらいがく]/
@@ -34329,28 +34328,23 @@ Zukunftsplan{m}/将来計画[しょうらいけいかく]/
 Zukunftsroman{m}/空想科学小説[くうそうかがくしょうせつ]/
 Zukunftsvision{f}/将来像[しょうらいぞう]/
 zukünftig{adv}/以後[いご]/
-Zulage{f}/手当[てあて]/手当て[てあて]/
-Zulassung{f}/免許[めんきょ]/編入[へんにゅう]/認可[にんか]/許容[きょよう]/容認[ようにん]/
+Zulage{f}/(13. bzw. 14. Gehalt) ボーナス[ぼーなす]/
+Zulassung{f}/(Lizenz) 免許[めんきょ]/
 Zulauf{m}/合流[ごうりゅう]/
 Zuleitung{f}/引込線[ひきこみせん]/
-zuletzt{adv}/結局[けっきょく]/果ては[はては]/遂に[ついに]/
+zuletzt{adv}/結局[けっきょく]/
 Zulieferer{m}/下請け[したうけ]/
 zulässig{adv}{adj}/是認すべき[ぜにんすべき]/
-zum Abschluss/仕舞いに[しまいに]/
-zum Spaß/慰みに[なぐさみに]/
-zum Stillstand bringen/待ったを掛ける[まったをかける]/
-Zum Teufel!/これはしたり[これはしたり]/
-zum Vorschein kommen{vi}/現れる[あらわれる]/
 Zumutung{f}/無心[むしん]/
 zunageln{vt}/釘付けにする[くぎづけけにする]/
-Zunahme{f}/まし[まし]/増大[ぞうだい]/増加[ぞうか]/増進[ぞうしん]/増殖[ぞうしょく]/増[ぞう]/膨張[ぼうちょう]/増し[まし]/マシ[まし]/
+Zunahme{f}/増加[ぞうか]/
 Zunder{m}/火口[ほくち]/
 Zunderbüchse{f}/火口箱[ほくちばこ]/
-zunehmen{vi}/増える[ふえる]/付く[つく]/寄る[よる]/広がる[ひろがる]/伸びる[のびる]/高まる[たかまる]/増す[ます]/加える[くわえる]/太る[ふとる]/加わる[くわわる]/
+zunehmen{vi}/(mehr werden) 増える[ふえる]/(dick werden) 太る[ふとる]/
 zunehmend{adv}/ぐんぐん[ぐんぐん]/
-Zuneigung{f}/好き[すき]/楽[らく]/愛情[あいじょう]/愛着[あいじゃく]/心意気[こころいき]/愛[あい]/好意[こうい]/親愛[しんあい]/恋[こい]/
+Zuneigung{f}/愛情[あいじょう]/
 Zunft{f}/組合[くみあい]/ギルド[ぎるど]/
-Zunge{f}/タン[たん]/ベロ[べろ]/舌[した]/
+Zunge{f}/舌[した]/
 Zungenbein{n}/舌骨[ぜっこつ]/
 Zungenbelag{m}/苔[こけ]/
 Zungenbrecher{m}/早口言葉[はやくちことば]/
@@ -34358,29 +34352,24 @@ zungenbrecherisch{adj}/舌をかみそうな[したをかみそうな]/
 zungenförmig{adj}/舌状の[ぜつじょうの]/
 Zungenkuss{m}/フレンチキス[ふれんちきす]/
 Zungenspitze{f}/舌先[したさき]/
-zunächst{adv}{prp; +Dativ}/一番[いちばん]/一応[いちおう]/初めに[はじめに]/始めに[はじめに]/一旦[いったん]/先ず[まず]/
+zunächst{adv}{prp; +Dativ}/(momentan) 当面の[とうめんの]/(zuerst) 初めに[はじめに]/
 zunähen{vt}/綴じる[とじる]/
 zuordnen{vt}/所属させる[しょぞくさせる]/
 Zuordnung{f}/共役[きょうやく]/
 zupfen{vt}/もぐ[もぐ]/
-zur Aufbewahrung geben/預ける[あずける]/
-zur Neige gehen/傾く[かたぶく]/
-zur Rechten/右手[みぎて]/
-zur Seite rutschen/横滑りする[よこすべりする]/
-zur Sprache kommen/問題となる[もんだいとなる]/
 zurechnen{vt}/帰する[きする]/
 Zurechnung{f}/帰責[きせき]/
 Zurechnungsfähigkeit{f}/意思能力[いしのうりょく]/
 zurechtkommen{vi}/進む[すすむ]/
 zurechtschneiden{vt}/断ち切る[たちきる]/
-Zureden{n}/勧め[すすめ]/薦め[すすめ]/勧誘[かんゆう]/
-zureden/促す[うながす]/説く[とく]/勧める[すすめる]/
+Zureden{n}/(Überredung) 説得[せっとく]/(Anraten) 勧め[すすめ]/
+zureden/(anraten) 勧める[すすめる]/
 Zurschaustellung{f}/飾り気[かざりけ]/
 Zuruf{m}/掛け声[かけごえ]/
 zurück sein{vi}/遅れる[おくれる]/
 zurückbekommen{vt}/取り戻す[とりもどす]/
 zurückberufen{vt}/召還する[しょうかんする]/
-zurückbleiben{vi}/残る[のこる]/遅れる[おくれる]/
+zurückbleiben{vi}/(übrig bleiben) 残る[のこる]/(sich verspäten) 遅れる[おくれる]/
 zurückblenden{vi}/カットバックする[かっとばっくする]/
 zurückblickend{adv}/回顧的[かいこてき]/
 zurückdrängen{vt}/押し返す[おしかえす]/
@@ -34389,21 +34378,21 @@ zurückerobern{vt}/奪回する[だっかいする]/
 zurückerstatten{vt}/返す[かえす]/
 zurückfallen{vi}/遅れを取る[おくれをとる]/
 zurückfließen{vi}/逆流する[ぎゃくりゅうする]/
-zurückgehen{vi}/帰る[かえる]/引き返す[ひきかえす]/遡る[さかのぼる]/戻る[もどる]/
+zurückgehen{vi}/(heimkehren) 帰る[かえる]/(kehrtmachen) 引き返す[ひきかえす]/(umkehren) 戻る[もどる]/
 zurückgewinnen{vt}/奪回する[だっかいする]/
 zurückgezogen{adj}{adv}/孤独な[こどくな]/
 zurückgezogen leben{vi}/埋もれる[うもれる]/
 Zurückgezogenheit{f}/孤独[こどく]/
 zurückhalten{vt}/制する[せいする]/
 zurückhaltend{adj}{adv}/大人しい[おとなしい]/
-Zurückhaltung{f}/遠慮[えんりょ]/謙虚[けんきょ]/牽制[けんせい]/控えめ[ひかえめ]/控え目[ひかえめ]/気兼ね[きがね]/黙[だんまり]/
+Zurückhaltung{f}/遠慮[えんりょ]/
 zurückkaufen{vt}/買い戻す[かいもどす]/
-zurückkehren/帰る[かえる]/戻る[もどる]/
-zurückkommen{vi}/帰る[かえる]/引き返す[ひきかえす]/蘇る[よみがえる]/甦る[よみがえる]/返る[かえる]/戻る[もどる]/
+zurückkehren/帰る[かえる]/(umkehren) 戻る[もどる]/
+zurückkommen{vi}/帰る[かえる]/
 zurückladen{vt}/積み戻す[つみもどす]/
-zurücklassen{vt}/残す[のこす]/置く[おく]/止める[とめる]/後にする[あとにする]/
+zurücklassen{vt}/(übrig lassen) 残す[のこす]/置く[おく]/止める[とめる]/後にする[あとにする]/
 zurücklegen{vt}/戻す[もどす]/
-Zurücknahme{f}/撤回[てっかい]/引き取り[ひきとり]/取り消し[とりけし]/
+Zurücknahme{f}/(Dementi) 撤回[てっかい]/(Stornierung) 取り消し[とりけし]/
 zurücknehmen{vt}/取り返す[とりかえす]/
 zurückrechnen{vt}/逆算する[ぎゃくさんする]/
 zurückrufen{vt}/呼び起こす[よびおこす]/
@@ -34413,60 +34402,58 @@ zurückschrecken{vi}/減る[へる]/
 zurücksetzen{vt}/リセットする[りせっとする]/
 zurückspulen{vt}/巻き戻す[まきもどす]/
 zurückstehen{vi}/劣る[おとる]/
-zurückstellen{vt}/返す[かえす]/戻す[もどす]/
+zurückstellen{vt}/(aufsparen) 取って置く[とっておく]/
 Zurückstellung{f}/据え置き[すえおき]/
-zurücktreten{vi}/下がる[さがる]/辞める[やめる]/辞める[やめる]/
+zurücktreten{vi}/(abdanken) 辞職する[じしょくする]/
 zurückweichen{vt}{vi}/減る[へる]/
-zurückweisen{vt}/戻す[もどす]/弾く[はじく]/覆す[くつがえす]/
-Zurückweisung{f}/拒否[きょひ]/没[ぼつ]/却下[きゃっか]/否決[ひけつ]/
+zurückweisen{vt}/(ablehnen) 拒絶する[きょぜつする]/
+Zurückweisung{f}/(Ablehnung) 拒否[きょひ]/
 zurückwerfen{vt}/投げ返す[なげかえす]/
 zurückwinken{vi}/呼び戻す[よびもどす]/
 zurückwirken{vi}/反動する[はんどうする]/
-zurückziehen{vt}/引く[ひく]/引き上げる[ひきあげる]/
+zurückziehen{vt}/引き戻す[ひきもどす]/
 Zurückziehen{n}/退縮[たいしゅく]/
 Zusage{f}/許諾[きょだく]/
 zusagen{vt}/適する[てきする]/
-zusammen/とも[とも]/一緒に[いっしょに]/共々[ともども]/併せて[あわせて]/共[とも]/都合[つごう]/一度に[いちどに]/
-zusammen mit/と[と]/一緒に[いっしょに]/共に[ともに]/
-zusammen sein{vi}/たぐう[たぐう]/
-Zusammenarbeit{f}/協力[きょうりょく]/共同[きょうどう]/協同[きょうどう]/協調[きょうちょう]/コラボレーション[こらぼれーしょん]/協働[きょうどう]/タイアップ[たいあっぷ]/提携[ていけい]/チームワーク[ちーむわーく]/連携[れんけい]/コンビ[こんび]/合作[がっさく]/握手[あくしゅ]/
+zusammen/一緒に[いっしょに]/
+Zusammenarbeit{f}/協力[きょうりょく]/
 zusammenarbeiten{vi}/提携する[ていけいする]/
 zusammenballen{vi}/丸める[まるめる]/
 Zusammenballung{f}/千成り[せんなり]/
-zusammenbinden{vt}/結ぶ[むすぶ]/組む[くむ]/
-zusammenbrechen{vi}/倒れる[たおれる]/潰れる[つぶれる]/崩れる[くずれる]/
-zusammenbringen{vt}/集める[あつめる]/寄せる[よせる]/
-Zusammenbruch{m}/崩壊[ほうかい]/破綻[はたん]/滅亡[めつぼう]/破局[はきょく]/破滅[はめつ]/壊滅[かいめつ]/
+zusammenbinden{vt}/結ぶ[むすぶ]/
+zusammenbrechen{vi}/(umfallen) 倒れる[たおれる]/(einstürzen) 潰れる[つぶれる]/
+zusammenbringen{vt}/(versammeln) 集める[あつめる]/
+Zusammenbruch{m}/崩壊[ほうかい]/
 zusammendrängen{vt}/押し込む[おしこむ]/
 zusammendrücken{vt}/押し詰める[おしつめる]/
-Zusammenfahren{n}/相乗[あいのり]/同乗[どうじょう]/
-zusammenfallen{vi}/落ちる[おちる]/崩れる[くずれる]/
+zusammenfahren{vi}/(erschrecken) 吃驚する[びっくりする]/
+zusammenfallen{vi}/崩れる[くずれる]/
 zusammenfalten{vt}/畳む[たたむ]/
 zusammenfassen{vt}/要する[ようする]/
 zusammenfassend{adj}/総合的[そうごうてき]/
-Zusammenfassung{f}/総合[そうごう]/結集[けっしゅう]/要領[ようりょう]/一覧[いちらん]/要旨[ようし]/総括[そうかつ]/統括[とうかつ]/筋書き[すじがき]/抜粋[ばっすい]/要約[ようやく]/
+Zusammenfassung{f}/要約[ようやく]/
 zusammenflicken{vt}/当てる[あてる]/
 zusammenfließen{vi}/落ち合う[おちあう]/
 Zusammenfluss{m}/合流[ごうりゅう]/
-zusammenfügen{vt}/合わせる[あわせる]/組み合わせる[くみあわせる]/織り成す[おりなす]/組む[くむ]/
-Zusammenfügung{f}/組み合わせ[くみあわせ]/組合せ[くみあわせ]/
+zusammenfügen{vt}/組み合わせる[くみあわせる]/
+Zusammenfügung{f}/組み合わせ[くみあわせ]/
 zusammengefasst{adj}/総括的[そうかつてき]/
 zusammengehen{vi}/携わる[たずさわる]/
 zusammengehören{vi}/対になる[ついになる]/
 Zusammengehörigkeitsgefühl{n}/仲間意識[なかまいしき]/
 zusammengesetzt{adv}{adj}/混成の[こんせいの]/
-Zusammenhalt{m}/団結[だんけつ]/結束[けっそく]/
+Zusammenhalt{m}/団結[だんけつ]/
 zusammenhalten{vi}/締めくくる[しめくくる]/
-Zusammenhang{m}/関係[かんけい]/因縁[いんねん]/係り[かかわり]/係[かかり]/繋がり[つながり]/関連性[かんれんせい]/関連[かんれん]/続き[つづき]/文脈[ぶんみゃく]/脈絡[みゃくらく]/関わり[かかわり]/
+Zusammenhang{m}/関係[かんけい]/
 Zusammenhanglosigkeit{f}/離ればなれ[はなればなれ]/
 zusammenheften{vt}/綴じる[とじる]/
 zusammenhängen{vi}/因む[ちなむ]/
 zusammenhängend{adv}{adj}/つじつまの合った[つじつまのあった]/
 Zusammenklang{m}/交響[こうきょう]/
 zusammenklappen{vt}/畳む[たたむ]/
-zusammenkommen{vi}/集まる[あつまる]/寄る[よる]/群がる[むらがる]/
-zusammenkratzen (Geld)/捻り出す[ひねりだす]/
-Zusammenkunft{f}/集[つどい]/寄り[より]/顔合わせ[かおあわせ]/対面[たいめん]/集い[つどい]/集合[しゅうごう]/集まり[あつまり]/会合[かいごう]/親睦会[しんぼくかい]/待ち合わせ[まちあわせ]/
+zusammenkommen{vi}/集まる[あつまる]/
+zusammenkratzen/(Geld ~) 捻り出す[ひねりだす]/
+Zusammenkunft{f}/会合[かいごう]/
 zusammenlaufen{vi}/凝り固まる[こりかたまる]/
 zusammenmischen{vt}/調合する[ちょうごうする]/
 zusammennähen{vt}/縫い合わせる[ぬいあわせる]/
@@ -34478,25 +34465,25 @@ zusammenraffen{vt}/かき集める[かきあつめる]/
 zusammenrollen{vt}/巻く[まく]/
 zusammenrücken{vi}/詰める[つめる]/
 zusammenschlagen/打ち合わせる[うちあわせる]/
-Zusammenschluss{m}/連合[れんごう]/合併[がっぺい]/合同[ごうどう]/連立[れんりつ]/団結[だんけつ]/結合[けつごう]/
+Zusammenschluss{m}/連合[れんごう]/
 zusammenschnüren{vt}/締める[しめる]/
 zusammenschreiben{vt}/寄せる[よせる]/
 zusammenschweißen{vt}/溶接する[ようせつする]/
 Zusammensein{n}/一緒[いっしょ]/
-zusammensetzen{vt}/組む[くむ]/組み合わせる[くみあわせる]/組み立てる[くみたてる]/
-Zusammensetzung{f}/構成[こうせい]/配合[はいごう]/複合[ふくごう]/合成[ごうせい]/組織[そしき]/構造[こうぞう]/組み合わせ[くみあわせ]/組合せ[くみあわせ]/
+zusammensetzen{vt}/組む[くむ]/
+Zusammensetzung{f}/構成[こうせい]/
 zusammensinken{vi}/崩落する[ほうらくする]/
 zusammensitzen{vi}/同席する[どうせきする]/
 Zusammenspiel{n}/連係プレー[れんけいぷれー]/
 zusammenspielen{vi}/合奏する[がっそうする]/
 zusammenstehen{vi}/相和す[あいわす]/
-zusammenstellen{vt}/立てる[たてる]/編む[あむ]/揃える[そろえる]/
-Zusammenstellung{f}/配合[はいごう]/取り合わせ[とりあわせ]/
-Zusammenstoß{m}/遭遇[そうぐう]/摩擦[まさつ]/衝突[しょうとつ]/
+zusammenstellen{vt}/(anordnen) 揃える[そろえる]/
+Zusammenstellung{f}/配合[はいごう]/
+Zusammenstoß{m}/衝突[しょうとつ]/
 zusammenstoßen{vi}/出会う[であう]/
 Zusammentragen{n}/収録[しゅうろく]/
 zusammentragen{vt}/寄せ集める[よせあつめる]/
-Zusammentreffen{n}/遭遇[そうぐう]/面接[めんせつ]/
+Zusammentreffen{n}/遭遇[そうぐう]/
 zusammentrommeln{vt}/駆り催す[かりもよおす]/
 zusammenwachsen{vi}/癒着する[ゆちゃくする]/
 zusammenwerfen{vt}/打って一丸とする[うっていちがんとする]/
@@ -34504,8 +34491,8 @@ Zusammenwirken{n}/協調[きょうちょう]/
 zusammenziehen{vt}/縮める[ちぢめる]/
 Zusammenziehung{f}/収縮[しゅうしゅく]/
 zusammenzucken{vi}/竦む[すくむ]/
-zusammenzählen{vt}/加える[くわえる]/寄せる[よせる]/
-Zusatz{m}/追加[ついか]/補足[ほそく]/添加物[てんかぶつ]/添加[てんか]/増し[まし]/まし[まし]/マシ[まし]/外伝[がいでん]/足し[たし]/
+zusammenzählen{vt}/加える[くわえる]/
+Zusatz{m}/添加[てんか]/
 Zusatzartikel{m}/附則[ふそく]/
 Zusatzbestimmung{f}/付帯事項[ふたいじこう]/
 Zusatzfrage{f}/補充問題[ほじゅうもんだい]/
@@ -34514,67 +34501,67 @@ Zusatzleistung{f}/特別給付[とくべつきゅうふ]/
 Zusatzmittel{n}/添加剤[てんかざい]/
 Zusatzsteuer{f}/加算税[かさんぜい]/
 Zusatzstoff{m}/添加物[てんかぶつ]/
-Zuschauer{m}/客[きゃく]/視聴者[しちょうしゃ]/観衆[かんしゅう]/観客[かんかく]/入場者[にゅうじょうしゃ]/
+Zuschauer{m}/観客[かんかく]/
 Zuschauerraum{m}/観客席[かんきゃくせき]/
 Zuschauertribüne{f}/桟敷[さじき]/
 zuschieben{vt}/負わせる[おわせる]/
-Zuschlag{m}/まし[まし]/割増[わりまし]/増し[まし]/マシ[まし]/
+Zuschlag{m}/まし[まし]/(erhöhte Gebühr) 割増[わりまし]/(Erhalten des ~ bei einer Ausschreibung oder Auktion) 落札[らくさつ]/
 Zuschlagstoff{m}/骨材[こつざい]/
-zuschließen{vt}/掛ける[かける]/閉める[しめる]/
+zuschließen{vt}/閉める[しめる]/
 zuschnallen{vt}/尾錠で留める[びじょうでとめる]/
 zuschneiden{vt}/仕立てる[したてる]/
 Zuschneider{m}/裁断師[さいだんし]/
 Zuschnitt{m}/カッティング[かってぃんぐ]/
 zuschnüren{vt}/括る[くくる]/
-Zuschuss{m}/補助[ほじょ]/手当て[てあて]/手当[てあて]/
+Zuschuss{m}/(Hilfe) 補助[ほじょ]/(Hilfsgeld) 補助金[ほじょきん]/
 zuschütten{vt}/埋め立てる[うめたてる]/
 zusehends{adv}/見る見る[みるみる]/
 Zusicherung{f}/保証[ほしょう]/
 zuspitzen{vt}/激化する[げっかする]/
 Zuspitzung{f}/先鋭[せんえい]/
-Zustand{m}/状態[じょうたい]/様子[ようす]/塩梅[あんばい]/境地[きょうち]/具合[ぐあい]/境[きょう]/情勢[じょうせい]/コンディション[こんでぃしょん]/有様[ありよう]/域[いき]/雲行き[くもゆき]/状[じょう]/姿[すがた]/調子[ちょうし]/
+Zustand{m}/状態[じょうたい]/
 zustande kommen{vi}/成り立つ[なりたつ]/
 Zustelladresse{f}/配達先[はいたつさき]/
 Zustelldienst{m}/宅便[たくびん]/
 Zusteller{m}/配達人[はいたつにん]/
 Zustellpostamt{n}/集配郵便局[しゅうはいゆうびんきょく]/
-Zustellung{f}/配達[はいたつ]/交付[こうふ]/納入[のうにゅう]/デリバリー[でりばりー]/伝達[でんたつ]/配送[はいそう]/
+Zustellung{f}/配達[はいたつ]/
 zustimmend{adj}{adv}/肯定的[こうていてき]/
-Zustimmung{f}/同意[どうい]/承知[しょうち]/だく[だく]/賛成[さんせい]/承認[しょうにん]/認可[にんか]/納得[なっとく]/同感[どうかん]/許諾[きょだく]/許し[ゆるし]/承諾[しょうだく]/了承[りょうしょう]/賛同[さんどう]/肯定[こうてい]/一致[いっち]/コンプライアンス[こんぷらいあんす]/
+Zustimmung{f}/同意[どうい]/
 zustopfen{vt}/埋める[うずめる]/
 Zustrom{m}/流入[りゅうにゅう]/
 Zuständigkeitsbereich{m}/管轄[かんかつ]/
 zusätzlich{adj}{adv}/余計[よけい]/
-Zutat{f}/素材[そざい]/具[ぐ]/原材料[げんざいりょう]/
-Zutaten{pl}/材料[ざいりょう]/食材[しょくざい]/
-zuteilen{dealt; dealt}/与える[あたえる]/配る[くばる]/分ける[わける]/給[きゅう]/振る[ふる]/
-Zuteilung{f}/付き[つき]/割り[わり]/配布[はいふ]/区分[くぶん]/ツキ[つき]/分担[ぶんたん]/配当[はいとう]/分配[ぶんぱい]/配分[はいぶん]/
+Zutat{f}/材料[ざいりょう]/
+Zutaten{pl}/材料[ざいりょう]/
+zuteilen/(aufteilen) 分配する[ぶんぱいする]/
+Zuteilung{f}/分配[ぶんぱい]/
 zutraulich{adv}{adj}/人懐っこい[ひとなつっこい]/
-zutreffen{vi}/当てる[あてる]/当てはまる[あてはまる]/
+zutreffen{vi}/当ている[あている]/
 zutreffend{adj}{adv}/正しい[ただしい]/
-Zutritt{m}/入場[にゅうじょう]/立ち入り[たちいり]/
+Zutritt{m}/立ち入り[たちいり]/
 Zuträger{m}/金棒引き[かなぼうひき]/
-zuverlässig{adv}/大丈夫[だいじょうぶ]/頼もしい[たのもしい]/強い[つよい]/固い[かたい]/堅い[かたい]/硬い[かたい]/
-Zuverlässigkeit{f}/着実[ちゃくじつ]/堅実[けんじつ]/信頼性[しんらいせい]/
-zuvor/既に[すでに]/予め[あらかじめ]/
+zuverlässig{adv}/信頼できる[しんらいできる]/
+Zuverlässigkeit{f}/信頼性[しんらいせい]/
+zuvor/以前に[いぜんに]/
 Zuvorkommen{n}/先回り[さきまわり]/
 zuvorkommen/先手を取る[せんてをとる]/
 zuvorkommend{adv}/愛想のいい[あいそのいい]/
 Zuvorkommenheit{f}/丁寧[ていねい]/
-Zuwachs{m}/まし[まし]/繁殖[はんしょく]/増加[ぞうか]/増し[まし]/マシ[まし]/
+Zuwachs{m}/増加[ぞうか]/
 Zuwachsrate{f}/成長率[せいちょうりつ]/
-zuwider{prp; +Dativ}/嫌[いや]/いやに[いやに]/厭[いや]/イヤ[いや]/
+zuwider{prp; +Dativ}/(nachteilig) 不利な[ふりな]/(eklig) 嫌[いや]/
 Zuwiderhandlung{f}/違背[いはい]/
-Zwang{m}/無理[むり]/圧力[あつりょく]/圧迫[あっぱく]/重圧[じゅうあつ]/無理矢理[むりやり]/無理やり[むりやり]/暴力[ぼうりょく]/強行[きょうこう]/強迫[きょうはく]/強制[きょうせい]/威圧[いあつ]/
-zwanglos{adj}{adv}/ゆっくり[ゆっくり]/身軽[みがる]/
-Zwanglosigkeit{f}/手軽[てがる]/無造作[むぞうさ]/
+Zwang{m}/強制[きょうせい]/
+zwanglos{adj}{adv}/(ungezwungen) 自由な[じゆうな]/(leger) 身軽[みがる]/
+Zwanglosigkeit{f}/無造作[むぞうさ]/
 Zwangsanleihe{f}/強制国債[きょうせいこくさい]/
 Zwangsarbeit{f}/懲役[ちょうえき]/
 Zwangsarbeiter{m}/強制労働者[きょうせいろうどうしゃ]/
 Zwangsheirat{f}/強制結婚[きょうせいけっこん]/
 Zwangsjacke{f}/拘束服[こうそくふく]/
 Zwangskraft{f}/拘束力[こうそくりょく]/
-zwangsläufig{adv}/勢い[いきおい]/勢[いきおい]/
+zwangsläufig{adv}/(unvermeidlich) 必然的な[ひつぜんてきな]/
 Zwangsmaßnahme{f}/強制処分[きょうせいしょぶん]/
 Zwangsmittel{n}/強制手段[きょうせいしゅだん]/
 Zwangsneurose{f}/強迫神経症[きょうはくしんけいしょう]/
@@ -34586,7 +34573,7 @@ Zwangsvorstellung{f}/強迫観念[きょうはくかんねん]/
 zwangsweise{adv}/無理に[むりに]/
 Zwangswirtschaft{f}/統制経済[とうせいけいざい]/
 zwanzig{num}/二〇[にじゅう]/
-Zwecke{f}/針[はり]/鍼[はり]/
+Zwecke{f}/(Reiß~) 鋲[びょう]/
 Zweckentfremdung{f}/転用[てんよう]/流用[りゅうよう]/
 zwecklos{adv}/ダメ[だめ]/虚しい[むなしい]/漠然[ばくぜん]/駄目[だめ]/
 Zwecklosigkeit{f}/ダメ[だめ]/不要[ふよう]/駄目[だめ]/
