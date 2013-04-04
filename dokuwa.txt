@@ -34016,13 +34016,13 @@ zerstampfen{vt}/すり鉢でする[すりばちでする]/
 zerstoßen{vt}/搗く[つく]/
 zerstreuen{vt}/開く[ひらく]/
 zerstreut{adv}{adj}/所々[ところどころ]/
-Zerstreutheit{f}/そら[そら]/目移り[めうつり]/ぼんやり[ぼんやり]/放心[ほうしん]/大空[おおぞら]/混乱[こんらん]/
-Zerstreuung{f}/娯楽[ごらく]/退散[たいさん]/分散[ぶんさん]/牽制[けんせい]/散乱[さんらん]/気晴らし[きばらし]/
+Zerstreutheit{f}/(Gedankenlosigkeit) 迂闊[うかつ]/
+Zerstreuung{f}/(Dispersion) 分散[ぶんさん]/(Kurzweil) 気晴らし[きばらし]/
 Zerstäuber{m}/スプレー[すぷれー]/
-zerstören{vt}{fordid; fordone}/壊す[こわす]/崩す[くずす]/滅ぼす[ほろぼす]/割る[わる]/
+zerstören{vt}/壊す[こわす]/
 Zerstörer{m}/駆逐艦[くちくかん]/
 zerstörerisch{adj}/ぽりぽり[ぽりぽり]/
-Zerstörung{f}/破壊[はかい]/粉砕[ふんさい]/打破[だは]/破棄[はき]/破棄[はき]/撃破[げきは]/破滅[はめつ]/壊滅[かいめつ]/
+Zerstörung{f}/破壊[はかい]/
 Zerstörungskraft{f}/破壊力[はかいりょく]/
 Zerstückelung{f}/分裂[ぶんれつ]/
 zersägen{vt}/のこぎりで引く[のこぎりでひく]/
@@ -34034,17 +34034,17 @@ zervikal{adj}/頸部の[けいぶの]/
 Zervixkarzinom{n}/子宮けいがん[しきゅうけいがん]/
 zerzaust{adj}/くしゃくしゃ[くしゃくしゃ]/
 Zession{f}/割譲[かつじょう]/
-Zettel{m}/カード[かーど]/ビラ[びら]/札[ふだ]/レッテル[れってる]/伝票[でんぴょう]/レーベル[れーべる]/
+Zettel{m}/紙片[しへん]/
 Zettelchen{n}/切れ端[きれはし]/
 Zettelkasten{m}/カードボックス[かーどぼっくす]/
-Zeug{n}/布[ぬの]/代物[しろもの]/武器[ぶき]/
-Zeuge{m}{Zeugin sein bei; miterleben}/証人[しょうにん]/引き合い[ひきあい]/
-zeugen{vt}/生む[うむ]/産む[うむ]/
+Zeug{n}/(Kram) 代物[しろもの]/
+Zeuge{m}/証人[しょうにん]/
+zeugen{vt}/(zur Welt bringen) 生む[うむ]/
 Zeugenaussage{f}/証言[しょうげん]/
 Zeugenstand{m}/証人席[しょうにんせき]/
 Zeugenvernehmung{f}/証人尋問[しょうにんじんもん]/
 Zeugenvorladung{f}/証人喚問[しょうにんかんもん]/
-Zeugnis{n}/通信簿[つうしんぼ]/証明[しょうめい]/証書[しょうしょ]/証明書[しょうめいしょ]/認可[にんか]/通知表[つうちひょう]/証言[しょうげん]/成績[せいせき]/
+Zeugnis{n}/証明書[しょうめいしょ]/
 Zeugung{f}/生殖[せいしょく]/
 Zeugungsfähigkeit{f}/生殖力[せいしょくりょく]/
 Zeugungskraft{f}/生殖力[せいしょくりょく]/
@@ -34052,8 +34052,8 @@ Zibetkatze{f}/ジャコウネコ[じゃこうねこ]/
 zickig{adj}/乙に澄まして[おつにすまして]/
 Zickzack{m}/ジグザグ[じぐざぐ]/
 zickzackförmig{adv}/ジグザグに[じぐざぐに]/
-Ziege{f}/ヤギ[やぎ]/山羊[やぎ]/
-Ziegel{m}/瓦[かわら]/煉瓦[れんが]/
+Ziege{f}/山羊[やぎ]/
+Ziegel{m}/瓦[かわら]/
 Ziegeldach{n}/瓦屋根[かわらやね]/
 Ziegelei{f}/瓦屋[かわらや]/
 Ziegelmauer{f}/煉瓦塀[れんがべい]/
@@ -34065,8 +34065,8 @@ Ziegenleder{n}/ゴートスキン[ごーとすきん]/
 Ziegenmelker{m}/夜鷹[よたか]/
 Ziegenpeter{m}/おたふく風邪[おたふくかぜ]/
 Ziehbrunnen{m}/つるべ井戸[つるべいど]/
-ziehen{vt}/引く[ひく]/控える[ひかえる]/引っ張る[ひっぱる]/
-Ziel{n}/的[まと]/行き方[いきがた]/志[こころざし]/狙い[ねらい]/対象[たいしょう]/方向[ほうこう]/宛[あて]/ゴール[ごーる]/見込み[みこみ]/ターゲット[たーげっと]/ターゲット[たーげっと]/行方[いきがた]/旨[むね]/目当て[めあて]/標的[ひょうてき]/目的[もくてき]/果て[はて]/当て[あて]/宛て[あて]/方針[ほうしん]/抱負[ほうふ]/目処[めど]/目安[めやす]/目的地[もくてきち]/見当[けんとう]/
+ziehen{vt}/引く[ひく]/
+Ziel{n}/{Bsp:Zielgebiet 標的地域[ひょうてきちいき]} 標的[ひょうてき]/(Zweck) 目的[もくてき]/
 Zielbahnhof{m}/着駅[ちゃくえき]/
 zielbewusst{adv}/確り[しっかり]/
 Zielfernrohr{n}/スコープ[すこーぷ]/
@@ -34076,30 +34076,30 @@ Zielgruppe{f}/客層[きゃくそう]/
 Ziellinie{f}/ゴール[ごーる]/
 Ziellosigkeit{f}/そぞろ心[そぞろごころ]/
 Zielpunkt{m}/着目[ちゃくもく]/
-Zielscheibe{f}/的[まと]/ターゲット[たーげっと]/標的[ひょうてき]/
+Zielscheibe{f}/標的[ひょうてき]/
 Zielschießen{n}/標的射撃[ひょうてきしゃげき]/
-Zielsetzung{f}/方針[ほうしん]/指向[しこう]/
+Zielsetzung{f}/方針[ほうしん]/
 Zielsprache{f}/ターゲット言語[たーげっとげんご]/
 zielstrebig{adj}{adv}/頓[ひたすら]/
-Zielstrebigkeit{f}/一筋[ひとすじ]/一途[いちず]/
-ziemlich{adv}/結構[けっこう]/一段と[いちだんと]/見事[みごと]/大体[たいてい]/割りと[わりと]/割と[わりと]/大分[だいぶん]/中々[なかなか]/殆[ほとほと]/幾[ほとほと]/どうも[どうも]/大抵[たいてい]/みっちり[みっちり]/何とも[なんとも]/余程[よほど]/随分[ずいぶん]/
+Zielstrebigkeit{f}/一途[いちず]/
+ziemlich{adv}/結構[けっこう]/
 ziemlich klein{adj}/小さめ[ちいさめ]/
-Zierde{f}/花[はな]/華[はな]/
+Zierde{f}/飾り[かざり]/
 Zierfisch{m}/観賞魚[かんしょうぎょ]/
 Ziergarten{m}/庭園[ていえん]/
 zierlich{adj}/楚々[そそ]/
-Zierlichkeit{f}/微妙[びみょう]/繊細[せんさい]/
+Zierlichkeit{f}/微妙[びみょう]/
 Zierpflanze{f}/観賞植物[かんしょうしょくぶつ]/
 Ziffer{f}/数字[すうじ]/
 Zifferblatt{n}/ダイヤル[だいやる]/
-Zigarette{f}/タバコ[たばこ]/シガレット[しがれっと]/煙草[たばこ]/
+Zigarette{f}/煙草[たばこ]/シガレット[しがれっと]/
 Zigarettenanzünder{m}/ライター[らいたー]/
 Zigarettenautomat{m}/タバコ自動販売機[たばこじどうはんばいき]/
 Zigarettenetui{n}/煙草入れ[たばこいれ]/
 Zigarettenrauch{m}/タバコの煙[たばこのけむり]/
 Zigarettenspitze{f}/パイプ[ぱいぷ]/
 Zigarettenstummel{m}/吸殻[すいがら]/
-Zigarre{f}/タバコ[たばこ]/煙草[たばこ]/
+Zigarre{f}/葉巻[はまき]/
 Zigarrenabschneider{m}/シガー･カッター[しがーかったー]/
 Zigarrenkiste{f}/煙草入れ[たばこいれ]/
 Zigarrenstummel{m}/吸殻[すいがら]/
@@ -34107,11 +34107,11 @@ Zigeuner{m}/ジプシー[じぷしー]/
 Zigeunerleben{n}/流浪の生活[るろうのせいかつ]/
 Zikade{f}/蝉[せみ]/
 Zimbal{n}/チンバロン[ちんばろん]/
-Zimmer{n}/部屋[へや]/室[しつ]/ルーム[るーむ]/
+Zimmer{n}/部屋[へや]/
 Zimmerantenne{f}/室内アンテナ[しつないあんてな]/
 Zimmerdecke{f}/天井[てんじょう]/
 Zimmereinrichtung{f}/家じゅう[かじゅう]/
-Zimmermann{m}/大工[だいく]/木工[もっこう]/匠[たくみ]/
+Zimmermann{m}/大工[だいく]/
 Zimmermannsarbeit{f}/大工[だいく]/
 Zimmermannsaxt{f}/鉞[まさかり]/
 Zimmermädchen{n}/メイド[めいど]/
@@ -34123,7 +34123,6 @@ Zimmerung{f}/支保[しほ]/
 Zimmervermittlung{f}/貸部屋斡旋[かしべやあっせん]/
 Zimt{m}/シナモン[しなもん]/
 Zimtbaum{m}/肉桂[にっき]/
-Zinder{m}/灰[はい]/アッシュ[あっしゅ]/
 Zinerarie{f}/サイネリア[さいねりあ]/
 Zink{m}{n}/トタン[とたん]/
 Zinkblech{n}/亜鉛鉄板[あえんてっぱん]/
@@ -34141,13 +34140,13 @@ zinnern{adj}/錫製の[すずせいの]/
 Zinnfolie{f}/錫箔[すずはく]/
 Zinnie{f}/百日草[ひゃくにちそう]/
 Zinnober{m}/丹[たん]/
-Zins{m}/金利[きんり]/利息[りそく]/利子[りし]/利[り]/子分[こぶん]/
+Zins{m}/利子[りし]/
 Zinsen tragen/利子が付く[りしがつく]/
 Zinserhöhung{f}/利上げ[りあげ]/
 Zinseszins{m}/複利[ふくり]/
-Zinsfuß{m}/金利[きんり]/利[り]/利回り[りまわり]/
+Zinsfuß{m}/利回り[りまわり]/
 Zinspolitik{f}/金利政策[きんりせいさく]/
-Zinssatz{m}/金利[きんり]/利[り]/利回り[りまわり]/
+Zinssatz{m}/金利[きんり]/
 Zinssenkung{f}/金利軽減[きんりけいげん]/
 Zinsspanne{f}/金利鞘[きんりしょう]/
 Zinszahlung{f}/利払い[りばらい]/
@@ -34155,10 +34154,10 @@ Zinszuschuss{m}/利子補給金[りしほきゅうきん]/
 Zionismus{m}/シオニズム[しおにずむ]/
 Zionist{m}/シオニスト[しおにすと]/
 Zirbeldrüse{f}/松果体[しょうかたい]/
-Zirkel{m}/丸[まる]/回路[かいろ]/サークル[さーくる]/環[わ]/コンパス[こんぱす]/輪[わ]/
+Zirkel{m}/(Gerät zum Zeichnen eines Kreises) ディバイダー[でぃばいだー]/(Gruppe) サークル[さーくる]/(Kreis) 輪[わ]/
 Zirkular{n}/回覧板[かいらんばん]/
-Zirkulation{f}/周り[まわり]/循環[じゅんかん]/回転[かいてん]/血行[けっこう]/回り[めぐり]/廻り[めぐり]/巡り[めぐり]/
-zirkulieren{vi}/回る[めぐる]/廻る[めぐる]/通う[かよう]/巡る[めぐる]/
+Zirkulation{f}/循環[じゅんかん]/
+zirkulieren{vi}/流通する[りゅうつうする]/
 Zirkumflex{m}/ハット[はっと]/
 zirkumpolar{adj}/極地付近の[きょくちふきんの]/
 Zirkus{m}/サーカス[さーかす]/
@@ -34177,7 +34176,7 @@ Zisterzienser{m}/シトー会修道士[しとーかいしゅうどうし]/
 Zisterzienserorden{m}/シトー会[しとーかい]/
 Zitat{n}/引用文[いんようぶん]/
 Zither{f}/チター[ちたー]/
-Zitrone{f}/レモン[れもん]/檸檬[れもん]/
+Zitrone{f}/{Bot.} 檸檬[れもん]/
 Zitronengras{m}/レモン･グラス[れもんぐらす]/
 Zitronenmelisse{f}/レモン･バーム[れもんばーむ]/
 Zitronenpresse{f}/レモン絞り[れもんしぼり]/
@@ -34185,8 +34184,8 @@ Zitronensaft{m}/レモンジュース[れもんじゅーす]/
 Zitronenscheibe{f}/レモンのスライス[れもんのすらいす]/
 Zitronentee{m}/レモンティー[れもんてぃー]/
 Zitteraal{m}/電気ウナギ[でんきうなぎ]/
-zittern{vi}/揺れる[ゆれる]/震える[ふるえる]/
-Zittern{n}/揺れ[ゆれ]/戦慄[せんりつ]/ガタガタ[がたがた]/鼓動[こどう]/震え[ふるえ]/
+zittern{vi}/震える[ふるえる]/
+Zittern{n}/(Beben) 揺れ[ゆれ]/(Körper) 震え[ふるえ]/
 zitternd{adv}/ぶるぶる[ぶるぶる]/
 Zitze{f}/乳首[ちくび]/
 zivil{adj}/民間の[みんかんの]/
@@ -34201,7 +34200,7 @@ Zivilkleidung{f}/私服[しふく]/
 Zivilprozess{m}/民事訴訟[みんじそしょう]/
 Zobel{m}/テン[てん]/
 Zofe{f}/腰元[こしもと]/
-Zoll{m}{n}/税[ぜい]/カスタム[かすたむ]/インチ[いんち]/
+Zoll{m}{n}/(Grenz~) 関税[かんぜい]/{Maßeinheit} インチ[いんち]/
 Zollabfertigung{f}/通関[つうかん]/
 Zollamt{n}/税関[ぜいかん]/
 Zollerklärung{f}/通関申告書[つうかんしんこくしょ]/
@@ -34215,36 +34214,23 @@ Zollstock{m}/ヤード尺[やーどしゃく]/
 Zolltarif{m}/税率[ぜいりつ]/
 Zollunion{f}/関税同盟[かんぜいどうめい]/
 Zombie{m}/生ける屍[いけるしかばね]/
-Zone{f}/地域[ちいき]/地区[ちく]/一帯[いったい]/ゾーン[ぞーん]/区域[くいき]/地帯[ちたい]/区[く]/
+Zone{f}/地域[ちいき]/ゾーン[ぞーん]/
 Zoologe{m}/動物学者[どうぶつがくしゃ]/
 Zoologie{f}/動物学[どうぶつがく]/
 Zoomobjektiv{n}/ズーム[ずーむ]/
-Zorn{m}/怒り[いかり]/憤慨[ふんがい]/憤り[いきどおり]/
+Zorn{m}/怒り[いかり]/
 zornig{adv}/腹立たしい[はらだたしい]/
 zornig werden/怒る[いかる]/
 Zote{f}/大笑い[おおわらい]/
 zotig{adj}/汚い[きたない]/
 Zotte{f}/絨毛[じゅうもう]/
 zottig{adv}{adj}/もじゃもじゃ[もじゃもじゃ]/
-zu{prp; +Dativ}{adv}{conj}/に[に]/対する[たいする]/連れて[つれて]/対して[たいして]/
-zu Ende gehen/行く[いく]/終わる[おわる]/終る[おわる]/上がる[あがる]/切れる[きれる]/キレる[きれる]/いく[いく]/済む[すむ]/無くなる[なくなる]/止む[やむ]/暮れる[くれる]/
-zu erwarten sein/当てにできる[あてにできる]/
-zu etw. führen/繋がる[つながる]/
-zu klein/呆気ない[あっけない]/
-zu kurz kommen/損する[そんする]/
-zu Lebzeiten/存命中に[ぞんめいちゅうに]/
-zu lächeln beginnen/綻びる[ほころびる]/
-zu meinem Leidwesen/残念ながら[ざんねんながら]/
-zu spät/もたもた[もたもた]/
-zu Tränen gerührt sein/涙ぐむ[なみだぐむ]/
-zu tun haben mit{dealt; dealt}/手を染める[てをそめる]/
-zu Unrecht/いわれなく[いわれなく]/
-zu wenig Personal haben/人員が不足である[じんいんがふそくである]/
+zu{prp; +Dativ}{adv}{conj}/(Richtung) に[に]/(Richtung) へ[へ]/(Zweck) のために[のために]/(~ erwarten sein) 当てにできる[あてにできる]/(~ etwas führen) 繋がる[つながる]/
 zuallererst{adv}/真っ先に[まっさきに]/
-Zubehör{n}/アクセサリー[あくせさりー]/アダプター[あだぷたー]/アクセサリ[あくせさり]/アクセサリ[あくせさり]/部品[ぶひん]/
+Zubehör{n}/アクセサリー[あくせさりー]/
 Zubehörteil{m}/アタッチメント[あたっちめんと]/
 Zucchini{m}/ズッキーニ[ずっきーに]/
-Zucht{f}/栽培[さいばい]/培養[ばいよう]/規律[きりつ]/養殖[ようしょく]/躾[しつけ]/飼育[しいく]/
+Zucht{f}/飼育[しいく]/
 Zuchtbulle{m}/種牛[たねうし]/
 Zuchthaus{n}/刑務所[けいむしょ]/
 Zuchthausstrafe{f}/懲役[ちょうえき]/
@@ -34253,7 +34239,7 @@ Zuchtvieh{n}/種取り用の家畜[たねとりようのかちく]/
 Zuchtwahl{f}/淘汰[とうた]/
 Zucken{n}/ぴくり[ぴくり]/
 zucken{vi}/引きつる[ひきつる]/
-Zucker{m}/砂糖[さとう]/糖[とう]/シュガー[しゅがー]/
+Zucker{m}/砂糖[さとう]/
 Zuckerdose{f}/シュガー･ボール[しゅがーぼーる]/
 Zuckererbse{f}/絹莢[きぬさや]/
 zuckerfrei{adj}/無糖の[むとうの]/
