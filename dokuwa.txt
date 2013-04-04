@@ -34574,33 +34574,33 @@ zwangsweise{adv}/無理に[むりに]/
 Zwangswirtschaft{f}/統制経済[とうせいけいざい]/
 zwanzig{num}/二〇[にじゅう]/
 Zwecke{f}/(Reiß~) 鋲[びょう]/
-Zweckentfremdung{f}/転用[てんよう]/流用[りゅうよう]/
-zwecklos{adv}/ダメ[だめ]/虚しい[むなしい]/漠然[ばくぜん]/駄目[だめ]/
-Zwecklosigkeit{f}/ダメ[だめ]/不要[ふよう]/駄目[だめ]/
+Zweckentfremdung{f}/流用[りゅうよう]/
+zwecklos{adv}/無意味な[むいみな]/
+Zwecklosigkeit{f}/不要[ふよう]/
 Zweckmäßigkeit{f}/有用[ゆうよう]/
 Zweckverband{m}/一部事務組合[いちぶじむくみあい]/
 zwei/二[に]/二つ[ふたつ]/
 Zweibein{n}/二脚[にきゃく]/
 Zweibettzimmer{n}/ツイン[ついん]/
-zweideutig{adj}{adv}/くらい[くらい]/頼りない[たよりない]/漠然[ばくぜん]/紛らわしい[まぎらわしい]/あやふや[あやふや]/暗い[くらい]/
+zweideutig{adj}{adv}/(vage) 曖昧な[あいまいな]/
 zweideutig reden{vi}/濁す[にごす]/
 Zweideutigkeit{f}/曖昧[あいまい]/
 zweidimensional{adj}/二次元の[にじげんの]/
-zweifach{adv}/倍[ばい]/二重[ふたえ]/
+zweifach{adv}/二重の[にえの]/
 zweifarbig{adj}/ツートンカラーの[つーとんからーの]/
-Zweifel{m}/疑問[ぎもん]/不審[ふしん]/疑[ぎ]/懐疑[かいぎ]/疑惑[ぎわく]/疑心[ぎしん]/迷い[まよい]/疑念[ぎねん]/疑い[うたがい]/
-zweifelhaft{adv}/くらい[くらい]/怪しい[あやしい]/妖しい[あやしい]/危ない[あぶない]/あやふや[あやふや]/暗い[くらい]/
+Zweifel{m}/不審[ふしん]/
+zweifelhaft{adv}/(unsicher) 不確かな[ふたしかな]/(verdächtig) 怪しい[あやしい]/
 Zweifelhaftigkeit{f}/怪しげ[あやしげ]/
-zweifellos{adj}{adv}/確か[たしか]/大丈夫[だいじょうぶ]/既に[すでに]/正しく[まさしく]/確かに[たしかに]/違いない[ちがいない]/間違いない[まちがいない]/無論[むろん]/
+zweifellos{adj}{adv}/確かに[たしかに]/
 zweifeln{vi}/疑う[うたがう]/
 zweifelnd{adj}{adv}/怪訝[けげん]/
 zweifelsfrei{adj}/疑いもなく[うたがいもなく]/
-Zweig{m}/分野[ぶんや]/枝[えだ]/小枝[こえだ]/部門[ぶもん]/分かれ[わかれ]/
+Zweig{m}/小枝[こえだ]/
 Zweigeschlechtigkeit{f}/両性具有[りょうせいぐゆう]/
 zweigeteilt{adj}/真っ二つに[まっぷたつに]/
-Zweiggeschäft{n}/支店[してん]/出店[でみせ]/出張所[しゅっちょうじょ]/支社[ししゃ]/
-Zweigniederlassung{f}/支店[してん]/支社[ししゃ]/
-Zweigstelle{f}/支部[しぶ]/出店[でみせ]/出張所[しゅっちょうじょ]/支局[しきょく]/分室[ぶんしつ]/
+Zweiggeschäft{n}/支店[してん]/
+Zweigniederlassung{f}/支店[してん]/
+Zweigstelle{f}/支部[しぶ]/
 zweihundert{num}/二百[にひゃく]/
 zweimonatlich{adv}/隔月に[かくげつに]/
 zweimotorig{adj}/双発の[そうはつの]/
@@ -34646,15 +34646,15 @@ Zwergtaucher{m}/カイツブリ[かいつぶり]/
 Zwickel{m}/襠[まち]/
 Zwickmühle{f}/板挟み[いたばさみ]/
 Zwieback{m}/ラスク[らすく]/
-Zwiebel{f}/玉ねぎ[たまねぎ]/玉葱[たまねぎ]/オニオン[おにおん]/
+Zwiebel{f}/{Bot.} 玉葱[たまねぎ]/
 Zwiebelschale{f}/タマネギの皮[たまねぎのかわ]/
 Zwiebelsuppe{f}/オニオン･スープ[おにおんすーぷ]/
-Zwielicht{n}/黄昏[こうこん]/トワイライト[とわいらいと]/
+Zwielicht{n}/(Dämmerung) 黄昏[こうこん]/
 zwielichtig{adj}/もぐりの[もぐりの]/
-Zwiespalt{m}/分裂[ぶんれつ]/抗争[こうそう]/
+Zwiespalt{m}/分裂[ぶんれつ]/
 Zwiespältigkeit{f}/アンビバレンス[あんびばれんす]/
-Zwietracht{f}/不快[ふかい]/確執[かくしつ]/
-Zwillinge{pl}/双子[ふたご]/二子[ふたご]/
+Zwietracht{f}/不和[ふわ]/
+Zwillinge{pl}/双子[ふたご]/
 Zwillingsachse{f}/双晶軸[そうしょうじく]/
 Zwillingsbildung{f}/双晶形成[そうしょうけいせい]/
 Zwillingsebene{f}/双晶面[そうしょうめん]/
@@ -34666,7 +34666,7 @@ zwingend{adj}{adv}/余儀なく[よぎなく]/
 Zwinger{m}/ケンネル[けんねる]/
 Zwinkern{n}/瞬き[またたき]/
 Zwirn{m}/糸[いと]/
-zwischen{prp; wo? +Dativ; wohin? +Akkusativ}/間に[あいだに]/インター[いんたー]/
+zwischen{prp; wo? +Dativ; wohin? +Akkusativ}/間に[あいだに]/
 Zwischenablage{f}/クリップボード[くりっぷぼーど]/
 Zwischenabrechnung{f}/中間決算[ちゅうかんけっさん]/
 Zwischenbemerkung{f}/合いの手[あいのて]/
@@ -34687,7 +34687,7 @@ Zwischenmahlzeit{f}/間食[あいだぐい]/
 Zwischenprodukt{n}/中間体[ちゅうかんたい]/
 Zwischenprüfung{f}/中間試験[ちゅうかんしけん]/
 Zwischenrad{n}/アイドルギヤ[あいどるぎや]/
-Zwischenraum{m}/間[あいだ]/切れ目[きれめ]/隙間[すきま]/距離[きょり]/空き[あき]/間隔[かんかく]/
+Zwischenraum{m}/隙間[すきま]/
 Zwischenregierung{f}/中間政府[ちゅうかんせいふ]/
 Zwischenruf{m}/茶々[ちゃちゃ]/
 Zwischenspiel{n}/寸劇[すんげき]/
@@ -34700,7 +34700,7 @@ Zwischenwirt{m}/中間宿主[ちゅうかんしゅくしゅ]/
 Zwischenzeit{f}/中間期[ちゅうかんき]/
 zwischenzeitlich{adj}/一時しのぎの[いちじしのぎの]/
 Zwischenüberschrift{f}/小見出し[こみだし]/
-Zwist{m}/戦い[たたかい]/紛争[ふんそう]/葛藤[かっとう]/確執[かくしつ]/闘い[たたかい]/
+Zwist{m}/紛争[ふんそう]/
 zwitschern{vi}/鳴く[なく]/
 Zwitschern{n}/鳴き声[なきごえ]/
 Zwitter{m}/二形[ふたなり]/
@@ -34713,7 +34713,7 @@ zyklisch{adv}/周期的[しゅうきてき]/
 Zyklon{m}/つむじ風[つむじかぜ]/
 Zyklop{n}/キュクロープス[きゅくろーぷす]/
 Zyklotron{n}/原子破壊機[げんしはけいき]/
-Zyklus{m}/サイクル[さいくる]/周期[しゅうき]/回路[かいろ]/
+Zyklus{m}/{Physiol.}(Menstruations~) 月経周期[げっけいしゅうき]/(Periode) 周期[しゅうき]/
 Zykluszeit{f}/サイクルタイム[さいくるたいむ]/
 Zylinder{m}/ドラム[どらむ]/
 Zylinderhut{m}/シルクハット[しるくはっと]/
@@ -34731,14 +34731,13 @@ Zystoskopie{f}/膀胱鏡検査[ぼうこうきょうけんさ]/
 Zytologie{f}/細胞学[さいぼうがく]/
 Zytomegalievirus{n}/サイトメガロ･ウイルス[さいとめがろういるす]/
 Zytoplasma{n}/細胞質[さいぼうしつ]/
-zäh{adj}{adv}/しつこい[しつこい]/根強い[ねづよい]/べったり[べったり]/固い[かたい]/堅い[かたい]/硬い[かたい]/タフ[たふ]/
+zäh{adj}{adv}/(dickflüssig) ねっとりした[ねっとりした]/(hart) 堅い[かたい]/
 zähflüssig{adj}{adv}/粘っこい[ねばっこい]/
 Zähflüssigkeit{f}/粘り[ねばり]/
-Zähigkeit{f}/懸念[けねん]/スタミナ[すたみな]/根気[こんき]/強靭[きょうじん]/雑草[ざっそう]/執拗[しつよう]/粘り[ねばり]/
+Zähigkeit{f}/(Beharrlichkeit) 執拗[しつよう]/
 Zählappell{m}/点呼[てんこ]/
 zählen{vt}/数える[かぞえる]/
-Zählen{n}/計算[けいさん]/勘定[かんじょう]/カウント[かうんと]/
-Zähler{m}/カウンター[かうんたー]/カウント[かうんと]/
+Zähler{m}/(Meßgerät) メーター[めーたー]/{Math.} 分子[ぶんし]/
 Zählrohr{n}/計数管[けいすうかん]/
 Zählwerk{n}/カウンター[かうんたー]/
 zähmen{vt}/懐[かい]/
@@ -34750,9 +34749,9 @@ zärtlich{adj}{adv}/睦まじい[むつまじい]/
 Zärtlichkeit{f}/慈愛[じあい]/
 Zögern{n}/躊躇[ためらい]/
 zögern{vi}/迷う[まよう]/
-zögernd{adv}/ゆっくり[ゆっくり]/ぼちぼち[ぼちぼち]/そろそろ[そろそろ]/渋々[しぶしぶ]/
+zögernd{adv}/渋々[しぶしぶ]/
 Zölibat{m}{n}/独身[どくしん]/
-züchten{vt}/育てる[そだてる]/育む[はぐくむ]/飼う[かう]/
+züchten{vt}/(anpflanzen) 栽培する[さいばいする]/(Tiere ~) 飼育する[しいくする]/
 Züchter{m}/育種家[いくしゅか]/
 züchtig{adj}/しとやかな[しとやかな]/
 Züchtigung{f}/罰[ばち]/
@@ -34777,13 +34776,13 @@ Zündvorrichtung{f}/点火装置[てんかそうち]/
 züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Äbtissin{f}/マザー[まざー]/
 Ächtung{f}/排斥[はいせき]/
-Ächzen{n}/うーん[うーん]/ウーン[うーん]/ううん[ううん]/
+Ächzen{n}/呻く[うめく]/
 Ägypter{m}/エジプト人[えじぷとじん]/
 Ähnlichkeit{f}/類似[るいじ]/
 Ähre{f}/穂[ほ]/
-Änderung{f}/変更[へんこう]/改変[かいへん]/手直し[てなおし]/変動[へんどう]/推移[すいい]/模様替え[もようがえ]/
+Änderung{f}/変更[へんこう]/
 Änderungsantrag{m}/修正案[しゅうせいあん]/
-Ängstlichkeit{f}/不覚[ふかく]/危惧[きぐ]/卑怯[ひきょう]/臆病[おくびょう]/
+Ängstlichkeit{f}/小心[しょうしん]/
 Äon{m}/広劫[こうごう]/
 Äquator{m}/赤道[せきどう]/
 Äquatortaufe{f}/赤道祭[せきどうさい]/
@@ -34791,7 +34790,7 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Äquivalent{n}/類[るい]/
 Äquivalenz{f}/等価[とうか]/
 Äquivalenzrelation{f}/同値関係[どうちかんけい]/
-Ärger{m}/残念[ざんねん]/不快[ふかい]/憤慨[ふんがい]/憤り[いきどおり]/悔しさ[くやしさ]/怒り[いかり]/嫌がらせ[いやがらせ]/頭痛[ずつう]/無念[むねん]/鬱憤[うっぷん]/
+Ärger{m}/(Zorn) 怒り[いかり]/(Unannehmlichkeit) 不愉快[ふゆかい]/
 Ärgernis{n}/ニューサンス[にゅーさんす]/
 Ärmel{m}/袖[そで]/アーム[あーむ]/
 Ärmelkanal{m}/カレー海峡[かれーかいきょう]/
@@ -34805,15 +34804,15 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Ätzkalk{m}/生石灰[せいせっかい]/
 Ätznatron{n}/苛性ソーダ[かせいそーだ]/
 Ätzung{f}/エッチング[えっちんぐ]/
-Äußerlichkeit{f}/外観[がいかん]/浅見[せんけん]/
-Äußerung{f}/表示[ひょうじ]/表れ[あらわれ]/現れ[あらわれ]/表情[ひょうじょう]/発言[はつげん]/申し立て[もうしたて]/表明[ひょうめい]/
+Äußerlichkeit{f}/外観[がいかん]/
+Äußerung{f}/表明[ひょうめい]/
 Öde{f}/荒野[あらの]/
 Ödem{n}/浮腫[ふしゅ]/
 Ödland{n}/荒れ地[あれち]/
-Öffentlichkeit{f}/社会[しゃかい]/人前[ひとまえ]/大方[おおかた]/公衆[こうしゅう]/人目[ひとめ]/人中[ひとなか]/天下[てんか]/巷[ちまた]/公共[こうきょう]/世間[せけん]/晴[はれ]/晴れ[はれ]/
+Öffentlichkeit{f}/公衆[こうしゅう]/
 Öffentlichkeitsarbeit{f}/広報活動[こうほうかつどう]/
 Öffner{m}/オープナー[おーぷなー]/
-Öffnung{f}/穴[あな]/開口[かいこう]/隙[すき]/孔[あな]/切り口[きりくち]/開き[ひらき]/隙間[すきま]/
+Öffnung{f}/(Öffnen) 開き[ひらき]/(Lücke) 隙間[すきま]/
 Öffnungszeit{f}/営業時間[えいぎょうじかん]/
 Öhr{n}/針孔[めど]/
 Ökologe{f}/エコロジスト[えころじすと]/
@@ -34833,7 +34832,7 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Ölfilm{m}/油膜[ゆまく]/
 Ölfilter{m}/油こし[あぶらこし]/
 Ölfleck{m}/脂のしみ[あぶらのしみ]/
-Ölgemälde{n}/洋画[ようが]/油絵[あぶらえ]/
+Ölgemälde{n}/油絵[あぶらえ]/
 Ölheizung{f}/石油暖房炉[せきゆだんぼうろ]/
 Ölhändler{m}/油屋[あぶらや]/
 Ölkanal{m}/油道[ゆどう]/
@@ -34856,39 +34855,38 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Ölwechsel{m}/オイル交換[おいるこうかん]/
 Ölzeug{n}/油布服[ゆふふく]/
 Örtlichkeit{f}/場所柄[ばしょがら]/
-Öse{f}/輪[わ]/環[わ]/
+Öse{f}/(Schnalle) 止め金[とめがね]/
 Ösophagitis{f}/食道炎[しょくどうえん]/
 Österreich-Ungarn{n}/オーストリア･ハンガリー[おーすとりあはんがりー]/
 Österreicher{m}/オーストリア人[おーすとりあじん]/
-Übel{n}/癌[がん]/邪[じゃ]/弊害[へいがい]/邪悪[じゃあく]/弊[へい]/疾患[しっかん]/
+Übel{n}/害悪[がいあく]/
 Übelkeit{f}/吐き気[はきけ]/
 Übeltat{f}/悪事[あくじ]/
 Übeltäter{m}/加害者[かがいしゃ]/
 Überangebot{n}/氾濫[はんらん]/
-Überarbeitung{f}/改訂[かいてい]/過労[かろう]/バージョンアップ[ばーじょんあっぷ]/一新[いっしん]/
+Überarbeitung{f}/改訂[かいてい]/
 Überbevölkerung{f}/過密[かみつ]/
 Überbewertung{f}/偏重[へんちょう]/
-Überbleibsel{n}{pl}/残り[のこり]/名残り[なごり]/名残[なごり]/軌跡[きせき]/跡[あと]/
+Überbleibsel{n}{pl}/残り[のこり]/
 Überblendung{f}/スーパー[すーぱー]/
-Überblick{m}/展望[てんぼう]/見通し[みとおし]/俯瞰[ふかん]/高所[こうしょ]/眺望[ちょうぼう]/一望[いちぼう]/
+Überblick{m}/(Rundblick) 展望[てんぼう]/(Übersicht) 概要[がいよう]/
 Überbrückung{f}/ブリッジ[ぶりっじ]/
 Überbrückungskredit{m}/繋ぎ融資[つなぎゆうし]/
 Überbuchung{f}/オーバー･ブッキング[おーばーぶっきんぐ]/
 Überdruck{m}/超過圧力[ちょうかあつりょく]/
-Übereinkommen{n}/契約[けいやく]/条約[じょうやく]/了解[りょうかい]/一致[いっち]/折り合い[おりあい]/
-Übereinstimmung{f}/対応[たいおう]/合致[がっち]/適合[てきごう]/投合[とうごう]/調和[ちょうわ]/整合[せいごう]/同感[どうかん]/見合い[みあい]/合意[ごうい]/協和[きょうわ]/一致[いっち]/
+Übereinkommen{n}/合意[ごうい]/
+Übereinstimmung{f}/合意[ごうい]/
 Überempfindlichkeit{f}/過敏[かびん]/
 Überentwicklung{f}/現像過度[げんぞうかど]/
-Überfall{m}/襲撃[しゅうげき]/襲来[しゅうらい]/
+Überfall{m}/襲撃[しゅうげき]/
 Überfallkommando{n}/機動部隊[きどうぶたい]/
-Überfluss{m}/余裕[よゆう]/充満[じゅうまん]/富[ふ]/蛇足[だそく]/過多[かた]/豊富[ほうふ]/
+Überfluss{m}/余裕[よゆう]/
 Überflutung{f}/氾濫[はんらん]/
-Überflüssigkeit{f}/不要[ふよう]/不必要[ふひつよう]/
-Überführung{f}/ガード[がーど]/ブリッジ[ぶりっじ]/
+Überflüssigkeit{f}/不必要[ふひつよう]/
+Überführung{f}/(Straßen~) 跨線橋[こせんきょう]/
 Überfülle{f}/過多[かた]/
-Überfüllung{f}/満員[まんいん]/過密[かみつ]/
-Übergabe{f}/陥落[かんらく]/引渡し[ひきわたし]/
-Übergang{m}/移行[いこう]/転移[てんい]/
+Überfüllung{f}/満員[まんいん]/
+Übergabe{f}/引渡し[ひきわたし]/
 Übergangsbestimmung{f}/経過規定[けいかきてい]/
 Übergangskleidung{f}/合い[あい]/
 Übergangslösung{f}/暫定措置[ざんていそち]/
@@ -34899,7 +34897,7 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Übergröße{f}/大振り[おおぶり]/
 Überhandnehmen{n}/跋扈[ばっこ]/
 Überhang{m}/過剰[かじょう]/
-Überheblichkeit{f}/我慢[がまん]/意気揚々[いきようよう]/
+Überheblichkeit{f}/(Arroganz) 横柄[おうへい]/
 Überhitzung{f}/過熱[かねつ]/
 Überholen{n}/凌駕[りょうが]/
 Überholspur{f}/追い越し車線[おいこししゃせん]/
@@ -34914,58 +34912,58 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Überlastung{f}/オーバーローン[おーばーろーん]/
 Überlauf{m}/オーバーフロー[おーばーふろー]/
 Überlaufrohr{n}/溢れ管[あふれかん]/
-Überleben{n}/健在[けんざい]/生き残り[いきのこり]/生存[せいぞん]/サバイバル[さばいばる]/持ち越し[もちこし]/
+Überleben{n}/サバイバル[さばいばる]/
 Überlebende{m}{f}/残党[ざんとう]/
 Überlebensrate{f}/生存率[せいぞんりつ]/
-Überlegenheit{f}/上手[うわて]/優勢[ゆうせい]/超絶[ちょうぜつ]/優位[ゆうい]/至上[しじょう]/至高[しこう]/優秀[ゆうしゅう]/
-Überlegung{f}/考え[かんがえ]/心がけ[こころがけ]/考察[こうさつ]/一考[いっこう]/考慮[こうりょ]/思案[しあん]/
-Überlieferung{f}/伝説[でんせつ]/伝え[つたえ]/引き継ぎ[ひきつぎ]/引継ぎ[ひきつぎ]/伝承[でんしょう]/伝統[でんとう]/
+Überlegenheit{f}/優越[ゆうえつ]/
+Überlegung{f}/考え[かんがえ]/
+Überlieferung{f}/伝説[でんせつ]/
 Überlistung{f}/術策[じゅっさく]/
 Überläufer{m}/転向者[てんこうしゃ]/
-Übermaß{n}/余り[あまり]/極端[きょくたん]/余分[よぶん]/乱立[らんりつ]/過多[かた]/過度[かど]/
+Übermaß{n}/(Extrem) 極端[きょくたん]/
 Übermensch{m}/スーパーマン[すーぱーまん]/
 Übermittlung{f}/伝達[でんたつ]/
 Übermut{m}/向こう見ず[むこうみず]/
 Übermäßigkeit{f}/分外[ぶんがい]/
 Übermüdung{f}/へとへと[へとへと]/
-Übernachtung{f}/宿泊[しゅくはく]/泊まり[とまり]/泊り[とまり]/
+Übernachtung{f}/泊り[とまり]/
 Übernachtungsgast{m}/客[きゃく]/
 Übernachtungskosten{pl}/宿泊料[しゅくはくりょう]/
 Übernachtungsmöglichkeit{f}/宿泊設備[しゅくはくせつび]/
-Übernahme{f}/担当[たんとう]/引き継ぎ[ひきつぎ]/引継ぎ[ひきつぎ]/分担[ぶんたん]/後継[こうけい]/継続[けいぞく]/
+Übernahme{f}/引継ぎ[ひきつぎ]/
 Übernahmeangebot{n}/株式公開買い付け[かぶしきこうかいかいつけ]/
 Übernahmebedingung{f}/引受条件[ひきうけじょうけん]/
 Übernahmevertrag{m}/引受契約[ひきうけけいやく]/
 Überparteilichkeit{f}/超党派[ちょうとうは]/
 Überproduktion{f}/乱造[らんぞう]/
-Überprüfung{f}/チェック[ちぇっく]/検討[けんとう]/
+Überprüfung{f}/検討[けんとう]/
 Überquerung{f}/渡り[わたり]/
-Überraschung{f}/意外[いがい]/驚愕[きょうがく]/ふい[ふい]/意表[いひょう]/不意[ふい]/ビックリ[びっくり]/吃驚[びっくり]/驚き[おどろき]/
+Überraschung{f}/驚いたこと[おどろいたこと]/
 Überraschungsangriff{m}/奇襲[きしゅう]/
 Überreaktion{f}/過剰反応[かじょうはんのう]/
-Überredung{f}/説得[せっとく]/勧誘[かんゆう]/
-Überrest{m}/残り[のこり]/残り物[のこりもの]/余り[あまり]/名残り[なごり]/名残[なごり]/痕跡[こんせき]/軌跡[きせき]/
+Überredung{f}/説得[せっとく]/
+Überrest{m}/残り[のこり]/
 Überschallflugzeug{n}/スーパージェット[すーぱーじぇっと]/
 Überschallgeschwindigkeit{f}/超音速[ちょうおんそく]/
 Überschallknall{m}/ソニックブーム[そにっくぶーむ]/
 Überschiebung{f}/押し被せ構造[おしかぶせこうぞう]/
-Überschlag{m}/計算[けいさん]/蜻蛉[とんぼ]/勘定[かんじょう]/見積もり[みつもり]/
+Überschlag{m}/(ungefähre Berechnung) 概算[がいさん]/
 Überschlagsrechnung{f}/概算[がいさん]/
-Überschneidung{f}/重複[じゅうふく]/交差[こうさ]/
+Überschneidung{f}/(Kreuzung) 交差[こうさ]/
 Überschreiben{n}/上書き[うわがき]/
-Überschreitung{f}/突破[とっぱ]/超過[ちょうか]/
-Überschrift{f}/題[だい]/題目[だいもく]/見出し[みだし]/表題[ひょうだい]/
+Überschreitung{f}/突破[とっぱ]/
+Überschrift{f}/表題[ひょうだい]/
 Überschuldung{f}/債務超過[さいむちょうか]/
-Überschuss{m}/残り[のこり]/余分[よぶん]/超過[ちょうか]/過剰[かじょう]/過多[かた]/黒字[くろじ]/
+Überschuss{m}/超過[ちょうか]/
 Überschwang{m}/物体[もったい]/
-Überschwemmung{f}/水[みず]/氾濫[はんらん]/洪水[こうずい]/水害[すいがい]/水没[すいぼつ]/浸水[しんすい]/
+Überschwemmung{f}/浸水[しんすい]/
 Überschwemmungsgebiet{n}/水害地[すいがいち]/
 Überschätzung{f}/過信[かしん]/
 Überseetelegramm{n}/外電[がいでん]/
 Übersetzer{m}/訳者[やくしゃ]/
 Übersetzung{f}/翻訳[ほんやく]/
 Übersetzungsfehler{m}/誤訳[ごやく]/
-Übersicht{f}/概要[がいよう]/枠組み[わくぐみ]/
+Übersicht{f}/見通し[みとおし]/
 Übersichtigkeit{f}/遠視[えんし]/
 Übersichtsplan{m}/案内図[あんないず]/
 Übersiedlung{f}/移住[いじゅう]/
@@ -34974,7 +34972,7 @@ züngelnd{adv}/ゆらゆら[ゆらゆら]/
 Überstunde{f}/居残り[いのこり]/
 Übersättigung{f}/食傷[しょくしょう]/
 Übertrag{m}/繰越金[くりこしきん]/
-Übertragung{f}/送信[そうしん]/譲渡[じょうと]/転移[てんい]/中継[ちゅうけい]/感染[かんせん]/転送[てんそう]/接種[せっしゅ]/委託[いたく]/
+Übertragung{f}/(Rundfunk~) 中継[ちゅうけい]/(Transfer) 委譲[いじょう]/
 Übertragungsgeschwindigkeit{f}/伝送速度[でんそうそくど]/
 Übertragungswagen{m}/中継車[ちゅうけいしゃ]/
 Übertreibung{f}/オーバー[おーばー]/過言[かごん]/艶[つや]/大げさ[おおげさ]/大袈裟[おおげさ]/誇張[こちょう]/過度[かど]/言い過ぎ[いいすぎ]/
