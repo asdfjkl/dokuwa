@@ -12,7 +12,7 @@ Aar{m}/鷲[わし]/
 Aas{n}/死肉[しにく]/
 Aasfliege{f}/ニクバエ[にくばえ]/
 Aasfresser{m}/腐肉を食べる動物[ふにくをたべるどうぶつ]/
-ab{prp; +Dativ}{adv}/(zeitlich) ab heute 今日から/(räumlich) ab Tokyo 東京から/
+ab{prp; +Dativ}{adv}/(zeitlich:~ heute) 今日から[いまから]/(räumlich:~ Tokyo) 東京から[とうきょうから]/
 ab und zu/時々[ときどき]/
 Abacá{f}/アバカ[あばか]/
 Abakus{m}/算盤[そろばん]/
@@ -196,7 +196,7 @@ Abhang{m}/斜面[しゃめん]/
 abhauen{vi}/{ugs.} 姿を消す[すがたをけす]/
 abhauen{vt}/(etwas ~) 切り落とす[きりおとす]/
 Abheben{n}/離陸[りりく]/
-abheben{vt}/(Geld ~) 引き出す[ひきだす]取り付ける[とりつける]/
+abheben{vt}/(Geld ~) 引き出す[ひきだす]/
 abheben{vi}/(Flugzeug) 上昇する[じょうしょうする]/
 Abhebung{f}/{fin.} 引き出し[引き出し]/
 abholen{vt}/(jn ~) 迎えに行く[むかえにいく]/
@@ -252,7 +252,7 @@ Ablehnung{f}/断り[ことわり]/
 ableiten{vt}/推す[おす]/
 Ableitung{f}/(Differential) 微分[びぶん]/(Schlussfolgerung) 推論[すいろん]/
 ablenken{vt}/慰める[なぐさめる]/
-Ablenkung{f}/転換[てんかん]/牽制[けんせい]/
+Ablenkung{f}/(geistige ~) 憂さ晴らし[うさばらし]/
 Ablenkungsmanöver{n}/陽動作戦[ようどうさくせん]/
 ablösen{vt}/入れ替わる[いれかわる]/
 Ablösung{f}/交替[こうたい]/
@@ -283,7 +283,7 @@ Abonnementspreis{m}/購読料[こうどくりょう]/
 Abonnent{m}/購読者[こうどくしゃ]/
 Abordnung{f}/出向[しゅっこう]/
 Aborigine{m}/アボリジニ[あぼりじに]/
-Abort{m}/流産[りゅうざん]/便所[べんじょ]/
+Abort{m}/{Med.}(Fehlgeburt) 流産[りゅうざん]/
 Abplattung{f}/扁平度[へんぺいど]/
 Abrakadabra{n}/アブラカダブラ[あぶらかだぶら]/
 abrasieren{vt}/剃り落とす[そりおとす]/
@@ -320,7 +320,7 @@ absacken{vi}/陥入する[かんにゅうする]/
 Absage{f}/断り[ことわり]/
 absagen{vt}/断る[ことわる]/
 absahnen/甘い汁を吸う[あまいしるをすう]/
-Absatz{m}/(Ferse) 踵[かかと]/段落[だんらく]/
+Absatz{m}/(Ferse) 踵[かかと]/(Paragraph) 段落[だんらく]/
 Absatzfähigkeit{f}/販売能力[はんばいのうりょく]/
 Absatzförderung{f}/販売促進[はんばいそくしん]/
 Absatzgebiet{n}/販路[はんろ]/
@@ -334,7 +334,7 @@ abschaffen{vt}/無くす[なくす]/
 Abschaffung{f}/廃止[はいし]/
 abschalten{vt}/消す[けす]/
 Abschaltrelais{n}/カットオフ継電器[かっとおふけいでんき]/
-Abschaltung{f}/停止[ていし]/遮断[しゃだん]/
+Abschaltung{f}/停止[ていし]/
 abschattieren{vt}/隈取る[くまどる]/
 Abschattung{f}/明暗[めいあん]/
 Abschaum{m}/垢[あか]/
@@ -392,7 +392,7 @@ abschrubben{vt}/こそげる[こそげる]/
 Abschrägen{n}/面取り[めんとり]/
 abschrägen{vt}/面取りをする[めんとりをする]/
 Abschussrampe{f}/発射台[はっしゃだい]/
-abschweifen{vt}/(vom Thema ~)脇へそれる[わきへそれる]/
+abschweifen{vt}/(vom Thema ~) 脇へそれる[わきへそれる]/
 Abschwung{m}/下押し気配[したおしけはい]/
 abschwächen{vt}/和らげる[やわらげる]/
 Abschwächung{f}/緩和[かんわ]/
