@@ -1,0 +1,13 @@
+﻿einseitig{adj}{adv}/一方的[いっぽうてき]/(Bsp:sich einseitig ernähren) 偏食する[へんしょくする]/
+melden{vt}/知らせる[しらせる]/(Bsp: sich freiwillig melden) 挺身する[ていしんする]/
+Muster{n}/{Informatik} パターン[ぱたーん]/{Bsp:Blumenmuster 花の絵柄[はなのえがら]}(Design) 絵柄[えがら]/(Schnitt~) 型紙[かたがみ]/(Vorlage) 手本[てほん]/
+Orientierung{f}/志向[しこう]/指針[ししん]/(Ausrichtung) 方向性[ほうこうせい]/{Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]}(Richtung) 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
+scharf{adv}{adj}{Umgangssprache}/{Bsp: Eine scharfe Frau 奇麗な女性[きれいなじょせい]} 奇麗な[きれいな]/
+zufächeln{vr}/(Bsp: sich Luft ~) うちわを使う[うちわをつかう]/
+Stelle{f}/(Ort) 場所[ばしょ]/(Posten) 地位[ちい]/{Bsp:eine Arbeitsstelle suchen 勤め口ちをさがす[つとめぐちをさがす]}(Arbeits~) 勤め口[つとめぐち]/
+strahlend{adj}{adv}/(glänzend) 輝かしい[かがやかしい]/{Bsp}(strahlendes Gesicht) にこにこ顔[にこにこがお]/
+Verfolgung{f}/{Bsp:Judenverfolgung ユダヤ人迫害[ゆだやじんはくがい]} 迫害[はくがい]/{Bsp:die Verfolgung aufnehmen 追撃に移る[ついげきにうつる]}(nachjagen) 追撃[ついげき]/
+Verkehr{m}/(Transport) 交通[こうつう]/{Bsp:im Umlauf befindliche Währung 流通貨幣[りゅうつうかへい]}(Umlauf) 流通[りゅうつう]/(Bekanntschaft) 交際[こうさい]/(Geschlechts~) 性交[せいこう]/
+Wehr{n}/(Damm) 堰[せき]/{Bsp:sich zur Wehr setzen 抵抗する[ていこうする]}(Widerstand) 抵抗[ていこう]/
+Wiedersehen{n}/再会[さいかい]/{Bsp:Auf Wiedersehen! さようなら[さようなら]}/
+Ziel{n}/{Bsp:Zielgebiet 標的地域[ひょうてきちいき]} 標的[ひょうてき]/(Zweck) 目的[もくてき]/

@@ -6090,7 +6090,7 @@ Dogmatik{n}/教義学[きょうぎがく]/
 Dogmatiker{m}/教条主義者[きょうじょうしゅぎしゃ]/
 dogmatisch{adv}/ドグマチック[どぐまちっく]/
 Dogmatismus{m}/教条主義[きょうじょうしゅぎ]/
-Doktor{m}/(med.) 医者[いしゃ]/(~titel) 博士号[はかせごう]/
+Doktor{m}/(Medizin) 医者[いしゃ]/(~titel) 博士号[はかせごう]/
 Doktorand{m}/大学院生[だいがくいんせい]/
 Doktorarbeit{f}/卒業論文[そつぎょうろんぶん]/
 Doktorgrad{m}/博士号[はかせごう]/
@@ -7104,7 +7104,6 @@ Einschätzung{f}/(Bewertung) 評価[ひょうか]/
 einschüchtern{vt}/脅かす[おどかす]/
 einschüchternd/威嚇的[いかくてき]/
 Einschüchterung{f}/威嚇[いかく]/
-einseitig{adj}{adv}/一方的[いっぽうてき]/(Bsp:sich einseitig ernähren) 偏食する[へんしょくする]/
 Einseitigkeit{f}/不公平[ふこうへい]/
 Einsendeschluss{m}/締切[しめきり]/
 Einsenkung{f}/陥落[かんらく]/
@@ -18508,7 +18507,6 @@ Melanterit{m}/緑ばん[りょくばん]/
 Melasse{f}/蜜[みつ]/
 Melatonin{n}/メラトニン[めらとにん]/
 Meldebescheinigung{f}/住民票[じゅうみんひょう]/
-melden{vt}/知らせる[しらせる]/(Bsp: sich freiwillig melden) 挺身する[ていしんする]/
 Meldepflicht{f}/報告義務[ほうこくぎむ]/
 Melder{m}/報知機[ほうちき]/
 Meldung{f}/知らせ[しらせ]/
@@ -19315,7 +19313,6 @@ muskulös{adj}{adv}/隆々[りゅうりゅう]/
 Mussehe{f}/できちゃった結婚[できちゃったけっこん]/
 Musselin{n}/唐ちりめん[とうちりめん]/
 Mussheirat{f}/できちゃった結婚[できちゃったけっこん]/
-Muster{n}/{Informatik} パターン[ぱたーん]/{Bsp:Blumenmuster 花の絵柄[はなのえがら]}(Design) 絵柄[えがら]/(Schnitt~) 型紙[かたがみ]/(Vorlage) 手本[てほん]/
 Musterbeispiel{n}/亀鑑[きかん]/
 Musterbetrieb{m}/模範経営[もはんけいえい]/
 Musterbuch{n}/サンプルブック[さんぷるぶっく]/
@@ -20111,7 +20108,7 @@ Ninja{m}/忍者[にんじゃ]/
 Nippel{n}/ニップル[にっぷる]/
 Nippelspanner{m}/ニップル回し[にっぷるまわし]/
 Nirwana{n}/空際[くうさい]/
-Nische{f}/{Archit.}{Biologie}{Wirtsch.} ニッチ[にっち]/(Spalt;Lücke) 隙間[すきま]/
+Nische{f}/{Architektur}{Biologie}{Ökonomie} ニッチ[にっち]/(Spalt;Lücke) 隙間[すきま]/
 Nissenhütte{f}/蒲鉾兵舎[かまぼこへいしゃ]/
 nisten{vi}/巣食う[すくう]/
 Nistkasten{m}/巣箱[すばこ]/
@@ -20609,7 +20606,6 @@ Orient{m}/東洋[とうよう]/
 Orientale{m}/東洋人[とうようじん]/
 orientalisch{adj}/東洋の[とうようの]/
 Orientalist{m}/東洋学者[とうようがくしゃ]/
-Orientierung{f}/志向[しこう]/指針[ししん]/(Ausrichtung) 方向性[ほうこうせい]/{Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]}(Richtung) 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
 Orientierungslauf{m}/オリエンテーション[おりえんてーしょん]/
 Orientierungspunkt{m}/ランドマーク[らんどまーく]/
 Orientierungssinn{m}/方向感覚[ほうこうかんかく]/
@@ -24057,7 +24053,6 @@ Schanzkleid{n}/舷しょう[げんしょう]/
 Schar{f}/(große Anzahl) たすう[多数]/
 Scharade{f}/シャレード[しゃれーど]/
 scharf{adv}{adj}/(Geschmack) 辛い[からい]/
-scharf{adv}{adj}{Umgangssprache}/{Bsp: Eine scharfe Frau 奇麗な女性[きれいなじょせい]} 奇麗な[きれいな]/
 scharf kritisieren{vt}/扱き下ろす[こきおろす]/
 Scharfblick{m}/慧眼[けいがん]/
 scharfe Kritik{f}/酷評[こくひょう]/
@@ -24316,7 +24311,7 @@ Schilf{n}/葦[よし]/
 Schillern{n}/うん色[うんしょく]/
 schillernd{adv}/濃艶[のうえん]/
 Schilling{m}/シリング[しりんぐ]/
-Schimmel{m}/(Pferd) 白馬[はくば]/{Mikrobiol.} 黴[かび]/
+Schimmel{m}/(Pferd) 白馬[はくば]/{Mikrobiologie} 黴[かび]/
 schimmelig{adj}/カビ臭い[かびくさい]/
 Schimmer{m}/(Schein;Glanz) 輝き[かがやき]/(Licht~) 光[ひかり]/(Hoffnungs~) 希望の曙光[きぼうのしょこう]/
 schimmern{vi}/(glänzen) 輝く[かがやく]/(leuchten) 光る[ひかる]/
@@ -25943,7 +25938,6 @@ lockern{vr}/解ける[とける]/
 lohnen{vr}/(lohnend sein) かいのある[かいのある]/
 losmachen/振り切る[ふりきる]/
 losreißen{vr}/振り切る[ふりきる]/
-zufächeln{vr}/(Bsp: sich Luft ~) うちわを使う[うちわをつかう]/
 lösen{vr}/外れる[はずれる]/
 mausern{vr}/抜け替わる[ぬけかわる]/
 melden{vr}/申し出る[もうしでる]/
@@ -26585,7 +26579,7 @@ Sparkasse{f}/銀行[ぎんこう]/
 Sparkonto{n}/預金口座[よきんこうざ]/
 Sparneigung{f}/貯蓄性向[ちょちくせいこう]/
 Sparquote{f}/貯蓄率[ちょちくりつ]/
-Sparren{m}/{Archit.} 垂木[たるき]/
+Sparren{m}/{Architektur} 垂木[たるき]/
 Sparring{n}/スパーリング[すぱーりんぐ]/
 sparsam umgehen{vi}/貯蓄する[ちょちくする]/
 Sparsamkeit{f}/節約[せつやく]/
@@ -27310,7 +27304,6 @@ Steißbein{n}/尾てい骨[びていこつ]/
 Steißgeburt{f}/倒産[とうさん]/
 stellar{adj}/星の[ほしの]/
 Stelldichein{n}{altertümlich}/(Date) デート[でーと]/(Rendezvous) ランデブー[らんでぶー]/
-Stelle{f}/(Ort) 場所[ばしょ]/(Posten) 地位[ちい]/{Bsp:eine Arbeitsstelle suchen 勤め口ちをさがす[つとめぐちをさがす]}(Arbeits~) 勤め口[つとめぐち]/
 Stellen{n}/節々[ふしぶし]/
 stellen{vt}/置く[おく]/
 Stellenangebot{n}/求人広告[きゅうじんこうこく]/
@@ -27628,7 +27621,6 @@ Strahlen{n}/(Licht~) 光[ひかり]/(Funkeln) 輝き[かがやき]/
 Strahlenbehandlung{f}/放射線療法[ほうしゃせんりょうほう]/
 Strahlenbelastung{f}/被曝[ひばく]/
 Strahlenbündel{n}/ビーム[びーむ]/
-strahlend{adj}{adv}/(glänzend) 輝かしい[かがやかしい]/{Bsp}(strahlendes Gesicht) にこにこ顔[にこにこがお]/
 Strahlendosis{f}/線量[せんりょう]/
 Strahlenkrankheit{f}/原爆症[げんばくしょう]/
 Strahlenkranz{m}/後光[ごこう]/
@@ -30916,7 +30908,6 @@ verflüssigen/液化する[えきかする]/
 Verflüssigung{f}/融解[ゆうかい]/
 verfolgen{vt}{vi}/追いかける[おいかける]/
 Verfolger{m}/追っ手[おって]/
-Verfolgung{f}/{Bsp:Judenverfolgung ユダヤ人迫害[ゆだやじんはくがい]} 迫害[はくがい]/{Bsp:die Verfolgung aufnehmen 追撃に移る[ついげきにうつる]}(nachjagen) 追撃[ついげき]/
 Verfolgungsrennen{n}/団体追い抜き競技[だんたいおいぬききょうぎ]/
 Verfolgungswahn{m}/被害妄想[ひがいもうそう]/
 Verformbarkeit{f}/可塑性[かそせい]/
@@ -31065,7 +31056,6 @@ Verkaufspreis{m}/販売価格[はんばいかかく]/
 Verkaufsstand{m}/売り場[うりば]/
 Verkaufsstelle{f}/(Laden) 販売店[はんばいてん]/
 Verkaufswert{m}/流通価値[りゅうつうかち]/
-Verkehr{m}/(Transport) 交通[こうつう]/{Bsp:im Umlauf befindliche Währung 流通貨幣[りゅうつうかへい]}(Umlauf) 流通[りゅうつう]/(Bekanntschaft) 交際[こうさい]/(Geschlechts~) 性交[せいこう]/
 Verkehrsader{f}/要路[ようろ]/
 Verkehrsamt{n}/観光局[かんこうきょく]/
 Verkehrsaufkommen{n}/交通量[こうつうりょう]/
@@ -32760,7 +32750,6 @@ Wehklage{f}/愁嘆[しゅうたん]/
 Wehklagen{n}/慟哭[どうこく]/
 Wehmut{f}/哀愁[あいしゅう]/
 wehmütig{adv}/暗然[あんぜん]/
-Wehr{n}/(Damm) 堰[せき]/{Bsp:sich zur Wehr setzen 抵抗する[ていこうする]}(Widerstand) 抵抗[ていこう]/
 Wehrdienst{m}/兵役[へいえき]/
 Wehrdienstverweigerer{m}/徴兵忌避者[ちょうへいきひしゃ]/
 Wehrlosigkeit{f}/無防備[むぼうび]/
@@ -33212,7 +33201,6 @@ Wiederkunft{n}/再来[さいらい]/
 Wiederkäuen{n}/反芻[はんすう]/
 wiederkäuen{vt}/反すうする[はんすうする]/
 Wiederkäuer{m}/反芻動物[はんすうどうぶつ]/
-Wiedersehen{n}/再会[さいかい]/{Bsp:Auf Wiedersehen! さようなら[さようなら]}/
 Wiedertaufe{f}/再洗礼[さいせんれい]/
 Wiedertäufer{m}/再洗礼派[さいせんれいは]/
 Wiedervereinigung{f}/復縁[ふくえん]/
@@ -34065,7 +34053,6 @@ Ziegenmelker{m}/夜鷹[よたか]/
 Ziegenpeter{m}/おたふく風邪[おたふくかぜ]/
 Ziehbrunnen{m}/つるべ井戸[つるべいど]/
 ziehen{vt}/引く[ひく]/
-Ziel{n}/{Bsp:Zielgebiet 標的地域[ひょうてきちいき]} 標的[ひょうてき]/(Zweck) 目的[もくてき]/
 Zielbahnhof{m}/着駅[ちゃくえき]/
 zielbewusst{adv}/確り[しっかり]/
 Zielfernrohr{n}/スコープ[すこーぷ]/
