@@ -146,7 +146,7 @@ Abflussloch{n}/水抜き[みずぬき]/
 Abflussrinne{f}/ガッター[がったー]/
 Abflussrohr{m}/暗渠[あんきょ]/
 Abfolge{f}/順序[じゅんじょ]/
-abfragen{vt}/(jn etwas ~) 試問する/
+abfragen{vt}/(jn etwas ~) 試問する[しもんする]/
 abführen{vt}/引っ張る[ひっぱる]/
 Abführmittel{n}/下剤[げざい]/
 Abführung{f}/連行[れんこう]/
@@ -645,7 +645,7 @@ Adenom{n}/せんしゅ[せんしゅ]/
 Adenosintriphosphat{n}/ATP[えーてぃーぴー]/
 Ader{f}{m}/血管[けっかん]/
 Aderlass{m}/瀉血[しゃけつ]/
-Adhäsion{f}/付着[ふちゃく]/;
+Adhäsion{f}/付着[ふちゃく]/
 Adipinsäure{f}/アジピン酸[あじぴんさん]/
 Adjektiv{n}/形容詞[けいようし]/
 adjektivisch{adj}{adv}/形容詞的な[けいようしてきな]/
@@ -716,7 +716,7 @@ Agglomeration{f}/集積[しゅうせき]/
 Aggregat{n}/骨材[こつざい]/
 Aggression{f}/攻撃[こうげき]/
 aggressiv{adj}{adv}/攻撃的[こうげきてき]/
-Aggressivität{f}/(-> Agression)/
+Aggressivität{f}/(Agression) 攻撃[こうげき]//
 agieren{vi}/行動をとる[こうどうをとる]/
 Agio{m}/打ち歩[うちぶ]/
 Agitation{f}/煽動[せんどう]/
@@ -932,7 +932,7 @@ Allradlenkung{f}/四輪操舵[よんりんそうだ]/
 Alltag{m}/日常[にちじょう]/
 Alltagsleben{n}/日常生活[にちじょうせいかつ]/
 alltäglich{adj}/日常の[にちじょうの]/
-Alltäglichkeit{f}/(-> alltäglich)/
+Alltäglichkeit{f}/(alltäglich) 日常の[にちじょうの]/
 allumfassend{adj}/網羅的な[もうらてきな]/
 Allwissenheit{f}/全知[ぜんち]/
 allzu{adv}/あんまり[あんまり]/
@@ -1472,7 +1472,7 @@ anschreien{vt}/怒鳴る[どなる]/
 Anschwellen{n}/膨らみ[ふくらみ]/
 anschwellen{vi}/膨らむ[ふくらむ]/
 anschwärzen/塗る[ぬる]/
-Ansehen{n}/(Ruf) 評判[ひょうばん]/(-> ansehen)/
+Ansehen{n}/(Ruf) 評判[ひょうばん]/
 ansehen{vt}/見る[みる]/
 ansehnlich{adj}{adv}/立派な[りっぱな]/
 Ansicht{f}/(Meinung) 景観[けいかん]/(Landschaft) 景色[けしき]/
@@ -1520,7 +1520,7 @@ anstoßen{vi}/支える[つっかえる]/
 Anstreichen{n}/塗装[とそう]/
 anstrengend{adj}{adv}/険しい[けわしい]/
 Anstrengung{f}/努力[どりょく]/
-Anstrich{m}/(Äußeres) 外見[がいけん]/(Farbe) /塗装[とそう]/
+Anstrich{m}/(Äußeres) 外見[がいけん]/(Farbe) 塗装[とそう]/
 Ansturm{m}/突撃[とつげき]/
 anständig{adj}/きちんと[きちんと]/
 Anständigkeit{f}/地道[じみち]/
@@ -1873,7 +1873,7 @@ Armloch{n}/アームホール[あーむほーる]/
 Armreif{m}/ブレスレット[ぶれすれっと]/
 Armschutz{m}/アーム･ガード[あーむがーど]/
 armselig{adv}{adj}/見すぼらしい[みずぼらしい]/
-Armseligkeit{f}/(-> armselig)/
+Armseligkeit{f}/(armselig) 見すぼらしい[みずぼらしい]/
 Armut{f}/貧乏[びんぼう]/
 Arnika{n}/アルニカ[あるにか]/
 Aroma{n}/(Geschmack) 味[あじ]/(Geruch) 香り[かおり]/
@@ -2210,7 +2210,7 @@ aufpassen{vi}/気をつける[きをつける]/
 aufprallen{vi}/バウンドする[ばうんどする]/
 Aufputschmittel{n}/覚せい剤[かくせいざい]/
 Aufrechnung{f}/相殺[そうさい]/
-aufrecht{adv}/正しい[ただしい]/#
+aufrecht{adv}/正しい[ただしい]/
 aufrecht erhalten{vt}/繕う[つくろう]/
 aufrechterhalten{vt}/保つ[たもつ]/
 Aufrechterhaltung{f}/保持[ほじ]/
@@ -2239,7 +2239,7 @@ Aufsatz{m}/文章[ぶんしょう]/
 aufsaugen{vt}/吸い込む[すいこむ]/
 aufschieben{vt}/延期する[えんきする]/
 Aufschiebung{f}/衝上断層[しょうじょうだんそう]/
-Aufschlag{m}/(Zusammenstoß) 衝突[しょうとつ]/(Preis~) プレミアム/(Tennis) サーブ[さーぶ]/
+Aufschlag{m}/(Zusammenstoß) 衝突[しょうとつ]/(Preis~) プレミアム[ぷれみあむ]/(Tennis) サーブ[さーぶ]/
 aufschlagen{vt}/広げる[ひろげる]/
 Aufschlagen{n}/弾着[だんちゃく]/
 Aufschlagfehler{m}/フォルト[ふぉると]/
@@ -2279,7 +2279,6 @@ aufstapeln{vt}/重ねる[かさねる]/
 aufstauen{vt}/積み重なる[つみかさなる]/
 aufstehen{vi}/(Platz) 立ち上がる[たちあがる]/(aus dem Bett ~) 起きる[おきる]/
 aufsteigen{vt}/(Berg) 登る[のぼる]/
-Aufsteigen{n}/(-> aufsteigen)
 aufsteigend{adj}/もくもく[もくもく]/
 aufstellen{vt}/(Gegenstand) 立てる[たてる]/
 Aufstellung{f}/作成[さくせい]/
@@ -2937,7 +2936,7 @@ Bahnbrecher{m}/パイオニア[ぱいおにあ]/
 Bahngesellschaft{f}/鉄道会社[てつどうがいしゃ]/
 Bahngleis{n}/鉄道線路[てつどうせんろ]/
 Bahnhof{m}/駅[えき]/ステーション[すてーしょん]/
-Bahnhofsgebäude{n}/駅舎[えきしゃ]/#
+Bahnhofsgebäude{n}/駅舎[えきしゃ]/
 Bahnhofshalle{f}/コンコース[こんこーす]/
 Bahnkörper{m}/路盤[ろばん]/
 Bahnlinie{f}/線路[せんろ]/
@@ -3168,7 +3167,7 @@ Baukasten{m}/積み木箱[つみきばこ]/
 Baukosten{pl}/工事費[こうじひ]/
 Bauland{n}/宅地[たくち]/
 Baulücke{f}/空き地[あきち]/
-Baum{m}/木[き]/   
+Baum{m}/木[き]/
 Baumarkt{m}/ホーム･センター[ほーむせんたー]/
 Baumaschine{f}/建設機械[けんせつきかい]/
 Baumaterial{n}/建築用材[けんちくようざい]/
@@ -3430,7 +3429,7 @@ behuft{adj}/ひづめのある[ひづめのある]/
 behutsam{adv}/念入り[ねんいり]/
 Behutsamkeit{f}/入念[にゅうねん]/
 Behälter{m}/入れ物[いれもの]/
-Behändigkeit{f}/敏捷[びんしょう]/ 
+Behändigkeit{f}/敏捷[びんしょう]/
 Behörde{f}/官庁[かんちょう]/
 behördlich{adj}{adv}/国家的[こっかてき]/
 behüten{vt}/保護する[ほごする]/
@@ -3567,7 +3566,7 @@ beliebt/庶民的[しょみんてき]/
 Beliebtheit{f}/人気[にんき]/
 Belladonna{f}/ベラドンナ[べらどんな]/
 bellen{vi}/吠える[ほえる]/
-Bellen{n}/吠え声[ほえご]/ 
+Bellen{n}/吠え声[ほえご]/
 Belletrist{m}/純文学者[じゅんぶんがくしゃ]/
 Belletristik{f}/純文学[じゅんぶんがく]/
 Belo Horizonte (Stadt in Brasilien)/ベロ･オリゾンテ[べろおりぞんて]/
@@ -3628,7 +3627,7 @@ Beobachtungsposten{m}/遠見番[とおみばん]/
 Beobachtungsstation{f}/観測所[かんそくじょ]/
 bequem{adj}/(leicht) 楽々[らくらく]/(angenehm) 快適な[かいてきな]/(praktisch) 便利[べんり]/
 Bequemheit{f}/平ら[たいら]/
-Bequemlichkeit{f}/(Behaglichkeit) 快適[かいてき]/(Faulheit) たいだ 【怠惰】/
+Bequemlichkeit{f}/(Behaglichkeit) 快適[かいてき]/(Faulheit) 怠惰[たいだ]/
 beraten{vt}/見立てる[みたてる]/
 Berater{m}/相談役[そうだんやく]/
 Beratergruppe{f}/顧問団[こもんだん]/
@@ -4565,7 +4564,7 @@ Blütenstand{m}/花序[かじょ]/
 Blütentraube{f}/総状花序[そうじょうばなじょ]/
 Blütezeit{f}/(Effloreszenz) 開花期[かいかき]/(Zeitalter) 全盛期[ぜんせいき]/
 BMW{m}/ベーエムベー[べーえむべー]/
-Boa{f}/襟巻き[えりまき]/	
+Boa{f}/襟巻き[えりまき]/
 Bob{m}/ボブスレー[ぼぶすれー]/
 Bob fahren/ボブスレーに乗る[ぼぶすれーにのる]/
 Bock{m}/(Tier) 雄[お]/{Umgangssprache}(keinen Bock auf etwas haben) 気乗りがしない[きのりがしない]/
@@ -4948,7 +4947,7 @@ brutzeln{vt}/じりじり焼く[じりじりやく]/
 Bräune{f}/サンタン[さんたん]/
 bräunen{vt}/火どる[ひどる]/
 bräunlich{adj}/浅黒い[あさぐろい]/
-Bräutigam{m}/花婿[はなむこ]/ 
+Bräutigam{m}/花婿[はなむこ]/
 Brötchen{n}/ロールパン[ろーるぱん]/
 brüchig{adj}/割れ易い[われやすい]/
 Brücke{f}/橋[はし]/
@@ -5195,7 +5194,7 @@ Büropersonal{n}/事務員[じむいん]/
 Büroraum{m}/詰所[つめしょ]/
 Bürovorstand{m}/主事[しゅじ]/
 Bürovorsteher{m}/番頭[ばんとう]/
-Bürschchen{n}/(-> Bursche)/
+Bürschchen{n}/(Bursche) 若者[わかもの]/
 Bürste{f}/ブラシ[ぶらし]/
 Bürstenhaarschnitt{m}/五分刈り頭[ごぶがりあたま]/
 Bürstenschnitt{m}/角刈り[かくがり]/
@@ -5457,7 +5456,7 @@ dahinterstecken{vi}/伏在する[ふくざいする]/
 dahintreiben{vi}/漂う[ただよう]/
 Dahlie{f}/ダリア[だりあ]/
 damalig{adj}/その頃の[そのころの]/
-damals{adv}/あのとき 【あの時】/(einst) 昔[むかし]/
+damals{adv}/あの時[あのとき]/(einst) 昔[むかし]/
 Dame{f}/淑女[しゅくじょ]/
 Damenbesuch{m}/女客[おんなきゃく]/
 Damenbinde{f}/ナプキン[なぷきん]/
@@ -5870,7 +5869,7 @@ Diatomeenerde{f}/珪藻土[けいそうど]/
 Dichotomie{f}/二分法[にぶんほう]/
 dicht{adj}{adv}/密な[みつな]/
 Dichte{f}/{Physik} 密度[みつど]/
-dichten{vt}/(verschließen) 塞ぐ[ふさぐ]/(ein Gedicht/einen Roman verfassen) 創作する[そうさくする]/
+dichten{vt}/(verschließen) 塞ぐ[ふさぐ]/(ein Gedicht;einen Roman verfassen) 創作する[そうさくする]/
 Dichter{m}/作家[さっか]/
 Dichterin{f}/女流作家[じょりゅうさっか]/
 dichterisch{adj}{adv}/文学的な[ぶんがくてきな]/
@@ -6354,7 +6353,7 @@ Drosselklappe{f}/スロットル[すろっとる]/
 drosseln{vt}/切り詰める[きりつめる]/
 Drosselspule{f}/チョーク･コイル[ちょーくこいる]/
 Drosselventil{n}/絞り弁[しぼりべん]/
-Druck{m}/圧迫[あっぱく]/(Aus/Buch~) 印刷[いんさつ]/
+Druck{m}/圧迫[あっぱく]/(Aus;Buch~) 印刷[いんさつ]/
 Druckanzug{m}/与圧服[よあつふく]/
 Druckbehälter{m}/圧力容器[あつりょくようき]/
 Druckbelastung{f}/圧縮応力[あっしゅくおうりょく]/
@@ -7515,7 +7514,7 @@ Engagement{n}/雇用[こよう]/
 engagieren{vt}/(einstellen) 雇う[やとう]/
 engagieren{vi}/(sich beteiligen) 参加する[さんかする]/
 engagiert{adj}/専心して[せんしんして]/
-Enge{f}/狭させまさ/
+Enge{f}/狭さ[せまさ]/
 Engel{m}/天使[てんし]/
 engelhaft{adv}/天使のような[てんしのような]/
 enger werden{vi}/狭まる[せばまる]/
@@ -8038,7 +8037,7 @@ ermüdend{adj}{adv}/しんどい[しんどい]/
 ermüdet/げんなり[げんなり]/
 Ermüdung{f}/疲れ[つかれ]/
 Ermüdungsbruch{m}/疲労骨折[ひろうこっせつ]/
-ernennen{vt}/任命する[にんめいする]/ 
+ernennen{vt}/任命する[にんめいする]/
 Ernennung{f}/任命[にんめい]/
 Ernennungsurkunde{f}/辞令[じれい]/
 erneuerbar{adj}/更新できる[こうしんできる]/
@@ -9195,7 +9194,7 @@ Firmenname{m}/屋号[やごう]/
 Firmenrente{f}/企業年金[きぎょうねんきん]/
 Firmenschild{n}/看板[かんばん]/
 Firmware{f}/ファームウェア[ふぁーむうぇあ]/
-Firnis{n}/塗り[ぬり]/ニ
+Firnis{n}/塗り[ぬり]/
 Firstbalken{m}/棟木[むなぎ]/
 Firstziegel{m}/棟瓦[むながわら]/
 Fisch{m}/魚[さかな]/
@@ -9896,7 +9895,7 @@ Frustration{f}/欲求不満[よっきゅうふまん]/
 Fräse{f}/フライス盤[ふらいすばん]/
 Fräser{m}/フライス[ふらいす]/
 Fräswerkzeug{n}/フライス[ふらいす]/
-Fräulein{n}{altertümlich}/(Anrede) おじょうさま 【お嬢様】/(junge Frau) 若い女性[わかいじょせい]/
+Fräulein{n}{altertümlich}/(Anrede) お嬢様[おじょうさま]/(junge Frau) 若い女性[わかいじょせい]/
 fröhlich{adj}{adv}/(lustig) 楽しい[たのしい]/(glücklich) 嬉しい[うれしい]/
 Fröhlichkeit{f}/愉快[ゆかい]/
 Frömmigkeit{f}/信心[しんじん]/
@@ -10938,8 +10937,8 @@ gepflegt{adv}{adj}/整った[ととのった]/
 Gepflegtheit{f}/清楚[せいそ]/
 Gepflogenheit{f}/習慣[しゅうかん]/
 Geplapper{n}/お喋り[おしゃべり]/
-Geplauder{n}/お喋り[おしゃべり]/#
-Gepäck{n}/荷物[にもつ]/荷[に]/
+Geplauder{n}/お喋り[おしゃべり]/
+Gepäck{n}/荷物[にもつ]/
 Gepäckannahme{f}/手荷物取り扱い所[てにもつとりあつかいしょ]/
 Gepäckaufbewahrung{f}/手荷物一時預かり所[てにもついちじあずかりしょ]/
 Gepäckaufbewahrungsschein{m}/手荷物預かり証[てにもつあずかりしょう]/
@@ -11178,7 +11177,7 @@ Geschützturm{m}/砲塔[ほうとう]/
 Geselle{m}/(Handwerks~) 職人[しょくにん]/
 gesellig{adv}{adj}/賑やか[にぎやか]/
 Geselligkeit{f}/交際[こうさい]/
-Gesellschaft{f}/(Allgemeinheit) 社会[しゃかい]/(Feier) パーティー[ぱーてぃー]/ 
+Gesellschaft{f}/(Allgemeinheit) 社会[しゃかい]/(Feier) パーティー[ぱーてぃー]/
 Gesellschafter{m}/侍者[じしゃ]/
 gesellschaftlich{adv}/サロン的[さろんてき]/
 Gesellschaftsanzug{m}/正装[せいそう]/
@@ -12998,7 +12997,7 @@ heuchlerisch{adj}{adv}/卑屈な[ひくつな]/
 Heuer{f}/草刈り[くさかり]/
 Heuernte{f}/干し草作り[ほしくさづくり]/
 Heuhaufen{n}/干し草の山[ほしくさのやま]/
-heulen{vi}/({Umgangssprache} weinen) 泣く[なく]/(Wind) ひゅうひゅう鳴る[ひゅうひゅうなる]/
+heulen{vi}/{Umgangssprache}(weinen) 泣く[なく]/(Wind) ひゅうひゅう鳴る[ひゅうひゅうなる]/
 Heulen{n}/(Weinen) 号泣[ごうきゅう]/(Geräusch) ひゅうひゅう鳴る音[ひゅうひゅうなるおと]/
 Heulsuse{f}/泣き虫[なきむし]/
 Heuristik{f}/ヒューリスティックス[ひゅーりすてぃっくす]/
@@ -14624,7 +14623,7 @@ Kameramann{m}/カメラマン[かめらまん]/
 Kameraschwenk{m}/流し撮り[ながしどり]/
 Kamille{f}/カモミール[かもみーる]/
 Kamin{m}/暖炉[だんろ]/
-Kamm{m}/(Haar~) 櫛[くし]/(Berg~) 尾根[おね]/  
+Kamm{m}/(Haar~) 櫛[くし]/(Berg~) 尾根[おね]/
 Kammer{f}/商業会議所[しょうぎょうかいぎしょ]/
 Kammerdiener{m}/お付き[おつき]/
 Kammerkonzert{n}/室内楽演奏会[しつないがくえんそうかい]/
@@ -18717,7 +18716,7 @@ Mikrovillus{m}/微絨毛[びじゅうもう]/
 Mikrovolt{n}/マイクロボルト[まいくろぼると]/
 Mikrowelle{f}/電子レンジ[でんしれんじ]/
 Mikroökonomie{f}/微視的経済学[びしてきけいざいがく]/
-Milbe{f}/{Entomologie} 壁蝨[だに]/ 
+Milbe{f}/{Entomologie} 壁蝨[だに]/
 Milch{f}/牛乳[ぎゅうにゅう]/
 Milchdrüse{f}/乳腺[にゅうせん]/
 Milchflasche{f}/牛乳瓶[ぎゅうにゅうびん]/
@@ -19176,7 +19175,7 @@ Mordfall{m}/殺人事件[さつじんじけん]/
 Mordversuch{m}/殺人未遂[さつじんみすい]/
 Mordwaffe{f}/凶器[きょうき]/
 morgen{adv}/明日[あす]/
-Morgen{m}/(Vormittag) 午前[ごぜん]/朝[あさ]/  
+Morgen{m}/(Vormittag) 午前[ごぜん]/朝[あさ]/
 Morgenausgabe{f}/朝刊[ちょうかん]/
 Morgendämmerung{f}/夜明け[よあけ]/
 Morgengebet{n}/アンジェラス[あんじぇらす]/
@@ -20527,7 +20526,7 @@ Operette{f}/オペレッタ[おぺれった]/
 Opernglas{n}/オペラグラス[おぺらぐらす]/
 Opernhaus{n}/オペラハウス[おぺらはうす]/
 Opernsänger{m}/オペラ歌手[おぺらかしゅ]/
-Opfer{n}/犠牲[ぎせい]/(Geschädigter) 犠牲者[ぎせいしゃ]/(=> Opfergabe)/
+Opfer{n}/犠牲[ぎせい]/(Geschädigter) 犠牲者[ぎせいしゃ]/(Opfergabe) お供え[おそなえ]/
 Opfergabe{f}/お供え[おそなえ]/
 Opferlamm{n}/子羊[こひつじ]/
 opfern{vt}/犠牲にする[ぎせいにする]/{Rel.} 捧げる[ささげる]/
@@ -20701,7 +20700,7 @@ Packpferd{n}/駄馬[だうま]/
 Packsattel{m}/荷鞍[にぐら]/
 Packung{f}/(Ver~) 梱包[こんぽう]/
 Paddel{n}/櫂[かい]/
-Page{m}/ボーイ[ぼーい]/^
+Page{m}/ボーイ[ぼーい]/
 paginieren{vt}/ページをつける[ぺーじをつける]/
 Paginierung{f}/ノンブル[のんぶる]/
 Pagode{f}/がん[がん]/
@@ -20751,7 +20750,7 @@ Pantoffel{m}/スリッパ[すりっぱ]/
 Pantoffelblume{f}/カルセオラリア[かるせおらりあ]/
 Pantoffelheld{m}/恐妻家[きょうさいか]/
 Pantoffeltierchen{n}/草履虫[ぞうりむし]/
-Pantomime{f}{m}{f}/黙[だんまり]/
+Pantomime{f}/{Theater} パントマイム[ぱんとまいむ]/
 Panzer{m}/タンク[たんく]/戦車[せんしゃ]/
 Panzerdivision{f}/戦車師団[せんしゃしだん]/
 Panzerfaust{f}/バズーカ砲[ばずーかほう]/
@@ -21163,7 +21162,7 @@ Pfandgeber{m}/抵当権設定者[ていとうけんせっていしゃ]/
 Pfandleihe{f}/一六銀行[いちろくぎんこう]/
 Pfandleiher{m}/質屋[しちや]/
 Pfandschein{m}/質札[しちふだ]/
-Pfanne{f}{f }/(Brat~) フライパン[ふらいぱん]/
+Pfanne{f}/(Brat~) フライパン[ふらいぱん]/
 Pfannkuchen{m}/パンケーキ[ぱんけーき]/
 Pfarramt{n}/牧師館[ぼくしかん]/
 Pfarrer{m}/師[し]/
@@ -28192,7 +28191,7 @@ sündhaft{adv}/罪深い[つみぶかい]/
 Sündhaftigkeit{f}/罪作り[つみつくり]/
 sündlos{adv}/罪のない[つみのない]/
 süß{adj}{adv}/(niedlich) 可愛い[かわいい]/(Geschmack) 甘い[あまい]/
-Süße{f}{m}{f}/甘味[かんみ]/甘口[あまくち]/
+Süße{f}{m}/甘味[かんみ]/甘口[あまくち]/
 süßen{vt}/加糖する[かとうする]/
 Süßigkeit{f}/お菓子[おかし]/
 Süßigkeiten{pl}/お菓子[おかし]/
@@ -31170,7 +31169,7 @@ Verliebtheit{f}/ラブラブ[らぶらぶ]/
 verlieren{vt}/(nicht gewinnen) 負ける[まける]/(einen Gegenstand ~) 無くす[なくす]/(abhanden kommen) 失う[うしなう]/
 Verlierer{m}/敗者[はいしゃ]/
 Verlies{n}/土牢[つちろう]/
-Verlobte{f}{m}{f}/婚約者[こんやくしゃ]/
+Verlobte{f}{m}/婚約者[こんやくしゃ]/
 Verlobung{f}/婚約[こんやく]/
 Verlobungsring{m}/婚約指輪[こんやくゆびわ]/
 verlockend{adv}/艶かしい[なまめかしい]/
@@ -31737,7 +31736,7 @@ Veräußerung{f}/売却[ばいきゃく]/
 veröden{vt}/荒れる[あれる]/
 Veröffentlichung{f}/(Publikation) 出版[しゅっぱん]/
 verüben{vt}/(sich schuldig machen) 犯す[おかす]/
-Vesper{f}{f}{n}/お八つ[おやつ]/
+Vesper{f}/お八つ[おやつ]/
 Vestibül{m}/廊室[ろうしつ]/
 Veteran{m}/ベテラン[べてらん]/猛者[もさ]/
 Veterinär{m}/獣医[じゅうい]/
