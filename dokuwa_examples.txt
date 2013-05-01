@@ -1,7 +1,7 @@
 ﻿einseitig{adj}{adv}/一方的[いっぽうてき]/(Bsp:sich einseitig ernähren) 偏食する[へんしょくする]/
 melden{vt}/知らせる[しらせる]/(Bsp: sich freiwillig melden) 挺身する[ていしんする]/
 Muster{n}/{Informatik} パターン[ぱたーん]/{Bsp:Blumenmuster 花の絵柄[はなのえがら]}(Design) 絵柄[えがら]/(Schnitt~) 型紙[かたがみ]/(Vorlage) 手本[てほん]/
-Orientierung{f}/志向[しこう]/指針[ししん]/(Ausrichtung) 方向性[ほうこうせい]/{Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]}(Richtung) 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
+Orientierung{f}/(Gesinnung) 志向[しこう]/(Ausrichtung) 方向性[ほうこうせい]/{Bsp: die Orientierung verlieren 方角がわからなくなる[ほうがくがわからなくなる]}(Richtung) 方角[ほうがく])/(Informationsveranstaltung) オリエンテーション[おりえんてーしょん]/
 scharf{adv}{adj}{Umgangssprache}/{Bsp: Eine scharfe Frau 奇麗な女性[きれいなじょせい]} 奇麗な[きれいな]/
 zufächeln{vr}/(Bsp: sich Luft ~) うちわを使う[うちわをつかう]/
 Stelle{f}/(Ort) 場所[ばしょ]/(Posten) 地位[ちい]/{Bsp:eine Arbeitsstelle suchen 勤め口ちをさがす[つとめぐちをさがす]}(Arbeits~) 勤め口[つとめぐち]/
